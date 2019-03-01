@@ -1,0 +1,1091 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,OPTAX.id,OPTAX.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VALPCT,PAYANT,PAYQ1T,EMP
+0100000US,,United States,71,"Arts, entertainment, and recreation",A,All establishments,001,All firms,2002,110313,141904109,100.0,45169117,10467912,1848674
+0100000US,,United States,71,"Arts, entertainment, and recreation",A,All establishments,804,4 largest firms,2002,93,7650772,5.4,1065431,280393,45530
+0100000US,,United States,71,"Arts, entertainment, and recreation",A,All establishments,808,8 largest firms,2002,1068,10979228,7.7,1981823,487334,114026
+0100000US,,United States,71,"Arts, entertainment, and recreation",A,All establishments,820,20 largest firms,2002,1736,17529176,12.4,3234768,811697,172358
+0100000US,,United States,71,"Arts, entertainment, and recreation",A,All establishments,850,50 largest firms,2002,2028,27789688,19.6,5457211,1416176,265707
+0100000US,,United States,71,"Arts, entertainment, and recreation",N,Establishments exempt from federal income tax,001,All firms,2002,23392,27969288,100.0,9738018,2250534,485219
+0100000US,,United States,71,"Arts, entertainment, and recreation",N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,1890290,6.8,316919,106156,8619
+0100000US,,United States,71,"Arts, entertainment, and recreation",N,Establishments exempt from federal income tax,808,8 largest firms,2002,10,2461674,8.8,520615,158553,15952
+0100000US,,United States,71,"Arts, entertainment, and recreation",N,Establishments exempt from federal income tax,820,20 largest firms,2002,64,3397663,12.1,849747,241632,25616
+0100000US,,United States,71,"Arts, entertainment, and recreation",N,Establishments exempt from federal income tax,850,50 largest firms,2002,197,4875153,17.4,1320794,357231,44094
+0100000US,,United States,71,"Arts, entertainment, and recreation",T,Establishments subject to federal income tax,001,All firms,2002,86921,113934821,100.0,35431099,8217378,1363455
+0100000US,,United States,71,"Arts, entertainment, and recreation",T,Establishments subject to federal income tax,804,4 largest firms,2002,101,7325217,6.4,1204603,267147,56436
+0100000US,,United States,71,"Arts, entertainment, and recreation",T,Establishments subject to federal income tax,808,8 largest firms,2002,1068,10448347,9.2,2085993,472471,119591
+0100000US,,United States,71,"Arts, entertainment, and recreation",T,Establishments subject to federal income tax,820,20 largest firms,2002,1737,16776984,14.7,3251333,778456,171234
+0100000US,,United States,71,"Arts, entertainment, and recreation",T,Establishments subject to federal income tax,850,50 largest firms,2002,2036,26804343,23.5,5425977,1372694,262190
+0100000US,,United States,711,"Performing arts, spectator sports, and related industries",A,All establishments,001,All firms,2002,37735,58285681,100.0,21231489,4961796,422533
+0100000US,,United States,711,"Performing arts, spectator sports, and related industries",A,All establishments,804,4 largest firms,2002,66,3933097,6.7,426670,143004,10744
+0100000US,,United States,711,"Performing arts, spectator sports, and related industries",A,All establishments,808,8 largest firms,2002,92,5744917,9.9,806262,262883,18395
+0100000US,,United States,711,"Performing arts, spectator sports, and related industries",A,All establishments,820,20 largest firms,2002,203,9356089,16.1,1621817,487748,42718
+0100000US,,United States,711,"Performing arts, spectator sports, and related industries",A,All establishments,850,50 largest firms,2002,276,14730235,25.3,4484974,1058108,59009
+0100000US,,United States,711,"Performing arts, spectator sports, and related industries",N,Establishments exempt from federal income tax,001,All firms,2002,6061,8789209,100.0,2481065,641390,115947
+0100000US,,United States,711,"Performing arts, spectator sports, and related industries",N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,1751219,19.9,259286,93022,6653
+0100000US,,United States,711,"Performing arts, spectator sports, and related industries",N,Establishments exempt from federal income tax,808,8 largest firms,2002,9,2030094,23.1,390178,125060,9135
+0100000US,,United States,711,"Performing arts, spectator sports, and related industries",N,Establishments exempt from federal income tax,820,20 largest firms,2002,24,2647029,30.1,582436,172616,13419
+0100000US,,United States,711,"Performing arts, spectator sports, and related industries",N,Establishments exempt from federal income tax,850,50 largest firms,2002,58,3545219,40.3,874242,243520,21183
+0100000US,,United States,711,"Performing arts, spectator sports, and related industries",T,Establishments subject to federal income tax,001,All firms,2002,31674,49496472,100.0,18750424,4320406,306586
+0100000US,,United States,711,"Performing arts, spectator sports, and related industries",T,Establishments subject to federal income tax,804,4 largest firms,2002,78,3195176,6.5,423942,109840,10133
+0100000US,,United States,711,"Performing arts, spectator sports, and related industries",T,Establishments subject to federal income tax,808,8 largest firms,2002,97,4912377,9.9,780337,221368,15922
+0100000US,,United States,711,"Performing arts, spectator sports, and related industries",T,Establishments subject to federal income tax,820,20 largest firms,2002,224,8360121,16.9,1712681,453550,39547
+0100000US,,United States,711,"Performing arts, spectator sports, and related industries",T,Establishments subject to federal income tax,850,50 largest firms,2002,277,13477735,27.2,4507304,1044372,52891
+0100000US,,United States,7111,Performing arts companies,A,All establishments,001,All firms,2002,9303,10863631,100.0,3266513,760037,138221
+0100000US,,United States,7111,Performing arts companies,A,All establishments,804,4 largest firms,2002,20,944081,8.7,213076,46643,4011
+0100000US,,United States,7111,Performing arts companies,A,All establishments,808,8 largest firms,2002,28,1275648,11.7,321083,71053,5851
+0100000US,,United States,7111,Performing arts companies,A,All establishments,820,20 largest firms,2002,45,1929877,17.8,471121,105837,9265
+0100000US,,United States,7111,Performing arts companies,A,All establishments,850,50 largest firms,2002,84,2973445,27.4,793476,181910,17472
+0100000US,,United States,7111,Performing arts companies,N,Establishments exempt from federal income tax,001,All firms,2002,4067,4639534,100.0,1779708,434907,82628
+0100000US,,United States,7111,Performing arts companies,N,Establishments exempt from federal income tax,804,4 largest firms,2002,5,409384,8.8,213215,43405,3049
+0100000US,,United States,7111,Performing arts companies,N,Establishments exempt from federal income tax,808,8 largest firms,2002,9,641296,13.8,295106,61297,4712
+0100000US,,United States,7111,Performing arts companies,N,Establishments exempt from federal income tax,820,20 largest firms,2002,23,1116888,24.1,467507,106405,8693
+0100000US,,United States,7111,Performing arts companies,N,Establishments exempt from federal income tax,850,50 largest firms,2002,64,1740586,37.5,725334,170233,16699
+0100000US,,United States,7111,Performing arts companies,T,Establishments subject to federal income tax,001,All firms,2002,5236,6224097,100.0,1486805,325130,55593
+0100000US,,United States,7111,Performing arts companies,T,Establishments subject to federal income tax,804,4 largest firms,2002,23,866264,13.9,107868,27648,2802
+0100000US,,United States,7111,Performing arts companies,T,Establishments subject to federal income tax,808,8 largest firms,2002,32,1090335,17.5,131573,32927,3877
+0100000US,,United States,7111,Performing arts companies,T,Establishments subject to federal income tax,820,20 largest firms,2002,49,1570303,25.2,226030,52291,6568
+0100000US,,United States,7111,Performing arts companies,T,Establishments subject to federal income tax,850,50 largest firms,2002,88,2190629,35.2,366213,78995,9445
+0100000US,,United States,71111,Theater companies and dinner theaters,A,All establishments,001,All firms,2002,3583,5417407,100.0,1589851,372423,72487
+0100000US,,United States,71111,Theater companies and dinner theaters,A,All establishments,804,4 largest firms,2002,15,690714,12.7,165802,35704,2357
+0100000US,,United States,71111,Theater companies and dinner theaters,A,All establishments,808,8 largest firms,2002,21,920091,17.0,224417,46974,3574
+0100000US,,United States,71111,Theater companies and dinner theaters,A,All establishments,820,20 largest firms,2002,39,1441085,26.6,360258,80888,8023
+0100000US,,United States,71111,Theater companies and dinner theaters,A,All establishments,850,50 largest firms,2002,84,2108455,38.9,532196,122005,13535
+0100000US,,United States,71111,Theater companies and dinner theaters,N,Establishments exempt from federal income tax,001,All firms,2002,2062,2538174,100.0,925361,218637,42892
+0100000US,,United States,71111,Theater companies and dinner theaters,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,357095,14.1,185745,36838,2827
+0100000US,,United States,71111,Theater companies and dinner theaters,N,Establishments exempt from federal income tax,808,8 largest firms,2002,8,520620,20.5,244645,53456,4561
+0100000US,,United States,71111,Theater companies and dinner theaters,N,Establishments exempt from federal income tax,820,20 largest firms,2002,24,771040,30.4,325178,72796,7248
+0100000US,,United States,71111,Theater companies and dinner theaters,N,Establishments exempt from federal income tax,850,50 largest firms,2002,67,1132393,44.6,442625,101577,12449
+0100000US,,United States,71111,Theater companies and dinner theaters,T,Establishments subject to federal income tax,001,All firms,2002,1521,2879233,100.0,664490,153786,29595
+0100000US,,United States,71111,Theater companies and dinner theaters,T,Establishments subject to federal income tax,804,4 largest firms,2002,15,556289,19.3,43942,12282,848
+0100000US,,United States,71111,Theater companies and dinner theaters,T,Establishments subject to federal income tax,808,8 largest firms,2002,26,758574,26.3,77703,18815,2247
+0100000US,,United States,71111,Theater companies and dinner theaters,T,Establishments subject to federal income tax,820,20 largest firms,2002,47,1150857,40.0,165461,39255,5129
+0100000US,,United States,71111,Theater companies and dinner theaters,T,Establishments subject to federal income tax,850,50 largest firms,2002,78,1585683,55.1,271429,62135,8346
+0100000US,,United States,711110,Theater companies and dinner theaters,A,All establishments,001,All firms,2002,3583,5417407,100.0,1589851,372423,72487
+0100000US,,United States,711110,Theater companies and dinner theaters,A,All establishments,804,4 largest firms,2002,15,690714,12.7,165802,35704,2357
+0100000US,,United States,711110,Theater companies and dinner theaters,A,All establishments,808,8 largest firms,2002,21,920091,17.0,224417,46974,3574
+0100000US,,United States,711110,Theater companies and dinner theaters,A,All establishments,820,20 largest firms,2002,39,1441085,26.6,360258,80888,8023
+0100000US,,United States,711110,Theater companies and dinner theaters,A,All establishments,850,50 largest firms,2002,84,2108455,38.9,532196,122005,13535
+0100000US,,United States,711110,Theater companies and dinner theaters,N,Establishments exempt from federal income tax,001,All firms,2002,2062,2538174,100.0,925361,218637,42892
+0100000US,,United States,711110,Theater companies and dinner theaters,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,357095,14.1,185745,36838,2827
+0100000US,,United States,711110,Theater companies and dinner theaters,N,Establishments exempt from federal income tax,808,8 largest firms,2002,8,520620,20.5,244645,53456,4561
+0100000US,,United States,711110,Theater companies and dinner theaters,N,Establishments exempt from federal income tax,820,20 largest firms,2002,24,771040,30.4,325178,72796,7248
+0100000US,,United States,711110,Theater companies and dinner theaters,N,Establishments exempt from federal income tax,850,50 largest firms,2002,67,1132393,44.6,442625,101577,12449
+0100000US,,United States,711110,Theater companies and dinner theaters,T,Establishments subject to federal income tax,001,All firms,2002,1521,2879233,100.0,664490,153786,29595
+0100000US,,United States,711110,Theater companies and dinner theaters,T,Establishments subject to federal income tax,804,4 largest firms,2002,15,556289,19.3,43942,12282,848
+0100000US,,United States,711110,Theater companies and dinner theaters,T,Establishments subject to federal income tax,808,8 largest firms,2002,26,758574,26.3,77703,18815,2247
+0100000US,,United States,711110,Theater companies and dinner theaters,T,Establishments subject to federal income tax,820,20 largest firms,2002,47,1150857,40.0,165461,39255,5129
+0100000US,,United States,711110,Theater companies and dinner theaters,T,Establishments subject to federal income tax,850,50 largest firms,2002,78,1585683,55.1,271429,62135,8346
+0100000US,,United States,7111101,Opera companies,A,All establishments,001,All firms,2002,178,722639,100.0,321554,73213,10615
+0100000US,,United States,7111101,Opera companies,A,All establishments,804,4 largest firms,2002,4,330430,45.7,193886,40187,3299
+0100000US,,United States,7111101,Opera companies,A,All establishments,808,8 largest firms,2002,8,416249,57.6,222075,46395,4205
+0100000US,,United States,7111101,Opera companies,A,All establishments,820,20 largest firms,2002,24,544991,75.4,267837,60020,6990
+0100000US,,United States,7111101,Opera companies,A,All establishments,850,50 largest firms,2002,57,662712,91.7,307071,69569,9509
+0100000US,,United States,7111101,Opera companies,N,Establishments exempt from federal income tax,001,All firms,2002,161,716276,100.0,319821,72779,10492
+0100000US,,United States,7111101,Opera companies,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,330430,46.1,193886,40187,3299
+0100000US,,United States,7111101,Opera companies,N,Establishments exempt from federal income tax,808,8 largest firms,2002,8,416249,58.1,222075,46395,4205
+0100000US,,United States,7111101,Opera companies,N,Establishments exempt from federal income tax,820,20 largest firms,2002,24,544991,76.1,267837,60020,6990
+0100000US,,United States,7111101,Opera companies,N,Establishments exempt from federal income tax,850,50 largest firms,2002,57,662712,92.5,307071,69569,9509
+0100000US,,United States,7111101,Opera companies,T,Establishments subject to federal income tax,001,All firms,2002,17,6363,100.0,1733,434,123
+0100000US,,United States,7111101,Opera companies,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,4299,67.6,889,214,84
+0100000US,,United States,7111101,Opera companies,T,Establishments subject to federal income tax,808,8 largest firms,2002,8,5675,89.2,1335,300,90
+0100000US,,United States,7111101,Opera companies,T,Establishments subject to federal income tax,820,20 largest firms,2002,17,6363,100.0,1733,434,123
+0100000US,,United States,7111101,Opera companies,T,Establishments subject to federal income tax,850,50 largest firms,2002,17,6363,100.0,1733,434,123
+0100000US,,United States,7111102,Theater companies,A,All establishments,001,All firms,2002,3222,4226895,100.0,1144298,271651,52703
+0100000US,,United States,7111102,Theater companies,A,All establishments,804,4 largest firms,2002,15,556289,13.2,43942,12282,848
+0100000US,,United States,7111102,Theater companies,A,All establishments,808,8 largest firms,2002,21,764940,18.1,88687,24065,1768
+0100000US,,United States,7111102,Theater companies,A,All establishments,820,20 largest firms,2002,36,1193277,28.2,188996,47520,4685
+0100000US,,United States,7111102,Theater companies,A,All establishments,850,50 largest firms,2002,77,1702033,40.3,322805,77332,8344
+0100000US,,United States,7111102,Theater companies,N,Establishments exempt from federal income tax,001,All firms,2002,1901,1821898,100.0,605540,145858,32400
+0100000US,,United States,7111102,Theater companies,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,190190,10.4,50759,13269,1262
+0100000US,,United States,7111102,Theater companies,N,Establishments exempt from federal income tax,808,8 largest firms,2002,8,280347,15.4,76870,20400,2136
+0100000US,,United States,7111102,Theater companies,N,Establishments exempt from federal income tax,820,20 largest firms,2002,28,458818,25.2,130816,32673,4035
+0100000US,,United States,7111102,Theater companies,N,Establishments exempt from federal income tax,850,50 largest firms,2002,64,751048,41.2,235070,57952,9267
+0100000US,,United States,7111102,Theater companies,T,Establishments subject to federal income tax,001,All firms,2002,1321,2404997,100.0,538758,125793,20303
+0100000US,,United States,7111102,Theater companies,T,Establishments subject to federal income tax,804,4 largest firms,2002,15,556289,23.1,43942,12282,848
+0100000US,,United States,7111102,Theater companies,T,Establishments subject to federal income tax,808,8 largest firms,2002,21,745741,31.0,80024,20555,1828
+0100000US,,United States,7111102,Theater companies,T,Establishments subject to federal income tax,820,20 largest firms,2002,36,1081227,45.0,154011,37838,3636
+0100000US,,United States,7111102,Theater companies,T,Establishments subject to federal income tax,850,50 largest firms,2002,73,1457605,60.6,242774,58082,6005
+0100000US,,United States,7111103,Dinner theaters,A,All establishments,001,All firms,2002,183,467873,100.0,123999,27559,9169
+0100000US,,United States,7111103,Dinner theaters,A,All establishments,804,4 largest firms,2002,9,147543,31.5,28885,5644,1726
+0100000US,,United States,7111103,Dinner theaters,A,All establishments,808,8 largest firms,2002,13,199559,42.7,38657,7527,2356
+0100000US,,United States,7111103,Dinner theaters,A,All establishments,820,20 largest firms,2002,25,293955,62.8,67246,14232,4355
+0100000US,,United States,7111103,Dinner theaters,A,All establishments,850,50 largest firms,2002,55,385222,82.3,96346,21625,6997
+0100000US,,United States,7111103,Dinner theaters,T,Establishments subject to federal income tax,001,All firms,2002,183,467873,100.0,123999,27559,9169
+0100000US,,United States,7111103,Dinner theaters,T,Establishments subject to federal income tax,804,4 largest firms,2002,9,147543,31.5,28885,5644,1726
+0100000US,,United States,7111103,Dinner theaters,T,Establishments subject to federal income tax,808,8 largest firms,2002,13,199559,42.7,38657,7527,2356
+0100000US,,United States,7111103,Dinner theaters,T,Establishments subject to federal income tax,820,20 largest firms,2002,25,293955,62.8,67246,14232,4355
+0100000US,,United States,7111103,Dinner theaters,T,Establishments subject to federal income tax,850,50 largest firms,2002,55,385222,82.3,96346,21625,6997
+0100000US,,United States,71112,Dance companies,A,All establishments,001,All firms,2002,557,499510,100.0,195796,49904,9017
+0100000US,,United States,71112,Dance companies,A,All establishments,804,4 largest firms,2002,4,93469,18.7,43484,10912,1324
+0100000US,,United States,71112,Dance companies,A,All establishments,808,8 largest firms,2002,9,143486,28.7,63625,16377,2039
+0100000US,,United States,71112,Dance companies,A,All establishments,820,20 largest firms,2002,22,230636,46.2,98069,24698,3875
+0100000US,,United States,71112,Dance companies,A,All establishments,850,50 largest firms,2002,52,337597,67.6,142210,36804,5516
+0100000US,,United States,71112,Dance companies,N,Establishments exempt from federal income tax,001,All firms,2002,424,405573,100.0,165969,43019,7756
+0100000US,,United States,71112,Dance companies,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,93469,23.0,43484,10912,1324
+0100000US,,United States,71112,Dance companies,N,Establishments exempt from federal income tax,808,8 largest firms,2002,9,138165,34.1,64641,16873,2219
+0100000US,,United States,71112,Dance companies,N,Establishments exempt from federal income tax,820,20 largest firms,2002,22,212019,52.3,93654,24120,3742
+0100000US,,United States,71112,Dance companies,N,Establishments exempt from federal income tax,850,50 largest firms,2002,52,300680,74.1,130948,34088,5290
+0100000US,,United States,71112,Dance companies,T,Establishments subject to federal income tax,001,All firms,2002,133,93937,100.0,29827,6885,1261
+0100000US,,United States,71112,Dance companies,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,37840,40.3,11718,2613,426
+0100000US,,United States,71112,Dance companies,T,Establishments subject to federal income tax,808,8 largest firms,2002,8,51125,54.4,16885,4355,576
+0100000US,,United States,71112,Dance companies,T,Establishments subject to federal income tax,820,20 largest firms,2002,20,71773,76.4,22507,5314,710
+0100000US,,United States,71112,Dance companies,T,Establishments subject to federal income tax,850,50 largest firms,2002,50,86682,92.3,27444,6428,1039
+0100000US,,United States,711120,Dance companies,A,All establishments,001,All firms,2002,557,499510,100.0,195796,49904,9017
+0100000US,,United States,711120,Dance companies,A,All establishments,804,4 largest firms,2002,4,93469,18.7,43484,10912,1324
+0100000US,,United States,711120,Dance companies,A,All establishments,808,8 largest firms,2002,9,143486,28.7,63625,16377,2039
+0100000US,,United States,711120,Dance companies,A,All establishments,820,20 largest firms,2002,22,230636,46.2,98069,24698,3875
+0100000US,,United States,711120,Dance companies,A,All establishments,850,50 largest firms,2002,52,337597,67.6,142210,36804,5516
+0100000US,,United States,711120,Dance companies,N,Establishments exempt from federal income tax,001,All firms,2002,424,405573,100.0,165969,43019,7756
+0100000US,,United States,711120,Dance companies,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,93469,23.0,43484,10912,1324
+0100000US,,United States,711120,Dance companies,N,Establishments exempt from federal income tax,808,8 largest firms,2002,9,138165,34.1,64641,16873,2219
+0100000US,,United States,711120,Dance companies,N,Establishments exempt from federal income tax,820,20 largest firms,2002,22,212019,52.3,93654,24120,3742
+0100000US,,United States,711120,Dance companies,N,Establishments exempt from federal income tax,850,50 largest firms,2002,52,300680,74.1,130948,34088,5290
+0100000US,,United States,711120,Dance companies,T,Establishments subject to federal income tax,001,All firms,2002,133,93937,100.0,29827,6885,1261
+0100000US,,United States,711120,Dance companies,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,37840,40.3,11718,2613,426
+0100000US,,United States,711120,Dance companies,T,Establishments subject to federal income tax,808,8 largest firms,2002,8,51125,54.4,16885,4355,576
+0100000US,,United States,711120,Dance companies,T,Establishments subject to federal income tax,820,20 largest firms,2002,20,71773,76.4,22507,5314,710
+0100000US,,United States,711120,Dance companies,T,Establishments subject to federal income tax,850,50 largest firms,2002,50,86682,92.3,27444,6428,1039
+0100000US,,United States,71113,Musical groups and artists,A,All establishments,001,All firms,2002,4594,4070627,100.0,1266910,287427,49050
+0100000US,,United States,71113,Musical groups and artists,A,All establishments,804,4 largest firms,2002,5,280001,6.9,98566,22287,1611
+0100000US,,United States,71113,Musical groups and artists,A,All establishments,808,8 largest firms,2002,9,491633,12.1,147268,34445,2485
+0100000US,,United States,71113,Musical groups and artists,A,All establishments,820,20 largest firms,2002,22,855121,21.0,294659,67695,5174
+0100000US,,United States,71113,Musical groups and artists,A,All establishments,850,50 largest firms,2002,58,1346323,33.1,449667,99999,9308
+0100000US,,United States,71113,Musical groups and artists,N,Establishments exempt from federal income tax,001,All firms,2002,1494,1649214,100.0,673449,169774,31424
+0100000US,,United States,71113,Musical groups and artists,N,Establishments exempt from federal income tax,804,4 largest firms,2002,5,280001,17.0,98566,22287,1611
+0100000US,,United States,71113,Musical groups and artists,N,Establishments exempt from federal income tax,808,8 largest firms,2002,10,453429,27.5,169785,39040,2790
+0100000US,,United States,71113,Musical groups and artists,N,Establishments exempt from federal income tax,820,20 largest firms,2002,26,761907,46.2,319850,77448,6038
+0100000US,,United States,71113,Musical groups and artists,N,Establishments exempt from federal income tax,850,50 largest firms,2002,57,1047738,63.5,452841,112185,11330
+0100000US,,United States,71113,Musical groups and artists,T,Establishments subject to federal income tax,001,All firms,2002,3100,2421413,100.0,593461,117653,17626
+0100000US,,United States,71113,Musical groups and artists,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,173577,7.2,15822,2357,157
+0100000US,,United States,71113,Musical groups and artists,T,Establishments subject to federal income tax,808,8 largest firms,2002,9,262296,10.8,37950,6704,508
+0100000US,,United States,71113,Musical groups and artists,T,Establishments subject to federal income tax,820,20 largest firms,2002,21,445838,18.4,82952,10669,865
+0100000US,,United States,71113,Musical groups and artists,T,Establishments subject to federal income tax,850,50 largest firms,2002,52,718974,29.7,137925,23034,1895
+0100000US,,United States,711130,Musical groups and artists,A,All establishments,001,All firms,2002,4594,4070627,100.0,1266910,287427,49050
+0100000US,,United States,711130,Musical groups and artists,A,All establishments,804,4 largest firms,2002,5,280001,6.9,98566,22287,1611
+0100000US,,United States,711130,Musical groups and artists,A,All establishments,808,8 largest firms,2002,9,491633,12.1,147268,34445,2485
+0100000US,,United States,711130,Musical groups and artists,A,All establishments,820,20 largest firms,2002,22,855121,21.0,294659,67695,5174
+0100000US,,United States,711130,Musical groups and artists,A,All establishments,850,50 largest firms,2002,58,1346323,33.1,449667,99999,9308
+0100000US,,United States,711130,Musical groups and artists,N,Establishments exempt from federal income tax,001,All firms,2002,1494,1649214,100.0,673449,169774,31424
+0100000US,,United States,711130,Musical groups and artists,N,Establishments exempt from federal income tax,804,4 largest firms,2002,5,280001,17.0,98566,22287,1611
+0100000US,,United States,711130,Musical groups and artists,N,Establishments exempt from federal income tax,808,8 largest firms,2002,10,453429,27.5,169785,39040,2790
+0100000US,,United States,711130,Musical groups and artists,N,Establishments exempt from federal income tax,820,20 largest firms,2002,26,761907,46.2,319850,77448,6038
+0100000US,,United States,711130,Musical groups and artists,N,Establishments exempt from federal income tax,850,50 largest firms,2002,57,1047738,63.5,452841,112185,11330
+0100000US,,United States,711130,Musical groups and artists,T,Establishments subject to federal income tax,001,All firms,2002,3100,2421413,100.0,593461,117653,17626
+0100000US,,United States,711130,Musical groups and artists,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,173577,7.2,15822,2357,157
+0100000US,,United States,711130,Musical groups and artists,T,Establishments subject to federal income tax,808,8 largest firms,2002,9,262296,10.8,37950,6704,508
+0100000US,,United States,711130,Musical groups and artists,T,Establishments subject to federal income tax,820,20 largest firms,2002,21,445838,18.4,82952,10669,865
+0100000US,,United States,711130,Musical groups and artists,T,Establishments subject to federal income tax,850,50 largest firms,2002,52,718974,29.7,137925,23034,1895
+0100000US,,United States,7111301,Symphony orchestras and chamber music organizations,A,All establishments,001,All firms,2002,841,1452917,100.0,611825,154820,27085
+0100000US,,United States,7111301,Symphony orchestras and chamber music organizations,A,All establishments,804,4 largest firms,2002,5,280001,19.3,98566,22287,1611
+0100000US,,United States,7111301,Symphony orchestras and chamber music organizations,A,All establishments,808,8 largest firms,2002,10,453429,31.2,169785,39040,2790
+0100000US,,United States,7111301,Symphony orchestras and chamber music organizations,A,All establishments,820,20 largest firms,2002,26,761907,52.4,319850,77448,6038
+0100000US,,United States,7111301,Symphony orchestras and chamber music organizations,A,All establishments,850,50 largest firms,2002,57,1017931,70.1,443848,110775,10236
+0100000US,,United States,7111301,Symphony orchestras and chamber music organizations,N,Establishments exempt from federal income tax,001,All firms,2002,764,1414217,100.0,601744,152599,26180
+0100000US,,United States,7111301,Symphony orchestras and chamber music organizations,N,Establishments exempt from federal income tax,804,4 largest firms,2002,5,280001,19.8,98566,22287,1611
+0100000US,,United States,7111301,Symphony orchestras and chamber music organizations,N,Establishments exempt from federal income tax,808,8 largest firms,2002,10,453429,32.1,169785,39040,2790
+0100000US,,United States,7111301,Symphony orchestras and chamber music organizations,N,Establishments exempt from federal income tax,820,20 largest firms,2002,26,761907,53.9,319850,77448,6038
+0100000US,,United States,7111301,Symphony orchestras and chamber music organizations,N,Establishments exempt from federal income tax,850,50 largest firms,2002,57,1017931,72.0,443848,110775,10236
+0100000US,,United States,7111301,Symphony orchestras and chamber music organizations,T,Establishments subject to federal income tax,001,All firms,2002,77,38700,100.0,10081,2221,905
+0100000US,,United States,7111301,Symphony orchestras and chamber music organizations,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,12795,33.1,1103,251,36
+0100000US,,United States,7111301,Symphony orchestras and chamber music organizations,T,Establishments subject to federal income tax,808,8 largest firms,2002,8,19234,49.7,2158,602,123
+0100000US,,United States,7111301,Symphony orchestras and chamber music organizations,T,Establishments subject to federal income tax,820,20 largest firms,2002,20,29379,75.9,7042,1454,721
+0100000US,,United States,7111301,Symphony orchestras and chamber music organizations,T,Establishments subject to federal income tax,850,50 largest firms,2002,50,37457,96.8,9671,2124,868
+0100000US,,United States,7111309,Other music groups and artists,A,All establishments,001,All firms,2002,3753,2617710,100.0,655085,132607,21965
+0100000US,,United States,7111309,Other music groups and artists,A,All establishments,804,4 largest firms,2002,4,173577,6.6,15822,2357,157
+0100000US,,United States,7111309,Other music groups and artists,A,All establishments,808,8 largest firms,2002,9,262296,10.0,37950,6704,508
+0100000US,,United States,7111309,Other music groups and artists,A,All establishments,820,20 largest firms,2002,21,452659,17.3,95308,13374,2174
+0100000US,,United States,7111309,Other music groups and artists,A,All establishments,850,50 largest firms,2002,52,740201,28.3,150124,25504,3296
+0100000US,,United States,7111309,Other music groups and artists,N,Establishments exempt from federal income tax,001,All firms,2002,730,234997,100.0,71705,17175,5244
+0100000US,,United States,7111309,Other music groups and artists,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,49809,21.2,17708,3896,1476
+0100000US,,United States,7111309,Other music groups and artists,N,Establishments exempt from federal income tax,808,8 largest firms,2002,8,64721,27.5,21433,4797,1562
+0100000US,,United States,7111309,Other music groups and artists,N,Establishments exempt from federal income tax,820,20 largest firms,2002,20,93678,39.9,28889,6715,2117
+0100000US,,United States,7111309,Other music groups and artists,N,Establishments exempt from federal income tax,850,50 largest firms,2002,51,130575,55.6,39159,9152,2554
+0100000US,,United States,7111309,Other music groups and artists,T,Establishments subject to federal income tax,001,All firms,2002,3023,2382713,100.0,583380,115432,16721
+0100000US,,United States,7111309,Other music groups and artists,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,173577,7.3,15822,2357,157
+0100000US,,United States,7111309,Other music groups and artists,T,Establishments subject to federal income tax,808,8 largest firms,2002,9,262296,11.0,37950,6704,508
+0100000US,,United States,7111309,Other music groups and artists,T,Establishments subject to federal income tax,820,20 largest firms,2002,21,445838,18.7,82952,10669,865
+0100000US,,United States,7111309,Other music groups and artists,T,Establishments subject to federal income tax,850,50 largest firms,2002,52,718974,30.2,137925,23034,1895
+0100000US,,United States,71119,Other performing arts companies,A,All establishments,001,All firms,2002,569,876087,100.0,213956,50283,7667
+0100000US,,United States,71119,Other performing arts companies,A,All establishments,804,4 largest firms,2002,9,405768,46.3,76821,18230,2237
+0100000US,,United States,71119,Other performing arts companies,A,All establishments,808,8 largest firms,2002,13,490806,56.0,93644,22629,2596
+0100000US,,United States,71119,Other performing arts companies,A,All establishments,820,20 largest firms,2002,28,584723,66.7,123873,28402,3335
+0100000US,,United States,71119,Other performing arts companies,A,All establishments,850,50 largest firms,2002,61,685057,78.2,152756,35596,4458
+0100000US,,United States,71119,Other performing arts companies,N,Establishments exempt from federal income tax,001,All firms,2002,87,46573,100.0,14929,3477,556
+0100000US,,United States,71119,Other performing arts companies,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,25643,55.1,9462,2273,246
+0100000US,,United States,71119,Other performing arts companies,N,Establishments exempt from federal income tax,808,8 largest firms,2002,8,30540,65.6,10589,2602,287
+0100000US,,United States,71119,Other performing arts companies,N,Establishments exempt from federal income tax,820,20 largest firms,2002,20,37781,81.1,12402,2953,403
+0100000US,,United States,71119,Other performing arts companies,N,Establishments exempt from federal income tax,850,50 largest firms,2002,50,44666,95.9,14393,3363,508
+0100000US,,United States,71119,Other performing arts companies,T,Establishments subject to federal income tax,001,All firms,2002,482,829514,100.0,199027,46806,7111
+0100000US,,United States,71119,Other performing arts companies,T,Establishments subject to federal income tax,804,4 largest firms,2002,9,405768,48.9,76821,18230,2237
+0100000US,,United States,71119,Other performing arts companies,T,Establishments subject to federal income tax,808,8 largest firms,2002,16,485127,58.5,88077,21113,2447
+0100000US,,United States,71119,Other performing arts companies,T,Establishments subject to federal income tax,820,20 largest firms,2002,28,572529,69.0,116975,26692,3156
+0100000US,,United States,71119,Other performing arts companies,T,Establishments subject to federal income tax,850,50 largest firms,2002,61,667722,80.5,146090,33584,4255
+0100000US,,United States,711190,Other performing arts companies,A,All establishments,001,All firms,2002,569,876087,100.0,213956,50283,7667
+0100000US,,United States,711190,Other performing arts companies,A,All establishments,804,4 largest firms,2002,9,405768,46.3,76821,18230,2237
+0100000US,,United States,711190,Other performing arts companies,A,All establishments,808,8 largest firms,2002,13,490806,56.0,93644,22629,2596
+0100000US,,United States,711190,Other performing arts companies,A,All establishments,820,20 largest firms,2002,28,584723,66.7,123873,28402,3335
+0100000US,,United States,711190,Other performing arts companies,A,All establishments,850,50 largest firms,2002,61,685057,78.2,152756,35596,4458
+0100000US,,United States,711190,Other performing arts companies,N,Establishments exempt from federal income tax,001,All firms,2002,87,46573,100.0,14929,3477,556
+0100000US,,United States,711190,Other performing arts companies,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,25643,55.1,9462,2273,246
+0100000US,,United States,711190,Other performing arts companies,N,Establishments exempt from federal income tax,808,8 largest firms,2002,8,30540,65.6,10589,2602,287
+0100000US,,United States,711190,Other performing arts companies,N,Establishments exempt from federal income tax,820,20 largest firms,2002,20,37781,81.1,12402,2953,403
+0100000US,,United States,711190,Other performing arts companies,N,Establishments exempt from federal income tax,850,50 largest firms,2002,50,44666,95.9,14393,3363,508
+0100000US,,United States,711190,Other performing arts companies,T,Establishments subject to federal income tax,001,All firms,2002,482,829514,100.0,199027,46806,7111
+0100000US,,United States,711190,Other performing arts companies,T,Establishments subject to federal income tax,804,4 largest firms,2002,9,405768,48.9,76821,18230,2237
+0100000US,,United States,711190,Other performing arts companies,T,Establishments subject to federal income tax,808,8 largest firms,2002,16,485127,58.5,88077,21113,2447
+0100000US,,United States,711190,Other performing arts companies,T,Establishments subject to federal income tax,820,20 largest firms,2002,28,572529,69.0,116975,26692,3156
+0100000US,,United States,711190,Other performing arts companies,T,Establishments subject to federal income tax,850,50 largest firms,2002,61,667722,80.5,146090,33584,4255
+0100000US,,United States,7111901,Circuses,A,All establishments,001,All firms,2002,58,386772,100.0,73435,16066,2252
+0100000US,,United States,7111901,Circuses,A,All establishments,804,4 largest firms,2002,7,333956,86.3,64197,14473,1634
+0100000US,,United States,7111901,Circuses,A,All establishments,808,8 largest firms,2002,11,354366,91.6,66997,15073,1857
+0100000US,,United States,7111901,Circuses,A,All establishments,820,20 largest firms,2002,23,379026,98.0,71359,15695,2080
+0100000US,,United States,7111901,Circuses,A,All establishments,850,50 largest firms,2002,53,386703,100.0,73417,16060,2247
+0100000US,,United States,7111901,Circuses,N,Establishments exempt from federal income tax,001,All firms,2002,11,21415,100.0,9224,2144,257
+0100000US,,United States,7111901,Circuses,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,20194,94.3,8874,2086,240
+0100000US,,United States,7111901,Circuses,N,Establishments exempt from federal income tax,808,8 largest firms,2002,8,21245,99.2,9190,2141,254
+0100000US,,United States,7111901,Circuses,N,Establishments exempt from federal income tax,820,20 largest firms,2002,11,21415,100.0,9224,2144,257
+0100000US,,United States,7111901,Circuses,N,Establishments exempt from federal income tax,850,50 largest firms,2002,11,21415,100.0,9224,2144,257
+0100000US,,United States,7111901,Circuses,T,Establishments subject to federal income tax,001,All firms,2002,47,365357,100.0,64211,13922,1995
+0100000US,,United States,7111901,Circuses,T,Establishments subject to federal income tax,804,4 largest firms,2002,7,323326,88.5,56767,12558,1560
+0100000US,,United States,7111901,Circuses,T,Establishments subject to federal income tax,808,8 largest firms,2002,11,340155,93.1,59010,13123,1667
+0100000US,,United States,7111901,Circuses,T,Establishments subject to federal income tax,820,20 largest firms,2002,23,360888,98.8,63024,13681,1903
+0100000US,,United States,7111901,Circuses,T,Establishments subject to federal income tax,850,50 largest firms,2002,47,365357,100.0,64211,13922,1995
+0100000US,,United States,7111909,Other performing arts companies (except circuses),A,All establishments,001,All firms,2002,511,489315,100.0,140521,34217,5415
+0100000US,,United States,7111909,Other performing arts companies (except circuses),A,All establishments,804,4 largest firms,2002,5,143242,29.3,21857,5598,624
+0100000US,,United States,7111909,Other performing arts companies (except circuses),A,All establishments,808,8 largest firms,2002,12,187959,38.4,33975,9212,1076
+0100000US,,United States,7111909,Other performing arts companies (except circuses),A,All establishments,820,20 largest firms,2002,26,262531,53.7,65974,15527,1807
+0100000US,,United States,7111909,Other performing arts companies (except circuses),A,All establishments,850,50 largest firms,2002,57,340676,69.6,90047,21341,2797
+0100000US,,United States,7111909,Other performing arts companies (except circuses),N,Establishments exempt from federal income tax,001,All firms,2002,76,25158,100.0,5705,1333,299
+0100000US,,United States,7111909,Other performing arts companies (except circuses),N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,9296,37.0,1860,390,49
+0100000US,,United States,7111909,Other performing arts companies (except circuses),N,Establishments exempt from federal income tax,808,8 largest firms,2002,8,12869,51.2,2598,668,97
+0100000US,,United States,7111909,Other performing arts companies (except circuses),N,Establishments exempt from federal income tax,820,20 largest firms,2002,20,18950,75.3,3894,936,178
+0100000US,,United States,7111909,Other performing arts companies (except circuses),N,Establishments exempt from federal income tax,850,50 largest firms,2002,50,24191,96.2,5435,1278,269
+0100000US,,United States,7111909,Other performing arts companies (except circuses),T,Establishments subject to federal income tax,001,All firms,2002,435,464157,100.0,134816,32884,5116
+0100000US,,United States,7111909,Other performing arts companies (except circuses),T,Establishments subject to federal income tax,804,4 largest firms,2002,5,143242,30.9,21857,5598,624
+0100000US,,United States,7111909,Other performing arts companies (except circuses),T,Establishments subject to federal income tax,808,8 largest firms,2002,12,187959,40.5,33975,9212,1076
+0100000US,,United States,7111909,Other performing arts companies (except circuses),T,Establishments subject to federal income tax,820,20 largest firms,2002,26,262531,56.6,65974,15527,1807
+0100000US,,United States,7111909,Other performing arts companies (except circuses),T,Establishments subject to federal income tax,850,50 largest firms,2002,57,337833,72.8,90514,21497,2805
+0100000US,,United States,7112,Spectator sports,A,All establishments,001,All firms,2002,4072,22313416,100.0,10206017,2410390,107727
+0100000US,,United States,7112,Spectator sports,A,All establishments,804,4 largest firms,2002,35,1857305,8.3,183622,46915,7472
+0100000US,,United States,7112,Spectator sports,A,All establishments,808,8 largest firms,2002,50,3098253,13.9,507983,153800,12675
+0100000US,,United States,7112,Spectator sports,A,All establishments,820,20 largest firms,2002,91,5602991,25.1,1740593,467539,21579
+0100000US,,United States,7112,Spectator sports,A,All establishments,850,50 largest firms,2002,124,9988205,44.8,4501755,1023355,29911
+0100000US,,United States,7112,Spectator sports,T,Establishments subject to federal income tax,001,All firms,2002,4072,22313416,100.0,10206017,2410390,107727
+0100000US,,United States,7112,Spectator sports,T,Establishments subject to federal income tax,804,4 largest firms,2002,35,1857305,8.3,183622,46915,7472
+0100000US,,United States,7112,Spectator sports,T,Establishments subject to federal income tax,808,8 largest firms,2002,50,3098253,13.9,507983,153800,12675
+0100000US,,United States,7112,Spectator sports,T,Establishments subject to federal income tax,820,20 largest firms,2002,91,5602991,25.1,1740593,467539,21579
+0100000US,,United States,7112,Spectator sports,T,Establishments subject to federal income tax,850,50 largest firms,2002,124,9988205,44.8,4501755,1023355,29911
+0100000US,,United States,71121,Spectator sports,A,All establishments,001,All firms,2002,4072,22313416,100.0,10206017,2410390,107727
+0100000US,,United States,71121,Spectator sports,A,All establishments,804,4 largest firms,2002,35,1857305,8.3,183622,46915,7472
+0100000US,,United States,71121,Spectator sports,A,All establishments,808,8 largest firms,2002,50,3098253,13.9,507983,153800,12675
+0100000US,,United States,71121,Spectator sports,A,All establishments,820,20 largest firms,2002,91,5602991,25.1,1740593,467539,21579
+0100000US,,United States,71121,Spectator sports,A,All establishments,850,50 largest firms,2002,124,9988205,44.8,4501755,1023355,29911
+0100000US,,United States,71121,Spectator sports,T,Establishments subject to federal income tax,001,All firms,2002,4072,22313416,100.0,10206017,2410390,107727
+0100000US,,United States,71121,Spectator sports,T,Establishments subject to federal income tax,804,4 largest firms,2002,35,1857305,8.3,183622,46915,7472
+0100000US,,United States,71121,Spectator sports,T,Establishments subject to federal income tax,808,8 largest firms,2002,50,3098253,13.9,507983,153800,12675
+0100000US,,United States,71121,Spectator sports,T,Establishments subject to federal income tax,820,20 largest firms,2002,91,5602991,25.1,1740593,467539,21579
+0100000US,,United States,71121,Spectator sports,T,Establishments subject to federal income tax,850,50 largest firms,2002,124,9988205,44.8,4501755,1023355,29911
+0100000US,,United States,711211,Sports teams and clubs,A,All establishments,001,All firms,2002,674,13025050,100.0,8546471,2026889,40746
+0100000US,,United States,711211,Sports teams and clubs,A,All establishments,804,4 largest firms,2002,19,989086,7.6,661614,186603,2539
+0100000US,,United States,711211,Sports teams and clubs,A,All establishments,808,8 largest firms,2002,27,1756093,13.5,1060744,265985,4643
+0100000US,,United States,711211,Sports teams and clubs,A,All establishments,820,20 largest firms,2002,43,3679638,28.3,2242346,516540,9657
+0100000US,,United States,711211,Sports teams and clubs,A,All establishments,850,50 largest firms,2002,77,7747653,59.5,4974352,1077259,16221
+0100000US,,United States,711211,Sports teams and clubs,T,Establishments subject to federal income tax,001,All firms,2002,674,13025050,100.0,8546471,2026889,40746
+0100000US,,United States,711211,Sports teams and clubs,T,Establishments subject to federal income tax,804,4 largest firms,2002,19,989086,7.6,661614,186603,2539
+0100000US,,United States,711211,Sports teams and clubs,T,Establishments subject to federal income tax,808,8 largest firms,2002,27,1756093,13.5,1060744,265985,4643
+0100000US,,United States,711211,Sports teams and clubs,T,Establishments subject to federal income tax,820,20 largest firms,2002,43,3679638,28.3,2242346,516540,9657
+0100000US,,United States,711211,Sports teams and clubs,T,Establishments subject to federal income tax,850,50 largest firms,2002,77,7747653,59.5,4974352,1077259,16221
+0100000US,,United States,7112111,Football clubs,A,All establishments,001,All firms,2002,67,4573049,100.0,2768279,674922,6722
+0100000US,,United States,7112111,Football clubs,A,All establishments,804,4 largest firms,2002,4,689806,15.1,293100,70163,628
+0100000US,,United States,7112111,Football clubs,A,All establishments,808,8 largest firms,2002,8,1305620,28.6,615062,141246,1227
+0100000US,,United States,7112111,Football clubs,A,All establishments,820,20 largest firms,2002,21,3020739,66.1,1742812,390520,3613
+0100000US,,United States,7112111,Football clubs,A,All establishments,850,50 largest firms,2002,53,4569275,99.9,2766324,674483,6556
+0100000US,,United States,7112111,Football clubs,T,Establishments subject to federal income tax,001,All firms,2002,67,4573049,100.0,2768279,674922,6722
+0100000US,,United States,7112111,Football clubs,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,689806,15.1,293100,70163,628
+0100000US,,United States,7112111,Football clubs,T,Establishments subject to federal income tax,808,8 largest firms,2002,8,1305620,28.6,615062,141246,1227
+0100000US,,United States,7112111,Football clubs,T,Establishments subject to federal income tax,820,20 largest firms,2002,21,3020739,66.1,1742812,390520,3613
+0100000US,,United States,7112111,Football clubs,T,Establishments subject to federal income tax,850,50 largest firms,2002,53,4569275,99.9,2766324,674483,6556
+0100000US,,United States,7112112,Baseball clubs,A,All establishments,001,All firms,2002,242,3751351,100.0,2497167,219047,15976
+0100000US,,United States,7112112,Baseball clubs,A,All establishments,804,4 largest firms,2002,5,731024,19.5,497556,39034,2742
+0100000US,,United States,7112112,Baseball clubs,A,All establishments,808,8 largest firms,2002,12,1329746,35.4,915637,92559,6152
+0100000US,,United States,7112112,Baseball clubs,A,All establishments,820,20 largest firms,2002,30,2734852,72.9,1898584,165583,10097
+0100000US,,United States,7112112,Baseball clubs,A,All establishments,850,50 largest firms,2002,65,3532518,94.2,2428953,207542,13359
+0100000US,,United States,7112112,Baseball clubs,T,Establishments subject to federal income tax,001,All firms,2002,242,3751351,100.0,2497167,219047,15976
+0100000US,,United States,7112112,Baseball clubs,T,Establishments subject to federal income tax,804,4 largest firms,2002,5,731024,19.5,497556,39034,2742
+0100000US,,United States,7112112,Baseball clubs,T,Establishments subject to federal income tax,808,8 largest firms,2002,12,1329746,35.4,915637,92559,6152
+0100000US,,United States,7112112,Baseball clubs,T,Establishments subject to federal income tax,820,20 largest firms,2002,30,2734852,72.9,1898584,165583,10097
+0100000US,,United States,7112112,Baseball clubs,T,Establishments subject to federal income tax,850,50 largest firms,2002,65,3532518,94.2,2428953,207542,13359
+0100000US,,United States,7112119,Other professional sports teams and clubs,A,All establishments,001,All firms,2002,365,4700650,100.0,3281025,1132920,18048
+0100000US,,United States,7112119,Other professional sports teams and clubs,A,All establishments,804,4 largest firms,2002,9,826596,17.6,529401,184637,1023
+0100000US,,United States,7112119,Other professional sports teams and clubs,A,All establishments,808,8 largest firms,2002,16,1278413,27.2,869774,312983,2446
+0100000US,,United States,7112119,Other professional sports teams and clubs,A,All establishments,820,20 largest firms,2002,35,2396541,51.0,1587771,543580,4940
+0100000US,,United States,7112119,Other professional sports teams and clubs,A,All establishments,850,50 largest firms,2002,77,4318482,91.9,3120676,1085140,12738
+0100000US,,United States,7112119,Other professional sports teams and clubs,T,Establishments subject to federal income tax,001,All firms,2002,365,4700650,100.0,3281025,1132920,18048
+0100000US,,United States,7112119,Other professional sports teams and clubs,T,Establishments subject to federal income tax,804,4 largest firms,2002,9,826596,17.6,529401,184637,1023
+0100000US,,United States,7112119,Other professional sports teams and clubs,T,Establishments subject to federal income tax,808,8 largest firms,2002,16,1278413,27.2,869774,312983,2446
+0100000US,,United States,7112119,Other professional sports teams and clubs,T,Establishments subject to federal income tax,820,20 largest firms,2002,35,2396541,51.0,1587771,543580,4940
+0100000US,,United States,7112119,Other professional sports teams and clubs,T,Establishments subject to federal income tax,850,50 largest firms,2002,77,4318482,91.9,3120676,1085140,12738
+0100000US,,United States,711212,Racetracks,A,All establishments,001,All firms,2002,646,6702456,100.0,995042,233950,47121
+0100000US,,United States,711212,Racetracks,A,All establishments,804,4 largest firms,2002,32,1854170,27.7,182469,46585,7424
+0100000US,,United States,711212,Racetracks,A,All establishments,808,8 largest firms,2002,45,3063662,45.7,341420,85339,13719
+0100000US,,United States,711212,Racetracks,A,All establishments,820,20 largest firms,2002,74,4405834,65.7,545199,131400,23747
+0100000US,,United States,711212,Racetracks,A,All establishments,850,50 largest firms,2002,108,5550393,82.8,758672,183100,33818
+0100000US,,United States,711212,Racetracks,T,Establishments subject to federal income tax,001,All firms,2002,646,6702456,100.0,995042,233950,47121
+0100000US,,United States,711212,Racetracks,T,Establishments subject to federal income tax,804,4 largest firms,2002,32,1854170,27.7,182469,46585,7424
+0100000US,,United States,711212,Racetracks,T,Establishments subject to federal income tax,808,8 largest firms,2002,45,3063662,45.7,341420,85339,13719
+0100000US,,United States,711212,Racetracks,T,Establishments subject to federal income tax,820,20 largest firms,2002,74,4405834,65.7,545199,131400,23747
+0100000US,,United States,711212,Racetracks,T,Establishments subject to federal income tax,850,50 largest firms,2002,108,5550393,82.8,758672,183100,33818
+0100000US,,United States,7112121,Dog racetrack operation,A,All establishments,001,All firms,2002,47,904528,100.0,170926,42591,10629
+0100000US,,United States,7112121,Dog racetrack operation,A,All establishments,804,4 largest firms,2002,12,427830,47.3,64737,16185,4198
+0100000US,,United States,7112121,Dog racetrack operation,A,All establishments,808,8 largest firms,2002,18,564063,62.4,89189,22110,5489
+0100000US,,United States,7112121,Dog racetrack operation,A,All establishments,820,20 largest firms,2002,31,804163,88.9,143936,35948,8847
+0100000US,,United States,7112121,Dog racetrack operation,A,All establishments,850,50 largest firms,2002,47,904528,100.0,170926,42591,10629
+0100000US,,United States,7112121,Dog racetrack operation,T,Establishments subject to federal income tax,001,All firms,2002,47,904528,100.0,170926,42591,10629
+0100000US,,United States,7112121,Dog racetrack operation,T,Establishments subject to federal income tax,804,4 largest firms,2002,12,427830,47.3,64737,16185,4198
+0100000US,,United States,7112121,Dog racetrack operation,T,Establishments subject to federal income tax,808,8 largest firms,2002,18,564063,62.4,89189,22110,5489
+0100000US,,United States,7112121,Dog racetrack operation,T,Establishments subject to federal income tax,820,20 largest firms,2002,31,804163,88.9,143936,35948,8847
+0100000US,,United States,7112121,Dog racetrack operation,T,Establishments subject to federal income tax,850,50 largest firms,2002,47,904528,100.0,170926,42591,10629
+0100000US,,United States,7112122,Auto racetrack operation,A,All establishments,001,All firms,2002,478,1992894,100.0,178413,40816,8249
+0100000US,,United States,7112122,Auto racetrack operation,A,All establishments,804,4 largest firms,2002,25,1390480,69.8,101917,27423,3883
+0100000US,,United States,7112122,Auto racetrack operation,A,All establishments,808,8 largest firms,2002,29,1552846,77.9,114008,29396,4136
+0100000US,,United States,7112122,Auto racetrack operation,A,All establishments,820,20 largest firms,2002,41,1678826,84.2,133119,32447,5043
+0100000US,,United States,7112122,Auto racetrack operation,A,All establishments,850,50 largest firms,2002,73,1781199,89.4,150277,35957,6231
+0100000US,,United States,7112122,Auto racetrack operation,T,Establishments subject to federal income tax,001,All firms,2002,478,1992894,100.0,178413,40816,8249
+0100000US,,United States,7112122,Auto racetrack operation,T,Establishments subject to federal income tax,804,4 largest firms,2002,25,1390480,69.8,101917,27423,3883
+0100000US,,United States,7112122,Auto racetrack operation,T,Establishments subject to federal income tax,808,8 largest firms,2002,29,1552846,77.9,114008,29396,4136
+0100000US,,United States,7112122,Auto racetrack operation,T,Establishments subject to federal income tax,820,20 largest firms,2002,41,1678826,84.2,133119,32447,5043
+0100000US,,United States,7112122,Auto racetrack operation,T,Establishments subject to federal income tax,850,50 largest firms,2002,73,1781199,89.4,150277,35957,6231
+0100000US,,United States,7112123,Horse racetrack operation,A,All establishments,001,All firms,2002,121,3805034,100.0,645703,150543,28243
+0100000US,,United States,7112123,Horse racetrack operation,A,All establishments,804,4 largest firms,2002,24,1471452,38.7,207810,50713,9043
+0100000US,,United States,7112123,Horse racetrack operation,A,All establishments,808,8 largest firms,2002,28,2183013,57.4,306493,71999,13177
+0100000US,,United States,7112123,Horse racetrack operation,A,All establishments,820,20 largest firms,2002,43,2946739,77.4,462940,107849,19307
+0100000US,,United States,7112123,Horse racetrack operation,A,All establishments,850,50 largest firms,2002,74,3644508,95.8,602692,141104,25830
+0100000US,,United States,7112123,Horse racetrack operation,T,Establishments subject to federal income tax,001,All firms,2002,121,3805034,100.0,645703,150543,28243
+0100000US,,United States,7112123,Horse racetrack operation,T,Establishments subject to federal income tax,804,4 largest firms,2002,24,1471452,38.7,207810,50713,9043
+0100000US,,United States,7112123,Horse racetrack operation,T,Establishments subject to federal income tax,808,8 largest firms,2002,28,2183013,57.4,306493,71999,13177
+0100000US,,United States,7112123,Horse racetrack operation,T,Establishments subject to federal income tax,820,20 largest firms,2002,43,2946739,77.4,462940,107849,19307
+0100000US,,United States,7112123,Horse racetrack operation,T,Establishments subject to federal income tax,850,50 largest firms,2002,74,3644508,95.8,602692,141104,25830
+0100000US,,United States,711219,Other spectator sports,A,All establishments,001,All firms,2002,2752,2585910,100.0,664504,149551,19860
+0100000US,,United States,711219,Other spectator sports,A,All establishments,804,4 largest firms,2002,5,313905,12.1,65373,14046,820
+0100000US,,United States,711219,Other spectator sports,A,All establishments,808,8 largest firms,2002,13,521118,20.2,96294,23240,1240
+0100000US,,United States,711219,Other spectator sports,A,All establishments,820,20 largest firms,2002,25,855195,33.1,182521,39263,2569
+0100000US,,United States,711219,Other spectator sports,A,All establishments,850,50 largest firms,2002,56,1191996,46.1,271114,59087,4492
+0100000US,,United States,711219,Other spectator sports,T,Establishments subject to federal income tax,001,All firms,2002,2752,2585910,100.0,664504,149551,19860
+0100000US,,United States,711219,Other spectator sports,T,Establishments subject to federal income tax,804,4 largest firms,2002,5,313905,12.1,65373,14046,820
+0100000US,,United States,711219,Other spectator sports,T,Establishments subject to federal income tax,808,8 largest firms,2002,13,521118,20.2,96294,23240,1240
+0100000US,,United States,711219,Other spectator sports,T,Establishments subject to federal income tax,820,20 largest firms,2002,25,855195,33.1,182521,39263,2569
+0100000US,,United States,711219,Other spectator sports,T,Establishments subject to federal income tax,850,50 largest firms,2002,56,1191996,46.1,271114,59087,4492
+0100000US,,United States,7112191,Professional athletes,A,All establishments,001,All firms,2002,551,400923,100.0,109103,17789,2160
+0100000US,,United States,7112191,Professional athletes,A,All establishments,804,4 largest firms,2002,4,112278,28.0,29049,1745,125
+0100000US,,United States,7112191,Professional athletes,A,All establishments,808,8 largest firms,2002,8,143697,35.8,37679,3237,270
+0100000US,,United States,7112191,Professional athletes,A,All establishments,820,20 largest firms,2002,21,200605,50.0,54983,5598,491
+0100000US,,United States,7112191,Professional athletes,A,All establishments,850,50 largest firms,2002,51,263255,65.7,71624,9250,798
+0100000US,,United States,7112191,Professional athletes,T,Establishments subject to federal income tax,001,All firms,2002,551,400923,100.0,109103,17789,2160
+0100000US,,United States,7112191,Professional athletes,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,112278,28.0,29049,1745,125
+0100000US,,United States,7112191,Professional athletes,T,Establishments subject to federal income tax,808,8 largest firms,2002,8,143697,35.8,37679,3237,270
+0100000US,,United States,7112191,Professional athletes,T,Establishments subject to federal income tax,820,20 largest firms,2002,21,200605,50.0,54983,5598,491
+0100000US,,United States,7112191,Professional athletes,T,Establishments subject to federal income tax,850,50 largest firms,2002,51,263255,65.7,71624,9250,798
+0100000US,,United States,7112192,Racing (except racetrack operation),A,All establishments,001,All firms,2002,2201,2184987,100.0,555401,131762,17700
+0100000US,,United States,7112192,Racing (except racetrack operation),A,All establishments,804,4 largest firms,2002,5,305458,14.0,60150,13486,809
+0100000US,,United States,7112192,Racing (except racetrack operation),A,All establishments,808,8 largest firms,2002,13,497736,22.8,99086,24372,1325
+0100000US,,United States,7112192,Racing (except racetrack operation),A,All establishments,820,20 largest firms,2002,26,798053,36.5,169512,39872,2626
+0100000US,,United States,7112192,Racing (except racetrack operation),A,All establishments,850,50 largest firms,2002,56,1106946,50.7,249730,60027,4676
+0100000US,,United States,7112192,Racing (except racetrack operation),T,Establishments subject to federal income tax,001,All firms,2002,2201,2184987,100.0,555401,131762,17700
+0100000US,,United States,7112192,Racing (except racetrack operation),T,Establishments subject to federal income tax,804,4 largest firms,2002,5,305458,14.0,60150,13486,809
+0100000US,,United States,7112192,Racing (except racetrack operation),T,Establishments subject to federal income tax,808,8 largest firms,2002,13,497736,22.8,99086,24372,1325
+0100000US,,United States,7112192,Racing (except racetrack operation),T,Establishments subject to federal income tax,820,20 largest firms,2002,26,798053,36.5,169512,39872,2626
+0100000US,,United States,7112192,Racing (except racetrack operation),T,Establishments subject to federal income tax,850,50 largest firms,2002,56,1106946,50.7,249730,60027,4676
+0100000US,,United States,7113,"Promoters of performing arts, sports, and similar events",A,All establishments,001,All firms,2002,5236,12168551,100.0,2184040,565719,102466
+0100000US,,United States,7113,"Promoters of performing arts, sports, and similar events",A,All establishments,804,4 largest firms,2002,78,3407395,28.0,332628,122411,17939
+0100000US,,United States,7113,"Promoters of performing arts, sports, and similar events",A,All establishments,808,8 largest firms,2002,103,4178485,34.3,466232,152890,21903
+0100000US,,United States,7113,"Promoters of performing arts, sports, and similar events",A,All establishments,820,20 largest firms,2002,143,5152376,42.3,651524,201058,30569
+0100000US,,United States,7113,"Promoters of performing arts, sports, and similar events",A,All establishments,850,50 largest firms,2002,205,6490217,53.3,941375,276079,41463
+0100000US,,United States,7113,"Promoters of performing arts, sports, and similar events",N,Establishments exempt from federal income tax,001,All firms,2002,1994,4149675,100.0,701357,206483,33319
+0100000US,,United States,7113,"Promoters of performing arts, sports, and similar events",N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,1620710,39.1,176963,81655,6086
+0100000US,,United States,7113,"Promoters of performing arts, sports, and similar events",N,Establishments exempt from federal income tax,808,8 largest firms,2002,10,1815564,43.8,221382,95424,7450
+0100000US,,United States,7113,"Promoters of performing arts, sports, and similar events",N,Establishments exempt from federal income tax,820,20 largest firms,2002,25,2166693,52.2,288633,108914,9879
+0100000US,,United States,7113,"Promoters of performing arts, sports, and similar events",N,Establishments exempt from federal income tax,850,50 largest firms,2002,62,2622821,63.2,380210,132403,14829
+0100000US,,United States,7113,"Promoters of performing arts, sports, and similar events",T,Establishments subject to federal income tax,001,All firms,2002,3242,8018876,100.0,1482683,359236,69147
+0100000US,,United States,7113,"Promoters of performing arts, sports, and similar events",T,Establishments subject to federal income tax,804,4 largest firms,2002,96,2423491,30.2,294328,74868,14447
+0100000US,,United States,7113,"Promoters of performing arts, sports, and similar events",T,Establishments subject to federal income tax,808,8 largest firms,2002,108,2898612,36.1,393027,98175,19042
+0100000US,,United States,7113,"Promoters of performing arts, sports, and similar events",T,Establishments subject to federal income tax,820,20 largest firms,2002,142,3757479,46.9,510300,128576,27039
+0100000US,,United States,7113,"Promoters of performing arts, sports, and similar events",T,Establishments subject to federal income tax,850,50 largest firms,2002,203,4858139,60.6,781569,197005,37334
+0100000US,,United States,71131,"Promoters of performing arts, sports, and similar events with facilities",A,All establishments,001,All firms,2002,1699,5315254,100.0,1218146,297826,71314
+0100000US,,United States,71131,"Promoters of performing arts, sports, and similar events with facilities",A,All establishments,804,4 largest firms,2002,86,995856,18.7,193384,49306,13689
+0100000US,,United States,71131,"Promoters of performing arts, sports, and similar events with facilities",A,All establishments,808,8 largest firms,2002,93,1396526,26.3,268884,67317,18362
+0100000US,,United States,71131,"Promoters of performing arts, sports, and similar events with facilities",A,All establishments,820,20 largest firms,2002,107,2171467,40.9,451723,115835,27702
+0100000US,,United States,71131,"Promoters of performing arts, sports, and similar events with facilities",A,All establishments,850,50 largest firms,2002,150,3188479,60.0,680415,171624,38142
+0100000US,,United States,71131,"Promoters of performing arts, sports, and similar events with facilities",N,Establishments exempt from federal income tax,001,All firms,2002,842,1718310,100.0,447548,107025,20830
+0100000US,,United States,71131,"Promoters of performing arts, sports, and similar events with facilities",N,Establishments exempt from federal income tax,804,4 largest firms,2002,6,241888,14.1,101565,27194,2201
+0100000US,,United States,71131,"Promoters of performing arts, sports, and similar events with facilities",N,Establishments exempt from federal income tax,808,8 largest firms,2002,12,403901,23.5,130127,33941,3115
+0100000US,,United States,71131,"Promoters of performing arts, sports, and similar events with facilities",N,Establishments exempt from federal income tax,820,20 largest firms,2002,25,701358,40.8,189755,47141,5406
+0100000US,,United States,71131,"Promoters of performing arts, sports, and similar events with facilities",N,Establishments exempt from federal income tax,850,50 largest firms,2002,65,1046604,60.9,282252,69280,10220
+0100000US,,United States,71131,"Promoters of performing arts, sports, and similar events with facilities",T,Establishments subject to federal income tax,001,All firms,2002,857,3596944,100.0,770598,190801,50484
+0100000US,,United States,71131,"Promoters of performing arts, sports, and similar events with facilities",T,Establishments subject to federal income tax,804,4 largest firms,2002,85,992481,27.6,191679,48815,13488
+0100000US,,United States,71131,"Promoters of performing arts, sports, and similar events with facilities",T,Establishments subject to federal income tax,808,8 largest firms,2002,92,1393151,38.7,267179,66826,18161
+0100000US,,United States,71131,"Promoters of performing arts, sports, and similar events with facilities",T,Establishments subject to federal income tax,820,20 largest firms,2002,110,2110915,58.7,397070,101151,26690
+0100000US,,United States,71131,"Promoters of performing arts, sports, and similar events with facilities",T,Establishments subject to federal income tax,850,50 largest firms,2002,145,2853743,79.3,592122,148556,38484
+0100000US,,United States,711310,"Promoters of performing arts, sports, and similar events with facilities",A,All establishments,001,All firms,2002,1699,5315254,100.0,1218146,297826,71314
+0100000US,,United States,711310,"Promoters of performing arts, sports, and similar events with facilities",A,All establishments,804,4 largest firms,2002,86,995856,18.7,193384,49306,13689
+0100000US,,United States,711310,"Promoters of performing arts, sports, and similar events with facilities",A,All establishments,808,8 largest firms,2002,93,1396526,26.3,268884,67317,18362
+0100000US,,United States,711310,"Promoters of performing arts, sports, and similar events with facilities",A,All establishments,820,20 largest firms,2002,107,2171467,40.9,451723,115835,27702
+0100000US,,United States,711310,"Promoters of performing arts, sports, and similar events with facilities",A,All establishments,850,50 largest firms,2002,150,3188479,60.0,680415,171624,38142
+0100000US,,United States,711310,"Promoters of performing arts, sports, and similar events with facilities",N,Establishments exempt from federal income tax,001,All firms,2002,842,1718310,100.0,447548,107025,20830
+0100000US,,United States,711310,"Promoters of performing arts, sports, and similar events with facilities",N,Establishments exempt from federal income tax,804,4 largest firms,2002,6,241888,14.1,101565,27194,2201
+0100000US,,United States,711310,"Promoters of performing arts, sports, and similar events with facilities",N,Establishments exempt from federal income tax,808,8 largest firms,2002,12,403901,23.5,130127,33941,3115
+0100000US,,United States,711310,"Promoters of performing arts, sports, and similar events with facilities",N,Establishments exempt from federal income tax,820,20 largest firms,2002,25,701358,40.8,189755,47141,5406
+0100000US,,United States,711310,"Promoters of performing arts, sports, and similar events with facilities",N,Establishments exempt from federal income tax,850,50 largest firms,2002,65,1046604,60.9,282252,69280,10220
+0100000US,,United States,711310,"Promoters of performing arts, sports, and similar events with facilities",T,Establishments subject to federal income tax,001,All firms,2002,857,3596944,100.0,770598,190801,50484
+0100000US,,United States,711310,"Promoters of performing arts, sports, and similar events with facilities",T,Establishments subject to federal income tax,804,4 largest firms,2002,85,992481,27.6,191679,48815,13488
+0100000US,,United States,711310,"Promoters of performing arts, sports, and similar events with facilities",T,Establishments subject to federal income tax,808,8 largest firms,2002,92,1393151,38.7,267179,66826,18161
+0100000US,,United States,711310,"Promoters of performing arts, sports, and similar events with facilities",T,Establishments subject to federal income tax,820,20 largest firms,2002,110,2110915,58.7,397070,101151,26690
+0100000US,,United States,711310,"Promoters of performing arts, sports, and similar events with facilities",T,Establishments subject to federal income tax,850,50 largest firms,2002,145,2853743,79.3,592122,148556,38484
+0100000US,,United States,71132,"Promoters of performing arts, sports, and similar events without facilities",A,All establishments,001,All firms,2002,3537,6853297,100.0,965894,267893,31152
+0100000US,,United States,71132,"Promoters of performing arts, sports, and similar events without facilities",A,All establishments,804,4 largest firms,2002,15,3072788,44.8,238256,95574,6617
+0100000US,,United States,71132,"Promoters of performing arts, sports, and similar events without facilities",A,All establishments,808,8 largest firms,2002,43,3371320,49.2,263899,102028,7026
+0100000US,,United States,71132,"Promoters of performing arts, sports, and similar events without facilities",A,All establishments,820,20 largest firms,2002,81,3817483,55.7,377128,132808,8679
+0100000US,,United States,71132,"Promoters of performing arts, sports, and similar events without facilities",A,All establishments,850,50 largest firms,2002,120,4319207,63.0,465538,153397,10291
+0100000US,,United States,71132,"Promoters of performing arts, sports, and similar events without facilities",N,Establishments exempt from federal income tax,001,All firms,2002,1152,2431365,100.0,253809,99458,12489
+0100000US,,United States,71132,"Promoters of performing arts, sports, and similar events without facilities",N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,1551159,63.8,116401,66245,4971
+0100000US,,United States,71132,"Promoters of performing arts, sports, and similar events without facilities",N,Establishments exempt from federal income tax,808,8 largest firms,2002,8,1624853,66.8,121402,67721,5381
+0100000US,,United States,71132,"Promoters of performing arts, sports, and similar events without facilities",N,Establishments exempt from federal income tax,820,20 largest firms,2002,20,1744092,71.7,140212,73405,6631
+0100000US,,United States,71132,"Promoters of performing arts, sports, and similar events without facilities",N,Establishments exempt from federal income tax,850,50 largest firms,2002,51,1902661,78.3,166144,79700,7775
+0100000US,,United States,71132,"Promoters of performing arts, sports, and similar events without facilities",T,Establishments subject to federal income tax,001,All firms,2002,2385,4421932,100.0,712085,168435,18663
+0100000US,,United States,71132,"Promoters of performing arts, sports, and similar events without facilities",T,Establishments subject to federal income tax,804,4 largest firms,2002,39,1779265,40.2,148164,36861,2136
+0100000US,,United States,71132,"Promoters of performing arts, sports, and similar events without facilities",T,Establishments subject to federal income tax,808,8 largest firms,2002,47,1994791,45.1,172576,43029,2516
+0100000US,,United States,71132,"Promoters of performing arts, sports, and similar events without facilities",T,Establishments subject to federal income tax,820,20 largest firms,2002,82,2354645,53.2,274543,69427,3907
+0100000US,,United States,71132,"Promoters of performing arts, sports, and similar events without facilities",T,Establishments subject to federal income tax,850,50 largest firms,2002,122,2770463,62.7,357101,88017,5143
+0100000US,,United States,711320,"Promoters of performing arts, sports, and similar events without facilities",A,All establishments,001,All firms,2002,3537,6853297,100.0,965894,267893,31152
+0100000US,,United States,711320,"Promoters of performing arts, sports, and similar events without facilities",A,All establishments,804,4 largest firms,2002,15,3072788,44.8,238256,95574,6617
+0100000US,,United States,711320,"Promoters of performing arts, sports, and similar events without facilities",A,All establishments,808,8 largest firms,2002,43,3371320,49.2,263899,102028,7026
+0100000US,,United States,711320,"Promoters of performing arts, sports, and similar events without facilities",A,All establishments,820,20 largest firms,2002,81,3817483,55.7,377128,132808,8679
+0100000US,,United States,711320,"Promoters of performing arts, sports, and similar events without facilities",A,All establishments,850,50 largest firms,2002,120,4319207,63.0,465538,153397,10291
+0100000US,,United States,711320,"Promoters of performing arts, sports, and similar events without facilities",N,Establishments exempt from federal income tax,001,All firms,2002,1152,2431365,100.0,253809,99458,12489
+0100000US,,United States,711320,"Promoters of performing arts, sports, and similar events without facilities",N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,1551159,63.8,116401,66245,4971
+0100000US,,United States,711320,"Promoters of performing arts, sports, and similar events without facilities",N,Establishments exempt from federal income tax,808,8 largest firms,2002,8,1624853,66.8,121402,67721,5381
+0100000US,,United States,711320,"Promoters of performing arts, sports, and similar events without facilities",N,Establishments exempt from federal income tax,820,20 largest firms,2002,20,1744092,71.7,140212,73405,6631
+0100000US,,United States,711320,"Promoters of performing arts, sports, and similar events without facilities",N,Establishments exempt from federal income tax,850,50 largest firms,2002,51,1902661,78.3,166144,79700,7775
+0100000US,,United States,711320,"Promoters of performing arts, sports, and similar events without facilities",T,Establishments subject to federal income tax,001,All firms,2002,2385,4421932,100.0,712085,168435,18663
+0100000US,,United States,711320,"Promoters of performing arts, sports, and similar events without facilities",T,Establishments subject to federal income tax,804,4 largest firms,2002,39,1779265,40.2,148164,36861,2136
+0100000US,,United States,711320,"Promoters of performing arts, sports, and similar events without facilities",T,Establishments subject to federal income tax,808,8 largest firms,2002,47,1994791,45.1,172576,43029,2516
+0100000US,,United States,711320,"Promoters of performing arts, sports, and similar events without facilities",T,Establishments subject to federal income tax,820,20 largest firms,2002,82,2354645,53.2,274543,69427,3907
+0100000US,,United States,711320,"Promoters of performing arts, sports, and similar events without facilities",T,Establishments subject to federal income tax,850,50 largest firms,2002,122,2770463,62.7,357101,88017,5143
+0100000US,,United States,7114,"Agents and managers for artists, athletes, entertainers, and other public figures",A,All establishments,001,All firms,2002,3262,3602288,100.0,1251493,291620,17291
+0100000US,,United States,7114,"Agents and managers for artists, athletes, entertainers, and other public figures",A,All establishments,804,4 largest firms,2002,18,685903,19.0,296458,78835,1987
+0100000US,,United States,7114,"Agents and managers for artists, athletes, entertainers, and other public figures",A,All establishments,808,8 largest firms,2002,25,916596,25.4,391057,100963,2687
+0100000US,,United States,7114,"Agents and managers for artists, athletes, entertainers, and other public figures",A,All establishments,820,20 largest firms,2002,47,1262583,35.0,514050,122652,3469
+0100000US,,United States,7114,"Agents and managers for artists, athletes, entertainers, and other public figures",A,All establishments,850,50 largest firms,2002,89,1613620,44.8,651295,152387,4852
+0100000US,,United States,7114,"Agents and managers for artists, athletes, entertainers, and other public figures",T,Establishments subject to federal income tax,001,All firms,2002,3262,3602288,100.0,1251493,291620,17291
+0100000US,,United States,7114,"Agents and managers for artists, athletes, entertainers, and other public figures",T,Establishments subject to federal income tax,804,4 largest firms,2002,18,685903,19.0,296458,78835,1987
+0100000US,,United States,7114,"Agents and managers for artists, athletes, entertainers, and other public figures",T,Establishments subject to federal income tax,808,8 largest firms,2002,25,916596,25.4,391057,100963,2687
+0100000US,,United States,7114,"Agents and managers for artists, athletes, entertainers, and other public figures",T,Establishments subject to federal income tax,820,20 largest firms,2002,47,1262583,35.0,514050,122652,3469
+0100000US,,United States,7114,"Agents and managers for artists, athletes, entertainers, and other public figures",T,Establishments subject to federal income tax,850,50 largest firms,2002,89,1613620,44.8,651295,152387,4852
+0100000US,,United States,71141,"Agents and managers for artists, athletes, entertainers, and other public figures",A,All establishments,001,All firms,2002,3262,3602288,100.0,1251493,291620,17291
+0100000US,,United States,71141,"Agents and managers for artists, athletes, entertainers, and other public figures",A,All establishments,804,4 largest firms,2002,18,685903,19.0,296458,78835,1987
+0100000US,,United States,71141,"Agents and managers for artists, athletes, entertainers, and other public figures",A,All establishments,808,8 largest firms,2002,25,916596,25.4,391057,100963,2687
+0100000US,,United States,71141,"Agents and managers for artists, athletes, entertainers, and other public figures",A,All establishments,820,20 largest firms,2002,47,1262583,35.0,514050,122652,3469
+0100000US,,United States,71141,"Agents and managers for artists, athletes, entertainers, and other public figures",A,All establishments,850,50 largest firms,2002,89,1613620,44.8,651295,152387,4852
+0100000US,,United States,71141,"Agents and managers for artists, athletes, entertainers, and other public figures",T,Establishments subject to federal income tax,001,All firms,2002,3262,3602288,100.0,1251493,291620,17291
+0100000US,,United States,71141,"Agents and managers for artists, athletes, entertainers, and other public figures",T,Establishments subject to federal income tax,804,4 largest firms,2002,18,685903,19.0,296458,78835,1987
+0100000US,,United States,71141,"Agents and managers for artists, athletes, entertainers, and other public figures",T,Establishments subject to federal income tax,808,8 largest firms,2002,25,916596,25.4,391057,100963,2687
+0100000US,,United States,71141,"Agents and managers for artists, athletes, entertainers, and other public figures",T,Establishments subject to federal income tax,820,20 largest firms,2002,47,1262583,35.0,514050,122652,3469
+0100000US,,United States,71141,"Agents and managers for artists, athletes, entertainers, and other public figures",T,Establishments subject to federal income tax,850,50 largest firms,2002,89,1613620,44.8,651295,152387,4852
+0100000US,,United States,711410,"Agents and managers for artists, athletes, entertainers, and other public figures",A,All establishments,001,All firms,2002,3262,3602288,100.0,1251493,291620,17291
+0100000US,,United States,711410,"Agents and managers for artists, athletes, entertainers, and other public figures",A,All establishments,804,4 largest firms,2002,18,685903,19.0,296458,78835,1987
+0100000US,,United States,711410,"Agents and managers for artists, athletes, entertainers, and other public figures",A,All establishments,808,8 largest firms,2002,25,916596,25.4,391057,100963,2687
+0100000US,,United States,711410,"Agents and managers for artists, athletes, entertainers, and other public figures",A,All establishments,820,20 largest firms,2002,47,1262583,35.0,514050,122652,3469
+0100000US,,United States,711410,"Agents and managers for artists, athletes, entertainers, and other public figures",A,All establishments,850,50 largest firms,2002,89,1613620,44.8,651295,152387,4852
+0100000US,,United States,711410,"Agents and managers for artists, athletes, entertainers, and other public figures",T,Establishments subject to federal income tax,001,All firms,2002,3262,3602288,100.0,1251493,291620,17291
+0100000US,,United States,711410,"Agents and managers for artists, athletes, entertainers, and other public figures",T,Establishments subject to federal income tax,804,4 largest firms,2002,18,685903,19.0,296458,78835,1987
+0100000US,,United States,711410,"Agents and managers for artists, athletes, entertainers, and other public figures",T,Establishments subject to federal income tax,808,8 largest firms,2002,25,916596,25.4,391057,100963,2687
+0100000US,,United States,711410,"Agents and managers for artists, athletes, entertainers, and other public figures",T,Establishments subject to federal income tax,820,20 largest firms,2002,47,1262583,35.0,514050,122652,3469
+0100000US,,United States,711410,"Agents and managers for artists, athletes, entertainers, and other public figures",T,Establishments subject to federal income tax,850,50 largest firms,2002,89,1613620,44.8,651295,152387,4852
+0100000US,,United States,7115,"Independent artists, writers, and performers",A,All establishments,001,All firms,2002,15862,9337795,100.0,4323426,934030,56828
+0100000US,,United States,7115,"Independent artists, writers, and performers",A,All establishments,804,4 largest firms,2002,4,395831,4.2,142019,30120,7
+0100000US,,United States,7115,"Independent artists, writers, and performers",A,All establishments,808,8 largest firms,2002,8,582489,6.2,240287,40401,784
+0100000US,,United States,7115,"Independent artists, writers, and performers",A,All establishments,820,20 largest firms,2002,20,1026894,11.0,439634,65147,988
+0100000US,,United States,7115,"Independent artists, writers, and performers",A,All establishments,850,50 largest firms,2002,51,1770531,19.0,850665,102842,2255
+0100000US,,United States,7115,"Independent artists, writers, and performers",T,Establishments subject to federal income tax,001,All firms,2002,15862,9337795,100.0,4323426,934030,56828
+0100000US,,United States,7115,"Independent artists, writers, and performers",T,Establishments subject to federal income tax,804,4 largest firms,2002,4,395831,4.2,142019,30120,7
+0100000US,,United States,7115,"Independent artists, writers, and performers",T,Establishments subject to federal income tax,808,8 largest firms,2002,8,582489,6.2,240287,40401,784
+0100000US,,United States,7115,"Independent artists, writers, and performers",T,Establishments subject to federal income tax,820,20 largest firms,2002,20,1026894,11.0,439634,65147,988
+0100000US,,United States,7115,"Independent artists, writers, and performers",T,Establishments subject to federal income tax,850,50 largest firms,2002,51,1770531,19.0,850665,102842,2255
+0100000US,,United States,71151,"Independent artists, writers, and performers",A,All establishments,001,All firms,2002,15862,9337795,100.0,4323426,934030,56828
+0100000US,,United States,71151,"Independent artists, writers, and performers",A,All establishments,804,4 largest firms,2002,4,395831,4.2,142019,30120,7
+0100000US,,United States,71151,"Independent artists, writers, and performers",A,All establishments,808,8 largest firms,2002,8,582489,6.2,240287,40401,784
+0100000US,,United States,71151,"Independent artists, writers, and performers",A,All establishments,820,20 largest firms,2002,20,1026894,11.0,439634,65147,988
+0100000US,,United States,71151,"Independent artists, writers, and performers",A,All establishments,850,50 largest firms,2002,51,1770531,19.0,850665,102842,2255
+0100000US,,United States,71151,"Independent artists, writers, and performers",T,Establishments subject to federal income tax,001,All firms,2002,15862,9337795,100.0,4323426,934030,56828
+0100000US,,United States,71151,"Independent artists, writers, and performers",T,Establishments subject to federal income tax,804,4 largest firms,2002,4,395831,4.2,142019,30120,7
+0100000US,,United States,71151,"Independent artists, writers, and performers",T,Establishments subject to federal income tax,808,8 largest firms,2002,8,582489,6.2,240287,40401,784
+0100000US,,United States,71151,"Independent artists, writers, and performers",T,Establishments subject to federal income tax,820,20 largest firms,2002,20,1026894,11.0,439634,65147,988
+0100000US,,United States,71151,"Independent artists, writers, and performers",T,Establishments subject to federal income tax,850,50 largest firms,2002,51,1770531,19.0,850665,102842,2255
+0100000US,,United States,711510,"Independent artists, writers, and performers",A,All establishments,001,All firms,2002,15862,9337795,100.0,4323426,934030,56828
+0100000US,,United States,711510,"Independent artists, writers, and performers",A,All establishments,804,4 largest firms,2002,4,395831,4.2,142019,30120,7
+0100000US,,United States,711510,"Independent artists, writers, and performers",A,All establishments,808,8 largest firms,2002,8,582489,6.2,240287,40401,784
+0100000US,,United States,711510,"Independent artists, writers, and performers",A,All establishments,820,20 largest firms,2002,20,1026894,11.0,439634,65147,988
+0100000US,,United States,711510,"Independent artists, writers, and performers",A,All establishments,850,50 largest firms,2002,51,1770531,19.0,850665,102842,2255
+0100000US,,United States,711510,"Independent artists, writers, and performers",T,Establishments subject to federal income tax,001,All firms,2002,15862,9337795,100.0,4323426,934030,56828
+0100000US,,United States,711510,"Independent artists, writers, and performers",T,Establishments subject to federal income tax,804,4 largest firms,2002,4,395831,4.2,142019,30120,7
+0100000US,,United States,711510,"Independent artists, writers, and performers",T,Establishments subject to federal income tax,808,8 largest firms,2002,8,582489,6.2,240287,40401,784
+0100000US,,United States,711510,"Independent artists, writers, and performers",T,Establishments subject to federal income tax,820,20 largest firms,2002,20,1026894,11.0,439634,65147,988
+0100000US,,United States,711510,"Independent artists, writers, and performers",T,Establishments subject to federal income tax,850,50 largest firms,2002,51,1770531,19.0,850665,102842,2255
+0100000US,,United States,712,"Museums, historical sites, and similar institutions",A,All establishments,001,All firms,2002,6663,8607959,100.0,2935152,703957,123098
+0100000US,,United States,712,"Museums, historical sites, and similar institutions",A,All establishments,804,4 largest firms,2002,4,651165,7.6,231663,56971,7658
+0100000US,,United States,712,"Museums, historical sites, and similar institutions",A,All establishments,808,8 largest firms,2002,15,1109181,12.9,384187,98482,12653
+0100000US,,United States,712,"Museums, historical sites, and similar institutions",A,All establishments,820,20 largest firms,2002,49,1770838,20.6,565230,140208,19014
+0100000US,,United States,712,"Museums, historical sites, and similar institutions",A,All establishments,850,50 largest firms,2002,153,2795670,32.5,891564,219854,31580
+0100000US,,United States,712,"Museums, historical sites, and similar institutions",N,Establishments exempt from federal income tax,001,All firms,2002,5788,7857665,100.0,2724115,657787,112935
+0100000US,,United States,712,"Museums, historical sites, and similar institutions",N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,651165,8.3,231663,56971,7658
+0100000US,,United States,712,"Museums, historical sites, and similar institutions",N,Establishments exempt from federal income tax,808,8 largest firms,2002,15,1109181,14.1,384187,98482,12653
+0100000US,,United States,712,"Museums, historical sites, and similar institutions",N,Establishments exempt from federal income tax,820,20 largest firms,2002,38,1736564,22.1,576905,142685,19679
+0100000US,,United States,712,"Museums, historical sites, and similar institutions",N,Establishments exempt from federal income tax,850,50 largest firms,2002,144,2700811,34.4,887711,219128,31192
+0100000US,,United States,712,"Museums, historical sites, and similar institutions",T,Establishments subject to federal income tax,001,All firms,2002,875,750294,100.0,211037,46170,10163
+0100000US,,United States,712,"Museums, historical sites, and similar institutions",T,Establishments subject to federal income tax,804,4 largest firms,2002,15,194719,26.0,43201,9613,1657
+0100000US,,United States,712,"Museums, historical sites, and similar institutions",T,Establishments subject to federal income tax,808,8 largest firms,2002,19,251398,33.5,60301,14003,2648
+0100000US,,United States,712,"Museums, historical sites, and similar institutions",T,Establishments subject to federal income tax,820,20 largest firms,2002,34,342744,45.7,86058,19944,3673
+0100000US,,United States,712,"Museums, historical sites, and similar institutions",T,Establishments subject to federal income tax,850,50 largest firms,2002,66,450530,60.0,118386,26769,5092
+0100000US,,United States,7121,"Museums, historical sites, and similar institutions",A,All establishments,001,All firms,2002,6663,8607959,100.0,2935152,703957,123098
+0100000US,,United States,7121,"Museums, historical sites, and similar institutions",A,All establishments,804,4 largest firms,2002,4,651165,7.6,231663,56971,7658
+0100000US,,United States,7121,"Museums, historical sites, and similar institutions",A,All establishments,808,8 largest firms,2002,15,1109181,12.9,384187,98482,12653
+0100000US,,United States,7121,"Museums, historical sites, and similar institutions",A,All establishments,820,20 largest firms,2002,49,1770838,20.6,565230,140208,19014
+0100000US,,United States,7121,"Museums, historical sites, and similar institutions",A,All establishments,850,50 largest firms,2002,153,2795670,32.5,891564,219854,31580
+0100000US,,United States,7121,"Museums, historical sites, and similar institutions",N,Establishments exempt from federal income tax,001,All firms,2002,5788,7857665,100.0,2724115,657787,112935
+0100000US,,United States,7121,"Museums, historical sites, and similar institutions",N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,651165,8.3,231663,56971,7658
+0100000US,,United States,7121,"Museums, historical sites, and similar institutions",N,Establishments exempt from federal income tax,808,8 largest firms,2002,15,1109181,14.1,384187,98482,12653
+0100000US,,United States,7121,"Museums, historical sites, and similar institutions",N,Establishments exempt from federal income tax,820,20 largest firms,2002,38,1736564,22.1,576905,142685,19679
+0100000US,,United States,7121,"Museums, historical sites, and similar institutions",N,Establishments exempt from federal income tax,850,50 largest firms,2002,144,2700811,34.4,887711,219128,31192
+0100000US,,United States,7121,"Museums, historical sites, and similar institutions",T,Establishments subject to federal income tax,001,All firms,2002,875,750294,100.0,211037,46170,10163
+0100000US,,United States,7121,"Museums, historical sites, and similar institutions",T,Establishments subject to federal income tax,804,4 largest firms,2002,15,194719,26.0,43201,9613,1657
+0100000US,,United States,7121,"Museums, historical sites, and similar institutions",T,Establishments subject to federal income tax,808,8 largest firms,2002,19,251398,33.5,60301,14003,2648
+0100000US,,United States,7121,"Museums, historical sites, and similar institutions",T,Establishments subject to federal income tax,820,20 largest firms,2002,34,342744,45.7,86058,19944,3673
+0100000US,,United States,7121,"Museums, historical sites, and similar institutions",T,Establishments subject to federal income tax,850,50 largest firms,2002,66,450530,60.0,118386,26769,5092
+0100000US,,United States,71211,Museums,A,All establishments,001,All firms,2002,4533,5907767,100.0,1999583,485980,82061
+0100000US,,United States,71211,Museums,A,All establishments,804,4 largest firms,2002,4,651165,11.0,231663,56971,7658
+0100000US,,United States,71211,Museums,A,All establishments,808,8 largest firms,2002,14,976330,16.5,328345,82206,11017
+0100000US,,United States,71211,Museums,A,All establishments,820,20 largest firms,2002,31,1560234,26.4,491933,120935,16853
+0100000US,,United States,71211,Museums,A,All establishments,850,50 largest firms,2002,81,2325639,39.4,756135,187339,25753
+0100000US,,United States,71211,Museums,N,Establishments exempt from federal income tax,001,All firms,2002,4117,5540305,100.0,1906343,465503,78251
+0100000US,,United States,71211,Museums,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,651165,11.8,231663,56971,7658
+0100000US,,United States,71211,Museums,N,Establishments exempt from federal income tax,808,8 largest firms,2002,14,976330,17.6,328345,82206,11017
+0100000US,,United States,71211,Museums,N,Establishments exempt from federal income tax,820,20 largest firms,2002,31,1516890,27.4,484844,120171,16584
+0100000US,,United States,71211,Museums,N,Establishments exempt from federal income tax,850,50 largest firms,2002,82,2246456,40.5,746681,185556,25378
+0100000US,,United States,71211,Museums,T,Establishments subject to federal income tax,001,All firms,2002,416,367462,100.0,93240,20477,3810
+0100000US,,United States,71211,Museums,T,Establishments subject to federal income tax,804,4 largest firms,2002,13,155026,42.2,36209,8127,1419
+0100000US,,United States,71211,Museums,T,Establishments subject to federal income tax,808,8 largest firms,2002,17,196886,53.6,46772,10744,1637
+0100000US,,United States,71211,Museums,T,Establishments subject to federal income tax,820,20 largest firms,2002,30,242839,66.1,60191,13323,2030
+0100000US,,United States,71211,Museums,T,Establishments subject to federal income tax,850,50 largest firms,2002,64,287706,78.3,71627,15640,2572
+0100000US,,United States,712110,Museums,A,All establishments,001,All firms,2002,4533,5907767,100.0,1999583,485980,82061
+0100000US,,United States,712110,Museums,A,All establishments,804,4 largest firms,2002,4,651165,11.0,231663,56971,7658
+0100000US,,United States,712110,Museums,A,All establishments,808,8 largest firms,2002,14,976330,16.5,328345,82206,11017
+0100000US,,United States,712110,Museums,A,All establishments,820,20 largest firms,2002,31,1560234,26.4,491933,120935,16853
+0100000US,,United States,712110,Museums,A,All establishments,850,50 largest firms,2002,81,2325639,39.4,756135,187339,25753
+0100000US,,United States,712110,Museums,N,Establishments exempt from federal income tax,001,All firms,2002,4117,5540305,100.0,1906343,465503,78251
+0100000US,,United States,712110,Museums,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,651165,11.8,231663,56971,7658
+0100000US,,United States,712110,Museums,N,Establishments exempt from federal income tax,808,8 largest firms,2002,14,976330,17.6,328345,82206,11017
+0100000US,,United States,712110,Museums,N,Establishments exempt from federal income tax,820,20 largest firms,2002,31,1516890,27.4,484844,120171,16584
+0100000US,,United States,712110,Museums,N,Establishments exempt from federal income tax,850,50 largest firms,2002,82,2246456,40.5,746681,185556,25378
+0100000US,,United States,712110,Museums,T,Establishments subject to federal income tax,001,All firms,2002,416,367462,100.0,93240,20477,3810
+0100000US,,United States,712110,Museums,T,Establishments subject to federal income tax,804,4 largest firms,2002,13,155026,42.2,36209,8127,1419
+0100000US,,United States,712110,Museums,T,Establishments subject to federal income tax,808,8 largest firms,2002,17,196886,53.6,46772,10744,1637
+0100000US,,United States,712110,Museums,T,Establishments subject to federal income tax,820,20 largest firms,2002,30,242839,66.1,60191,13323,2030
+0100000US,,United States,712110,Museums,T,Establishments subject to federal income tax,850,50 largest firms,2002,64,287706,78.3,71627,15640,2572
+0100000US,,United States,71212,Historical sites,A,All establishments,001,All firms,2002,999,550650,100.0,184994,41862,10277
+0100000US,,United States,71212,Historical sites,A,All establishments,804,4 largest firms,2002,4,127616,23.2,35598,8245,1779
+0100000US,,United States,71212,Historical sites,A,All establishments,808,8 largest firms,2002,8,160192,29.1,45227,10621,2131
+0100000US,,United States,71212,Historical sites,A,All establishments,820,20 largest firms,2002,53,224330,40.7,70948,15790,3601
+0100000US,,United States,71212,Historical sites,A,All establishments,850,50 largest firms,2002,105,315117,57.2,103022,23263,4956
+0100000US,,United States,71212,Historical sites,N,Establishments exempt from federal income tax,001,All firms,2002,918,516001,100.0,171728,38878,9448
+0100000US,,United States,71212,Historical sites,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,127616,24.7,35598,8245,1779
+0100000US,,United States,71212,Historical sites,N,Establishments exempt from federal income tax,808,8 largest firms,2002,8,160192,31.0,45227,10621,2131
+0100000US,,United States,71212,Historical sites,N,Establishments exempt from federal income tax,820,20 largest firms,2002,53,223879,43.4,70650,15770,3580
+0100000US,,United States,71212,Historical sites,N,Establishments exempt from federal income tax,850,50 largest firms,2002,107,307894,59.7,100809,22783,4869
+0100000US,,United States,71212,Historical sites,T,Establishments subject to federal income tax,001,All firms,2002,81,34649,100.0,13266,2984,829
+0100000US,,United States,71212,Historical sites,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,14976,43.2,4968,1100,270
+0100000US,,United States,71212,Historical sites,T,Establishments subject to federal income tax,808,8 largest firms,2002,8,20423,58.9,6882,1540,391
+0100000US,,United States,71212,Historical sites,T,Establishments subject to federal income tax,820,20 largest firms,2002,20,27260,78.7,9929,2203,604
+0100000US,,United States,71212,Historical sites,T,Establishments subject to federal income tax,850,50 largest firms,2002,50,33339,96.2,12778,2865,777
+0100000US,,United States,712120,Historical sites,A,All establishments,001,All firms,2002,999,550650,100.0,184994,41862,10277
+0100000US,,United States,712120,Historical sites,A,All establishments,804,4 largest firms,2002,4,127616,23.2,35598,8245,1779
+0100000US,,United States,712120,Historical sites,A,All establishments,808,8 largest firms,2002,8,160192,29.1,45227,10621,2131
+0100000US,,United States,712120,Historical sites,A,All establishments,820,20 largest firms,2002,53,224330,40.7,70948,15790,3601
+0100000US,,United States,712120,Historical sites,A,All establishments,850,50 largest firms,2002,105,315117,57.2,103022,23263,4956
+0100000US,,United States,712120,Historical sites,N,Establishments exempt from federal income tax,001,All firms,2002,918,516001,100.0,171728,38878,9448
+0100000US,,United States,712120,Historical sites,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,127616,24.7,35598,8245,1779
+0100000US,,United States,712120,Historical sites,N,Establishments exempt from federal income tax,808,8 largest firms,2002,8,160192,31.0,45227,10621,2131
+0100000US,,United States,712120,Historical sites,N,Establishments exempt from federal income tax,820,20 largest firms,2002,53,223879,43.4,70650,15770,3580
+0100000US,,United States,712120,Historical sites,N,Establishments exempt from federal income tax,850,50 largest firms,2002,107,307894,59.7,100809,22783,4869
+0100000US,,United States,712120,Historical sites,T,Establishments subject to federal income tax,001,All firms,2002,81,34649,100.0,13266,2984,829
+0100000US,,United States,712120,Historical sites,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,14976,43.2,4968,1100,270
+0100000US,,United States,712120,Historical sites,T,Establishments subject to federal income tax,808,8 largest firms,2002,8,20423,58.9,6882,1540,391
+0100000US,,United States,712120,Historical sites,T,Establishments subject to federal income tax,820,20 largest firms,2002,20,27260,78.7,9929,2203,604
+0100000US,,United States,712120,Historical sites,T,Establishments subject to federal income tax,850,50 largest firms,2002,50,33339,96.2,12778,2865,777
+0100000US,,United States,71213,Zoos and botanical gardens,A,All establishments,001,All firms,2002,558,1789048,100.0,628540,149531,25323
+0100000US,,United States,71213,Zoos and botanical gardens,A,All establishments,804,4 largest firms,2002,10,362388,20.3,127941,32053,3974
+0100000US,,United States,71213,Zoos and botanical gardens,A,All establishments,808,8 largest firms,2002,15,527272,29.5,172284,42604,5616
+0100000US,,United States,71213,Zoos and botanical gardens,A,All establishments,820,20 largest firms,2002,29,843660,47.2,282602,69008,9722
+0100000US,,United States,71213,Zoos and botanical gardens,A,All establishments,850,50 largest firms,2002,61,1246056,69.6,426241,103432,16022
+0100000US,,United States,71213,Zoos and botanical gardens,N,Establishments exempt from federal income tax,001,All firms,2002,359,1561311,100.0,565621,135159,21904
+0100000US,,United States,71213,Zoos and botanical gardens,N,Establishments exempt from federal income tax,804,4 largest firms,2002,10,362388,23.2,127941,32053,3974
+0100000US,,United States,71213,Zoos and botanical gardens,N,Establishments exempt from federal income tax,808,8 largest firms,2002,14,520248,33.3,176065,43530,5938
+0100000US,,United States,71213,Zoos and botanical gardens,N,Establishments exempt from federal income tax,820,20 largest firms,2002,28,824165,52.8,284223,69257,9740
+0100000US,,United States,71213,Zoos and botanical gardens,N,Establishments exempt from federal income tax,850,50 largest firms,2002,60,1198374,76.8,423394,102297,15603
+0100000US,,United States,71213,Zoos and botanical gardens,T,Establishments subject to federal income tax,001,All firms,2002,199,227737,100.0,62919,14372,3419
+0100000US,,United States,71213,Zoos and botanical gardens,T,Establishments subject to federal income tax,804,4 largest firms,2002,5,80162,35.2,19465,4789,1115
+0100000US,,United States,71213,Zoos and botanical gardens,T,Establishments subject to federal income tax,808,8 largest firms,2002,9,113910,50.0,28946,7044,1607
+0100000US,,United States,71213,Zoos and botanical gardens,T,Establishments subject to federal income tax,820,20 largest firms,2002,22,155253,68.2,41107,9914,2282
+0100000US,,United States,71213,Zoos and botanical gardens,T,Establishments subject to federal income tax,850,50 largest firms,2002,52,197383,86.7,53616,12219,2853
+0100000US,,United States,712130,Zoos and botanical gardens,A,All establishments,001,All firms,2002,558,1789048,100.0,628540,149531,25323
+0100000US,,United States,712130,Zoos and botanical gardens,A,All establishments,804,4 largest firms,2002,10,362388,20.3,127941,32053,3974
+0100000US,,United States,712130,Zoos and botanical gardens,A,All establishments,808,8 largest firms,2002,15,527272,29.5,172284,42604,5616
+0100000US,,United States,712130,Zoos and botanical gardens,A,All establishments,820,20 largest firms,2002,29,843660,47.2,282602,69008,9722
+0100000US,,United States,712130,Zoos and botanical gardens,A,All establishments,850,50 largest firms,2002,61,1246056,69.6,426241,103432,16022
+0100000US,,United States,712130,Zoos and botanical gardens,N,Establishments exempt from federal income tax,001,All firms,2002,359,1561311,100.0,565621,135159,21904
+0100000US,,United States,712130,Zoos and botanical gardens,N,Establishments exempt from federal income tax,804,4 largest firms,2002,10,362388,23.2,127941,32053,3974
+0100000US,,United States,712130,Zoos and botanical gardens,N,Establishments exempt from federal income tax,808,8 largest firms,2002,14,520248,33.3,176065,43530,5938
+0100000US,,United States,712130,Zoos and botanical gardens,N,Establishments exempt from federal income tax,820,20 largest firms,2002,28,824165,52.8,284223,69257,9740
+0100000US,,United States,712130,Zoos and botanical gardens,N,Establishments exempt from federal income tax,850,50 largest firms,2002,60,1198374,76.8,423394,102297,15603
+0100000US,,United States,712130,Zoos and botanical gardens,T,Establishments subject to federal income tax,001,All firms,2002,199,227737,100.0,62919,14372,3419
+0100000US,,United States,712130,Zoos and botanical gardens,T,Establishments subject to federal income tax,804,4 largest firms,2002,5,80162,35.2,19465,4789,1115
+0100000US,,United States,712130,Zoos and botanical gardens,T,Establishments subject to federal income tax,808,8 largest firms,2002,9,113910,50.0,28946,7044,1607
+0100000US,,United States,712130,Zoos and botanical gardens,T,Establishments subject to federal income tax,820,20 largest firms,2002,22,155253,68.2,41107,9914,2282
+0100000US,,United States,712130,Zoos and botanical gardens,T,Establishments subject to federal income tax,850,50 largest firms,2002,52,197383,86.7,53616,12219,2853
+0100000US,,United States,71219,Nature parks and other similar institutions,A,All establishments,001,All firms,2002,573,360494,100.0,122035,26584,5437
+0100000US,,United States,71219,Nature parks and other similar institutions,A,All establishments,804,4 largest firms,2002,79,79112,21.9,19805,4341,546
+0100000US,,United States,71219,Nature parks and other similar institutions,A,All establishments,808,8 largest firms,2002,83,106676,29.6,30611,6935,963
+0100000US,,United States,71219,Nature parks and other similar institutions,A,All establishments,820,20 largest firms,2002,95,156121,43.3,44673,9956,1613
+0100000US,,United States,71219,Nature parks and other similar institutions,A,All establishments,850,50 largest firms,2002,132,223344,62.0,66673,14419,2589
+0100000US,,United States,71219,Nature parks and other similar institutions,N,Establishments exempt from federal income tax,001,All firms,2002,394,240048,100.0,80423,18247,3332
+0100000US,,United States,71219,Nature parks and other similar institutions,N,Establishments exempt from federal income tax,804,4 largest firms,2002,79,79112,33.0,19805,4341,546
+0100000US,,United States,71219,Nature parks and other similar institutions,N,Establishments exempt from federal income tax,808,8 largest firms,2002,83,104033,43.3,29169,6573,871
+0100000US,,United States,71219,Nature parks and other similar institutions,N,Establishments exempt from federal income tax,820,20 largest firms,2002,98,139232,58.0,38583,8811,1215
+0100000US,,United States,71219,Nature parks and other similar institutions,N,Establishments exempt from federal income tax,850,50 largest firms,2002,134,179362,74.7,56146,12848,2049
+0100000US,,United States,71219,Nature parks and other similar institutions,T,Establishments subject to federal income tax,001,All firms,2002,179,120446,100.0,41612,8337,2105
+0100000US,,United States,71219,Nature parks and other similar institutions,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,22257,18.5,7614,1611,322
+0100000US,,United States,71219,Nature parks and other similar institutions,T,Establishments subject to federal income tax,808,8 largest firms,2002,8,36991,30.7,12321,2610,599
+0100000US,,United States,71219,Nature parks and other similar institutions,T,Establishments subject to federal income tax,820,20 largest firms,2002,24,66767,55.4,21798,4256,1007
+0100000US,,United States,71219,Nature parks and other similar institutions,T,Establishments subject to federal income tax,850,50 largest firms,2002,54,98387,81.7,35313,6949,1690
+0100000US,,United States,712190,Nature parks and other similar institutions,A,All establishments,001,All firms,2002,573,360494,100.0,122035,26584,5437
+0100000US,,United States,712190,Nature parks and other similar institutions,A,All establishments,804,4 largest firms,2002,79,79112,21.9,19805,4341,546
+0100000US,,United States,712190,Nature parks and other similar institutions,A,All establishments,808,8 largest firms,2002,83,106676,29.6,30611,6935,963
+0100000US,,United States,712190,Nature parks and other similar institutions,A,All establishments,820,20 largest firms,2002,95,156121,43.3,44673,9956,1613
+0100000US,,United States,712190,Nature parks and other similar institutions,A,All establishments,850,50 largest firms,2002,132,223344,62.0,66673,14419,2589
+0100000US,,United States,712190,Nature parks and other similar institutions,N,Establishments exempt from federal income tax,001,All firms,2002,394,240048,100.0,80423,18247,3332
+0100000US,,United States,712190,Nature parks and other similar institutions,N,Establishments exempt from federal income tax,804,4 largest firms,2002,79,79112,33.0,19805,4341,546
+0100000US,,United States,712190,Nature parks and other similar institutions,N,Establishments exempt from federal income tax,808,8 largest firms,2002,83,104033,43.3,29169,6573,871
+0100000US,,United States,712190,Nature parks and other similar institutions,N,Establishments exempt from federal income tax,820,20 largest firms,2002,98,139232,58.0,38583,8811,1215
+0100000US,,United States,712190,Nature parks and other similar institutions,N,Establishments exempt from federal income tax,850,50 largest firms,2002,134,179362,74.7,56146,12848,2049
+0100000US,,United States,712190,Nature parks and other similar institutions,T,Establishments subject to federal income tax,001,All firms,2002,179,120446,100.0,41612,8337,2105
+0100000US,,United States,712190,Nature parks and other similar institutions,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,22257,18.5,7614,1611,322
+0100000US,,United States,712190,Nature parks and other similar institutions,T,Establishments subject to federal income tax,808,8 largest firms,2002,8,36991,30.7,12321,2610,599
+0100000US,,United States,712190,Nature parks and other similar institutions,T,Establishments subject to federal income tax,820,20 largest firms,2002,24,66767,55.4,21798,4256,1007
+0100000US,,United States,712190,Nature parks and other similar institutions,T,Establishments subject to federal income tax,850,50 largest firms,2002,54,98387,81.7,35313,6949,1690
+0100000US,,United States,713,"Amusement, gambling, and recreation industries",A,All establishments,001,All firms,2002,65915,75010469,100.0,21002476,4802159,1303043
+0100000US,,United States,713,"Amusement, gambling, and recreation industries",A,All establishments,804,4 largest firms,2002,461,5973244,8.0,1154648,256673,69162
+0100000US,,United States,713,"Amusement, gambling, and recreation industries",A,All establishments,808,8 largest firms,2002,1166,8887084,11.8,1994922,448690,129340
+0100000US,,United States,713,"Amusement, gambling, and recreation industries",A,All establishments,820,20 largest firms,2002,1653,14329027,19.1,2920628,700070,175389
+0100000US,,United States,713,"Amusement, gambling, and recreation industries",A,All establishments,850,50 largest firms,2002,2008,21493167,28.7,4442211,1073944,253796
+0100000US,,United States,713,"Amusement, gambling, and recreation industries",N,Establishments exempt from federal income tax,001,All firms,2002,11543,11322414,100.0,4532838,951357,256337
+0100000US,,United States,713,"Amusement, gambling, and recreation industries",N,Establishments exempt from federal income tax,804,4 largest firms,2002,66,224549,2.0,70771,16891,7051
+0100000US,,United States,713,"Amusement, gambling, and recreation industries",N,Establishments exempt from federal income tax,808,8 largest firms,2002,104,384734,3.4,145787,34792,12570
+0100000US,,United States,713,"Amusement, gambling, and recreation industries",N,Establishments exempt from federal income tax,820,20 largest firms,2002,214,718730,6.3,281088,66133,24391
+0100000US,,United States,713,"Amusement, gambling, and recreation industries",N,Establishments exempt from federal income tax,850,50 largest firms,2002,346,1239221,10.9,487418,116184,37579
+0100000US,,United States,713,"Amusement, gambling, and recreation industries",T,Establishments subject to federal income tax,001,All firms,2002,54372,63688055,100.0,16469638,3850802,1046706
+0100000US,,United States,713,"Amusement, gambling, and recreation industries",T,Establishments subject to federal income tax,804,4 largest firms,2002,461,5973244,9.4,1154648,256673,69162
+0100000US,,United States,713,"Amusement, gambling, and recreation industries",T,Establishments subject to federal income tax,808,8 largest firms,2002,1166,8887084,14.0,1994922,448690,129340
+0100000US,,United States,713,"Amusement, gambling, and recreation industries",T,Establishments subject to federal income tax,820,20 largest firms,2002,1653,14329027,22.5,2920628,700070,175389
+0100000US,,United States,713,"Amusement, gambling, and recreation industries",T,Establishments subject to federal income tax,850,50 largest firms,2002,2001,21479436,33.7,4436225,1072690,253251
+0100000US,,United States,7131,Amusement parks and arcades,A,All establishments,001,All firms,2002,3015,9443200,100.0,2069046,419805,122129
+0100000US,,United States,7131,Amusement parks and arcades,A,All establishments,804,4 largest firms,2002,44,5720180,60.6,1042438,225076,59801
+0100000US,,United States,7131,Amusement parks and arcades,A,All establishments,808,8 largest firms,2002,60,7020909,74.3,1386625,289828,79041
+0100000US,,United States,7131,Amusement parks and arcades,A,All establishments,820,20 largest firms,2002,595,7662439,81.1,1559320,327940,90040
+0100000US,,United States,7131,Amusement parks and arcades,A,All establishments,850,50 largest firms,2002,659,8097198,85.7,1693832,346438,94435
+0100000US,,United States,7131,Amusement parks and arcades,T,Establishments subject to federal income tax,001,All firms,2002,3015,9443200,100.0,2069046,419805,122129
+0100000US,,United States,7131,Amusement parks and arcades,T,Establishments subject to federal income tax,804,4 largest firms,2002,44,5720180,60.6,1042438,225076,59801
+0100000US,,United States,7131,Amusement parks and arcades,T,Establishments subject to federal income tax,808,8 largest firms,2002,60,7020909,74.3,1386625,289828,79041
+0100000US,,United States,7131,Amusement parks and arcades,T,Establishments subject to federal income tax,820,20 largest firms,2002,595,7662439,81.1,1559320,327940,90040
+0100000US,,United States,7131,Amusement parks and arcades,T,Establishments subject to federal income tax,850,50 largest firms,2002,659,8097198,85.7,1693832,346438,94435
+0100000US,,United States,71311,Amusement and theme parks,A,All establishments,001,All firms,2002,444,8174048,100.0,1737986,344255,92543
+0100000US,,United States,71311,Amusement and theme parks,A,All establishments,804,4 largest firms,2002,43,5700201,69.7,1040617,224631,59670
+0100000US,,United States,71311,Amusement and theme parks,A,All establishments,808,8 largest firms,2002,59,7000930,85.6,1384804,289383,78910
+0100000US,,United States,71311,Amusement and theme parks,A,All establishments,820,20 largest firms,2002,83,7470580,91.4,1523300,312745,83645
+0100000US,,United States,71311,Amusement and theme parks,A,All establishments,850,50 largest firms,2002,116,7779038,95.2,1615628,323921,86191
+0100000US,,United States,71311,Amusement and theme parks,T,Establishments subject to federal income tax,001,All firms,2002,444,8174048,100.0,1737986,344255,92543
+0100000US,,United States,71311,Amusement and theme parks,T,Establishments subject to federal income tax,804,4 largest firms,2002,43,5700201,69.7,1040617,224631,59670
+0100000US,,United States,71311,Amusement and theme parks,T,Establishments subject to federal income tax,808,8 largest firms,2002,59,7000930,85.6,1384804,289383,78910
+0100000US,,United States,71311,Amusement and theme parks,T,Establishments subject to federal income tax,820,20 largest firms,2002,83,7470580,91.4,1523300,312745,83645
+0100000US,,United States,71311,Amusement and theme parks,T,Establishments subject to federal income tax,850,50 largest firms,2002,116,7779038,95.2,1615628,323921,86191
+0100000US,,United States,713110,Amusement and theme parks,A,All establishments,001,All firms,2002,444,8174048,100.0,1737986,344255,92543
+0100000US,,United States,713110,Amusement and theme parks,A,All establishments,804,4 largest firms,2002,43,5700201,69.7,1040617,224631,59670
+0100000US,,United States,713110,Amusement and theme parks,A,All establishments,808,8 largest firms,2002,59,7000930,85.6,1384804,289383,78910
+0100000US,,United States,713110,Amusement and theme parks,A,All establishments,820,20 largest firms,2002,83,7470580,91.4,1523300,312745,83645
+0100000US,,United States,713110,Amusement and theme parks,A,All establishments,850,50 largest firms,2002,116,7779038,95.2,1615628,323921,86191
+0100000US,,United States,713110,Amusement and theme parks,T,Establishments subject to federal income tax,001,All firms,2002,444,8174048,100.0,1737986,344255,92543
+0100000US,,United States,713110,Amusement and theme parks,T,Establishments subject to federal income tax,804,4 largest firms,2002,43,5700201,69.7,1040617,224631,59670
+0100000US,,United States,713110,Amusement and theme parks,T,Establishments subject to federal income tax,808,8 largest firms,2002,59,7000930,85.6,1384804,289383,78910
+0100000US,,United States,713110,Amusement and theme parks,T,Establishments subject to federal income tax,820,20 largest firms,2002,83,7470580,91.4,1523300,312745,83645
+0100000US,,United States,713110,Amusement and theme parks,T,Establishments subject to federal income tax,850,50 largest firms,2002,116,7779038,95.2,1615628,323921,86191
+0100000US,,United States,7131101,Waterparks,A,All establishments,001,All firms,2002,148,480358,100.0,115701,14748,4372
+0100000US,,United States,7131101,Waterparks,A,All establishments,804,4 largest firms,2002,19,236698,49.3,39577,4639,1639
+0100000US,,United States,7131101,Waterparks,A,All establishments,808,8 largest firms,2002,23,311271,64.8,61737,8319,2515
+0100000US,,United States,7131101,Waterparks,A,All establishments,820,20 largest firms,2002,35,378881,78.9,85827,11069,3073
+0100000US,,United States,7131101,Waterparks,A,All establishments,850,50 largest firms,2002,65,439919,91.6,104084,13355,3955
+0100000US,,United States,7131101,Waterparks,T,Establishments subject to federal income tax,001,All firms,2002,148,480358,100.0,115701,14748,4372
+0100000US,,United States,7131101,Waterparks,T,Establishments subject to federal income tax,804,4 largest firms,2002,19,236698,49.3,39577,4639,1639
+0100000US,,United States,7131101,Waterparks,T,Establishments subject to federal income tax,808,8 largest firms,2002,23,311271,64.8,61737,8319,2515
+0100000US,,United States,7131101,Waterparks,T,Establishments subject to federal income tax,820,20 largest firms,2002,35,378881,78.9,85827,11069,3073
+0100000US,,United States,7131101,Waterparks,T,Establishments subject to federal income tax,850,50 largest firms,2002,65,439919,91.6,104084,13355,3955
+0100000US,,United States,7131102,Amusement parks (except waterparks),A,All establishments,001,All firms,2002,296,7693690,100.0,1622285,329507,88171
+0100000US,,United States,7131102,Amusement parks (except waterparks),A,All establishments,804,4 largest firms,2002,33,5523452,71.8,1014444,221025,58195
+0100000US,,United States,7131102,Amusement parks (except waterparks),A,All establishments,808,8 largest firms,2002,47,6795567,88.3,1350162,284159,77022
+0100000US,,United States,7131102,Amusement parks (except waterparks),A,All establishments,820,20 largest firms,2002,61,7214506,93.8,1476412,306299,81378
+0100000US,,United States,7131102,Amusement parks (except waterparks),A,All establishments,850,50 largest firms,2002,93,7461430,97.0,1550644,317508,84027
+0100000US,,United States,7131102,Amusement parks (except waterparks),T,Establishments subject to federal income tax,001,All firms,2002,296,7693690,100.0,1622285,329507,88171
+0100000US,,United States,7131102,Amusement parks (except waterparks),T,Establishments subject to federal income tax,804,4 largest firms,2002,33,5523452,71.8,1014444,221025,58195
+0100000US,,United States,7131102,Amusement parks (except waterparks),T,Establishments subject to federal income tax,808,8 largest firms,2002,47,6795567,88.3,1350162,284159,77022
+0100000US,,United States,7131102,Amusement parks (except waterparks),T,Establishments subject to federal income tax,820,20 largest firms,2002,61,7214506,93.8,1476412,306299,81378
+0100000US,,United States,7131102,Amusement parks (except waterparks),T,Establishments subject to federal income tax,850,50 largest firms,2002,93,7461430,97.0,1550644,317508,84027
+0100000US,,United States,71312,Amusement arcades,A,All establishments,001,All firms,2002,2571,1269152,100.0,331060,75550,29586
+0100000US,,United States,71312,Amusement arcades,A,All establishments,804,4 largest firms,2002,489,239110,18.8,61777,16723,5535
+0100000US,,United States,71312,Amusement arcades,A,All establishments,808,8 largest firms,2002,526,322963,25.4,83025,21967,8073
+0100000US,,United States,71312,Amusement arcades,A,All establishments,820,20 largest firms,2002,560,436050,34.4,107081,27061,9385
+0100000US,,United States,71312,Amusement arcades,A,All establishments,850,50 largest firms,2002,652,578417,45.6,146198,36230,12584
+0100000US,,United States,71312,Amusement arcades,T,Establishments subject to federal income tax,001,All firms,2002,2571,1269152,100.0,331060,75550,29586
+0100000US,,United States,71312,Amusement arcades,T,Establishments subject to federal income tax,804,4 largest firms,2002,489,239110,18.8,61777,16723,5535
+0100000US,,United States,71312,Amusement arcades,T,Establishments subject to federal income tax,808,8 largest firms,2002,526,322963,25.4,83025,21967,8073
+0100000US,,United States,71312,Amusement arcades,T,Establishments subject to federal income tax,820,20 largest firms,2002,560,436050,34.4,107081,27061,9385
+0100000US,,United States,71312,Amusement arcades,T,Establishments subject to federal income tax,850,50 largest firms,2002,652,578417,45.6,146198,36230,12584
+0100000US,,United States,713120,Amusement arcades,A,All establishments,001,All firms,2002,2571,1269152,100.0,331060,75550,29586
+0100000US,,United States,713120,Amusement arcades,A,All establishments,804,4 largest firms,2002,489,239110,18.8,61777,16723,5535
+0100000US,,United States,713120,Amusement arcades,A,All establishments,808,8 largest firms,2002,526,322963,25.4,83025,21967,8073
+0100000US,,United States,713120,Amusement arcades,A,All establishments,820,20 largest firms,2002,560,436050,34.4,107081,27061,9385
+0100000US,,United States,713120,Amusement arcades,A,All establishments,850,50 largest firms,2002,652,578417,45.6,146198,36230,12584
+0100000US,,United States,713120,Amusement arcades,T,Establishments subject to federal income tax,001,All firms,2002,2571,1269152,100.0,331060,75550,29586
+0100000US,,United States,713120,Amusement arcades,T,Establishments subject to federal income tax,804,4 largest firms,2002,489,239110,18.8,61777,16723,5535
+0100000US,,United States,713120,Amusement arcades,T,Establishments subject to federal income tax,808,8 largest firms,2002,526,322963,25.4,83025,21967,8073
+0100000US,,United States,713120,Amusement arcades,T,Establishments subject to federal income tax,820,20 largest firms,2002,560,436050,34.4,107081,27061,9385
+0100000US,,United States,713120,Amusement arcades,T,Establishments subject to federal income tax,850,50 largest firms,2002,652,578417,45.6,146198,36230,12584
+0100000US,,United States,7132,Gambling industries,A,All establishments,001,All firms,2002,2072,18892878,100.0,3596304,863585,157576
+0100000US,,United States,7132,Gambling industries,A,All establishments,804,4 largest firms,2002,47,2058558,10.9,217557,52978,7629
+0100000US,,United States,7132,Gambling industries,A,All establishments,808,8 largest firms,2002,64,3682724,19.5,478897,121520,15897
+0100000US,,United States,7132,Gambling industries,A,All establishments,820,20 largest firms,2002,103,7263523,38.4,1092147,265071,41242
+0100000US,,United States,7132,Gambling industries,A,All establishments,850,50 largest firms,2002,163,11410709,60.4,1834289,438322,71912
+0100000US,,United States,7132,Gambling industries,T,Establishments subject to federal income tax,001,All firms,2002,2072,18892878,100.0,3596304,863585,157576
+0100000US,,United States,7132,Gambling industries,T,Establishments subject to federal income tax,804,4 largest firms,2002,47,2058558,10.9,217557,52978,7629
+0100000US,,United States,7132,Gambling industries,T,Establishments subject to federal income tax,808,8 largest firms,2002,64,3682724,19.5,478897,121520,15897
+0100000US,,United States,7132,Gambling industries,T,Establishments subject to federal income tax,820,20 largest firms,2002,103,7263523,38.4,1092147,265071,41242
+0100000US,,United States,7132,Gambling industries,T,Establishments subject to federal income tax,850,50 largest firms,2002,163,11410709,60.4,1834289,438322,71912
+0100000US,,United States,71321,Casinos (except casino hotels),A,All establishments,001,All firms,2002,356,12386830,100.0,2531905,608346,105792
+0100000US,,United States,71321,Casinos (except casino hotels),A,All establishments,804,4 largest firms,2002,6,2035487,16.4,225216,57453,8273
+0100000US,,United States,71321,Casinos (except casino hotels),A,All establishments,808,8 largest firms,2002,13,3530062,28.5,493060,122044,17446
+0100000US,,United States,71321,Casinos (except casino hotels),A,All establishments,820,20 largest firms,2002,32,6420036,51.8,1036655,252046,40409
+0100000US,,United States,71321,Casinos (except casino hotels),A,All establishments,850,50 largest firms,2002,74,9423189,76.1,1726731,412496,68009
+0100000US,,United States,71321,Casinos (except casino hotels),T,Establishments subject to federal income tax,001,All firms,2002,356,12386830,100.0,2531905,608346,105792
+0100000US,,United States,71321,Casinos (except casino hotels),T,Establishments subject to federal income tax,804,4 largest firms,2002,6,2035487,16.4,225216,57453,8273
+0100000US,,United States,71321,Casinos (except casino hotels),T,Establishments subject to federal income tax,808,8 largest firms,2002,13,3530062,28.5,493060,122044,17446
+0100000US,,United States,71321,Casinos (except casino hotels),T,Establishments subject to federal income tax,820,20 largest firms,2002,32,6420036,51.8,1036655,252046,40409
+0100000US,,United States,71321,Casinos (except casino hotels),T,Establishments subject to federal income tax,850,50 largest firms,2002,74,9423189,76.1,1726731,412496,68009
+0100000US,,United States,713210,Casinos (except casino hotels),A,All establishments,001,All firms,2002,356,12386830,100.0,2531905,608346,105792
+0100000US,,United States,713210,Casinos (except casino hotels),A,All establishments,804,4 largest firms,2002,6,2035487,16.4,225216,57453,8273
+0100000US,,United States,713210,Casinos (except casino hotels),A,All establishments,808,8 largest firms,2002,13,3530062,28.5,493060,122044,17446
+0100000US,,United States,713210,Casinos (except casino hotels),A,All establishments,820,20 largest firms,2002,32,6420036,51.8,1036655,252046,40409
+0100000US,,United States,713210,Casinos (except casino hotels),A,All establishments,850,50 largest firms,2002,74,9423189,76.1,1726731,412496,68009
+0100000US,,United States,713210,Casinos (except casino hotels),T,Establishments subject to federal income tax,001,All firms,2002,356,12386830,100.0,2531905,608346,105792
+0100000US,,United States,713210,Casinos (except casino hotels),T,Establishments subject to federal income tax,804,4 largest firms,2002,6,2035487,16.4,225216,57453,8273
+0100000US,,United States,713210,Casinos (except casino hotels),T,Establishments subject to federal income tax,808,8 largest firms,2002,13,3530062,28.5,493060,122044,17446
+0100000US,,United States,713210,Casinos (except casino hotels),T,Establishments subject to federal income tax,820,20 largest firms,2002,32,6420036,51.8,1036655,252046,40409
+0100000US,,United States,713210,Casinos (except casino hotels),T,Establishments subject to federal income tax,850,50 largest firms,2002,74,9423189,76.1,1726731,412496,68009
+0100000US,,United States,71329,Other gambling industries,A,All establishments,001,All firms,2002,1716,6506048,100.0,1064399,255239,51784
+0100000US,,United States,71329,Other gambling industries,A,All establishments,804,4 largest firms,2002,65,1352605,20.8,159420,40273,5373
+0100000US,,United States,71329,Other gambling industries,A,All establishments,808,8 largest firms,2002,83,1989441,30.6,230648,55801,8151
+0100000US,,United States,71329,Other gambling industries,A,All establishments,820,20 largest firms,2002,112,3098216,47.6,417196,100315,16966
+0100000US,,United States,71329,Other gambling industries,A,All establishments,850,50 largest firms,2002,218,4313280,66.3,602039,143920,25692
+0100000US,,United States,71329,Other gambling industries,T,Establishments subject to federal income tax,001,All firms,2002,1716,6506048,100.0,1064399,255239,51784
+0100000US,,United States,71329,Other gambling industries,T,Establishments subject to federal income tax,804,4 largest firms,2002,65,1352605,20.8,159420,40273,5373
+0100000US,,United States,71329,Other gambling industries,T,Establishments subject to federal income tax,808,8 largest firms,2002,83,1989441,30.6,230648,55801,8151
+0100000US,,United States,71329,Other gambling industries,T,Establishments subject to federal income tax,820,20 largest firms,2002,112,3098216,47.6,417196,100315,16966
+0100000US,,United States,71329,Other gambling industries,T,Establishments subject to federal income tax,850,50 largest firms,2002,218,4313280,66.3,602039,143920,25692
+0100000US,,United States,713290,Other gambling industries,A,All establishments,001,All firms,2002,1716,6506048,100.0,1064399,255239,51784
+0100000US,,United States,713290,Other gambling industries,A,All establishments,804,4 largest firms,2002,65,1352605,20.8,159420,40273,5373
+0100000US,,United States,713290,Other gambling industries,A,All establishments,808,8 largest firms,2002,83,1989441,30.6,230648,55801,8151
+0100000US,,United States,713290,Other gambling industries,A,All establishments,820,20 largest firms,2002,112,3098216,47.6,417196,100315,16966
+0100000US,,United States,713290,Other gambling industries,A,All establishments,850,50 largest firms,2002,218,4313280,66.3,602039,143920,25692
+0100000US,,United States,713290,Other gambling industries,T,Establishments subject to federal income tax,001,All firms,2002,1716,6506048,100.0,1064399,255239,51784
+0100000US,,United States,713290,Other gambling industries,T,Establishments subject to federal income tax,804,4 largest firms,2002,65,1352605,20.8,159420,40273,5373
+0100000US,,United States,713290,Other gambling industries,T,Establishments subject to federal income tax,808,8 largest firms,2002,83,1989441,30.6,230648,55801,8151
+0100000US,,United States,713290,Other gambling industries,T,Establishments subject to federal income tax,820,20 largest firms,2002,112,3098216,47.6,417196,100315,16966
+0100000US,,United States,713290,Other gambling industries,T,Establishments subject to federal income tax,850,50 largest firms,2002,218,4313280,66.3,602039,143920,25692
+0100000US,,United States,7132901,Slot machine operators,A,All establishments,001,All firms,2002,331,1758687,100.0,206223,49868,10475
+0100000US,,United States,7132901,Slot machine operators,A,All establishments,804,4 largest firms,2002,9,739369,42.0,61052,16188,2657
+0100000US,,United States,7132901,Slot machine operators,A,All establishments,808,8 largest firms,2002,15,951418,54.1,76516,19628,3657
+0100000US,,United States,7132901,Slot machine operators,A,All establishments,820,20 largest firms,2002,39,1261017,71.7,119399,29669,5631
+0100000US,,United States,7132901,Slot machine operators,A,All establishments,850,50 largest firms,2002,76,1488139,84.6,146981,35873,6875
+0100000US,,United States,7132901,Slot machine operators,T,Establishments subject to federal income tax,001,All firms,2002,331,1758687,100.0,206223,49868,10475
+0100000US,,United States,7132901,Slot machine operators,T,Establishments subject to federal income tax,804,4 largest firms,2002,9,739369,42.0,61052,16188,2657
+0100000US,,United States,7132901,Slot machine operators,T,Establishments subject to federal income tax,808,8 largest firms,2002,15,951418,54.1,76516,19628,3657
+0100000US,,United States,7132901,Slot machine operators,T,Establishments subject to federal income tax,820,20 largest firms,2002,39,1261017,71.7,119399,29669,5631
+0100000US,,United States,7132901,Slot machine operators,T,Establishments subject to federal income tax,850,50 largest firms,2002,76,1488139,84.6,146981,35873,6875
+0100000US,,United States,7132902,"Lottery, bingo, bookie, and other betting operation",A,All establishments,001,All firms,2002,1385,4747361,100.0,858176,205371,41309
+0100000US,,United States,7132902,"Lottery, bingo, bookie, and other betting operation",A,All establishments,804,4 largest firms,2002,71,1130115,23.8,141753,32871,4469
+0100000US,,United States,7132902,"Lottery, bingo, bookie, and other betting operation",A,All establishments,808,8 largest firms,2002,77,1674181,35.3,245751,56514,8454
+0100000US,,United States,7132902,"Lottery, bingo, bookie, and other betting operation",A,All establishments,820,20 largest firms,2002,106,2534125,53.4,380753,89212,15125
+0100000US,,United States,7132902,"Lottery, bingo, bookie, and other betting operation",A,All establishments,850,50 largest firms,2002,240,3493582,73.6,587125,140501,24285
+0100000US,,United States,7132902,"Lottery, bingo, bookie, and other betting operation",T,Establishments subject to federal income tax,001,All firms,2002,1385,4747361,100.0,858176,205371,41309
+0100000US,,United States,7132902,"Lottery, bingo, bookie, and other betting operation",T,Establishments subject to federal income tax,804,4 largest firms,2002,71,1130115,23.8,141753,32871,4469
+0100000US,,United States,7132902,"Lottery, bingo, bookie, and other betting operation",T,Establishments subject to federal income tax,808,8 largest firms,2002,77,1674181,35.3,245751,56514,8454
+0100000US,,United States,7132902,"Lottery, bingo, bookie, and other betting operation",T,Establishments subject to federal income tax,820,20 largest firms,2002,106,2534125,53.4,380753,89212,15125
+0100000US,,United States,7132902,"Lottery, bingo, bookie, and other betting operation",T,Establishments subject to federal income tax,850,50 largest firms,2002,240,3493582,73.6,587125,140501,24285
+0100000US,,United States,7139,Other amusement and recreation industries,A,All establishments,001,All firms,2002,60828,46674391,100.0,15337126,3518769,1023338
+0100000US,,United States,7139,Other amusement and recreation industries,A,All establishments,804,4 largest firms,2002,1116,3110618,6.7,937158,220233,68636
+0100000US,,United States,7139,Other amusement and recreation industries,A,All establishments,808,8 largest firms,2002,1659,4572355,9.8,1427969,384810,102339
+0100000US,,United States,7139,Other amusement and recreation industries,A,All establishments,820,20 largest firms,2002,2047,6250503,13.4,1883400,503737,132526
+0100000US,,United States,7139,Other amusement and recreation industries,A,All establishments,850,50 largest firms,2002,2516,7854313,16.8,2353278,625928,165229
+0100000US,,United States,7139,Other amusement and recreation industries,N,Establishments exempt from federal income tax,001,All firms,2002,11543,11322414,100.0,4532838,951357,256337
+0100000US,,United States,7139,Other amusement and recreation industries,N,Establishments exempt from federal income tax,804,4 largest firms,2002,66,224549,2.0,70771,16891,7051
+0100000US,,United States,7139,Other amusement and recreation industries,N,Establishments exempt from federal income tax,808,8 largest firms,2002,104,384734,3.4,145787,34792,12570
+0100000US,,United States,7139,Other amusement and recreation industries,N,Establishments exempt from federal income tax,820,20 largest firms,2002,214,718730,6.3,281088,66133,24391
+0100000US,,United States,7139,Other amusement and recreation industries,N,Establishments exempt from federal income tax,850,50 largest firms,2002,346,1239221,10.9,487418,116184,37579
+0100000US,,United States,7139,Other amusement and recreation industries,T,Establishments subject to federal income tax,001,All firms,2002,49285,35351977,100.0,10804288,2567412,767001
+0100000US,,United States,7139,Other amusement and recreation industries,T,Establishments subject to federal income tax,804,4 largest firms,2002,1116,3110618,8.8,937158,220233,68636
+0100000US,,United States,7139,Other amusement and recreation industries,T,Establishments subject to federal income tax,808,8 largest firms,2002,1652,4558624,12.9,1421983,383556,101794
+0100000US,,United States,7139,Other amusement and recreation industries,T,Establishments subject to federal income tax,820,20 largest firms,2002,2040,6236772,17.6,1877414,502483,131981
+0100000US,,United States,7139,Other amusement and recreation industries,T,Establishments subject to federal income tax,850,50 largest firms,2002,2481,7758335,21.9,2318977,621201,161548
+0100000US,,United States,71391,Golf courses and country clubs,A,All establishments,001,All firms,2002,12261,17533703,100.0,6656680,1356174,312812
+0100000US,,United States,71391,Golf courses and country clubs,A,All establishments,804,4 largest firms,2002,434,1463024,8.3,455242,99239,25329
+0100000US,,United States,71391,Golf courses and country clubs,A,All establishments,808,8 largest firms,2002,536,1731976,9.9,522962,112635,28299
+0100000US,,United States,71391,Golf courses and country clubs,A,All establishments,820,20 largest firms,2002,622,2130434,12.2,657620,145793,35699
+0100000US,,United States,71391,Golf courses and country clubs,A,All establishments,850,50 largest firms,2002,678,2684149,15.3,842125,191124,43839
+0100000US,,United States,71391,Golf courses and country clubs,N,Establishments exempt from federal income tax,001,All firms,2002,3463,7071309,100.0,2989327,606369,124415
+0100000US,,United States,71391,Golf courses and country clubs,N,Establishments exempt from federal income tax,804,4 largest firms,2002,5,96341,1.4,34387,9088,1571
+0100000US,,United States,71391,Golf courses and country clubs,N,Establishments exempt from federal income tax,808,8 largest firms,2002,9,169367,2.4,63882,17482,2965
+0100000US,,United States,71391,Golf courses and country clubs,N,Establishments exempt from federal income tax,820,20 largest firms,2002,22,345027,4.9,132034,32783,5362
+0100000US,,United States,71391,Golf courses and country clubs,N,Establishments exempt from federal income tax,850,50 largest firms,2002,55,669579,9.5,263989,63116,10204
+0100000US,,United States,71391,Golf courses and country clubs,T,Establishments subject to federal income tax,001,All firms,2002,8798,10462394,100.0,3667353,749805,188397
+0100000US,,United States,71391,Golf courses and country clubs,T,Establishments subject to federal income tax,804,4 largest firms,2002,434,1463024,14.0,455242,99239,25329
+0100000US,,United States,71391,Golf courses and country clubs,T,Establishments subject to federal income tax,808,8 largest firms,2002,535,1730371,16.5,522543,112572,28281
+0100000US,,United States,71391,Golf courses and country clubs,T,Establishments subject to federal income tax,820,20 largest firms,2002,627,2118337,20.2,649408,142848,35381
+0100000US,,United States,71391,Golf courses and country clubs,T,Establishments subject to federal income tax,850,50 largest firms,2002,695,2590965,24.8,796361,177826,41829
+0100000US,,United States,713910,Golf courses and country clubs,A,All establishments,001,All firms,2002,12261,17533703,100.0,6656680,1356174,312812
+0100000US,,United States,713910,Golf courses and country clubs,A,All establishments,804,4 largest firms,2002,434,1463024,8.3,455242,99239,25329
+0100000US,,United States,713910,Golf courses and country clubs,A,All establishments,808,8 largest firms,2002,536,1731976,9.9,522962,112635,28299
+0100000US,,United States,713910,Golf courses and country clubs,A,All establishments,820,20 largest firms,2002,622,2130434,12.2,657620,145793,35699
+0100000US,,United States,713910,Golf courses and country clubs,A,All establishments,850,50 largest firms,2002,678,2684149,15.3,842125,191124,43839
+0100000US,,United States,713910,Golf courses and country clubs,N,Establishments exempt from federal income tax,001,All firms,2002,3463,7071309,100.0,2989327,606369,124415
+0100000US,,United States,713910,Golf courses and country clubs,N,Establishments exempt from federal income tax,804,4 largest firms,2002,5,96341,1.4,34387,9088,1571
+0100000US,,United States,713910,Golf courses and country clubs,N,Establishments exempt from federal income tax,808,8 largest firms,2002,9,169367,2.4,63882,17482,2965
+0100000US,,United States,713910,Golf courses and country clubs,N,Establishments exempt from federal income tax,820,20 largest firms,2002,22,345027,4.9,132034,32783,5362
+0100000US,,United States,713910,Golf courses and country clubs,N,Establishments exempt from federal income tax,850,50 largest firms,2002,55,669579,9.5,263989,63116,10204
+0100000US,,United States,713910,Golf courses and country clubs,T,Establishments subject to federal income tax,001,All firms,2002,8798,10462394,100.0,3667353,749805,188397
+0100000US,,United States,713910,Golf courses and country clubs,T,Establishments subject to federal income tax,804,4 largest firms,2002,434,1463024,14.0,455242,99239,25329
+0100000US,,United States,713910,Golf courses and country clubs,T,Establishments subject to federal income tax,808,8 largest firms,2002,535,1730371,16.5,522543,112572,28281
+0100000US,,United States,713910,Golf courses and country clubs,T,Establishments subject to federal income tax,820,20 largest firms,2002,627,2118337,20.2,649408,142848,35381
+0100000US,,United States,713910,Golf courses and country clubs,T,Establishments subject to federal income tax,850,50 largest firms,2002,695,2590965,24.8,796361,177826,41829
+0100000US,,United States,71392,Skiing facilities,A,All establishments,001,All firms,2002,387,1801235,100.0,639951,278489,70083
+0100000US,,United States,71392,Skiing facilities,A,All establishments,804,4 largest firms,2002,21,824289,45.8,302333,126766,20245
+0100000US,,United States,71392,Skiing facilities,A,All establishments,808,8 largest firms,2002,29,1004349,55.8,369260,153287,27700
+0100000US,,United States,71392,Skiing facilities,A,All establishments,820,20 largest firms,2002,43,1252973,69.6,449067,187912,37093
+0100000US,,United States,71392,Skiing facilities,A,All establishments,850,50 largest firms,2002,78,1493503,82.9,530509,225427,49487
+0100000US,,United States,71392,Skiing facilities,T,Establishments subject to federal income tax,001,All firms,2002,387,1801235,100.0,639951,278489,70083
+0100000US,,United States,71392,Skiing facilities,T,Establishments subject to federal income tax,804,4 largest firms,2002,21,824289,45.8,302333,126766,20245
+0100000US,,United States,71392,Skiing facilities,T,Establishments subject to federal income tax,808,8 largest firms,2002,29,1004349,55.8,369260,153287,27700
+0100000US,,United States,71392,Skiing facilities,T,Establishments subject to federal income tax,820,20 largest firms,2002,43,1252973,69.6,449067,187912,37093
+0100000US,,United States,71392,Skiing facilities,T,Establishments subject to federal income tax,850,50 largest firms,2002,78,1493503,82.9,530509,225427,49487
+0100000US,,United States,713920,Skiing facilities,A,All establishments,001,All firms,2002,387,1801235,100.0,639951,278489,70083
+0100000US,,United States,713920,Skiing facilities,A,All establishments,804,4 largest firms,2002,21,824289,45.8,302333,126766,20245
+0100000US,,United States,713920,Skiing facilities,A,All establishments,808,8 largest firms,2002,29,1004349,55.8,369260,153287,27700
+0100000US,,United States,713920,Skiing facilities,A,All establishments,820,20 largest firms,2002,43,1252973,69.6,449067,187912,37093
+0100000US,,United States,713920,Skiing facilities,A,All establishments,850,50 largest firms,2002,78,1493503,82.9,530509,225427,49487
+0100000US,,United States,713920,Skiing facilities,T,Establishments subject to federal income tax,001,All firms,2002,387,1801235,100.0,639951,278489,70083
+0100000US,,United States,713920,Skiing facilities,T,Establishments subject to federal income tax,804,4 largest firms,2002,21,824289,45.8,302333,126766,20245
+0100000US,,United States,713920,Skiing facilities,T,Establishments subject to federal income tax,808,8 largest firms,2002,29,1004349,55.8,369260,153287,27700
+0100000US,,United States,713920,Skiing facilities,T,Establishments subject to federal income tax,820,20 largest firms,2002,43,1252973,69.6,449067,187912,37093
+0100000US,,United States,713920,Skiing facilities,T,Establishments subject to federal income tax,850,50 largest firms,2002,78,1493503,82.9,530509,225427,49487
+0100000US,,United States,71393,Marinas,A,All establishments,001,All firms,2002,4272,3351721,100.0,739742,153232,27728
+0100000US,,United States,71393,Marinas,A,All establishments,804,4 largest firms,2002,41,147942,4.4,20678,3981,585
+0100000US,,United States,71393,Marinas,A,All establishments,808,8 largest firms,2002,54,218603,6.5,29481,5991,916
+0100000US,,United States,71393,Marinas,A,All establishments,820,20 largest firms,2002,69,360196,10.7,58144,12973,1620
+0100000US,,United States,71393,Marinas,A,All establishments,850,50 largest firms,2002,116,589961,17.6,102974,23034,3231
+0100000US,,United States,71393,Marinas,T,Establishments subject to federal income tax,001,All firms,2002,4272,3351721,100.0,739742,153232,27728
+0100000US,,United States,71393,Marinas,T,Establishments subject to federal income tax,804,4 largest firms,2002,41,147942,4.4,20678,3981,585
+0100000US,,United States,71393,Marinas,T,Establishments subject to federal income tax,808,8 largest firms,2002,54,218603,6.5,29481,5991,916
+0100000US,,United States,71393,Marinas,T,Establishments subject to federal income tax,820,20 largest firms,2002,69,360196,10.7,58144,12973,1620
+0100000US,,United States,71393,Marinas,T,Establishments subject to federal income tax,850,50 largest firms,2002,116,589961,17.6,102974,23034,3231
+0100000US,,United States,713930,Marinas,A,All establishments,001,All firms,2002,4272,3351721,100.0,739742,153232,27728
+0100000US,,United States,713930,Marinas,A,All establishments,804,4 largest firms,2002,41,147942,4.4,20678,3981,585
+0100000US,,United States,713930,Marinas,A,All establishments,808,8 largest firms,2002,54,218603,6.5,29481,5991,916
+0100000US,,United States,713930,Marinas,A,All establishments,820,20 largest firms,2002,69,360196,10.7,58144,12973,1620
+0100000US,,United States,713930,Marinas,A,All establishments,850,50 largest firms,2002,116,589961,17.6,102974,23034,3231
+0100000US,,United States,713930,Marinas,T,Establishments subject to federal income tax,001,All firms,2002,4272,3351721,100.0,739742,153232,27728
+0100000US,,United States,713930,Marinas,T,Establishments subject to federal income tax,804,4 largest firms,2002,41,147942,4.4,20678,3981,585
+0100000US,,United States,713930,Marinas,T,Establishments subject to federal income tax,808,8 largest firms,2002,54,218603,6.5,29481,5991,916
+0100000US,,United States,713930,Marinas,T,Establishments subject to federal income tax,820,20 largest firms,2002,69,360196,10.7,58144,12973,1620
+0100000US,,United States,713930,Marinas,T,Establishments subject to federal income tax,850,50 largest firms,2002,116,589961,17.6,102974,23034,3231
+0100000US,,United States,71394,Fitness and recreational sports centers,A,All establishments,001,All firms,2002,25290,14987647,100.0,4953584,1179866,445508
+0100000US,,United States,71394,Fitness and recreational sports centers,A,All establishments,804,4 largest firms,2002,877,2281596,15.2,672228,162474,53821
+0100000US,,United States,71394,Fitness and recreational sports centers,A,All establishments,808,8 largest firms,2002,1010,2991348,20.0,865649,212948,68914
+0100000US,,United States,71394,Fitness and recreational sports centers,A,All establishments,820,20 largest firms,2002,1195,3748217,25.0,1088413,266666,84550
+0100000US,,United States,71394,Fitness and recreational sports centers,A,All establishments,850,50 largest firms,2002,1677,4675020,31.2,1448635,351367,113481
+0100000US,,United States,71394,Fitness and recreational sports centers,N,Establishments exempt from federal income tax,001,All firms,2002,5441,3274326,100.0,1280603,286870,115667
+0100000US,,United States,71394,Fitness and recreational sports centers,N,Establishments exempt from federal income tax,804,4 largest firms,2002,63,218987,6.7,68825,16543,6967
+0100000US,,United States,71394,Fitness and recreational sports centers,N,Establishments exempt from federal income tax,808,8 largest firms,2002,91,375103,11.5,137017,32975,11293
+0100000US,,United States,71394,Fitness and recreational sports centers,N,Establishments exempt from federal income tax,820,20 largest firms,2002,197,685288,20.9,273075,63921,23843
+0100000US,,United States,71394,Fitness and recreational sports centers,N,Establishments exempt from federal income tax,850,50 largest firms,2002,361,1061112,32.4,433495,100991,38339
+0100000US,,United States,71394,Fitness and recreational sports centers,T,Establishments subject to federal income tax,001,All firms,2002,19849,11713321,100.0,3672981,892996,329841
+0100000US,,United States,71394,Fitness and recreational sports centers,T,Establishments subject to federal income tax,804,4 largest firms,2002,870,2267865,19.4,666242,161220,53276
+0100000US,,United States,71394,Fitness and recreational sports centers,T,Establishments subject to federal income tax,808,8 largest firms,2002,1003,2977617,25.4,859663,211694,68369
+0100000US,,United States,71394,Fitness and recreational sports centers,T,Establishments subject to federal income tax,820,20 largest firms,2002,1229,3694280,31.5,1078375,264843,82120
+0100000US,,United States,71394,Fitness and recreational sports centers,T,Establishments subject to federal income tax,850,50 largest firms,2002,1649,4319309,36.9,1286418,315872,97572
+0100000US,,United States,713940,Fitness and recreational sports centers,A,All establishments,001,All firms,2002,25290,14987647,100.0,4953584,1179866,445508
+0100000US,,United States,713940,Fitness and recreational sports centers,A,All establishments,804,4 largest firms,2002,877,2281596,15.2,672228,162474,53821
+0100000US,,United States,713940,Fitness and recreational sports centers,A,All establishments,808,8 largest firms,2002,1010,2991348,20.0,865649,212948,68914
+0100000US,,United States,713940,Fitness and recreational sports centers,A,All establishments,820,20 largest firms,2002,1195,3748217,25.0,1088413,266666,84550
+0100000US,,United States,713940,Fitness and recreational sports centers,A,All establishments,850,50 largest firms,2002,1677,4675020,31.2,1448635,351367,113481
+0100000US,,United States,713940,Fitness and recreational sports centers,N,Establishments exempt from federal income tax,001,All firms,2002,5441,3274326,100.0,1280603,286870,115667
+0100000US,,United States,713940,Fitness and recreational sports centers,N,Establishments exempt from federal income tax,804,4 largest firms,2002,63,218987,6.7,68825,16543,6967
+0100000US,,United States,713940,Fitness and recreational sports centers,N,Establishments exempt from federal income tax,808,8 largest firms,2002,91,375103,11.5,137017,32975,11293
+0100000US,,United States,713940,Fitness and recreational sports centers,N,Establishments exempt from federal income tax,820,20 largest firms,2002,197,685288,20.9,273075,63921,23843
+0100000US,,United States,713940,Fitness and recreational sports centers,N,Establishments exempt from federal income tax,850,50 largest firms,2002,361,1061112,32.4,433495,100991,38339
+0100000US,,United States,713940,Fitness and recreational sports centers,T,Establishments subject to federal income tax,001,All firms,2002,19849,11713321,100.0,3672981,892996,329841
+0100000US,,United States,713940,Fitness and recreational sports centers,T,Establishments subject to federal income tax,804,4 largest firms,2002,870,2267865,19.4,666242,161220,53276
+0100000US,,United States,713940,Fitness and recreational sports centers,T,Establishments subject to federal income tax,808,8 largest firms,2002,1003,2977617,25.4,859663,211694,68369
+0100000US,,United States,713940,Fitness and recreational sports centers,T,Establishments subject to federal income tax,820,20 largest firms,2002,1229,3694280,31.5,1078375,264843,82120
+0100000US,,United States,713940,Fitness and recreational sports centers,T,Establishments subject to federal income tax,850,50 largest firms,2002,1649,4319309,36.9,1286418,315872,97572
+0100000US,,United States,7139404,Ice skating rinks,A,All establishments,001,All firms,2002,443,419950,100.0,114858,30340,11641
+0100000US,,United States,7139404,Ice skating rinks,A,All establishments,804,4 largest firms,2002,12,28991,6.9,7710,2075,706
+0100000US,,United States,7139404,Ice skating rinks,A,All establishments,808,8 largest firms,2002,18,48588,11.6,11670,2973,1051
+0100000US,,United States,7139404,Ice skating rinks,A,All establishments,820,20 largest firms,2002,34,93756,22.3,25249,6443,2174
+0100000US,,United States,7139404,Ice skating rinks,A,All establishments,850,50 largest firms,2002,69,170719,40.7,47551,12067,4489
+0100000US,,United States,7139404,Ice skating rinks,T,Establishments subject to federal income tax,001,All firms,2002,443,419950,100.0,114858,30340,11641
+0100000US,,United States,7139404,Ice skating rinks,T,Establishments subject to federal income tax,804,4 largest firms,2002,12,28991,6.9,7710,2075,706
+0100000US,,United States,7139404,Ice skating rinks,T,Establishments subject to federal income tax,808,8 largest firms,2002,18,48588,11.6,11670,2973,1051
+0100000US,,United States,7139404,Ice skating rinks,T,Establishments subject to federal income tax,820,20 largest firms,2002,34,93756,22.3,25249,6443,2174
+0100000US,,United States,7139404,Ice skating rinks,T,Establishments subject to federal income tax,850,50 largest firms,2002,69,170719,40.7,47551,12067,4489
+0100000US,,United States,7139405,Roller skating rinks,A,All establishments,001,All firms,2002,1540,396485,100.0,114591,30499,17526
+0100000US,,United States,7139405,Roller skating rinks,A,All establishments,804,4 largest firms,2002,10,14875,3.8,4088,1162,531
+0100000US,,United States,7139405,Roller skating rinks,A,All establishments,808,8 largest firms,2002,16,22639,5.7,6367,1701,749
+0100000US,,United States,7139405,Roller skating rinks,A,All establishments,820,20 largest firms,2002,44,39842,10.0,11607,3102,1484
+0100000US,,United States,7139405,Roller skating rinks,A,All establishments,850,50 largest firms,2002,86,72656,18.3,22019,5834,2757
+0100000US,,United States,7139405,Roller skating rinks,T,Establishments subject to federal income tax,001,All firms,2002,1540,396485,100.0,114591,30499,17526
+0100000US,,United States,7139405,Roller skating rinks,T,Establishments subject to federal income tax,804,4 largest firms,2002,10,14875,3.8,4088,1162,531
+0100000US,,United States,7139405,Roller skating rinks,T,Establishments subject to federal income tax,808,8 largest firms,2002,16,22639,5.7,6367,1701,749
+0100000US,,United States,7139405,Roller skating rinks,T,Establishments subject to federal income tax,820,20 largest firms,2002,44,39842,10.0,11607,3102,1484
+0100000US,,United States,7139405,Roller skating rinks,T,Establishments subject to federal income tax,850,50 largest firms,2002,86,72656,18.3,22019,5834,2757
+0100000US,,United States,7139409,Other fitness and recreational sports centers,A,All establishments,001,All firms,2002,23307,14171212,100.0,4724135,1119027,416341
+0100000US,,United States,7139409,Other fitness and recreational sports centers,A,All establishments,804,4 largest firms,2002,877,2281596,16.1,672228,162474,53821
+0100000US,,United States,7139409,Other fitness and recreational sports centers,A,All establishments,808,8 largest firms,2002,1010,2991348,21.1,865649,212948,68914
+0100000US,,United States,7139409,Other fitness and recreational sports centers,A,All establishments,820,20 largest firms,2002,1195,3748217,26.4,1088413,266666,84550
+0100000US,,United States,7139409,Other fitness and recreational sports centers,A,All establishments,850,50 largest firms,2002,1676,4671195,33.0,1447826,351162,113397
+0100000US,,United States,7139409,Other fitness and recreational sports centers,N,Establishments exempt from federal income tax,001,All firms,2002,5441,3274326,100.0,1280603,286870,115667
+0100000US,,United States,7139409,Other fitness and recreational sports centers,N,Establishments exempt from federal income tax,804,4 largest firms,2002,63,218987,6.7,68825,16543,6967
+0100000US,,United States,7139409,Other fitness and recreational sports centers,N,Establishments exempt from federal income tax,808,8 largest firms,2002,91,375103,11.5,137017,32975,11293
+0100000US,,United States,7139409,Other fitness and recreational sports centers,N,Establishments exempt from federal income tax,820,20 largest firms,2002,197,685288,20.9,273075,63921,23843
+0100000US,,United States,7139409,Other fitness and recreational sports centers,N,Establishments exempt from federal income tax,850,50 largest firms,2002,361,1061112,32.4,433495,100991,38339
+0100000US,,United States,7139409,Other fitness and recreational sports centers,T,Establishments subject to federal income tax,001,All firms,2002,17866,10896886,100.0,3443532,832157,300674
+0100000US,,United States,7139409,Other fitness and recreational sports centers,T,Establishments subject to federal income tax,804,4 largest firms,2002,870,2267865,20.8,666242,161220,53276
+0100000US,,United States,7139409,Other fitness and recreational sports centers,T,Establishments subject to federal income tax,808,8 largest firms,2002,1003,2977617,27.3,859663,211694,68369
+0100000US,,United States,7139409,Other fitness and recreational sports centers,T,Establishments subject to federal income tax,820,20 largest firms,2002,1229,3694280,33.9,1078375,264843,82120
+0100000US,,United States,7139409,Other fitness and recreational sports centers,T,Establishments subject to federal income tax,850,50 largest firms,2002,1648,4315484,39.6,1285609,315667,97488
+0100000US,,United States,71395,Bowling centers,A,All establishments,001,All firms,2002,4924,3074777,100.0,904547,236487,82010
+0100000US,,United States,71395,Bowling centers,A,All establishments,804,4 largest firms,2002,524,649610,21.1,185669,47936,14887
+0100000US,,United States,71395,Bowling centers,A,All establishments,808,8 largest firms,2002,543,695569,22.6,198725,50995,15775
+0100000US,,United States,71395,Bowling centers,A,All establishments,820,20 largest firms,2002,568,770115,25.0,225810,57941,17402
+0100000US,,United States,71395,Bowling centers,A,All establishments,850,50 largest firms,2002,621,885318,28.8,259218,66516,19729
+0100000US,,United States,71395,Bowling centers,T,Establishments subject to federal income tax,001,All firms,2002,4924,3074777,100.0,904547,236487,82010
+0100000US,,United States,71395,Bowling centers,T,Establishments subject to federal income tax,804,4 largest firms,2002,524,649610,21.1,185669,47936,14887
+0100000US,,United States,71395,Bowling centers,T,Establishments subject to federal income tax,808,8 largest firms,2002,543,695569,22.6,198725,50995,15775
+0100000US,,United States,71395,Bowling centers,T,Establishments subject to federal income tax,820,20 largest firms,2002,568,770115,25.0,225810,57941,17402
+0100000US,,United States,71395,Bowling centers,T,Establishments subject to federal income tax,850,50 largest firms,2002,621,885318,28.8,259218,66516,19729
+0100000US,,United States,713950,Bowling centers,A,All establishments,001,All firms,2002,4924,3074777,100.0,904547,236487,82010
+0100000US,,United States,713950,Bowling centers,A,All establishments,804,4 largest firms,2002,524,649610,21.1,185669,47936,14887
+0100000US,,United States,713950,Bowling centers,A,All establishments,808,8 largest firms,2002,543,695569,22.6,198725,50995,15775
+0100000US,,United States,713950,Bowling centers,A,All establishments,820,20 largest firms,2002,568,770115,25.0,225810,57941,17402
+0100000US,,United States,713950,Bowling centers,A,All establishments,850,50 largest firms,2002,621,885318,28.8,259218,66516,19729
+0100000US,,United States,713950,Bowling centers,T,Establishments subject to federal income tax,001,All firms,2002,4924,3074777,100.0,904547,236487,82010
+0100000US,,United States,713950,Bowling centers,T,Establishments subject to federal income tax,804,4 largest firms,2002,524,649610,21.1,185669,47936,14887
+0100000US,,United States,713950,Bowling centers,T,Establishments subject to federal income tax,808,8 largest firms,2002,543,695569,22.6,198725,50995,15775
+0100000US,,United States,713950,Bowling centers,T,Establishments subject to federal income tax,820,20 largest firms,2002,568,770115,25.0,225810,57941,17402
+0100000US,,United States,713950,Bowling centers,T,Establishments subject to federal income tax,850,50 largest firms,2002,621,885318,28.8,259218,66516,19729
+0100000US,,United States,71399,All other amusement and recreation industries,A,All establishments,001,All firms,2002,13694,5925308,100.0,1442622,314521,85197
+0100000US,,United States,71399,All other amusement and recreation industries,A,All establishments,804,4 largest firms,2002,103,269257,4.5,42996,11704,1860
+0100000US,,United States,71399,All other amusement and recreation industries,A,All establishments,808,8 largest firms,2002,116,368852,6.2,66143,16959,2965
+0100000US,,United States,71399,All other amusement and recreation industries,A,All establishments,820,20 largest firms,2002,150,565709,9.5,103450,25324,4642
+0100000US,,United States,71399,All other amusement and recreation industries,A,All establishments,850,50 largest firms,2002,261,847378,14.3,174816,41984,7273
+0100000US,,United States,71399,All other amusement and recreation industries,N,Establishments exempt from federal income tax,001,All firms,2002,2639,976779,100.0,262908,58118,16255
+0100000US,,United States,71399,All other amusement and recreation industries,N,Establishments exempt from federal income tax,804,4 largest firms,2002,7,58429,6.0,15963,3630,659
+0100000US,,United States,71399,All other amusement and recreation industries,N,Establishments exempt from federal income tax,808,8 largest firms,2002,20,95616,9.8,28997,6736,1170
+0100000US,,United States,71399,All other amusement and recreation industries,N,Establishments exempt from federal income tax,820,20 largest firms,2002,75,176479,18.1,55782,13171,2819
+0100000US,,United States,71399,All other amusement and recreation industries,N,Establishments exempt from federal income tax,850,50 largest firms,2002,107,293211,30.0,87660,19719,3959
+0100000US,,United States,71399,All other amusement and recreation industries,T,Establishments subject to federal income tax,001,All firms,2002,11055,4948529,100.0,1179714,256403,68942
+0100000US,,United States,71399,All other amusement and recreation industries,T,Establishments subject to federal income tax,804,4 largest firms,2002,103,269257,5.4,42996,11704,1860
+0100000US,,United States,71399,All other amusement and recreation industries,T,Establishments subject to federal income tax,808,8 largest firms,2002,116,368852,7.5,66143,16959,2965
+0100000US,,United States,71399,All other amusement and recreation industries,T,Establishments subject to federal income tax,820,20 largest firms,2002,155,552244,11.2,96969,23529,4335
+0100000US,,United States,71399,All other amusement and recreation industries,T,Establishments subject to federal income tax,850,50 largest firms,2002,238,803064,16.2,156401,38030,6113
+0100000US,,United States,713990,All other amusement and recreation industries,A,All establishments,001,All firms,2002,13694,5925308,100.0,1442622,314521,85197
+0100000US,,United States,713990,All other amusement and recreation industries,A,All establishments,804,4 largest firms,2002,103,269257,4.5,42996,11704,1860
+0100000US,,United States,713990,All other amusement and recreation industries,A,All establishments,808,8 largest firms,2002,116,368852,6.2,66143,16959,2965
+0100000US,,United States,713990,All other amusement and recreation industries,A,All establishments,820,20 largest firms,2002,150,565709,9.5,103450,25324,4642
+0100000US,,United States,713990,All other amusement and recreation industries,A,All establishments,850,50 largest firms,2002,261,847378,14.3,174816,41984,7273
+0100000US,,United States,713990,All other amusement and recreation industries,N,Establishments exempt from federal income tax,001,All firms,2002,2639,976779,100.0,262908,58118,16255
+0100000US,,United States,713990,All other amusement and recreation industries,N,Establishments exempt from federal income tax,804,4 largest firms,2002,7,58429,6.0,15963,3630,659
+0100000US,,United States,713990,All other amusement and recreation industries,N,Establishments exempt from federal income tax,808,8 largest firms,2002,20,95616,9.8,28997,6736,1170
+0100000US,,United States,713990,All other amusement and recreation industries,N,Establishments exempt from federal income tax,820,20 largest firms,2002,75,176479,18.1,55782,13171,2819
+0100000US,,United States,713990,All other amusement and recreation industries,N,Establishments exempt from federal income tax,850,50 largest firms,2002,107,293211,30.0,87660,19719,3959
+0100000US,,United States,713990,All other amusement and recreation industries,T,Establishments subject to federal income tax,001,All firms,2002,11055,4948529,100.0,1179714,256403,68942
+0100000US,,United States,713990,All other amusement and recreation industries,T,Establishments subject to federal income tax,804,4 largest firms,2002,103,269257,5.4,42996,11704,1860
+0100000US,,United States,713990,All other amusement and recreation industries,T,Establishments subject to federal income tax,808,8 largest firms,2002,116,368852,7.5,66143,16959,2965
+0100000US,,United States,713990,All other amusement and recreation industries,T,Establishments subject to federal income tax,820,20 largest firms,2002,155,552244,11.2,96969,23529,4335
+0100000US,,United States,713990,All other amusement and recreation industries,T,Establishments subject to federal income tax,850,50 largest firms,2002,238,803064,16.2,156401,38030,6113
+0100000US,,United States,7139901,Dance halls,A,All establishments,001,All firms,2002,214,82344,100.0,24881,5420,2325
+0100000US,,United States,7139901,Dance halls,A,All establishments,804,4 largest firms,2002,4,15695,19.1,7111,1180,434
+0100000US,,United States,7139901,Dance halls,A,All establishments,808,8 largest firms,2002,8,26375,32.0,10052,1960,646
+0100000US,,United States,7139901,Dance halls,A,All establishments,820,20 largest firms,2002,20,42572,51.7,15469,3236,1055
+0100000US,,United States,7139901,Dance halls,A,All establishments,850,50 largest firms,2002,50,60103,73.0,19672,4220,1652
+0100000US,,United States,7139901,Dance halls,T,Establishments subject to federal income tax,001,All firms,2002,214,82344,100.0,24881,5420,2325
+0100000US,,United States,7139901,Dance halls,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,15695,19.1,7111,1180,434
+0100000US,,United States,7139901,Dance halls,T,Establishments subject to federal income tax,808,8 largest firms,2002,8,26375,32.0,10052,1960,646
+0100000US,,United States,7139901,Dance halls,T,Establishments subject to federal income tax,820,20 largest firms,2002,20,42572,51.7,15469,3236,1055
+0100000US,,United States,7139901,Dance halls,T,Establishments subject to federal income tax,850,50 largest firms,2002,50,60103,73.0,19672,4220,1652
+0100000US,,United States,7139902,Concession operators of amusement devices and rides,A,All establishments,001,All firms,2002,958,430957,100.0,99138,18743,6249
+0100000US,,United States,7139902,Concession operators of amusement devices and rides,A,All establishments,804,4 largest firms,2002,4,65552,15.2,8379,2057,323
+0100000US,,United States,7139902,Concession operators of amusement devices and rides,A,All establishments,808,8 largest firms,2002,8,95038,22.1,17417,3498,765
+0100000US,,United States,7139902,Concession operators of amusement devices and rides,A,All establishments,820,20 largest firms,2002,53,142598,33.1,28291,5287,1589
+0100000US,,United States,7139902,Concession operators of amusement devices and rides,A,All establishments,850,50 largest firms,2002,91,201288,46.7,44104,8332,2258
+0100000US,,United States,7139902,Concession operators of amusement devices and rides,T,Establishments subject to federal income tax,001,All firms,2002,958,430957,100.0,99138,18743,6249
+0100000US,,United States,7139902,Concession operators of amusement devices and rides,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,65552,15.2,8379,2057,323
+0100000US,,United States,7139902,Concession operators of amusement devices and rides,T,Establishments subject to federal income tax,808,8 largest firms,2002,8,95038,22.1,17417,3498,765
+0100000US,,United States,7139902,Concession operators of amusement devices and rides,T,Establishments subject to federal income tax,820,20 largest firms,2002,53,142598,33.1,28291,5287,1589
+0100000US,,United States,7139902,Concession operators of amusement devices and rides,T,Establishments subject to federal income tax,850,50 largest firms,2002,91,201288,46.7,44104,8332,2258
+0100000US,,United States,7139904,Miniature golf courses,A,All establishments,001,All firms,2002,1392,396744,100.0,102185,19586,7161
+0100000US,,United States,7139904,Miniature golf courses,A,All establishments,804,4 largest firms,2002,8,29759,7.5,5805,1318,243
+0100000US,,United States,7139904,Miniature golf courses,A,All establishments,808,8 largest firms,2002,21,44330,11.2,10355,2445,538
+0100000US,,United States,7139904,Miniature golf courses,A,All establishments,820,20 largest firms,2002,46,75412,19.0,17335,3890,928
+0100000US,,United States,7139904,Miniature golf courses,A,All establishments,850,50 largest firms,2002,76,119457,30.1,29426,6290,1590
+0100000US,,United States,7139904,Miniature golf courses,T,Establishments subject to federal income tax,001,All firms,2002,1392,396744,100.0,102185,19586,7161
+0100000US,,United States,7139904,Miniature golf courses,T,Establishments subject to federal income tax,804,4 largest firms,2002,8,29759,7.5,5805,1318,243
+0100000US,,United States,7139904,Miniature golf courses,T,Establishments subject to federal income tax,808,8 largest firms,2002,21,44330,11.2,10355,2445,538
+0100000US,,United States,7139904,Miniature golf courses,T,Establishments subject to federal income tax,820,20 largest firms,2002,46,75412,19.0,17335,3890,928
+0100000US,,United States,7139904,Miniature golf courses,T,Establishments subject to federal income tax,850,50 largest firms,2002,76,119457,30.1,29426,6290,1590
+0100000US,,United States,7139905,Coin-operated amusement devices (except slot machine operation),A,All establishments,001,All firms,2002,2291,1577643,100.0,338079,81510,14581
+0100000US,,United States,7139905,Coin-operated amusement devices (except slot machine operation),A,All establishments,804,4 largest firms,2002,53,258680,16.4,37683,10388,1351
+0100000US,,United States,7139905,Coin-operated amusement devices (except slot machine operation),A,All establishments,808,8 largest firms,2002,64,311471,19.7,45120,11987,1737
+0100000US,,United States,7139905,Coin-operated amusement devices (except slot machine operation),A,All establishments,820,20 largest firms,2002,110,419992,26.6,67121,17561,2347
+0100000US,,United States,7139905,Coin-operated amusement devices (except slot machine operation),A,All establishments,850,50 largest firms,2002,141,561045,35.6,94505,24354,3179
+0100000US,,United States,7139905,Coin-operated amusement devices (except slot machine operation),T,Establishments subject to federal income tax,001,All firms,2002,2291,1577643,100.0,338079,81510,14581
+0100000US,,United States,7139905,Coin-operated amusement devices (except slot machine operation),T,Establishments subject to federal income tax,804,4 largest firms,2002,53,258680,16.4,37683,10388,1351
+0100000US,,United States,7139905,Coin-operated amusement devices (except slot machine operation),T,Establishments subject to federal income tax,808,8 largest firms,2002,64,311471,19.7,45120,11987,1737
+0100000US,,United States,7139905,Coin-operated amusement devices (except slot machine operation),T,Establishments subject to federal income tax,820,20 largest firms,2002,110,419992,26.6,67121,17561,2347
+0100000US,,United States,7139905,Coin-operated amusement devices (except slot machine operation),T,Establishments subject to federal income tax,850,50 largest firms,2002,141,561045,35.6,94505,24354,3179
+0100000US,,United States,7139908,All other miscellaneous amusement and recreation services,A,All establishments,001,All firms,2002,8839,3437620,100.0,878339,189262,54881
+0100000US,,United States,7139908,All other miscellaneous amusement and recreation services,A,All establishments,804,4 largest firms,2002,63,106334,3.1,29507,6841,1656
+0100000US,,United States,7139908,All other miscellaneous amusement and recreation services,A,All establishments,808,8 largest firms,2002,74,177662,5.2,50517,11922,2546
+0100000US,,United States,7139908,All other miscellaneous amusement and recreation services,A,All establishments,820,20 largest firms,2002,129,298332,8.7,82517,19399,3844
+0100000US,,United States,7139908,All other miscellaneous amusement and recreation services,A,All establishments,850,50 largest firms,2002,196,487342,14.2,133866,31470,6190
+0100000US,,United States,7139908,All other miscellaneous amusement and recreation services,N,Establishments exempt from federal income tax,001,All firms,2002,2639,976779,100.0,262908,58118,16255
+0100000US,,United States,7139908,All other miscellaneous amusement and recreation services,N,Establishments exempt from federal income tax,804,4 largest firms,2002,7,58429,6.0,15963,3630,659
+0100000US,,United States,7139908,All other miscellaneous amusement and recreation services,N,Establishments exempt from federal income tax,808,8 largest firms,2002,20,95616,9.8,28997,6736,1170
+0100000US,,United States,7139908,All other miscellaneous amusement and recreation services,N,Establishments exempt from federal income tax,820,20 largest firms,2002,75,176479,18.1,55782,13171,2819
+0100000US,,United States,7139908,All other miscellaneous amusement and recreation services,N,Establishments exempt from federal income tax,850,50 largest firms,2002,107,293211,30.0,87660,19719,3959
+0100000US,,United States,7139908,All other miscellaneous amusement and recreation services,T,Establishments subject to federal income tax,001,All firms,2002,6200,2460841,100.0,615431,131144,38626
+0100000US,,United States,7139908,All other miscellaneous amusement and recreation services,T,Establishments subject to federal income tax,804,4 largest firms,2002,63,106334,4.3,29507,6841,1656
+0100000US,,United States,7139908,All other miscellaneous amusement and recreation services,T,Establishments subject to federal income tax,808,8 largest firms,2002,93,164127,6.7,44191,10190,2338
+0100000US,,United States,7139908,All other miscellaneous amusement and recreation services,T,Establishments subject to federal income tax,820,20 largest firms,2002,110,255800,10.4,69408,16640,3083
+0100000US,,United States,7139908,All other miscellaneous amusement and recreation services,T,Establishments subject to federal income tax,850,50 largest firms,2002,143,396244,16.1,96387,21944,4014

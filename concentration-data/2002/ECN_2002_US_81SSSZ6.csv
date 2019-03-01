@@ -1,0 +1,1176 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,OPTAX.id,OPTAX.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VALPCT,PAYANT,PAYQ1T,EMP
+0100000US,,United States,81,Other services (except public administration),A,All establishments,001,All firms,2002,537576,307049461,100.0,82954939,20132941,3475310
+0100000US,,United States,81,Other services (except public administration),A,All establishments,804,4 largest firms,2002,5919,D,D,D,D,l
+0100000US,,United States,81,Other services (except public administration),A,All establishments,808,8 largest firms,2002,7074,D,D,D,D,m
+0100000US,,United States,81,Other services (except public administration),A,All establishments,820,20 largest firms,2002,15897,21823421,7.1,4643697,1147635,199320
+0100000US,,United States,81,Other services (except public administration),A,All establishments,850,50 largest firms,2002,20095,34315220,11.2,6914066,1729094,286530
+0100000US,,United States,81,Other services (except public administration),N,Establishments exempt from federal income tax,001,All firms,2002,105514,116523311,100.0,24928801,6068425,893399
+0100000US,,United States,81,Other services (except public administration),N,Establishments exempt from federal income tax,804,4 largest firms,2002,6,4507716,3.9,33521,7947,513
+0100000US,,United States,81,Other services (except public administration),N,Establishments exempt from federal income tax,808,8 largest firms,2002,414,7149025,6.1,621475,164713,12682
+0100000US,,United States,81,Other services (except public administration),N,Establishments exempt from federal income tax,820,20 largest firms,2002,704,11863295,10.2,872638,225456,17804
+0100000US,,United States,81,Other services (except public administration),N,Establishments exempt from federal income tax,850,50 largest firms,2002,1280,18116676,15.5,1658764,411727,34151
+0100000US,,United States,81,Other services (except public administration),T,Establishments subject to federal income tax,001,All firms,2002,432062,190526150,100.0,58026138,14064516,2581911
+0100000US,,United States,81,Other services (except public administration),T,Establishments subject to federal income tax,804,4 largest firms,2002,5919,7539573,4.0,1911523,470510,82581
+0100000US,,United States,81,Other services (except public administration),T,Establishments subject to federal income tax,808,8 largest firms,2002,11605,11649364,6.1,3026741,756484,131936
+0100000US,,United States,81,Other services (except public administration),T,Establishments subject to federal income tax,820,20 largest firms,2002,17751,19119435,10.0,5003506,1237754,230072
+0100000US,,United States,81,Other services (except public administration),T,Establishments subject to federal income tax,850,50 largest firms,2002,22424,26660975,14.0,7172744,1781093,310574
+0100000US,,United States,811,Repair and maintenance,A,All establishments,001,All firms,2002,231043,118305746,100.0,35117838,8547775,1285371
+0100000US,,United States,811,Repair and maintenance,A,All establishments,804,4 largest firms,2002,1677,4448874,3.8,1319330,323199,36630
+0100000US,,United States,811,Repair and maintenance,A,All establishments,808,8 largest firms,2002,1961,6134621,5.2,1885636,477874,48771
+0100000US,,United States,811,Repair and maintenance,A,All establishments,820,20 largest firms,2002,3956,8836823,7.5,2468462,620746,69888
+0100000US,,United States,811,Repair and maintenance,A,All establishments,850,50 largest firms,2002,5372,12434315,10.5,3657784,926381,100885
+0100000US,,United States,811,Repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,231043,118305746,100.0,35117838,8547775,1285371
+0100000US,,United States,811,Repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,1677,4448874,3.8,1319330,323199,36630
+0100000US,,United States,811,Repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,1961,6134621,5.2,1885636,477874,48771
+0100000US,,United States,811,Repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,3956,8836823,7.5,2468462,620746,69888
+0100000US,,United States,811,Repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,5372,12434315,10.5,3657784,926381,100885
+0100000US,,United States,8111,Automotive repair and maintenance,A,All establishments,001,All firms,2002,166821,75219140,100.0,21592456,5242750,871040
+0100000US,,United States,8111,Automotive repair and maintenance,A,All establishments,804,4 largest firms,2002,2179,1339162,1.8,348863,81201,12106
+0100000US,,United States,8111,Automotive repair and maintenance,A,All establishments,808,8 largest firms,2002,3063,2082413,2.8,542551,130795,21785
+0100000US,,United States,8111,Automotive repair and maintenance,A,All establishments,820,20 largest firms,2002,3967,3426148,4.6,969726,235655,35989
+0100000US,,United States,8111,Automotive repair and maintenance,A,All establishments,850,50 largest firms,2002,5724,4883558,6.5,1405906,355255,53753
+0100000US,,United States,8111,Automotive repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,166821,75219140,100.0,21592456,5242750,871040
+0100000US,,United States,8111,Automotive repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,2179,1339162,1.8,348863,81201,12106
+0100000US,,United States,8111,Automotive repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,3063,2082413,2.8,542551,130795,21785
+0100000US,,United States,8111,Automotive repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,3967,3426148,4.6,969726,235655,35989
+0100000US,,United States,8111,Automotive repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,5724,4883558,6.5,1405906,355255,53753
+0100000US,,United States,81111,Automotive mechanical and electrical repair and maintenance,A,All establishments,001,All firms,2002,99851,38382286,100.0,10513476,2549208,401234
+0100000US,,United States,81111,Automotive mechanical and electrical repair and maintenance,A,All establishments,804,4 largest firms,2002,652,605556,1.6,142887,34779,4076
+0100000US,,United States,81111,Automotive mechanical and electrical repair and maintenance,A,All establishments,808,8 largest firms,2002,1626,894132,2.3,243891,71722,9614
+0100000US,,United States,81111,Automotive mechanical and electrical repair and maintenance,A,All establishments,820,20 largest firms,2002,2001,1304265,3.4,379305,104682,13861
+0100000US,,United States,81111,Automotive mechanical and electrical repair and maintenance,A,All establishments,850,50 largest firms,2002,2331,1867622,4.9,513842,138923,17574
+0100000US,,United States,81111,Automotive mechanical and electrical repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,99851,38382286,100.0,10513476,2549208,401234
+0100000US,,United States,81111,Automotive mechanical and electrical repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,652,605556,1.6,142887,34779,4076
+0100000US,,United States,81111,Automotive mechanical and electrical repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,1626,894132,2.3,243891,71722,9614
+0100000US,,United States,81111,Automotive mechanical and electrical repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,2001,1304265,3.4,379305,104682,13861
+0100000US,,United States,81111,Automotive mechanical and electrical repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,2331,1867622,4.9,513842,138923,17574
+0100000US,,United States,811111,General automotive repair,A,All establishments,001,All firms,2002,82766,31747964,100.0,8587989,2081370,328924
+0100000US,,United States,811111,General automotive repair,A,All establishments,804,4 largest firms,2002,650,603014,1.9,139874,33922,4013
+0100000US,,United States,811111,General automotive repair,A,All establishments,808,8 largest firms,2002,1588,859861,2.7,234817,69750,9410
+0100000US,,United States,811111,General automotive repair,A,All establishments,820,20 largest firms,2002,1848,1223757,3.9,349955,97574,12943
+0100000US,,United States,811111,General automotive repair,A,All establishments,850,50 largest firms,2002,2060,1724810,5.4,470001,129456,16321
+0100000US,,United States,811111,General automotive repair,T,Establishments subject to federal income tax,001,All firms,2002,82766,31747964,100.0,8587989,2081370,328924
+0100000US,,United States,811111,General automotive repair,T,Establishments subject to federal income tax,804,4 largest firms,2002,650,603014,1.9,139874,33922,4013
+0100000US,,United States,811111,General automotive repair,T,Establishments subject to federal income tax,808,8 largest firms,2002,1588,859861,2.7,234817,69750,9410
+0100000US,,United States,811111,General automotive repair,T,Establishments subject to federal income tax,820,20 largest firms,2002,1848,1223757,3.9,349955,97574,12943
+0100000US,,United States,811111,General automotive repair,T,Establishments subject to federal income tax,850,50 largest firms,2002,2060,1724810,5.4,470001,129456,16321
+0100000US,,United States,811112,Automotive exhaust system repair,A,All establishments,001,All firms,2002,3620,1239769,100.0,338349,80960,13854
+0100000US,,United States,811112,Automotive exhaust system repair,A,All establishments,804,4 largest firms,2002,74,57344,4.6,15962,3693,520
+0100000US,,United States,811112,Automotive exhaust system repair,A,All establishments,808,8 largest firms,2002,100,89911,7.3,26530,6090,873
+0100000US,,United States,811112,Automotive exhaust system repair,A,All establishments,820,20 largest firms,2002,142,140457,11.3,40124,9251,1312
+0100000US,,United States,811112,Automotive exhaust system repair,A,All establishments,850,50 largest firms,2002,255,214026,17.3,60896,14154,1955
+0100000US,,United States,811112,Automotive exhaust system repair,T,Establishments subject to federal income tax,001,All firms,2002,3620,1239769,100.0,338349,80960,13854
+0100000US,,United States,811112,Automotive exhaust system repair,T,Establishments subject to federal income tax,804,4 largest firms,2002,74,57344,4.6,15962,3693,520
+0100000US,,United States,811112,Automotive exhaust system repair,T,Establishments subject to federal income tax,808,8 largest firms,2002,100,89911,7.3,26530,6090,873
+0100000US,,United States,811112,Automotive exhaust system repair,T,Establishments subject to federal income tax,820,20 largest firms,2002,142,140457,11.3,40124,9251,1312
+0100000US,,United States,811112,Automotive exhaust system repair,T,Establishments subject to federal income tax,850,50 largest firms,2002,255,214026,17.3,60896,14154,1955
+0100000US,,United States,811113,Automotive transmission repair,A,All establishments,001,All firms,2002,6695,2688614,100.0,813310,200547,28757
+0100000US,,United States,811113,Automotive transmission repair,A,All establishments,804,4 largest firms,2002,25,53709,2.0,12357,2831,295
+0100000US,,United States,811113,Automotive transmission repair,A,All establishments,808,8 largest firms,2002,38,81863,3.0,22867,5177,548
+0100000US,,United States,811113,Automotive transmission repair,A,All establishments,820,20 largest firms,2002,60,136938,5.1,38288,8901,940
+0100000US,,United States,811113,Automotive transmission repair,A,All establishments,850,50 largest firms,2002,110,216583,8.1,63148,14871,1615
+0100000US,,United States,811113,Automotive transmission repair,T,Establishments subject to federal income tax,001,All firms,2002,6695,2688614,100.0,813310,200547,28757
+0100000US,,United States,811113,Automotive transmission repair,T,Establishments subject to federal income tax,804,4 largest firms,2002,25,53709,2.0,12357,2831,295
+0100000US,,United States,811113,Automotive transmission repair,T,Establishments subject to federal income tax,808,8 largest firms,2002,38,81863,3.0,22867,5177,548
+0100000US,,United States,811113,Automotive transmission repair,T,Establishments subject to federal income tax,820,20 largest firms,2002,60,136938,5.1,38288,8901,940
+0100000US,,United States,811113,Automotive transmission repair,T,Establishments subject to federal income tax,850,50 largest firms,2002,110,216583,8.1,63148,14871,1615
+0100000US,,United States,811118,Other automotive mechanical and electrical repair and maintenance,A,All establishments,001,All firms,2002,6770,2705939,100.0,773828,186331,29699
+0100000US,,United States,811118,Other automotive mechanical and electrical repair and maintenance,A,All establishments,804,4 largest firms,2002,244,158122,5.8,44790,10707,1502
+0100000US,,United States,811118,Other automotive mechanical and electrical repair and maintenance,A,All establishments,808,8 largest firms,2002,256,208135,7.7,60002,14026,1873
+0100000US,,United States,811118,Other automotive mechanical and electrical repair and maintenance,A,All establishments,820,20 largest firms,2002,304,295100,10.9,82747,19515,2556
+0100000US,,United States,811118,Other automotive mechanical and electrical repair and maintenance,A,All establishments,850,50 largest firms,2002,410,430784,15.9,124602,29423,3842
+0100000US,,United States,811118,Other automotive mechanical and electrical repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,6770,2705939,100.0,773828,186331,29699
+0100000US,,United States,811118,Other automotive mechanical and electrical repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,244,158122,5.8,44790,10707,1502
+0100000US,,United States,811118,Other automotive mechanical and electrical repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,256,208135,7.7,60002,14026,1873
+0100000US,,United States,811118,Other automotive mechanical and electrical repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,304,295100,10.9,82747,19515,2556
+0100000US,,United States,811118,Other automotive mechanical and electrical repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,410,430784,15.9,124602,29423,3842
+0100000US,,United States,8111181,Carburetor repair,A,All establishments,001,All firms,2002,441,167457,100.0,46913,11377,1811
+0100000US,,United States,8111181,Carburetor repair,A,All establishments,804,4 largest firms,2002,5,30617,18.3,7435,1597,169
+0100000US,,United States,8111181,Carburetor repair,A,All establishments,808,8 largest firms,2002,9,37824,22.6,9381,2084,244
+0100000US,,United States,8111181,Carburetor repair,A,All establishments,820,20 largest firms,2002,26,54798,32.7,15007,3404,413
+0100000US,,United States,8111181,Carburetor repair,A,All establishments,850,50 largest firms,2002,59,81074,48.4,22885,5239,677
+0100000US,,United States,8111181,Carburetor repair,T,Establishments subject to federal income tax,001,All firms,2002,441,167457,100.0,46913,11377,1811
+0100000US,,United States,8111181,Carburetor repair,T,Establishments subject to federal income tax,804,4 largest firms,2002,5,30617,18.3,7435,1597,169
+0100000US,,United States,8111181,Carburetor repair,T,Establishments subject to federal income tax,808,8 largest firms,2002,9,37824,22.6,9381,2084,244
+0100000US,,United States,8111181,Carburetor repair,T,Establishments subject to federal income tax,820,20 largest firms,2002,26,54798,32.7,15007,3404,413
+0100000US,,United States,8111181,Carburetor repair,T,Establishments subject to federal income tax,850,50 largest firms,2002,59,81074,48.4,22885,5239,677
+0100000US,,United States,8111182,"Brake, front end, and wheel alignment",A,All establishments,001,All firms,2002,2892,1314529,100.0,386098,93478,14217
+0100000US,,United States,8111182,"Brake, front end, and wheel alignment",A,All establishments,804,4 largest firms,2002,244,158122,12.0,44790,10707,1502
+0100000US,,United States,8111182,"Brake, front end, and wheel alignment",A,All establishments,808,8 largest firms,2002,253,191674,14.6,52764,12743,1724
+0100000US,,United States,8111182,"Brake, front end, and wheel alignment",A,All establishments,820,20 largest firms,2002,318,256201,19.5,73079,17499,2326
+0100000US,,United States,8111182,"Brake, front end, and wheel alignment",A,All establishments,850,50 largest firms,2002,395,349028,26.6,99939,23845,3168
+0100000US,,United States,8111182,"Brake, front end, and wheel alignment",T,Establishments subject to federal income tax,001,All firms,2002,2892,1314529,100.0,386098,93478,14217
+0100000US,,United States,8111182,"Brake, front end, and wheel alignment",T,Establishments subject to federal income tax,804,4 largest firms,2002,244,158122,12.0,44790,10707,1502
+0100000US,,United States,8111182,"Brake, front end, and wheel alignment",T,Establishments subject to federal income tax,808,8 largest firms,2002,253,191674,14.6,52764,12743,1724
+0100000US,,United States,8111182,"Brake, front end, and wheel alignment",T,Establishments subject to federal income tax,820,20 largest firms,2002,318,256201,19.5,73079,17499,2326
+0100000US,,United States,8111182,"Brake, front end, and wheel alignment",T,Establishments subject to federal income tax,850,50 largest firms,2002,395,349028,26.6,99939,23845,3168
+0100000US,,United States,8111183,"Electrical repair, motor vehicle",A,All establishments,001,All firms,2002,1331,454652,100.0,136135,32980,5519
+0100000US,,United States,8111183,"Electrical repair, motor vehicle",A,All establishments,804,4 largest firms,2002,13,37082,8.2,14402,3347,442
+0100000US,,United States,8111183,"Electrical repair, motor vehicle",A,All establishments,808,8 largest firms,2002,18,56620,12.5,20373,4692,574
+0100000US,,United States,8111183,"Electrical repair, motor vehicle",A,All establishments,820,20 largest firms,2002,40,93940,20.7,28953,6712,916
+0100000US,,United States,8111183,"Electrical repair, motor vehicle",A,All establishments,850,50 largest firms,2002,73,143197,31.5,45310,10704,1424
+0100000US,,United States,8111183,"Electrical repair, motor vehicle",T,Establishments subject to federal income tax,001,All firms,2002,1331,454652,100.0,136135,32980,5519
+0100000US,,United States,8111183,"Electrical repair, motor vehicle",T,Establishments subject to federal income tax,804,4 largest firms,2002,13,37082,8.2,14402,3347,442
+0100000US,,United States,8111183,"Electrical repair, motor vehicle",T,Establishments subject to federal income tax,808,8 largest firms,2002,18,56620,12.5,20373,4692,574
+0100000US,,United States,8111183,"Electrical repair, motor vehicle",T,Establishments subject to federal income tax,820,20 largest firms,2002,40,93940,20.7,28953,6712,916
+0100000US,,United States,8111183,"Electrical repair, motor vehicle",T,Establishments subject to federal income tax,850,50 largest firms,2002,73,143197,31.5,45310,10704,1424
+0100000US,,United States,8111184,Radiator repair,A,All establishments,001,All firms,2002,1689,588538,100.0,145287,34270,6179
+0100000US,,United States,8111184,Radiator repair,A,All establishments,804,4 largest firms,2002,28,23769,4.0,4508,1146,149
+0100000US,,United States,8111184,Radiator repair,A,All establishments,808,8 largest firms,2002,34,38982,6.6,8837,2071,262
+0100000US,,United States,8111184,Radiator repair,A,All establishments,820,20 largest firms,2002,51,73402,12.5,17159,3886,521
+0100000US,,United States,8111184,Radiator repair,A,All establishments,850,50 largest firms,2002,91,126416,21.5,31887,7302,1009
+0100000US,,United States,8111184,Radiator repair,T,Establishments subject to federal income tax,001,All firms,2002,1689,588538,100.0,145287,34270,6179
+0100000US,,United States,8111184,Radiator repair,T,Establishments subject to federal income tax,804,4 largest firms,2002,28,23769,4.0,4508,1146,149
+0100000US,,United States,8111184,Radiator repair,T,Establishments subject to federal income tax,808,8 largest firms,2002,34,38982,6.6,8837,2071,262
+0100000US,,United States,8111184,Radiator repair,T,Establishments subject to federal income tax,820,20 largest firms,2002,51,73402,12.5,17159,3886,521
+0100000US,,United States,8111184,Radiator repair,T,Establishments subject to federal income tax,850,50 largest firms,2002,91,126416,21.5,31887,7302,1009
+0100000US,,United States,8111189,All other motor vehicle repair,A,All establishments,001,All firms,2002,417,180763,100.0,59395,14226,1973
+0100000US,,United States,8111189,All other motor vehicle repair,A,All establishments,804,4 largest firms,2002,4,19449,10.8,5854,1420,140
+0100000US,,United States,8111189,All other motor vehicle repair,A,All establishments,808,8 largest firms,2002,8,33219,18.4,10156,2445,252
+0100000US,,United States,8111189,All other motor vehicle repair,A,All establishments,820,20 largest firms,2002,25,62104,34.4,17959,4455,460
+0100000US,,United States,8111189,All other motor vehicle repair,A,All establishments,850,50 largest firms,2002,55,98663,54.6,29121,6972,801
+0100000US,,United States,8111189,All other motor vehicle repair,T,Establishments subject to federal income tax,001,All firms,2002,417,180763,100.0,59395,14226,1973
+0100000US,,United States,8111189,All other motor vehicle repair,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,19449,10.8,5854,1420,140
+0100000US,,United States,8111189,All other motor vehicle repair,T,Establishments subject to federal income tax,808,8 largest firms,2002,8,33219,18.4,10156,2445,252
+0100000US,,United States,8111189,All other motor vehicle repair,T,Establishments subject to federal income tax,820,20 largest firms,2002,25,62104,34.4,17959,4455,460
+0100000US,,United States,8111189,All other motor vehicle repair,T,Establishments subject to federal income tax,850,50 largest firms,2002,55,98663,54.6,29121,6972,801
+0100000US,,United States,81112,"Automotive body, paint, interior, and glass repair",A,All establishments,001,All firms,2002,42170,26222660,100.0,7877279,1922686,253686
+0100000US,,United States,81112,"Automotive body, paint, interior, and glass repair",A,All establishments,804,4 largest firms,2002,1474,1180392,4.5,310117,75774,8283
+0100000US,,United States,81112,"Automotive body, paint, interior, and glass repair",A,All establishments,808,8 largest firms,2002,1621,1648881,6.3,485287,116660,11781
+0100000US,,United States,81112,"Automotive body, paint, interior, and glass repair",A,All establishments,820,20 largest firms,2002,2178,2190282,8.4,624331,150362,15971
+0100000US,,United States,81112,"Automotive body, paint, interior, and glass repair",A,All establishments,850,50 largest firms,2002,2435,2915618,11.1,836777,205001,21162
+0100000US,,United States,81112,"Automotive body, paint, interior, and glass repair",T,Establishments subject to federal income tax,001,All firms,2002,42170,26222660,100.0,7877279,1922686,253686
+0100000US,,United States,81112,"Automotive body, paint, interior, and glass repair",T,Establishments subject to federal income tax,804,4 largest firms,2002,1474,1180392,4.5,310117,75774,8283
+0100000US,,United States,81112,"Automotive body, paint, interior, and glass repair",T,Establishments subject to federal income tax,808,8 largest firms,2002,1621,1648881,6.3,485287,116660,11781
+0100000US,,United States,81112,"Automotive body, paint, interior, and glass repair",T,Establishments subject to federal income tax,820,20 largest firms,2002,2178,2190282,8.4,624331,150362,15971
+0100000US,,United States,81112,"Automotive body, paint, interior, and glass repair",T,Establishments subject to federal income tax,850,50 largest firms,2002,2435,2915618,11.1,836777,205001,21162
+0100000US,,United States,811121,"Automotive body, paint, and interior repair and maintenance",A,All establishments,001,All firms,2002,35220,22439676,100.0,6881667,1684538,220787
+0100000US,,United States,811121,"Automotive body, paint, and interior repair and maintenance",A,All establishments,804,4 largest firms,2002,173,568676,2.5,205267,50016,4351
+0100000US,,United States,811121,"Automotive body, paint, and interior repair and maintenance",A,All establishments,808,8 largest firms,2002,389,805913,3.6,274155,66519,6532
+0100000US,,United States,811121,"Automotive body, paint, and interior repair and maintenance",A,All establishments,820,20 largest firms,2002,489,1203162,5.4,387840,94764,9402
+0100000US,,United States,811121,"Automotive body, paint, and interior repair and maintenance",A,All establishments,850,50 largest firms,2002,607,1710994,7.6,540178,135644,12984
+0100000US,,United States,811121,"Automotive body, paint, and interior repair and maintenance",T,Establishments subject to federal income tax,001,All firms,2002,35220,22439676,100.0,6881667,1684538,220787
+0100000US,,United States,811121,"Automotive body, paint, and interior repair and maintenance",T,Establishments subject to federal income tax,804,4 largest firms,2002,173,568676,2.5,205267,50016,4351
+0100000US,,United States,811121,"Automotive body, paint, and interior repair and maintenance",T,Establishments subject to federal income tax,808,8 largest firms,2002,389,805913,3.6,274155,66519,6532
+0100000US,,United States,811121,"Automotive body, paint, and interior repair and maintenance",T,Establishments subject to federal income tax,820,20 largest firms,2002,489,1203162,5.4,387840,94764,9402
+0100000US,,United States,811121,"Automotive body, paint, and interior repair and maintenance",T,Establishments subject to federal income tax,850,50 largest firms,2002,607,1710994,7.6,540178,135644,12984
+0100000US,,United States,8111211,Paint or body repair,A,All establishments,001,All firms,2002,32892,21421274,100.0,6622237,1622257,210595
+0100000US,,United States,8111211,Paint or body repair,A,All establishments,804,4 largest firms,2002,173,568676,2.7,205267,50016,4351
+0100000US,,United States,8111211,Paint or body repair,A,All establishments,808,8 largest firms,2002,416,802126,3.7,280250,67937,6670
+0100000US,,United States,8111211,Paint or body repair,A,All establishments,820,20 largest firms,2002,518,1181848,5.5,389046,95102,9442
+0100000US,,United States,8111211,Paint or body repair,A,All establishments,850,50 largest firms,2002,607,1656665,7.7,531137,134057,12711
+0100000US,,United States,8111211,Paint or body repair,T,Establishments subject to federal income tax,001,All firms,2002,32892,21421274,100.0,6622237,1622257,210595
+0100000US,,United States,8111211,Paint or body repair,T,Establishments subject to federal income tax,804,4 largest firms,2002,173,568676,2.7,205267,50016,4351
+0100000US,,United States,8111211,Paint or body repair,T,Establishments subject to federal income tax,808,8 largest firms,2002,416,802126,3.7,280250,67937,6670
+0100000US,,United States,8111211,Paint or body repair,T,Establishments subject to federal income tax,820,20 largest firms,2002,518,1181848,5.5,389046,95102,9442
+0100000US,,United States,8111211,Paint or body repair,T,Establishments subject to federal income tax,850,50 largest firms,2002,607,1656665,7.7,531137,134057,12711
+0100000US,,United States,8111212,Van conversion services,A,All establishments,001,All firms,2002,457,520954,100.0,106264,26267,3575
+0100000US,,United States,8111212,Van conversion services,A,All establishments,804,4 largest firms,2002,5,68955,13.2,14841,3711,431
+0100000US,,United States,8111212,Van conversion services,A,All establishments,808,8 largest firms,2002,10,113930,21.9,23297,6483,615
+0100000US,,United States,8111212,Van conversion services,A,All establishments,820,20 largest firms,2002,27,195886,37.6,37937,9711,1045
+0100000US,,United States,8111212,Van conversion services,A,All establishments,850,50 largest firms,2002,57,304137,58.4,58180,14342,1709
+0100000US,,United States,8111212,Van conversion services,T,Establishments subject to federal income tax,001,All firms,2002,457,520954,100.0,106264,26267,3575
+0100000US,,United States,8111212,Van conversion services,T,Establishments subject to federal income tax,804,4 largest firms,2002,5,68955,13.2,14841,3711,431
+0100000US,,United States,8111212,Van conversion services,T,Establishments subject to federal income tax,808,8 largest firms,2002,10,113930,21.9,23297,6483,615
+0100000US,,United States,8111212,Van conversion services,T,Establishments subject to federal income tax,820,20 largest firms,2002,27,195886,37.6,37937,9711,1045
+0100000US,,United States,8111212,Van conversion services,T,Establishments subject to federal income tax,850,50 largest firms,2002,57,304137,58.4,58180,14342,1709
+0100000US,,United States,8111213,Upholstery and interior repair,A,All establishments,001,All firms,2002,1871,497448,100.0,153166,36014,6617
+0100000US,,United States,8111213,Upholstery and interior repair,A,All establishments,804,4 largest firms,2002,5,42490,8.5,8667,2048,326
+0100000US,,United States,8111213,Upholstery and interior repair,A,All establishments,808,8 largest firms,2002,10,56027,11.3,13426,3189,459
+0100000US,,United States,8111213,Upholstery and interior repair,A,All establishments,820,20 largest firms,2002,25,83053,16.7,22078,5136,709
+0100000US,,United States,8111213,Upholstery and interior repair,A,All establishments,850,50 largest firms,2002,61,126883,25.5,36884,8518,1170
+0100000US,,United States,8111213,Upholstery and interior repair,T,Establishments subject to federal income tax,001,All firms,2002,1871,497448,100.0,153166,36014,6617
+0100000US,,United States,8111213,Upholstery and interior repair,T,Establishments subject to federal income tax,804,4 largest firms,2002,5,42490,8.5,8667,2048,326
+0100000US,,United States,8111213,Upholstery and interior repair,T,Establishments subject to federal income tax,808,8 largest firms,2002,10,56027,11.3,13426,3189,459
+0100000US,,United States,8111213,Upholstery and interior repair,T,Establishments subject to federal income tax,820,20 largest firms,2002,25,83053,16.7,22078,5136,709
+0100000US,,United States,8111213,Upholstery and interior repair,T,Establishments subject to federal income tax,850,50 largest firms,2002,61,126883,25.5,36884,8518,1170
+0100000US,,United States,811122,Automotive glass replacement shops,A,All establishments,001,All firms,2002,6950,3782984,100.0,995612,238148,32899
+0100000US,,United States,811122,Automotive glass replacement shops,A,All establishments,804,4 largest firms,2002,1495,1043377,27.6,263261,62942,7112
+0100000US,,United States,811122,Automotive glass replacement shops,A,All establishments,808,8 largest firms,2002,1684,1216515,32.2,308208,73663,8364
+0100000US,,United States,811122,Automotive glass replacement shops,A,All establishments,820,20 largest firms,2002,1892,1471439,38.9,371089,88341,9926
+0100000US,,United States,811122,Automotive glass replacement shops,A,All establishments,850,50 largest firms,2002,2111,1723506,45.6,443951,106139,12084
+0100000US,,United States,811122,Automotive glass replacement shops,T,Establishments subject to federal income tax,001,All firms,2002,6950,3782984,100.0,995612,238148,32899
+0100000US,,United States,811122,Automotive glass replacement shops,T,Establishments subject to federal income tax,804,4 largest firms,2002,1495,1043377,27.6,263261,62942,7112
+0100000US,,United States,811122,Automotive glass replacement shops,T,Establishments subject to federal income tax,808,8 largest firms,2002,1684,1216515,32.2,308208,73663,8364
+0100000US,,United States,811122,Automotive glass replacement shops,T,Establishments subject to federal income tax,820,20 largest firms,2002,1892,1471439,38.9,371089,88341,9926
+0100000US,,United States,811122,Automotive glass replacement shops,T,Establishments subject to federal income tax,850,50 largest firms,2002,2111,1723506,45.6,443951,106139,12084
+0100000US,,United States,81119,Other automotive repair and maintenance,A,All establishments,001,All firms,2002,24800,10614194,100.0,3201701,770856,216120
+0100000US,,United States,81119,Other automotive repair and maintenance,A,All establishments,804,4 largest firms,2002,1140,790055,7.4,220570,54520,14528
+0100000US,,United States,81119,Other automotive repair and maintenance,A,All establishments,808,8 largest firms,2002,1600,1158889,10.9,337231,83097,21367
+0100000US,,United States,81119,Other automotive repair and maintenance,A,All establishments,820,20 largest firms,2002,1843,1667588,15.7,493688,121899,27883
+0100000US,,United States,81119,Other automotive repair and maintenance,A,All establishments,850,50 largest firms,2002,2681,2295915,21.6,678921,166901,40212
+0100000US,,United States,81119,Other automotive repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,24800,10614194,100.0,3201701,770856,216120
+0100000US,,United States,81119,Other automotive repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,1140,790055,7.4,220570,54520,14528
+0100000US,,United States,81119,Other automotive repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,1600,1158889,10.9,337231,83097,21367
+0100000US,,United States,81119,Other automotive repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,1843,1667588,15.7,493688,121899,27883
+0100000US,,United States,81119,Other automotive repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,2681,2295915,21.6,678921,166901,40212
+0100000US,,United States,811191,Automotive oil change and lubrication shops,A,All establishments,001,All firms,2002,8214,3927883,100.0,1094435,259952,63550
+0100000US,,United States,811191,Automotive oil change and lubrication shops,A,All establishments,804,4 largest firms,2002,1233,678086,17.3,191898,45235,12338
+0100000US,,United States,811191,Automotive oil change and lubrication shops,A,All establishments,808,8 largest firms,2002,1335,813244,20.7,225088,53145,13818
+0100000US,,United States,811191,Automotive oil change and lubrication shops,A,All establishments,820,20 largest firms,2002,1795,1086916,27.7,300545,71189,18460
+0100000US,,United States,811191,Automotive oil change and lubrication shops,A,All establishments,850,50 largest firms,2002,2408,1442262,36.7,390392,92511,23174
+0100000US,,United States,811191,Automotive oil change and lubrication shops,T,Establishments subject to federal income tax,001,All firms,2002,8214,3927883,100.0,1094435,259952,63550
+0100000US,,United States,811191,Automotive oil change and lubrication shops,T,Establishments subject to federal income tax,804,4 largest firms,2002,1233,678086,17.3,191898,45235,12338
+0100000US,,United States,811191,Automotive oil change and lubrication shops,T,Establishments subject to federal income tax,808,8 largest firms,2002,1335,813244,20.7,225088,53145,13818
+0100000US,,United States,811191,Automotive oil change and lubrication shops,T,Establishments subject to federal income tax,820,20 largest firms,2002,1795,1086916,27.7,300545,71189,18460
+0100000US,,United States,811191,Automotive oil change and lubrication shops,T,Establishments subject to federal income tax,850,50 largest firms,2002,2408,1442262,36.7,390392,92511,23174
+0100000US,,United States,811192,Car washes,A,All establishments,001,All firms,2002,13962,5091665,100.0,1651532,401291,135315
+0100000US,,United States,811192,Car washes,A,All establishments,804,4 largest firms,2002,179,312691,6.1,117126,29848,7671
+0100000US,,United States,811192,Car washes,A,All establishments,808,8 largest firms,2002,276,414043,8.1,148106,37992,10534
+0100000US,,United States,811192,Car washes,A,All establishments,820,20 largest firms,2002,426,587965,11.5,200546,52734,14633
+0100000US,,United States,811192,Car washes,A,All establishments,850,50 largest firms,2002,560,810406,15.9,274246,70330,19882
+0100000US,,United States,811192,Car washes,T,Establishments subject to federal income tax,001,All firms,2002,13962,5091665,100.0,1651532,401291,135315
+0100000US,,United States,811192,Car washes,T,Establishments subject to federal income tax,804,4 largest firms,2002,179,312691,6.1,117126,29848,7671
+0100000US,,United States,811192,Car washes,T,Establishments subject to federal income tax,808,8 largest firms,2002,276,414043,8.1,148106,37992,10534
+0100000US,,United States,811192,Car washes,T,Establishments subject to federal income tax,820,20 largest firms,2002,426,587965,11.5,200546,52734,14633
+0100000US,,United States,811192,Car washes,T,Establishments subject to federal income tax,850,50 largest firms,2002,560,810406,15.9,274246,70330,19882
+0100000US,,United States,811198,All other automotive repair and maintenance,A,All establishments,001,All firms,2002,2624,1594646,100.0,455734,109613,17255
+0100000US,,United States,811198,All other automotive repair and maintenance,A,All establishments,804,4 largest firms,2002,233,382524,24.0,103594,26313,4599
+0100000US,,United States,811198,All other automotive repair and maintenance,A,All establishments,808,8 largest firms,2002,241,520977,32.7,147983,37524,5737
+0100000US,,United States,811198,All other automotive repair and maintenance,A,All establishments,820,20 largest firms,2002,322,665924,41.8,198934,50088,7427
+0100000US,,United States,811198,All other automotive repair and maintenance,A,All establishments,850,50 largest firms,2002,383,817687,51.3,256205,63542,8903
+0100000US,,United States,811198,All other automotive repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,2624,1594646,100.0,455734,109613,17255
+0100000US,,United States,811198,All other automotive repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,233,382524,24.0,103594,26313,4599
+0100000US,,United States,811198,All other automotive repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,241,520977,32.7,147983,37524,5737
+0100000US,,United States,811198,All other automotive repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,322,665924,41.8,198934,50088,7427
+0100000US,,United States,811198,All other automotive repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,383,817687,51.3,256205,63542,8903
+0100000US,,United States,8112,Electronic and precision equipment repair and maintenance,A,All establishments,001,All firms,2002,14567,14982884,100.0,4965091,1235640,128269
+0100000US,,United States,8112,Electronic and precision equipment repair and maintenance,A,All establishments,804,4 largest firms,2002,203,2842506,19.0,751675,192258,13115
+0100000US,,United States,8112,Electronic and precision equipment repair and maintenance,A,All establishments,808,8 largest firms,2002,375,3943824,26.3,990015,252997,18324
+0100000US,,United States,8112,Electronic and precision equipment repair and maintenance,A,All establishments,820,20 largest firms,2002,515,5165131,34.5,1499248,387090,29125
+0100000US,,United States,8112,Electronic and precision equipment repair and maintenance,A,All establishments,850,50 largest firms,2002,786,6516663,43.5,1969227,503988,39305
+0100000US,,United States,8112,Electronic and precision equipment repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,14567,14982884,100.0,4965091,1235640,128269
+0100000US,,United States,8112,Electronic and precision equipment repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,203,2842506,19.0,751675,192258,13115
+0100000US,,United States,8112,Electronic and precision equipment repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,375,3943824,26.3,990015,252997,18324
+0100000US,,United States,8112,Electronic and precision equipment repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,515,5165131,34.5,1499248,387090,29125
+0100000US,,United States,8112,Electronic and precision equipment repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,786,6516663,43.5,1969227,503988,39305
+0100000US,,United States,81121,Electronic and precision equipment repair and maintenance,A,All establishments,001,All firms,2002,14567,14982884,100.0,4965091,1235640,128269
+0100000US,,United States,81121,Electronic and precision equipment repair and maintenance,A,All establishments,804,4 largest firms,2002,203,2842506,19.0,751675,192258,13115
+0100000US,,United States,81121,Electronic and precision equipment repair and maintenance,A,All establishments,808,8 largest firms,2002,375,3943824,26.3,990015,252997,18324
+0100000US,,United States,81121,Electronic and precision equipment repair and maintenance,A,All establishments,820,20 largest firms,2002,515,5165131,34.5,1499248,387090,29125
+0100000US,,United States,81121,Electronic and precision equipment repair and maintenance,A,All establishments,850,50 largest firms,2002,786,6516663,43.5,1969227,503988,39305
+0100000US,,United States,81121,Electronic and precision equipment repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,14567,14982884,100.0,4965091,1235640,128269
+0100000US,,United States,81121,Electronic and precision equipment repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,203,2842506,19.0,751675,192258,13115
+0100000US,,United States,81121,Electronic and precision equipment repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,375,3943824,26.3,990015,252997,18324
+0100000US,,United States,81121,Electronic and precision equipment repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,515,5165131,34.5,1499248,387090,29125
+0100000US,,United States,81121,Electronic and precision equipment repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,786,6516663,43.5,1969227,503988,39305
+0100000US,,United States,811211,Consumer electronics repair and maintenance,A,All establishments,001,All firms,2002,3540,1484109,100.0,509950,128399,19905
+0100000US,,United States,811211,Consumer electronics repair and maintenance,A,All establishments,804,4 largest firms,2002,41,406896,27.4,87165,22237,2602
+0100000US,,United States,811211,Consumer electronics repair and maintenance,A,All establishments,808,8 largest firms,2002,65,473207,31.9,110923,27812,3551
+0100000US,,United States,811211,Consumer electronics repair and maintenance,A,All establishments,820,20 largest firms,2002,98,588107,39.6,150982,38095,4816
+0100000US,,United States,811211,Consumer electronics repair and maintenance,A,All establishments,850,50 largest firms,2002,151,713060,48.0,206702,51439,6391
+0100000US,,United States,811211,Consumer electronics repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,3540,1484109,100.0,509950,128399,19905
+0100000US,,United States,811211,Consumer electronics repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,41,406896,27.4,87165,22237,2602
+0100000US,,United States,811211,Consumer electronics repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,65,473207,31.9,110923,27812,3551
+0100000US,,United States,811211,Consumer electronics repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,98,588107,39.6,150982,38095,4816
+0100000US,,United States,811211,Consumer electronics repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,151,713060,48.0,206702,51439,6391
+0100000US,,United States,811212,Computer and office machine repair and maintenance,A,All establishments,001,All firms,2002,5946,6379578,100.0,2252456,556105,54883
+0100000US,,United States,811212,Computer and office machine repair and maintenance,A,All establishments,804,4 largest firms,2002,218,1427369,22.4,509346,124843,8956
+0100000US,,United States,811212,Computer and office machine repair and maintenance,A,All establishments,808,8 largest firms,2002,253,1886901,29.6,665960,164118,12246
+0100000US,,United States,811212,Computer and office machine repair and maintenance,A,All establishments,820,20 largest firms,2002,313,2617600,41.0,928314,228392,17495
+0100000US,,United States,811212,Computer and office machine repair and maintenance,A,All establishments,850,50 largest firms,2002,442,3280270,51.4,1145832,283649,22274
+0100000US,,United States,811212,Computer and office machine repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,5946,6379578,100.0,2252456,556105,54883
+0100000US,,United States,811212,Computer and office machine repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,218,1427369,22.4,509346,124843,8956
+0100000US,,United States,811212,Computer and office machine repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,253,1886901,29.6,665960,164118,12246
+0100000US,,United States,811212,Computer and office machine repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,313,2617600,41.0,928314,228392,17495
+0100000US,,United States,811212,Computer and office machine repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,442,3280270,51.4,1145832,283649,22274
+0100000US,,United States,8112123,Computer repair and maintenance,A,All establishments,001,All firms,2002,4616,5486221,100.0,1956988,482687,45066
+0100000US,,United States,8112123,Computer repair and maintenance,A,All establishments,804,4 largest firms,2002,218,1427369,26.0,509346,124843,8956
+0100000US,,United States,8112123,Computer repair and maintenance,A,All establishments,808,8 largest firms,2002,253,1886901,34.4,665960,164118,12246
+0100000US,,United States,8112123,Computer repair and maintenance,A,All establishments,820,20 largest firms,2002,317,2582180,47.1,926682,228224,17496
+0100000US,,United States,8112123,Computer repair and maintenance,A,All establishments,850,50 largest firms,2002,438,3147027,57.4,1129577,280498,21545
+0100000US,,United States,8112123,Computer repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,4616,5486221,100.0,1956988,482687,45066
+0100000US,,United States,8112123,Computer repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,218,1427369,26.0,509346,124843,8956
+0100000US,,United States,8112123,Computer repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,253,1886901,34.4,665960,164118,12246
+0100000US,,United States,8112123,Computer repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,317,2582180,47.1,926682,228224,17496
+0100000US,,United States,8112123,Computer repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,438,3147027,57.4,1129577,280498,21545
+0100000US,,United States,8112124,Office machine repair and maintenance,A,All establishments,001,All firms,2002,1330,893357,100.0,295468,73418,9817
+0100000US,,United States,8112124,Office machine repair and maintenance,A,All establishments,804,4 largest firms,2002,11,147531,16.5,38455,9213,1042
+0100000US,,United States,8112124,Office machine repair and maintenance,A,All establishments,808,8 largest firms,2002,18,222344,24.9,55386,13591,1439
+0100000US,,United States,8112124,Office machine repair and maintenance,A,All establishments,820,20 largest firms,2002,42,325355,36.4,81437,19850,2118
+0100000US,,United States,8112124,Office machine repair and maintenance,A,All establishments,850,50 largest firms,2002,78,443370,49.6,121560,29388,3200
+0100000US,,United States,8112124,Office machine repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,1330,893357,100.0,295468,73418,9817
+0100000US,,United States,8112124,Office machine repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,11,147531,16.5,38455,9213,1042
+0100000US,,United States,8112124,Office machine repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,18,222344,24.9,55386,13591,1439
+0100000US,,United States,8112124,Office machine repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,42,325355,36.4,81437,19850,2118
+0100000US,,United States,8112124,Office machine repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,78,443370,49.6,121560,29388,3200
+0100000US,,United States,811213,Communication equipment repair and maintenance,A,All establishments,001,All firms,2002,1817,2026408,100.0,622381,154872,18450
+0100000US,,United States,811213,Communication equipment repair and maintenance,A,All establishments,804,4 largest firms,2002,37,481838,23.8,118916,34466,3356
+0100000US,,United States,811213,Communication equipment repair and maintenance,A,All establishments,808,8 largest firms,2002,64,573094,28.3,142755,40290,4082
+0100000US,,United States,811213,Communication equipment repair and maintenance,A,All establishments,820,20 largest firms,2002,85,738026,36.4,193447,50156,5220
+0100000US,,United States,811213,Communication equipment repair and maintenance,A,All establishments,850,50 largest firms,2002,176,995348,49.1,272222,68943,7370
+0100000US,,United States,811213,Communication equipment repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,1817,2026408,100.0,622381,154872,18450
+0100000US,,United States,811213,Communication equipment repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,37,481838,23.8,118916,34466,3356
+0100000US,,United States,811213,Communication equipment repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,64,573094,28.3,142755,40290,4082
+0100000US,,United States,811213,Communication equipment repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,85,738026,36.4,193447,50156,5220
+0100000US,,United States,811213,Communication equipment repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,176,995348,49.1,272222,68943,7370
+0100000US,,United States,811219,Other electronic and precision equipment repair and maintenance,A,All establishments,001,All firms,2002,3264,5092789,100.0,1580304,396264,35031
+0100000US,,United States,811219,Other electronic and precision equipment repair and maintenance,A,All establishments,804,4 largest firms,2002,197,2160322,42.4,479413,124332,8882
+0100000US,,United States,811219,Other electronic and precision equipment repair and maintenance,A,All establishments,808,8 largest firms,2002,226,2418181,47.5,600934,160041,10599
+0100000US,,United States,811219,Other electronic and precision equipment repair and maintenance,A,All establishments,820,20 largest firms,2002,415,2871421,56.4,784627,205141,14790
+0100000US,,United States,811219,Other electronic and precision equipment repair and maintenance,A,All establishments,850,50 largest firms,2002,493,3265580,64.1,933908,240599,17868
+0100000US,,United States,811219,Other electronic and precision equipment repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,3264,5092789,100.0,1580304,396264,35031
+0100000US,,United States,811219,Other electronic and precision equipment repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,197,2160322,42.4,479413,124332,8882
+0100000US,,United States,811219,Other electronic and precision equipment repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,226,2418181,47.5,600934,160041,10599
+0100000US,,United States,811219,Other electronic and precision equipment repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,415,2871421,56.4,784627,205141,14790
+0100000US,,United States,811219,Other electronic and precision equipment repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,493,3265580,64.1,933908,240599,17868
+0100000US,,United States,8113,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,A,All establishments,001,All firms,2002,24519,19485118,100.0,5890838,1434155,173436
+0100000US,,United States,8113,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,A,All establishments,804,4 largest firms,2002,108,935194,4.8,241872,67919,5040
+0100000US,,United States,8113,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,A,All establishments,808,8 largest firms,2002,163,1486099,7.6,439920,118682,9605
+0100000US,,United States,8113,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,A,All establishments,820,20 largest firms,2002,335,2431490,12.5,682865,176325,14765
+0100000US,,United States,8113,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,A,All establishments,850,50 largest firms,2002,471,3620250,18.6,1026508,256868,22558
+0100000US,,United States,8113,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,24519,19485118,100.0,5890838,1434155,173436
+0100000US,,United States,8113,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,108,935194,4.8,241872,67919,5040
+0100000US,,United States,8113,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,163,1486099,7.6,439920,118682,9605
+0100000US,,United States,8113,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,335,2431490,12.5,682865,176325,14765
+0100000US,,United States,8113,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,471,3620250,18.6,1026508,256868,22558
+0100000US,,United States,81131,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,A,All establishments,001,All firms,2002,24519,19485118,100.0,5890838,1434155,173436
+0100000US,,United States,81131,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,A,All establishments,804,4 largest firms,2002,108,935194,4.8,241872,67919,5040
+0100000US,,United States,81131,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,A,All establishments,808,8 largest firms,2002,163,1486099,7.6,439920,118682,9605
+0100000US,,United States,81131,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,A,All establishments,820,20 largest firms,2002,335,2431490,12.5,682865,176325,14765
+0100000US,,United States,81131,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,A,All establishments,850,50 largest firms,2002,471,3620250,18.6,1026508,256868,22558
+0100000US,,United States,81131,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,24519,19485118,100.0,5890838,1434155,173436
+0100000US,,United States,81131,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,108,935194,4.8,241872,67919,5040
+0100000US,,United States,81131,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,163,1486099,7.6,439920,118682,9605
+0100000US,,United States,81131,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,335,2431490,12.5,682865,176325,14765
+0100000US,,United States,81131,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,471,3620250,18.6,1026508,256868,22558
+0100000US,,United States,811310,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,A,All establishments,001,All firms,2002,24519,19485118,100.0,5890838,1434155,173436
+0100000US,,United States,811310,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,A,All establishments,804,4 largest firms,2002,108,935194,4.8,241872,67919,5040
+0100000US,,United States,811310,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,A,All establishments,808,8 largest firms,2002,163,1486099,7.6,439920,118682,9605
+0100000US,,United States,811310,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,A,All establishments,820,20 largest firms,2002,335,2431490,12.5,682865,176325,14765
+0100000US,,United States,811310,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,A,All establishments,850,50 largest firms,2002,471,3620250,18.6,1026508,256868,22558
+0100000US,,United States,811310,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,24519,19485118,100.0,5890838,1434155,173436
+0100000US,,United States,811310,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,108,935194,4.8,241872,67919,5040
+0100000US,,United States,811310,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,163,1486099,7.6,439920,118682,9605
+0100000US,,United States,811310,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,335,2431490,12.5,682865,176325,14765
+0100000US,,United States,811310,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,471,3620250,18.6,1026508,256868,22558
+0100000US,,United States,8113104,Welding repair,A,All establishments,001,All firms,2002,3980,1699206,100.0,541764,130983,20211
+0100000US,,United States,8113104,Welding repair,A,All establishments,804,4 largest firms,2002,5,47393,2.8,16168,4018,258
+0100000US,,United States,8113104,Welding repair,A,All establishments,808,8 largest firms,2002,10,80332,4.7,23570,5734,454
+0100000US,,United States,8113104,Welding repair,A,All establishments,820,20 largest firms,2002,22,152654,9.0,48314,11093,982
+0100000US,,United States,8113104,Welding repair,A,All establishments,850,50 largest firms,2002,57,276453,16.3,89966,20622,2019
+0100000US,,United States,8113104,Welding repair,T,Establishments subject to federal income tax,001,All firms,2002,3980,1699206,100.0,541764,130983,20211
+0100000US,,United States,8113104,Welding repair,T,Establishments subject to federal income tax,804,4 largest firms,2002,5,47393,2.8,16168,4018,258
+0100000US,,United States,8113104,Welding repair,T,Establishments subject to federal income tax,808,8 largest firms,2002,10,80332,4.7,23570,5734,454
+0100000US,,United States,8113104,Welding repair,T,Establishments subject to federal income tax,820,20 largest firms,2002,22,152654,9.0,48314,11093,982
+0100000US,,United States,8113104,Welding repair,T,Establishments subject to federal income tax,850,50 largest firms,2002,57,276453,16.3,89966,20622,2019
+0100000US,,United States,8113109,Commercial and industrial machinery and equipment repair ,A,All establishments,001,All firms,2002,20539,17785912,100.0,5349074,1303172,153225
+0100000US,,United States,8113109,Commercial and industrial machinery and equipment repair ,A,All establishments,804,4 largest firms,2002,107,929843,5.2,239940,67636,5026
+0100000US,,United States,8113109,Commercial and industrial machinery and equipment repair ,A,All establishments,808,8 largest firms,2002,162,1480748,8.3,437988,118399,9591
+0100000US,,United States,8113109,Commercial and industrial machinery and equipment repair ,A,All establishments,820,20 largest firms,2002,333,2417494,13.6,679908,175774,14727
+0100000US,,United States,8113109,Commercial and industrial machinery and equipment repair ,A,All establishments,850,50 largest firms,2002,467,3597593,20.2,1021412,255796,22470
+0100000US,,United States,8113109,Commercial and industrial machinery and equipment repair ,T,Establishments subject to federal income tax,001,All firms,2002,20539,17785912,100.0,5349074,1303172,153225
+0100000US,,United States,8113109,Commercial and industrial machinery and equipment repair ,T,Establishments subject to federal income tax,804,4 largest firms,2002,107,929843,5.2,239940,67636,5026
+0100000US,,United States,8113109,Commercial and industrial machinery and equipment repair ,T,Establishments subject to federal income tax,808,8 largest firms,2002,162,1480748,8.3,437988,118399,9591
+0100000US,,United States,8113109,Commercial and industrial machinery and equipment repair ,T,Establishments subject to federal income tax,820,20 largest firms,2002,333,2417494,13.6,679908,175774,14727
+0100000US,,United States,8113109,Commercial and industrial machinery and equipment repair ,T,Establishments subject to federal income tax,850,50 largest firms,2002,467,3597593,20.2,1021412,255796,22470
+0100000US,,United States,8114,Personal and household goods repair and maintenance,A,All establishments,001,All firms,2002,25136,8618604,100.0,2669453,635230,112626
+0100000US,,United States,8114,Personal and household goods repair and maintenance,A,All establishments,804,4 largest firms,2002,827,D,D,D,D,k
+0100000US,,United States,8114,Personal and household goods repair and maintenance,A,All establishments,808,8 largest firms,2002,856,D,D,D,D,k
+0100000US,,United States,8114,Personal and household goods repair and maintenance,A,All establishments,820,20 largest firms,2002,922,2386301,27.7,839748,203022,30653
+0100000US,,United States,8114,Personal and household goods repair and maintenance,A,All establishments,850,50 largest firms,2002,983,2614126,30.3,926693,224190,33049
+0100000US,,United States,8114,Personal and household goods repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,25136,8618604,100.0,2669453,635230,112626
+0100000US,,United States,8114,Personal and household goods repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,827,D,D,D,D,k
+0100000US,,United States,8114,Personal and household goods repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,856,D,D,D,D,k
+0100000US,,United States,8114,Personal and household goods repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,922,2386301,27.7,839748,203022,30653
+0100000US,,United States,8114,Personal and household goods repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,983,2614126,30.3,926693,224190,33049
+0100000US,,United States,81141,Home and garden equipment and appliance repair and maintenance,A,All establishments,001,All firms,2002,7617,4112589,100.0,1292267,311076,49649
+0100000US,,United States,81141,Home and garden equipment and appliance repair and maintenance,A,All establishments,804,4 largest firms,2002,683,D,D,D,D,k
+0100000US,,United States,81141,Home and garden equipment and appliance repair and maintenance,A,All establishments,808,8 largest firms,2002,714,D,D,D,D,k
+0100000US,,United States,81141,Home and garden equipment and appliance repair and maintenance,A,All establishments,820,20 largest firms,2002,728,D,D,D,D,k
+0100000US,,United States,81141,Home and garden equipment and appliance repair and maintenance,A,All establishments,850,50 largest firms,2002,762,2265787,55.1,778313,190002,27622
+0100000US,,United States,81141,Home and garden equipment and appliance repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,7617,4112589,100.0,1292267,311076,49649
+0100000US,,United States,81141,Home and garden equipment and appliance repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,683,D,D,D,D,k
+0100000US,,United States,81141,Home and garden equipment and appliance repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,714,D,D,D,D,k
+0100000US,,United States,81141,Home and garden equipment and appliance repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,728,D,D,D,D,k
+0100000US,,United States,81141,Home and garden equipment and appliance repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,762,2265787,55.1,778313,190002,27622
+0100000US,,United States,811411,Home and garden equipment repair and maintenance,A,All establishments,001,All firms,2002,2381,651224,100.0,145813,34490,7141
+0100000US,,United States,811411,Home and garden equipment repair and maintenance,A,All establishments,804,4 largest firms,2002,10,23945,3.7,3535,893,93
+0100000US,,United States,811411,Home and garden equipment repair and maintenance,A,All establishments,808,8 largest firms,2002,14,34984,5.4,6593,1667,177
+0100000US,,United States,811411,Home and garden equipment repair and maintenance,A,All establishments,820,20 largest firms,2002,27,62523,9.6,11915,2846,364
+0100000US,,United States,811411,Home and garden equipment repair and maintenance,A,All establishments,850,50 largest firms,2002,58,111920,17.2,22853,5851,738
+0100000US,,United States,811411,Home and garden equipment repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,2381,651224,100.0,145813,34490,7141
+0100000US,,United States,811411,Home and garden equipment repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,10,23945,3.7,3535,893,93
+0100000US,,United States,811411,Home and garden equipment repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,14,34984,5.4,6593,1667,177
+0100000US,,United States,811411,Home and garden equipment repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,27,62523,9.6,11915,2846,364
+0100000US,,United States,811411,Home and garden equipment repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,58,111920,17.2,22853,5851,738
+0100000US,,United States,811412,Appliance repair and maintenance,A,All establishments,001,All firms,2002,5236,3461365,100.0,1146454,276586,42508
+0100000US,,United States,811412,Appliance repair and maintenance,A,All establishments,804,4 largest firms,2002,683,D,D,D,D,k
+0100000US,,United States,811412,Appliance repair and maintenance,A,All establishments,808,8 largest firms,2002,710,D,D,D,D,k
+0100000US,,United States,811412,Appliance repair and maintenance,A,All establishments,820,20 largest firms,2002,724,D,D,D,D,k
+0100000US,,United States,811412,Appliance repair and maintenance,A,All establishments,850,50 largest firms,2002,756,2251210,65.0,778150,189860,27619
+0100000US,,United States,811412,Appliance repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,5236,3461365,100.0,1146454,276586,42508
+0100000US,,United States,811412,Appliance repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,683,D,D,D,D,k
+0100000US,,United States,811412,Appliance repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,710,D,D,D,D,k
+0100000US,,United States,811412,Appliance repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,724,D,D,D,D,k
+0100000US,,United States,811412,Appliance repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,756,2251210,65.0,778150,189860,27619
+0100000US,,United States,81142,Reupholstery and furniture repair,A,All establishments,001,All firms,2002,5778,1265024,100.0,415358,99868,20377
+0100000US,,United States,81142,Reupholstery and furniture repair,A,All establishments,804,4 largest firms,2002,4,27039,2.1,12102,2944,502
+0100000US,,United States,81142,Reupholstery and furniture repair,A,All establishments,808,8 largest firms,2002,8,43198,3.4,19089,4765,706
+0100000US,,United States,81142,Reupholstery and furniture repair,A,All establishments,820,20 largest firms,2002,21,81509,6.4,29096,7204,1048
+0100000US,,United States,81142,Reupholstery and furniture repair,A,All establishments,850,50 largest firms,2002,53,141275,11.2,49514,12067,1932
+0100000US,,United States,81142,Reupholstery and furniture repair,T,Establishments subject to federal income tax,001,All firms,2002,5778,1265024,100.0,415358,99868,20377
+0100000US,,United States,81142,Reupholstery and furniture repair,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,27039,2.1,12102,2944,502
+0100000US,,United States,81142,Reupholstery and furniture repair,T,Establishments subject to federal income tax,808,8 largest firms,2002,8,43198,3.4,19089,4765,706
+0100000US,,United States,81142,Reupholstery and furniture repair,T,Establishments subject to federal income tax,820,20 largest firms,2002,21,81509,6.4,29096,7204,1048
+0100000US,,United States,81142,Reupholstery and furniture repair,T,Establishments subject to federal income tax,850,50 largest firms,2002,53,141275,11.2,49514,12067,1932
+0100000US,,United States,811420,Reupholstery and furniture repair,A,All establishments,001,All firms,2002,5778,1265024,100.0,415358,99868,20377
+0100000US,,United States,811420,Reupholstery and furniture repair,A,All establishments,804,4 largest firms,2002,4,27039,2.1,12102,2944,502
+0100000US,,United States,811420,Reupholstery and furniture repair,A,All establishments,808,8 largest firms,2002,8,43198,3.4,19089,4765,706
+0100000US,,United States,811420,Reupholstery and furniture repair,A,All establishments,820,20 largest firms,2002,21,81509,6.4,29096,7204,1048
+0100000US,,United States,811420,Reupholstery and furniture repair,A,All establishments,850,50 largest firms,2002,53,141275,11.2,49514,12067,1932
+0100000US,,United States,811420,Reupholstery and furniture repair,T,Establishments subject to federal income tax,001,All firms,2002,5778,1265024,100.0,415358,99868,20377
+0100000US,,United States,811420,Reupholstery and furniture repair,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,27039,2.1,12102,2944,502
+0100000US,,United States,811420,Reupholstery and furniture repair,T,Establishments subject to federal income tax,808,8 largest firms,2002,8,43198,3.4,19089,4765,706
+0100000US,,United States,811420,Reupholstery and furniture repair,T,Establishments subject to federal income tax,820,20 largest firms,2002,21,81509,6.4,29096,7204,1048
+0100000US,,United States,811420,Reupholstery and furniture repair,T,Establishments subject to federal income tax,850,50 largest firms,2002,53,141275,11.2,49514,12067,1932
+0100000US,,United States,81143,Footwear and leather goods repair,A,All establishments,001,All firms,2002,1418,186545,100.0,49130,12349,3115
+0100000US,,United States,81143,Footwear and leather goods repair,A,All establishments,804,4 largest firms,2002,33,14426,7.7,3541,947,153
+0100000US,,United States,81143,Footwear and leather goods repair,A,All establishments,808,8 largest firms,2002,38,19496,10.5,5360,1366,225
+0100000US,,United States,81143,Footwear and leather goods repair,A,All establishments,820,20 largest firms,2002,63,29570,15.9,8821,2135,361
+0100000US,,United States,81143,Footwear and leather goods repair,A,All establishments,850,50 largest firms,2002,101,45223,24.2,13577,3366,637
+0100000US,,United States,81143,Footwear and leather goods repair,T,Establishments subject to federal income tax,001,All firms,2002,1418,186545,100.0,49130,12349,3115
+0100000US,,United States,81143,Footwear and leather goods repair,T,Establishments subject to federal income tax,804,4 largest firms,2002,33,14426,7.7,3541,947,153
+0100000US,,United States,81143,Footwear and leather goods repair,T,Establishments subject to federal income tax,808,8 largest firms,2002,38,19496,10.5,5360,1366,225
+0100000US,,United States,81143,Footwear and leather goods repair,T,Establishments subject to federal income tax,820,20 largest firms,2002,63,29570,15.9,8821,2135,361
+0100000US,,United States,81143,Footwear and leather goods repair,T,Establishments subject to federal income tax,850,50 largest firms,2002,101,45223,24.2,13577,3366,637
+0100000US,,United States,811430,Footwear and leather goods repair,A,All establishments,001,All firms,2002,1418,186545,100.0,49130,12349,3115
+0100000US,,United States,811430,Footwear and leather goods repair,A,All establishments,804,4 largest firms,2002,33,14426,7.7,3541,947,153
+0100000US,,United States,811430,Footwear and leather goods repair,A,All establishments,808,8 largest firms,2002,38,19496,10.5,5360,1366,225
+0100000US,,United States,811430,Footwear and leather goods repair,A,All establishments,820,20 largest firms,2002,63,29570,15.9,8821,2135,361
+0100000US,,United States,811430,Footwear and leather goods repair,A,All establishments,850,50 largest firms,2002,101,45223,24.2,13577,3366,637
+0100000US,,United States,811430,Footwear and leather goods repair,T,Establishments subject to federal income tax,001,All firms,2002,1418,186545,100.0,49130,12349,3115
+0100000US,,United States,811430,Footwear and leather goods repair,T,Establishments subject to federal income tax,804,4 largest firms,2002,33,14426,7.7,3541,947,153
+0100000US,,United States,811430,Footwear and leather goods repair,T,Establishments subject to federal income tax,808,8 largest firms,2002,38,19496,10.5,5360,1366,225
+0100000US,,United States,811430,Footwear and leather goods repair,T,Establishments subject to federal income tax,820,20 largest firms,2002,63,29570,15.9,8821,2135,361
+0100000US,,United States,811430,Footwear and leather goods repair,T,Establishments subject to federal income tax,850,50 largest firms,2002,101,45223,24.2,13577,3366,637
+0100000US,,United States,81149,Other personal and household goods repair and maintenance,A,All establishments,001,All firms,2002,10323,3054446,100.0,912698,211937,39485
+0100000US,,United States,81149,Other personal and household goods repair and maintenance,A,All establishments,804,4 largest firms,2002,185,181289,5.9,90526,20575,3494
+0100000US,,United States,81149,Other personal and household goods repair and maintenance,A,All establishments,808,8 largest firms,2002,204,258584,8.5,112101,25638,4181
+0100000US,,United States,81149,Other personal and household goods repair and maintenance,A,All establishments,820,20 largest firms,2002,218,378876,12.4,146384,34059,5154
+0100000US,,United States,81149,Other personal and household goods repair and maintenance,A,All establishments,850,50 largest firms,2002,271,543174,17.8,200709,46584,6682
+0100000US,,United States,81149,Other personal and household goods repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,10323,3054446,100.0,912698,211937,39485
+0100000US,,United States,81149,Other personal and household goods repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,185,181289,5.9,90526,20575,3494
+0100000US,,United States,81149,Other personal and household goods repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,204,258584,8.5,112101,25638,4181
+0100000US,,United States,81149,Other personal and household goods repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,218,378876,12.4,146384,34059,5154
+0100000US,,United States,81149,Other personal and household goods repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,271,543174,17.8,200709,46584,6682
+0100000US,,United States,811490,Other personal and household goods repair and maintenance,A,All establishments,001,All firms,2002,10323,3054446,100.0,912698,211937,39485
+0100000US,,United States,811490,Other personal and household goods repair and maintenance,A,All establishments,804,4 largest firms,2002,185,181289,5.9,90526,20575,3494
+0100000US,,United States,811490,Other personal and household goods repair and maintenance,A,All establishments,808,8 largest firms,2002,204,258584,8.5,112101,25638,4181
+0100000US,,United States,811490,Other personal and household goods repair and maintenance,A,All establishments,820,20 largest firms,2002,218,378876,12.4,146384,34059,5154
+0100000US,,United States,811490,Other personal and household goods repair and maintenance,A,All establishments,850,50 largest firms,2002,271,543174,17.8,200709,46584,6682
+0100000US,,United States,811490,Other personal and household goods repair and maintenance,T,Establishments subject to federal income tax,001,All firms,2002,10323,3054446,100.0,912698,211937,39485
+0100000US,,United States,811490,Other personal and household goods repair and maintenance,T,Establishments subject to federal income tax,804,4 largest firms,2002,185,181289,5.9,90526,20575,3494
+0100000US,,United States,811490,Other personal and household goods repair and maintenance,T,Establishments subject to federal income tax,808,8 largest firms,2002,204,258584,8.5,112101,25638,4181
+0100000US,,United States,811490,Other personal and household goods repair and maintenance,T,Establishments subject to federal income tax,820,20 largest firms,2002,218,378876,12.4,146384,34059,5154
+0100000US,,United States,811490,Other personal and household goods repair and maintenance,T,Establishments subject to federal income tax,850,50 largest firms,2002,271,543174,17.8,200709,46584,6682
+0100000US,,United States,8114901,"Watch, clock, and jewelry repair",A,All establishments,001,All firms,2002,1649,431618,100.0,136329,33624,5686
+0100000US,,United States,8114901,"Watch, clock, and jewelry repair",A,All establishments,804,4 largest firms,2002,186,89958,20.8,38207,9724,1008
+0100000US,,United States,8114901,"Watch, clock, and jewelry repair",A,All establishments,808,8 largest firms,2002,190,103944,24.1,39963,10259,1040
+0100000US,,United States,8114901,"Watch, clock, and jewelry repair",A,All establishments,820,20 largest firms,2002,217,130962,30.3,47544,12366,1284
+0100000US,,United States,8114901,"Watch, clock, and jewelry repair",A,All establishments,850,50 largest firms,2002,249,171692,39.8,61977,15577,1745
+0100000US,,United States,8114901,"Watch, clock, and jewelry repair",T,Establishments subject to federal income tax,001,All firms,2002,1649,431618,100.0,136329,33624,5686
+0100000US,,United States,8114901,"Watch, clock, and jewelry repair",T,Establishments subject to federal income tax,804,4 largest firms,2002,186,89958,20.8,38207,9724,1008
+0100000US,,United States,8114901,"Watch, clock, and jewelry repair",T,Establishments subject to federal income tax,808,8 largest firms,2002,190,103944,24.1,39963,10259,1040
+0100000US,,United States,8114901,"Watch, clock, and jewelry repair",T,Establishments subject to federal income tax,820,20 largest firms,2002,217,130962,30.3,47544,12366,1284
+0100000US,,United States,8114901,"Watch, clock, and jewelry repair",T,Establishments subject to federal income tax,850,50 largest firms,2002,249,171692,39.8,61977,15577,1745
+0100000US,,United States,8114902,Boat repair,A,All establishments,001,All firms,2002,2345,1101990,100.0,302679,68762,10586
+0100000US,,United States,8114902,Boat repair,A,All establishments,804,4 largest firms,2002,4,72246,6.6,21675,4720,477
+0100000US,,United States,8114902,Boat repair,A,All establishments,808,8 largest firms,2002,9,112990,10.3,30548,6814,862
+0100000US,,United States,8114902,Boat repair,A,All establishments,820,20 largest firms,2002,23,185881,16.9,54603,12135,1375
+0100000US,,United States,8114902,Boat repair,A,All establishments,850,50 largest firms,2002,53,301307,27.3,90299,20778,2233
+0100000US,,United States,8114902,Boat repair,T,Establishments subject to federal income tax,001,All firms,2002,2345,1101990,100.0,302679,68762,10586
+0100000US,,United States,8114902,Boat repair,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,72246,6.6,21675,4720,477
+0100000US,,United States,8114902,Boat repair,T,Establishments subject to federal income tax,808,8 largest firms,2002,9,112990,10.3,30548,6814,862
+0100000US,,United States,8114902,Boat repair,T,Establishments subject to federal income tax,820,20 largest firms,2002,23,185881,16.9,54603,12135,1375
+0100000US,,United States,8114902,Boat repair,T,Establishments subject to federal income tax,850,50 largest firms,2002,53,301307,27.3,90299,20778,2233
+0100000US,,United States,8114904,Garment repair and alteration services,A,All establishments,001,All firms,2002,2545,364774,100.0,122102,28561,7748
+0100000US,,United States,8114904,Garment repair and alteration services,A,All establishments,804,4 largest firms,2002,21,20907,5.7,11210,2710,408
+0100000US,,United States,8114904,Garment repair and alteration services,A,All establishments,808,8 largest firms,2002,26,33769,9.3,16139,3940,589
+0100000US,,United States,8114904,Garment repair and alteration services,A,All establishments,820,20 largest firms,2002,43,53948,14.8,24072,5817,922
+0100000US,,United States,8114904,Garment repair and alteration services,A,All establishments,850,50 largest firms,2002,88,80354,22.0,32562,7675,1329
+0100000US,,United States,8114904,Garment repair and alteration services,T,Establishments subject to federal income tax,001,All firms,2002,2545,364774,100.0,122102,28561,7748
+0100000US,,United States,8114904,Garment repair and alteration services,T,Establishments subject to federal income tax,804,4 largest firms,2002,21,20907,5.7,11210,2710,408
+0100000US,,United States,8114904,Garment repair and alteration services,T,Establishments subject to federal income tax,808,8 largest firms,2002,26,33769,9.3,16139,3940,589
+0100000US,,United States,8114904,Garment repair and alteration services,T,Establishments subject to federal income tax,820,20 largest firms,2002,43,53948,14.8,24072,5817,922
+0100000US,,United States,8114904,Garment repair and alteration services,T,Establishments subject to federal income tax,850,50 largest firms,2002,88,80354,22.0,32562,7675,1329
+0100000US,,United States,8114909,All other repair and related services,A,All establishments,001,All firms,2002,3784,1156064,100.0,351588,80990,15465
+0100000US,,United States,8114909,All other repair and related services,A,All establishments,804,4 largest firms,2002,12,134585,11.6,63323,13974,2987
+0100000US,,United States,8114909,All other repair and related services,A,All establishments,808,8 largest firms,2002,23,173822,15.0,74990,16811,3296
+0100000US,,United States,8114909,All other repair and related services,A,All establishments,820,20 largest firms,2002,39,235038,20.3,87368,19539,3724
+0100000US,,United States,8114909,All other repair and related services,A,All establishments,850,50 largest firms,2002,70,321265,27.8,108827,24643,4373
+0100000US,,United States,8114909,All other repair and related services,T,Establishments subject to federal income tax,001,All firms,2002,3784,1156064,100.0,351588,80990,15465
+0100000US,,United States,8114909,All other repair and related services,T,Establishments subject to federal income tax,804,4 largest firms,2002,12,134585,11.6,63323,13974,2987
+0100000US,,United States,8114909,All other repair and related services,T,Establishments subject to federal income tax,808,8 largest firms,2002,23,173822,15.0,74990,16811,3296
+0100000US,,United States,8114909,All other repair and related services,T,Establishments subject to federal income tax,820,20 largest firms,2002,39,235038,20.3,87368,19539,3724
+0100000US,,United States,8114909,All other repair and related services,T,Establishments subject to federal income tax,850,50 largest firms,2002,70,321265,27.8,108827,24643,4373
+0100000US,,United States,812,Personal and laundry services,A,All establishments,001,All firms,2002,201019,72220404,100.0,22908300,5516741,1296540
+0100000US,,United States,812,Personal and laundry services,A,All establishments,804,4 largest firms,2002,6314,6708318,9.3,1596592,408299,70920
+0100000US,,United States,812,Personal and laundry services,A,All establishments,808,8 largest firms,2002,12555,10003282,13.9,2576843,636998,141772
+0100000US,,United States,812,Personal and laundry services,A,All establishments,820,20 largest firms,2002,16920,15619762,21.6,4043173,997410,215453
+0100000US,,United States,812,Personal and laundry services,A,All establishments,850,50 largest firms,2002,19954,19614024,27.2,5129840,1263752,264827
+0100000US,,United States,812,Personal and laundry services,T,Establishments subject to federal income tax,001,All firms,2002,201019,72220404,100.0,22908300,5516741,1296540
+0100000US,,United States,812,Personal and laundry services,T,Establishments subject to federal income tax,804,4 largest firms,2002,6314,6708318,9.3,1596592,408299,70920
+0100000US,,United States,812,Personal and laundry services,T,Establishments subject to federal income tax,808,8 largest firms,2002,12555,10003282,13.9,2576843,636998,141772
+0100000US,,United States,812,Personal and laundry services,T,Establishments subject to federal income tax,820,20 largest firms,2002,16920,15619762,21.6,4043173,997410,215453
+0100000US,,United States,812,Personal and laundry services,T,Establishments subject to federal income tax,850,50 largest firms,2002,19954,19614024,27.2,5129840,1263752,264827
+0100000US,,United States,8121,Personal care services,A,All establishments,001,All firms,2002,99454,20217426,100.0,8179812,1953984,535297
+0100000US,,United States,8121,Personal care services,A,All establishments,804,4 largest firms,2002,6266,2136239,10.6,765993,177788,58465
+0100000US,,United States,8121,Personal care services,A,All establishments,808,8 largest firms,2002,6879,2584754,12.8,938586,220433,68150
+0100000US,,United States,8121,Personal care services,A,All establishments,820,20 largest firms,2002,8252,3110580,15.4,1181091,283661,81423
+0100000US,,United States,8121,Personal care services,A,All establishments,850,50 largest firms,2002,9060,3553483,17.6,1368259,328091,91483
+0100000US,,United States,8121,Personal care services,T,Establishments subject to federal income tax,001,All firms,2002,99454,20217426,100.0,8179812,1953984,535297
+0100000US,,United States,8121,Personal care services,T,Establishments subject to federal income tax,804,4 largest firms,2002,6266,2136239,10.6,765993,177788,58465
+0100000US,,United States,8121,Personal care services,T,Establishments subject to federal income tax,808,8 largest firms,2002,6879,2584754,12.8,938586,220433,68150
+0100000US,,United States,8121,Personal care services,T,Establishments subject to federal income tax,820,20 largest firms,2002,8252,3110580,15.4,1181091,283661,81423
+0100000US,,United States,8121,Personal care services,T,Establishments subject to federal income tax,850,50 largest firms,2002,9060,3553483,17.6,1368259,328091,91483
+0100000US,,United States,81211,"Hair, nail, and skin care services",A,All establishments,001,All firms,2002,86501,16518082,100.0,7256036,1732669,450479
+0100000US,,United States,81211,"Hair, nail, and skin care services",A,All establishments,804,4 largest firms,2002,5602,1569064,9.5,741464,171822,45995
+0100000US,,United States,81211,"Hair, nail, and skin care services",A,All establishments,808,8 largest firms,2002,6130,1784728,10.8,863736,202277,51938
+0100000US,,United States,81211,"Hair, nail, and skin care services",A,All establishments,820,20 largest firms,2002,7222,2112233,12.8,1019201,242472,62174
+0100000US,,United States,81211,"Hair, nail, and skin care services",A,All establishments,850,50 largest firms,2002,7778,2457063,14.9,1186206,281988,71098
+0100000US,,United States,81211,"Hair, nail, and skin care services",T,Establishments subject to federal income tax,001,All firms,2002,86501,16518082,100.0,7256036,1732669,450479
+0100000US,,United States,81211,"Hair, nail, and skin care services",T,Establishments subject to federal income tax,804,4 largest firms,2002,5602,1569064,9.5,741464,171822,45995
+0100000US,,United States,81211,"Hair, nail, and skin care services",T,Establishments subject to federal income tax,808,8 largest firms,2002,6130,1784728,10.8,863736,202277,51938
+0100000US,,United States,81211,"Hair, nail, and skin care services",T,Establishments subject to federal income tax,820,20 largest firms,2002,7222,2112233,12.8,1019201,242472,62174
+0100000US,,United States,81211,"Hair, nail, and skin care services",T,Establishments subject to federal income tax,850,50 largest firms,2002,7778,2457063,14.9,1186206,281988,71098
+0100000US,,United States,812111,Barber shops,A,All establishments,001,All firms,2002,4060,505983,100.0,225951,54750,13221
+0100000US,,United States,812111,Barber shops,A,All establishments,804,4 largest firms,2002,201,81772,16.2,40823,10007,1944
+0100000US,,United States,812111,Barber shops,A,All establishments,808,8 largest firms,2002,227,99151,19.6,51354,12446,2429
+0100000US,,United States,812111,Barber shops,A,All establishments,820,20 largest firms,2002,282,121690,24.1,63561,14981,3143
+0100000US,,United States,812111,Barber shops,A,All establishments,850,50 largest firms,2002,331,152348,30.1,77288,18475,3878
+0100000US,,United States,812111,Barber shops,T,Establishments subject to federal income tax,001,All firms,2002,4060,505983,100.0,225951,54750,13221
+0100000US,,United States,812111,Barber shops,T,Establishments subject to federal income tax,804,4 largest firms,2002,201,81772,16.2,40823,10007,1944
+0100000US,,United States,812111,Barber shops,T,Establishments subject to federal income tax,808,8 largest firms,2002,227,99151,19.6,51354,12446,2429
+0100000US,,United States,812111,Barber shops,T,Establishments subject to federal income tax,820,20 largest firms,2002,282,121690,24.1,63561,14981,3143
+0100000US,,United States,812111,Barber shops,T,Establishments subject to federal income tax,850,50 largest firms,2002,331,152348,30.1,77288,18475,3878
+0100000US,,United States,812112,Beauty salons,A,All establishments,001,All firms,2002,73953,15113025,100.0,6754142,1615009,414545
+0100000US,,United States,812112,Beauty salons,A,All establishments,804,4 largest firms,2002,5569,1566440,10.4,740025,171763,45975
+0100000US,,United States,812112,Beauty salons,A,All establishments,808,8 largest firms,2002,6106,1775546,11.7,853743,200936,52040
+0100000US,,United States,812112,Beauty salons,A,All establishments,820,20 largest firms,2002,6910,2064242,13.7,990912,235603,60474
+0100000US,,United States,812112,Beauty salons,A,All establishments,850,50 largest firms,2002,7594,2396466,15.9,1148750,273211,69404
+0100000US,,United States,812112,Beauty salons,T,Establishments subject to federal income tax,001,All firms,2002,73953,15113025,100.0,6754142,1615009,414545
+0100000US,,United States,812112,Beauty salons,T,Establishments subject to federal income tax,804,4 largest firms,2002,5569,1566440,10.4,740025,171763,45975
+0100000US,,United States,812112,Beauty salons,T,Establishments subject to federal income tax,808,8 largest firms,2002,6106,1775546,11.7,853743,200936,52040
+0100000US,,United States,812112,Beauty salons,T,Establishments subject to federal income tax,820,20 largest firms,2002,6910,2064242,13.7,990912,235603,60474
+0100000US,,United States,812112,Beauty salons,T,Establishments subject to federal income tax,850,50 largest firms,2002,7594,2396466,15.9,1148750,273211,69404
+0100000US,,United States,812113,Nail salons,A,All establishments,001,All firms,2002,8488,899074,100.0,275943,62910,22713
+0100000US,,United States,812113,Nail salons,A,All establishments,804,4 largest firms,2002,22,16987,1.9,5605,1358,284
+0100000US,,United States,812113,Nail salons,A,All establishments,808,8 largest firms,2002,26,24991,2.8,6906,1655,333
+0100000US,,United States,812113,Nail salons,A,All establishments,820,20 largest firms,2002,40,41557,4.6,12493,2908,585
+0100000US,,United States,812113,Nail salons,A,All establishments,850,50 largest firms,2002,72,67701,7.5,20466,4784,1057
+0100000US,,United States,812113,Nail salons,T,Establishments subject to federal income tax,001,All firms,2002,8488,899074,100.0,275943,62910,22713
+0100000US,,United States,812113,Nail salons,T,Establishments subject to federal income tax,804,4 largest firms,2002,22,16987,1.9,5605,1358,284
+0100000US,,United States,812113,Nail salons,T,Establishments subject to federal income tax,808,8 largest firms,2002,26,24991,2.8,6906,1655,333
+0100000US,,United States,812113,Nail salons,T,Establishments subject to federal income tax,820,20 largest firms,2002,40,41557,4.6,12493,2908,585
+0100000US,,United States,812113,Nail salons,T,Establishments subject to federal income tax,850,50 largest firms,2002,72,67701,7.5,20466,4784,1057
+0100000US,,United States,81219,Other personal care services,A,All establishments,001,All firms,2002,12953,3699344,100.0,923776,221315,84818
+0100000US,,United States,81219,Other personal care services,A,All establishments,804,4 largest firms,2002,1277,1015690,27.5,197122,48611,22155
+0100000US,,United States,81219,Other personal care services,A,All establishments,808,8 largest firms,2002,1436,1149394,31.1,228677,56862,23461
+0100000US,,United States,81219,Other personal care services,A,All establishments,820,20 largest firms,2002,1579,1296254,35.0,271971,67174,25712
+0100000US,,United States,81219,Other personal care services,A,All establishments,850,50 largest firms,2002,1785,1501982,40.6,325786,79071,30346
+0100000US,,United States,81219,Other personal care services,T,Establishments subject to federal income tax,001,All firms,2002,12953,3699344,100.0,923776,221315,84818
+0100000US,,United States,81219,Other personal care services,T,Establishments subject to federal income tax,804,4 largest firms,2002,1277,1015690,27.5,197122,48611,22155
+0100000US,,United States,81219,Other personal care services,T,Establishments subject to federal income tax,808,8 largest firms,2002,1436,1149394,31.1,228677,56862,23461
+0100000US,,United States,81219,Other personal care services,T,Establishments subject to federal income tax,820,20 largest firms,2002,1579,1296254,35.0,271971,67174,25712
+0100000US,,United States,81219,Other personal care services,T,Establishments subject to federal income tax,850,50 largest firms,2002,1785,1501982,40.6,325786,79071,30346
+0100000US,,United States,812191,Diet and weight reducing centers,A,All establishments,001,All firms,2002,3090,1688180,100.0,387489,91712,35706
+0100000US,,United States,812191,Diet and weight reducing centers,A,All establishments,804,4 largest firms,2002,1277,1015690,60.2,197122,48611,22155
+0100000US,,United States,812191,Diet and weight reducing centers,A,All establishments,808,8 largest firms,2002,1406,1098465,65.1,216586,53284,23280
+0100000US,,United States,812191,Diet and weight reducing centers,A,All establishments,820,20 largest firms,2002,1558,1217294,72.1,257055,61537,26444
+0100000US,,United States,812191,Diet and weight reducing centers,A,All establishments,850,50 largest firms,2002,1693,1361795,80.7,297145,70728,29774
+0100000US,,United States,812191,Diet and weight reducing centers,T,Establishments subject to federal income tax,001,All firms,2002,3090,1688180,100.0,387489,91712,35706
+0100000US,,United States,812191,Diet and weight reducing centers,T,Establishments subject to federal income tax,804,4 largest firms,2002,1277,1015690,60.2,197122,48611,22155
+0100000US,,United States,812191,Diet and weight reducing centers,T,Establishments subject to federal income tax,808,8 largest firms,2002,1406,1098465,65.1,216586,53284,23280
+0100000US,,United States,812191,Diet and weight reducing centers,T,Establishments subject to federal income tax,820,20 largest firms,2002,1558,1217294,72.1,257055,61537,26444
+0100000US,,United States,812191,Diet and weight reducing centers,T,Establishments subject to federal income tax,850,50 largest firms,2002,1693,1361795,80.7,297145,70728,29774
+0100000US,,United States,812199,Other personal care services,A,All establishments,001,All firms,2002,9863,2011164,100.0,536287,129603,49112
+0100000US,,United States,812199,Other personal care services,A,All establishments,804,4 largest firms,2002,64,109863,5.5,27243,6695,924
+0100000US,,United States,812199,Other personal care services,A,All establishments,808,8 largest firms,2002,95,149161,7.4,36690,10281,1508
+0100000US,,United States,812199,Other personal care services,A,All establishments,820,20 largest firms,2002,158,220138,10.9,50283,13509,2385
+0100000US,,United States,812199,Other personal care services,A,All establishments,850,50 largest firms,2002,248,331636,16.5,77072,19869,4029
+0100000US,,United States,812199,Other personal care services,T,Establishments subject to federal income tax,001,All firms,2002,9863,2011164,100.0,536287,129603,49112
+0100000US,,United States,812199,Other personal care services,T,Establishments subject to federal income tax,804,4 largest firms,2002,64,109863,5.5,27243,6695,924
+0100000US,,United States,812199,Other personal care services,T,Establishments subject to federal income tax,808,8 largest firms,2002,95,149161,7.4,36690,10281,1508
+0100000US,,United States,812199,Other personal care services,T,Establishments subject to federal income tax,820,20 largest firms,2002,158,220138,10.9,50283,13509,2385
+0100000US,,United States,812199,Other personal care services,T,Establishments subject to federal income tax,850,50 largest firms,2002,248,331636,16.5,77072,19869,4029
+0100000US,,United States,8122,Death care services,A,All establishments,001,All firms,2002,22477,14279878,100.0,3829630,904706,148195
+0100000US,,United States,8122,Death care services,A,All establishments,804,4 largest firms,2002,3400,3263277,22.9,729817,185016,34366
+0100000US,,United States,8122,Death care services,A,All establishments,808,8 largest firms,2002,3660,3600302,25.2,821918,207708,37777
+0100000US,,United States,8122,Death care services,A,All establishments,820,20 largest firms,2002,3839,3953516,27.7,951343,240347,40946
+0100000US,,United States,8122,Death care services,A,All establishments,850,50 largest firms,2002,4062,4344008,30.4,1078116,271735,44545
+0100000US,,United States,8122,Death care services,T,Establishments subject to federal income tax,001,All firms,2002,22477,14279878,100.0,3829630,904706,148195
+0100000US,,United States,8122,Death care services,T,Establishments subject to federal income tax,804,4 largest firms,2002,3400,3263277,22.9,729817,185016,34366
+0100000US,,United States,8122,Death care services,T,Establishments subject to federal income tax,808,8 largest firms,2002,3660,3600302,25.2,821918,207708,37777
+0100000US,,United States,8122,Death care services,T,Establishments subject to federal income tax,820,20 largest firms,2002,3839,3953516,27.7,951343,240347,40946
+0100000US,,United States,8122,Death care services,T,Establishments subject to federal income tax,850,50 largest firms,2002,4062,4344008,30.4,1078116,271735,44545
+0100000US,,United States,81221,Funeral homes and funeral services,A,All establishments,001,All firms,2002,16217,11049102,100.0,2792353,660286,106263
+0100000US,,United States,81221,Funeral homes and funeral services,A,All establishments,804,4 largest firms,2002,2349,2146943,19.4,484188,124064,20694
+0100000US,,United States,81221,Funeral homes and funeral services,A,All establishments,808,8 largest firms,2002,2509,2360753,21.4,532071,135856,22524
+0100000US,,United States,81221,Funeral homes and funeral services,A,All establishments,820,20 largest firms,2002,2620,2540509,23.0,580552,147892,23954
+0100000US,,United States,81221,Funeral homes and funeral services,A,All establishments,850,50 largest firms,2002,2774,2795306,25.3,659951,166826,26519
+0100000US,,United States,81221,Funeral homes and funeral services,T,Establishments subject to federal income tax,001,All firms,2002,16217,11049102,100.0,2792353,660286,106263
+0100000US,,United States,81221,Funeral homes and funeral services,T,Establishments subject to federal income tax,804,4 largest firms,2002,2349,2146943,19.4,484188,124064,20694
+0100000US,,United States,81221,Funeral homes and funeral services,T,Establishments subject to federal income tax,808,8 largest firms,2002,2509,2360753,21.4,532071,135856,22524
+0100000US,,United States,81221,Funeral homes and funeral services,T,Establishments subject to federal income tax,820,20 largest firms,2002,2620,2540509,23.0,580552,147892,23954
+0100000US,,United States,81221,Funeral homes and funeral services,T,Establishments subject to federal income tax,850,50 largest firms,2002,2774,2795306,25.3,659951,166826,26519
+0100000US,,United States,812210,Funeral homes and funeral services,A,All establishments,001,All firms,2002,16217,11049102,100.0,2792353,660286,106263
+0100000US,,United States,812210,Funeral homes and funeral services,A,All establishments,804,4 largest firms,2002,2349,2146943,19.4,484188,124064,20694
+0100000US,,United States,812210,Funeral homes and funeral services,A,All establishments,808,8 largest firms,2002,2509,2360753,21.4,532071,135856,22524
+0100000US,,United States,812210,Funeral homes and funeral services,A,All establishments,820,20 largest firms,2002,2620,2540509,23.0,580552,147892,23954
+0100000US,,United States,812210,Funeral homes and funeral services,A,All establishments,850,50 largest firms,2002,2774,2795306,25.3,659951,166826,26519
+0100000US,,United States,812210,Funeral homes and funeral services,T,Establishments subject to federal income tax,001,All firms,2002,16217,11049102,100.0,2792353,660286,106263
+0100000US,,United States,812210,Funeral homes and funeral services,T,Establishments subject to federal income tax,804,4 largest firms,2002,2349,2146943,19.4,484188,124064,20694
+0100000US,,United States,812210,Funeral homes and funeral services,T,Establishments subject to federal income tax,808,8 largest firms,2002,2509,2360753,21.4,532071,135856,22524
+0100000US,,United States,812210,Funeral homes and funeral services,T,Establishments subject to federal income tax,820,20 largest firms,2002,2620,2540509,23.0,580552,147892,23954
+0100000US,,United States,812210,Funeral homes and funeral services,T,Establishments subject to federal income tax,850,50 largest firms,2002,2774,2795306,25.3,659951,166826,26519
+0100000US,,United States,8122101,Funeral homes,A,All establishments,001,All firms,2002,15912,10847384,100.0,2750083,649956,104341
+0100000US,,United States,8122101,Funeral homes,A,All establishments,804,4 largest firms,2002,2322,2121173,19.6,477070,122232,20490
+0100000US,,United States,8122101,Funeral homes,A,All establishments,808,8 largest firms,2002,2512,2298229,21.2,526755,134667,22411
+0100000US,,United States,8122101,Funeral homes,A,All establishments,820,20 largest firms,2002,2598,2466531,22.7,572497,145947,23737
+0100000US,,United States,8122101,Funeral homes,A,All establishments,850,50 largest firms,2002,2746,2717910,25.1,650572,164518,26239
+0100000US,,United States,8122101,Funeral homes,T,Establishments subject to federal income tax,001,All firms,2002,15912,10847384,100.0,2750083,649956,104341
+0100000US,,United States,8122101,Funeral homes,T,Establishments subject to federal income tax,804,4 largest firms,2002,2322,2121173,19.6,477070,122232,20490
+0100000US,,United States,8122101,Funeral homes,T,Establishments subject to federal income tax,808,8 largest firms,2002,2512,2298229,21.2,526755,134667,22411
+0100000US,,United States,8122101,Funeral homes,T,Establishments subject to federal income tax,820,20 largest firms,2002,2598,2466531,22.7,572497,145947,23737
+0100000US,,United States,8122101,Funeral homes,T,Establishments subject to federal income tax,850,50 largest firms,2002,2746,2717910,25.1,650572,164518,26239
+0100000US,,United States,8122102,Other funeral services,A,All establishments,001,All firms,2002,305,201718,100.0,42270,10330,1922
+0100000US,,United States,8122102,Other funeral services,A,All establishments,804,4 largest firms,2002,19,91756,45.5,9892,2450,290
+0100000US,,United States,8122102,Other funeral services,A,All establishments,808,8 largest firms,2002,27,106734,52.9,13843,3370,400
+0100000US,,United States,8122102,Other funeral services,A,All establishments,820,20 largest firms,2002,47,127887,63.4,20911,5146,759
+0100000US,,United States,8122102,Other funeral services,A,All establishments,850,50 largest firms,2002,77,155894,77.3,29199,7052,1115
+0100000US,,United States,8122102,Other funeral services,T,Establishments subject to federal income tax,001,All firms,2002,305,201718,100.0,42270,10330,1922
+0100000US,,United States,8122102,Other funeral services,T,Establishments subject to federal income tax,804,4 largest firms,2002,19,91756,45.5,9892,2450,290
+0100000US,,United States,8122102,Other funeral services,T,Establishments subject to federal income tax,808,8 largest firms,2002,27,106734,52.9,13843,3370,400
+0100000US,,United States,8122102,Other funeral services,T,Establishments subject to federal income tax,820,20 largest firms,2002,47,127887,63.4,20911,5146,759
+0100000US,,United States,8122102,Other funeral services,T,Establishments subject to federal income tax,850,50 largest firms,2002,77,155894,77.3,29199,7052,1115
+0100000US,,United States,81222,Cemeteries and crematories,A,All establishments,001,All firms,2002,6260,3230776,100.0,1037277,244420,41932
+0100000US,,United States,81222,Cemeteries and crematories,A,All establishments,804,4 largest firms,2002,1148,1183369,36.6,268087,66510,14573
+0100000US,,United States,81222,Cemeteries and crematories,A,All establishments,808,8 largest firms,2002,1200,1377301,42.6,344631,86389,16317
+0100000US,,United States,81222,Cemeteries and crematories,A,All establishments,820,20 largest firms,2002,1291,1593711,49.3,424731,105704,18228
+0100000US,,United States,81222,Cemeteries and crematories,A,All establishments,850,50 largest firms,2002,1422,1850291,57.3,507286,125454,20537
+0100000US,,United States,81222,Cemeteries and crematories,T,Establishments subject to federal income tax,001,All firms,2002,6260,3230776,100.0,1037277,244420,41932
+0100000US,,United States,81222,Cemeteries and crematories,T,Establishments subject to federal income tax,804,4 largest firms,2002,1148,1183369,36.6,268087,66510,14573
+0100000US,,United States,81222,Cemeteries and crematories,T,Establishments subject to federal income tax,808,8 largest firms,2002,1200,1377301,42.6,344631,86389,16317
+0100000US,,United States,81222,Cemeteries and crematories,T,Establishments subject to federal income tax,820,20 largest firms,2002,1291,1593711,49.3,424731,105704,18228
+0100000US,,United States,81222,Cemeteries and crematories,T,Establishments subject to federal income tax,850,50 largest firms,2002,1422,1850291,57.3,507286,125454,20537
+0100000US,,United States,812220,Cemeteries and crematories,A,All establishments,001,All firms,2002,6260,3230776,100.0,1037277,244420,41932
+0100000US,,United States,812220,Cemeteries and crematories,A,All establishments,804,4 largest firms,2002,1148,1183369,36.6,268087,66510,14573
+0100000US,,United States,812220,Cemeteries and crematories,A,All establishments,808,8 largest firms,2002,1200,1377301,42.6,344631,86389,16317
+0100000US,,United States,812220,Cemeteries and crematories,A,All establishments,820,20 largest firms,2002,1291,1593711,49.3,424731,105704,18228
+0100000US,,United States,812220,Cemeteries and crematories,A,All establishments,850,50 largest firms,2002,1422,1850291,57.3,507286,125454,20537
+0100000US,,United States,812220,Cemeteries and crematories,T,Establishments subject to federal income tax,001,All firms,2002,6260,3230776,100.0,1037277,244420,41932
+0100000US,,United States,812220,Cemeteries and crematories,T,Establishments subject to federal income tax,804,4 largest firms,2002,1148,1183369,36.6,268087,66510,14573
+0100000US,,United States,812220,Cemeteries and crematories,T,Establishments subject to federal income tax,808,8 largest firms,2002,1200,1377301,42.6,344631,86389,16317
+0100000US,,United States,812220,Cemeteries and crematories,T,Establishments subject to federal income tax,820,20 largest firms,2002,1291,1593711,49.3,424731,105704,18228
+0100000US,,United States,812220,Cemeteries and crematories,T,Establishments subject to federal income tax,850,50 largest firms,2002,1422,1850291,57.3,507286,125454,20537
+0100000US,,United States,8123,Drycleaning and laundry services,A,All establishments,001,All firms,2002,41906,20443881,100.0,6667319,1640695,371241
+0100000US,,United States,8123,Drycleaning and laundry services,A,All establishments,804,4 largest firms,2002,658,3836773,18.8,1276074,311604,47407
+0100000US,,United States,8123,Drycleaning and laundry services,A,All establishments,808,8 largest firms,2002,991,5311307,26.0,1617644,395267,61061
+0100000US,,United States,8123,Drycleaning and laundry services,A,All establishments,820,20 largest firms,2002,1581,7004572,34.3,2192750,537109,85660
+0100000US,,United States,8123,Drycleaning and laundry services,A,All establishments,850,50 largest firms,2002,2212,8141030,39.8,2560122,640818,102498
+0100000US,,United States,8123,Drycleaning and laundry services,T,Establishments subject to federal income tax,001,All firms,2002,41906,20443881,100.0,6667319,1640695,371241
+0100000US,,United States,8123,Drycleaning and laundry services,T,Establishments subject to federal income tax,804,4 largest firms,2002,658,3836773,18.8,1276074,311604,47407
+0100000US,,United States,8123,Drycleaning and laundry services,T,Establishments subject to federal income tax,808,8 largest firms,2002,991,5311307,26.0,1617644,395267,61061
+0100000US,,United States,8123,Drycleaning and laundry services,T,Establishments subject to federal income tax,820,20 largest firms,2002,1581,7004572,34.3,2192750,537109,85660
+0100000US,,United States,8123,Drycleaning and laundry services,T,Establishments subject to federal income tax,850,50 largest firms,2002,2212,8141030,39.8,2560122,640818,102498
+0100000US,,United States,81231,Coin-operated laundries and drycleaners,A,All establishments,001,All firms,2002,12199,3458255,100.0,625474,153901,46198
+0100000US,,United States,81231,Coin-operated laundries and drycleaners,A,All establishments,804,4 largest firms,2002,267,990495,28.6,109495,27755,3351
+0100000US,,United States,81231,Coin-operated laundries and drycleaners,A,All establishments,808,8 largest firms,2002,441,1153232,33.3,131985,33491,4480
+0100000US,,United States,81231,Coin-operated laundries and drycleaners,A,All establishments,820,20 largest firms,2002,621,1304367,37.7,157985,39727,5233
+0100000US,,United States,81231,Coin-operated laundries and drycleaners,A,All establishments,850,50 largest firms,2002,736,1437138,41.6,180474,45321,6196
+0100000US,,United States,81231,Coin-operated laundries and drycleaners,T,Establishments subject to federal income tax,001,All firms,2002,12199,3458255,100.0,625474,153901,46198
+0100000US,,United States,81231,Coin-operated laundries and drycleaners,T,Establishments subject to federal income tax,804,4 largest firms,2002,267,990495,28.6,109495,27755,3351
+0100000US,,United States,81231,Coin-operated laundries and drycleaners,T,Establishments subject to federal income tax,808,8 largest firms,2002,441,1153232,33.3,131985,33491,4480
+0100000US,,United States,81231,Coin-operated laundries and drycleaners,T,Establishments subject to federal income tax,820,20 largest firms,2002,621,1304367,37.7,157985,39727,5233
+0100000US,,United States,81231,Coin-operated laundries and drycleaners,T,Establishments subject to federal income tax,850,50 largest firms,2002,736,1437138,41.6,180474,45321,6196
+0100000US,,United States,812310,Coin-operated laundries and drycleaners,A,All establishments,001,All firms,2002,12199,3458255,100.0,625474,153901,46198
+0100000US,,United States,812310,Coin-operated laundries and drycleaners,A,All establishments,804,4 largest firms,2002,267,990495,28.6,109495,27755,3351
+0100000US,,United States,812310,Coin-operated laundries and drycleaners,A,All establishments,808,8 largest firms,2002,441,1153232,33.3,131985,33491,4480
+0100000US,,United States,812310,Coin-operated laundries and drycleaners,A,All establishments,820,20 largest firms,2002,621,1304367,37.7,157985,39727,5233
+0100000US,,United States,812310,Coin-operated laundries and drycleaners,A,All establishments,850,50 largest firms,2002,736,1437138,41.6,180474,45321,6196
+0100000US,,United States,812310,Coin-operated laundries and drycleaners,T,Establishments subject to federal income tax,001,All firms,2002,12199,3458255,100.0,625474,153901,46198
+0100000US,,United States,812310,Coin-operated laundries and drycleaners,T,Establishments subject to federal income tax,804,4 largest firms,2002,267,990495,28.6,109495,27755,3351
+0100000US,,United States,812310,Coin-operated laundries and drycleaners,T,Establishments subject to federal income tax,808,8 largest firms,2002,441,1153232,33.3,131985,33491,4480
+0100000US,,United States,812310,Coin-operated laundries and drycleaners,T,Establishments subject to federal income tax,820,20 largest firms,2002,621,1304367,37.7,157985,39727,5233
+0100000US,,United States,812310,Coin-operated laundries and drycleaners,T,Establishments subject to federal income tax,850,50 largest firms,2002,736,1437138,41.6,180474,45321,6196
+0100000US,,United States,8123101,Coin-operated laundry routes,A,All establishments,001,All firms,2002,437,1358354,100.0,174018,43684,5252
+0100000US,,United States,8123101,Coin-operated laundry routes,A,All establishments,804,4 largest firms,2002,68,964448,71.0,106437,27018,2991
+0100000US,,United States,8123101,Coin-operated laundry routes,A,All establishments,808,8 largest firms,2002,82,1074464,79.1,122148,31295,3389
+0100000US,,United States,8123101,Coin-operated laundry routes,A,All establishments,820,20 largest firms,2002,98,1192256,87.8,142013,35621,3801
+0100000US,,United States,8123101,Coin-operated laundry routes,A,All establishments,850,50 largest firms,2002,128,1283299,94.5,158260,39783,4262
+0100000US,,United States,8123101,Coin-operated laundry routes,T,Establishments subject to federal income tax,001,All firms,2002,437,1358354,100.0,174018,43684,5252
+0100000US,,United States,8123101,Coin-operated laundry routes,T,Establishments subject to federal income tax,804,4 largest firms,2002,68,964448,71.0,106437,27018,2991
+0100000US,,United States,8123101,Coin-operated laundry routes,T,Establishments subject to federal income tax,808,8 largest firms,2002,82,1074464,79.1,122148,31295,3389
+0100000US,,United States,8123101,Coin-operated laundry routes,T,Establishments subject to federal income tax,820,20 largest firms,2002,98,1192256,87.8,142013,35621,3801
+0100000US,,United States,8123101,Coin-operated laundry routes,T,Establishments subject to federal income tax,850,50 largest firms,2002,128,1283299,94.5,158260,39783,4262
+0100000US,,United States,8123102,Coin-operated laundries and drycleaning stores,A,All establishments,001,All firms,2002,11762,2099901,100.0,451456,110217,40946
+0100000US,,United States,8123102,Coin-operated laundries and drycleaning stores,A,All establishments,804,4 largest firms,2002,495,126023,6.0,17761,4542,1438
+0100000US,,United States,8123102,Coin-operated laundries and drycleaning stores,A,All establishments,808,8 largest firms,2002,527,148617,7.1,22289,5555,1709
+0100000US,,United States,8123102,Coin-operated laundries and drycleaning stores,A,All establishments,820,20 largest firms,2002,625,191075,9.1,29545,7309,2188
+0100000US,,United States,8123102,Coin-operated laundries and drycleaning stores,A,All establishments,850,50 largest firms,2002,745,262100,12.5,43721,10712,2979
+0100000US,,United States,8123102,Coin-operated laundries and drycleaning stores,T,Establishments subject to federal income tax,001,All firms,2002,11762,2099901,100.0,451456,110217,40946
+0100000US,,United States,8123102,Coin-operated laundries and drycleaning stores,T,Establishments subject to federal income tax,804,4 largest firms,2002,495,126023,6.0,17761,4542,1438
+0100000US,,United States,8123102,Coin-operated laundries and drycleaning stores,T,Establishments subject to federal income tax,808,8 largest firms,2002,527,148617,7.1,22289,5555,1709
+0100000US,,United States,8123102,Coin-operated laundries and drycleaning stores,T,Establishments subject to federal income tax,820,20 largest firms,2002,625,191075,9.1,29545,7309,2188
+0100000US,,United States,8123102,Coin-operated laundries and drycleaning stores,T,Establishments subject to federal income tax,850,50 largest firms,2002,745,262100,12.5,43721,10712,2979
+0100000US,,United States,81232,Drycleaning and laundry services (except coin-operated),A,All establishments,001,All firms,2002,27071,7761840,100.0,2739085,666839,188769
+0100000US,,United States,81232,Drycleaning and laundry services (except coin-operated),A,All establishments,804,4 largest firms,2002,466,203567,2.6,65999,15403,4053
+0100000US,,United States,81232,Drycleaning and laundry services (except coin-operated),A,All establishments,808,8 largest firms,2002,605,284440,3.7,92570,23571,6018
+0100000US,,United States,81232,Drycleaning and laundry services (except coin-operated),A,All establishments,820,20 largest firms,2002,749,435542,5.6,141501,35438,8255
+0100000US,,United States,81232,Drycleaning and laundry services (except coin-operated),A,All establishments,850,50 largest firms,2002,1034,694296,8.9,237839,57839,13489
+0100000US,,United States,81232,Drycleaning and laundry services (except coin-operated),T,Establishments subject to federal income tax,001,All firms,2002,27071,7761840,100.0,2739085,666839,188769
+0100000US,,United States,81232,Drycleaning and laundry services (except coin-operated),T,Establishments subject to federal income tax,804,4 largest firms,2002,466,203567,2.6,65999,15403,4053
+0100000US,,United States,81232,Drycleaning and laundry services (except coin-operated),T,Establishments subject to federal income tax,808,8 largest firms,2002,605,284440,3.7,92570,23571,6018
+0100000US,,United States,81232,Drycleaning and laundry services (except coin-operated),T,Establishments subject to federal income tax,820,20 largest firms,2002,749,435542,5.6,141501,35438,8255
+0100000US,,United States,81232,Drycleaning and laundry services (except coin-operated),T,Establishments subject to federal income tax,850,50 largest firms,2002,1034,694296,8.9,237839,57839,13489
+0100000US,,United States,812320,Drycleaning and laundry services (except coin-operated),A,All establishments,001,All firms,2002,27071,7761840,100.0,2739085,666839,188769
+0100000US,,United States,812320,Drycleaning and laundry services (except coin-operated),A,All establishments,804,4 largest firms,2002,466,203567,2.6,65999,15403,4053
+0100000US,,United States,812320,Drycleaning and laundry services (except coin-operated),A,All establishments,808,8 largest firms,2002,605,284440,3.7,92570,23571,6018
+0100000US,,United States,812320,Drycleaning and laundry services (except coin-operated),A,All establishments,820,20 largest firms,2002,749,435542,5.6,141501,35438,8255
+0100000US,,United States,812320,Drycleaning and laundry services (except coin-operated),A,All establishments,850,50 largest firms,2002,1034,694296,8.9,237839,57839,13489
+0100000US,,United States,812320,Drycleaning and laundry services (except coin-operated),T,Establishments subject to federal income tax,001,All firms,2002,27071,7761840,100.0,2739085,666839,188769
+0100000US,,United States,812320,Drycleaning and laundry services (except coin-operated),T,Establishments subject to federal income tax,804,4 largest firms,2002,466,203567,2.6,65999,15403,4053
+0100000US,,United States,812320,Drycleaning and laundry services (except coin-operated),T,Establishments subject to federal income tax,808,8 largest firms,2002,605,284440,3.7,92570,23571,6018
+0100000US,,United States,812320,Drycleaning and laundry services (except coin-operated),T,Establishments subject to federal income tax,820,20 largest firms,2002,749,435542,5.6,141501,35438,8255
+0100000US,,United States,812320,Drycleaning and laundry services (except coin-operated),T,Establishments subject to federal income tax,850,50 largest firms,2002,1034,694296,8.9,237839,57839,13489
+0100000US,,United States,8123201,"Laundries, family and commercial",A,All establishments,001,All firms,2002,2037,875400,100.0,350032,83598,21802
+0100000US,,United States,8123201,"Laundries, family and commercial",A,All establishments,804,4 largest firms,2002,109,66048,7.5,19971,4446,899
+0100000US,,United States,8123201,"Laundries, family and commercial",A,All establishments,808,8 largest firms,2002,113,105453,12.0,35234,7869,1709
+0100000US,,United States,8123201,"Laundries, family and commercial",A,All establishments,820,20 largest firms,2002,126,188831,21.6,68512,14874,3282
+0100000US,,United States,8123201,"Laundries, family and commercial",A,All establishments,850,50 largest firms,2002,167,320813,36.6,123512,28056,5697
+0100000US,,United States,8123201,"Laundries, family and commercial",T,Establishments subject to federal income tax,001,All firms,2002,2037,875400,100.0,350032,83598,21802
+0100000US,,United States,8123201,"Laundries, family and commercial",T,Establishments subject to federal income tax,804,4 largest firms,2002,109,66048,7.5,19971,4446,899
+0100000US,,United States,8123201,"Laundries, family and commercial",T,Establishments subject to federal income tax,808,8 largest firms,2002,113,105453,12.0,35234,7869,1709
+0100000US,,United States,8123201,"Laundries, family and commercial",T,Establishments subject to federal income tax,820,20 largest firms,2002,126,188831,21.6,68512,14874,3282
+0100000US,,United States,8123201,"Laundries, family and commercial",T,Establishments subject to federal income tax,850,50 largest firms,2002,167,320813,36.6,123512,28056,5697
+0100000US,,United States,8123202,Drycleaning plants,A,All establishments,001,All firms,2002,21273,6116119,100.0,2193804,535170,152332
+0100000US,,United States,8123202,Drycleaning plants,A,All establishments,804,4 largest firms,2002,141,148459,2.4,54678,14852,3483
+0100000US,,United States,8123202,Drycleaning plants,A,All establishments,808,8 largest firms,2002,235,205179,3.4,74534,19256,4729
+0100000US,,United States,8123202,Drycleaning plants,A,All establishments,820,20 largest firms,2002,375,336171,5.5,118847,30219,6938
+0100000US,,United States,8123202,Drycleaning plants,A,All establishments,850,50 largest firms,2002,675,539836,8.8,199568,49449,11292
+0100000US,,United States,8123202,Drycleaning plants,T,Establishments subject to federal income tax,001,All firms,2002,21273,6116119,100.0,2193804,535170,152332
+0100000US,,United States,8123202,Drycleaning plants,T,Establishments subject to federal income tax,804,4 largest firms,2002,141,148459,2.4,54678,14852,3483
+0100000US,,United States,8123202,Drycleaning plants,T,Establishments subject to federal income tax,808,8 largest firms,2002,235,205179,3.4,74534,19256,4729
+0100000US,,United States,8123202,Drycleaning plants,T,Establishments subject to federal income tax,820,20 largest firms,2002,375,336171,5.5,118847,30219,6938
+0100000US,,United States,8123202,Drycleaning plants,T,Establishments subject to federal income tax,850,50 largest firms,2002,675,539836,8.8,199568,49449,11292
+0100000US,,United States,8123203,Garment pressing and agents for laundries,A,All establishments,001,All firms,2002,3497,669183,100.0,160612,39412,12690
+0100000US,,United States,8123203,Garment pressing and agents for laundries,A,All establishments,804,4 largest firms,2002,283,66769,10.0,13889,3346,1109
+0100000US,,United States,8123203,Garment pressing and agents for laundries,A,All establishments,808,8 largest firms,2002,330,83946,12.5,17645,4180,1339
+0100000US,,United States,8123203,Garment pressing and agents for laundries,A,All establishments,820,20 largest firms,2002,437,119309,17.8,29037,7083,1954
+0100000US,,United States,8123203,Garment pressing and agents for laundries,A,All establishments,850,50 largest firms,2002,644,176781,26.4,40927,10090,2844
+0100000US,,United States,8123203,Garment pressing and agents for laundries,T,Establishments subject to federal income tax,001,All firms,2002,3497,669183,100.0,160612,39412,12690
+0100000US,,United States,8123203,Garment pressing and agents for laundries,T,Establishments subject to federal income tax,804,4 largest firms,2002,283,66769,10.0,13889,3346,1109
+0100000US,,United States,8123203,Garment pressing and agents for laundries,T,Establishments subject to federal income tax,808,8 largest firms,2002,330,83946,12.5,17645,4180,1339
+0100000US,,United States,8123203,Garment pressing and agents for laundries,T,Establishments subject to federal income tax,820,20 largest firms,2002,437,119309,17.8,29037,7083,1954
+0100000US,,United States,8123203,Garment pressing and agents for laundries,T,Establishments subject to federal income tax,850,50 largest firms,2002,644,176781,26.4,40927,10090,2844
+0100000US,,United States,8123204,All other laundry and garment services,A,All establishments,001,All firms,2002,264,101138,100.0,34637,8659,1945
+0100000US,,United States,8123204,All other laundry and garment services,A,All establishments,804,4 largest firms,2002,4,19476,19.3,5505,1523,220
+0100000US,,United States,8123204,All other laundry and garment services,A,All establishments,808,8 largest firms,2002,8,30021,29.7,10120,2554,345
+0100000US,,United States,8123204,All other laundry and garment services,A,All establishments,820,20 largest firms,2002,22,47188,46.7,16608,4140,679
+0100000US,,United States,8123204,All other laundry and garment services,A,All establishments,850,50 largest firms,2002,52,66460,65.7,24201,6022,1143
+0100000US,,United States,8123204,All other laundry and garment services,T,Establishments subject to federal income tax,001,All firms,2002,264,101138,100.0,34637,8659,1945
+0100000US,,United States,8123204,All other laundry and garment services,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,19476,19.3,5505,1523,220
+0100000US,,United States,8123204,All other laundry and garment services,T,Establishments subject to federal income tax,808,8 largest firms,2002,8,30021,29.7,10120,2554,345
+0100000US,,United States,8123204,All other laundry and garment services,T,Establishments subject to federal income tax,820,20 largest firms,2002,22,47188,46.7,16608,4140,679
+0100000US,,United States,8123204,All other laundry and garment services,T,Establishments subject to federal income tax,850,50 largest firms,2002,52,66460,65.7,24201,6022,1143
+0100000US,,United States,81233,Linen and uniform supply,A,All establishments,001,All firms,2002,2636,9223786,100.0,3302760,819955,136274
+0100000US,,United States,81233,Linen and uniform supply,A,All establishments,804,4 largest firms,2002,658,3836773,41.6,1276074,311604,47407
+0100000US,,United States,81233,Linen and uniform supply,A,All establishments,808,8 largest firms,2002,832,5034434,54.6,1707761,416500,66113
+0100000US,,United States,81233,Linen and uniform supply,A,All establishments,820,20 largest firms,2002,1042,6185797,67.1,2139486,523917,82952
+0100000US,,United States,81233,Linen and uniform supply,A,All establishments,850,50 largest firms,2002,1195,6951495,75.4,2423818,606805,96115
+0100000US,,United States,81233,Linen and uniform supply,T,Establishments subject to federal income tax,001,All firms,2002,2636,9223786,100.0,3302760,819955,136274
+0100000US,,United States,81233,Linen and uniform supply,T,Establishments subject to federal income tax,804,4 largest firms,2002,658,3836773,41.6,1276074,311604,47407
+0100000US,,United States,81233,Linen and uniform supply,T,Establishments subject to federal income tax,808,8 largest firms,2002,832,5034434,54.6,1707761,416500,66113
+0100000US,,United States,81233,Linen and uniform supply,T,Establishments subject to federal income tax,820,20 largest firms,2002,1042,6185797,67.1,2139486,523917,82952
+0100000US,,United States,81233,Linen and uniform supply,T,Establishments subject to federal income tax,850,50 largest firms,2002,1195,6951495,75.4,2423818,606805,96115
+0100000US,,United States,812331,Linen supply,A,All establishments,001,All firms,2002,1152,3087037,100.0,1203023,291441,52290
+0100000US,,United States,812331,Linen supply,A,All establishments,804,4 largest firms,2002,155,975010,31.6,388234,94486,14895
+0100000US,,United States,812331,Linen supply,A,All establishments,808,8 largest firms,2002,254,1327588,43.0,527976,128725,21468
+0100000US,,United States,812331,Linen supply,A,All establishments,820,20 largest firms,2002,343,1753060,56.8,683240,165085,27873
+0100000US,,United States,812331,Linen supply,A,All establishments,850,50 largest firms,2002,396,2126502,68.9,826493,199285,33591
+0100000US,,United States,812331,Linen supply,T,Establishments subject to federal income tax,001,All firms,2002,1152,3087037,100.0,1203023,291441,52290
+0100000US,,United States,812331,Linen supply,T,Establishments subject to federal income tax,804,4 largest firms,2002,155,975010,31.6,388234,94486,14895
+0100000US,,United States,812331,Linen supply,T,Establishments subject to federal income tax,808,8 largest firms,2002,254,1327588,43.0,527976,128725,21468
+0100000US,,United States,812331,Linen supply,T,Establishments subject to federal income tax,820,20 largest firms,2002,343,1753060,56.8,683240,165085,27873
+0100000US,,United States,812331,Linen supply,T,Establishments subject to federal income tax,850,50 largest firms,2002,396,2126502,68.9,826493,199285,33591
+0100000US,,United States,812332,Industrial launderers,A,All establishments,001,All firms,2002,1484,6136749,100.0,2099737,528514,83984
+0100000US,,United States,812332,Industrial launderers,A,All establishments,804,4 largest firms,2002,604,3752499,61.1,1236377,302278,45562
+0100000US,,United States,812332,Industrial launderers,A,All establishments,808,8 largest firms,2002,692,4358428,71.0,1435217,352088,54475
+0100000US,,United States,812332,Industrial launderers,A,All establishments,820,20 largest firms,2002,789,4898090,79.8,1632656,415145,63923
+0100000US,,United States,812332,Industrial launderers,A,All establishments,850,50 largest firms,2002,855,5248879,85.5,1764376,445713,68410
+0100000US,,United States,812332,Industrial launderers,T,Establishments subject to federal income tax,001,All firms,2002,1484,6136749,100.0,2099737,528514,83984
+0100000US,,United States,812332,Industrial launderers,T,Establishments subject to federal income tax,804,4 largest firms,2002,604,3752499,61.1,1236377,302278,45562
+0100000US,,United States,812332,Industrial launderers,T,Establishments subject to federal income tax,808,8 largest firms,2002,692,4358428,71.0,1435217,352088,54475
+0100000US,,United States,812332,Industrial launderers,T,Establishments subject to federal income tax,820,20 largest firms,2002,789,4898090,79.8,1632656,415145,63923
+0100000US,,United States,812332,Industrial launderers,T,Establishments subject to federal income tax,850,50 largest firms,2002,855,5248879,85.5,1764376,445713,68410
+0100000US,,United States,8129,Other personal services,A,All establishments,001,All firms,2002,37182,17279219,100.0,4231539,1017356,241807
+0100000US,,United States,8129,Other personal services,A,All establishments,804,4 largest firms,2002,5652,4300913,24.9,808829,209721,54903
+0100000US,,United States,8129,Other personal services,A,All establishments,808,8 largest firms,2002,7358,5754400,33.3,1075323,275030,69285
+0100000US,,United States,8129,Other personal services,A,All establishments,820,20 largest firms,2002,8121,6769371,39.2,1251332,315654,77184
+0100000US,,United States,8129,Other personal services,A,All establishments,850,50 largest firms,2002,9443,7856220,45.5,1527376,384649,89439
+0100000US,,United States,8129,Other personal services,T,Establishments subject to federal income tax,001,All firms,2002,37182,17279219,100.0,4231539,1017356,241807
+0100000US,,United States,8129,Other personal services,T,Establishments subject to federal income tax,804,4 largest firms,2002,5652,4300913,24.9,808829,209721,54903
+0100000US,,United States,8129,Other personal services,T,Establishments subject to federal income tax,808,8 largest firms,2002,7358,5754400,33.3,1075323,275030,69285
+0100000US,,United States,8129,Other personal services,T,Establishments subject to federal income tax,820,20 largest firms,2002,8121,6769371,39.2,1251332,315654,77184
+0100000US,,United States,8129,Other personal services,T,Establishments subject to federal income tax,850,50 largest firms,2002,9443,7856220,45.5,1527376,384649,89439
+0100000US,,United States,81291,Pet care (except veterinary) services,A,All establishments,001,All firms,2002,8167,1485589,100.0,484468,108807,33734
+0100000US,,United States,81291,Pet care (except veterinary) services,A,All establishments,804,4 largest firms,2002,44,93235,6.3,34036,8262,1277
+0100000US,,United States,81291,Pet care (except veterinary) services,A,All establishments,808,8 largest firms,2002,48,124413,8.4,47837,11204,1736
+0100000US,,United States,81291,Pet care (except veterinary) services,A,All establishments,820,20 largest firms,2002,66,172410,11.6,61693,14458,2228
+0100000US,,United States,81291,Pet care (except veterinary) services,A,All establishments,850,50 largest firms,2002,97,231332,15.6,81228,18905,3036
+0100000US,,United States,81291,Pet care (except veterinary) services,T,Establishments subject to federal income tax,001,All firms,2002,8167,1485589,100.0,484468,108807,33734
+0100000US,,United States,81291,Pet care (except veterinary) services,T,Establishments subject to federal income tax,804,4 largest firms,2002,44,93235,6.3,34036,8262,1277
+0100000US,,United States,81291,Pet care (except veterinary) services,T,Establishments subject to federal income tax,808,8 largest firms,2002,48,124413,8.4,47837,11204,1736
+0100000US,,United States,81291,Pet care (except veterinary) services,T,Establishments subject to federal income tax,820,20 largest firms,2002,66,172410,11.6,61693,14458,2228
+0100000US,,United States,81291,Pet care (except veterinary) services,T,Establishments subject to federal income tax,850,50 largest firms,2002,97,231332,15.6,81228,18905,3036
+0100000US,,United States,812910,Pet care (except veterinary) services,A,All establishments,001,All firms,2002,8167,1485589,100.0,484468,108807,33734
+0100000US,,United States,812910,Pet care (except veterinary) services,A,All establishments,804,4 largest firms,2002,44,93235,6.3,34036,8262,1277
+0100000US,,United States,812910,Pet care (except veterinary) services,A,All establishments,808,8 largest firms,2002,48,124413,8.4,47837,11204,1736
+0100000US,,United States,812910,Pet care (except veterinary) services,A,All establishments,820,20 largest firms,2002,66,172410,11.6,61693,14458,2228
+0100000US,,United States,812910,Pet care (except veterinary) services,A,All establishments,850,50 largest firms,2002,97,231332,15.6,81228,18905,3036
+0100000US,,United States,812910,Pet care (except veterinary) services,T,Establishments subject to federal income tax,001,All firms,2002,8167,1485589,100.0,484468,108807,33734
+0100000US,,United States,812910,Pet care (except veterinary) services,T,Establishments subject to federal income tax,804,4 largest firms,2002,44,93235,6.3,34036,8262,1277
+0100000US,,United States,812910,Pet care (except veterinary) services,T,Establishments subject to federal income tax,808,8 largest firms,2002,48,124413,8.4,47837,11204,1736
+0100000US,,United States,812910,Pet care (except veterinary) services,T,Establishments subject to federal income tax,820,20 largest firms,2002,66,172410,11.6,61693,14458,2228
+0100000US,,United States,812910,Pet care (except veterinary) services,T,Establishments subject to federal income tax,850,50 largest firms,2002,97,231332,15.6,81228,18905,3036
+0100000US,,United States,81292,Photofinishing,A,All establishments,001,All firms,2002,4791,3850855,100.0,1209448,304349,48652
+0100000US,,United States,81292,Photofinishing,A,All establishments,804,4 largest firms,2002,1068,1634867,42.5,487953,131292,17776
+0100000US,,United States,81292,Photofinishing,A,All establishments,808,8 largest firms,2002,1108,1804107,46.8,541048,144135,19680
+0100000US,,United States,81292,Photofinishing,A,All establishments,820,20 largest firms,2002,1131,2025444,52.6,616728,161894,22361
+0100000US,,United States,81292,Photofinishing,A,All establishments,850,50 largest firms,2002,1233,2285587,59.4,701457,181487,25286
+0100000US,,United States,81292,Photofinishing,T,Establishments subject to federal income tax,001,All firms,2002,4791,3850855,100.0,1209448,304349,48652
+0100000US,,United States,81292,Photofinishing,T,Establishments subject to federal income tax,804,4 largest firms,2002,1068,1634867,42.5,487953,131292,17776
+0100000US,,United States,81292,Photofinishing,T,Establishments subject to federal income tax,808,8 largest firms,2002,1108,1804107,46.8,541048,144135,19680
+0100000US,,United States,81292,Photofinishing,T,Establishments subject to federal income tax,820,20 largest firms,2002,1131,2025444,52.6,616728,161894,22361
+0100000US,,United States,81292,Photofinishing,T,Establishments subject to federal income tax,850,50 largest firms,2002,1233,2285587,59.4,701457,181487,25286
+0100000US,,United States,812921,Photofinishing laboratories (except one-hour),A,All establishments,001,All firms,2002,2085,3131230,100.0,1025911,257072,36528
+0100000US,,United States,812921,Photofinishing laboratories (except one-hour),A,All establishments,804,4 largest firms,2002,158,1417066,45.3,430851,115006,13625
+0100000US,,United States,812921,Photofinishing laboratories (except one-hour),A,All establishments,808,8 largest firms,2002,198,1586306,50.7,483946,127849,15529
+0100000US,,United States,812921,Photofinishing laboratories (except one-hour),A,All establishments,820,20 largest firms,2002,221,1807643,57.7,559626,145608,18210
+0100000US,,United States,812921,Photofinishing laboratories (except one-hour),A,All establishments,850,50 largest firms,2002,260,2054372,65.6,644073,164737,20808
+0100000US,,United States,812921,Photofinishing laboratories (except one-hour),T,Establishments subject to federal income tax,001,All firms,2002,2085,3131230,100.0,1025911,257072,36528
+0100000US,,United States,812921,Photofinishing laboratories (except one-hour),T,Establishments subject to federal income tax,804,4 largest firms,2002,158,1417066,45.3,430851,115006,13625
+0100000US,,United States,812921,Photofinishing laboratories (except one-hour),T,Establishments subject to federal income tax,808,8 largest firms,2002,198,1586306,50.7,483946,127849,15529
+0100000US,,United States,812921,Photofinishing laboratories (except one-hour),T,Establishments subject to federal income tax,820,20 largest firms,2002,221,1807643,57.7,559626,145608,18210
+0100000US,,United States,812921,Photofinishing laboratories (except one-hour),T,Establishments subject to federal income tax,850,50 largest firms,2002,260,2054372,65.6,644073,164737,20808
+0100000US,,United States,812922,One-hour photofinishing,A,All establishments,001,All firms,2002,2706,719625,100.0,183537,47277,12124
+0100000US,,United States,812922,One-hour photofinishing,A,All establishments,804,4 largest firms,2002,952,245006,34.0,62658,17808,4586
+0100000US,,United States,812922,One-hour photofinishing,A,All establishments,808,8 largest firms,2002,974,266531,37.0,69349,19236,4859
+0100000US,,United States,812922,One-hour photofinishing,A,All establishments,820,20 largest firms,2002,1027,296604,41.2,76007,20874,5185
+0100000US,,United States,812922,One-hour photofinishing,A,All establishments,850,50 largest firms,2002,1098,340790,47.4,88735,23864,5868
+0100000US,,United States,812922,One-hour photofinishing,T,Establishments subject to federal income tax,001,All firms,2002,2706,719625,100.0,183537,47277,12124
+0100000US,,United States,812922,One-hour photofinishing,T,Establishments subject to federal income tax,804,4 largest firms,2002,952,245006,34.0,62658,17808,4586
+0100000US,,United States,812922,One-hour photofinishing,T,Establishments subject to federal income tax,808,8 largest firms,2002,974,266531,37.0,69349,19236,4859
+0100000US,,United States,812922,One-hour photofinishing,T,Establishments subject to federal income tax,820,20 largest firms,2002,1027,296604,41.2,76007,20874,5185
+0100000US,,United States,812922,One-hour photofinishing,T,Establishments subject to federal income tax,850,50 largest firms,2002,1098,340790,47.4,88735,23864,5868
+0100000US,,United States,81293,Parking lots and garages,A,All establishments,001,All firms,2002,12027,6908409,100.0,1428791,342060,104281
+0100000US,,United States,81293,Parking lots and garages,A,All establishments,804,4 largest firms,2002,6088,3276235,47.4,559193,136510,51006
+0100000US,,United States,81293,Parking lots and garages,A,All establishments,808,8 largest firms,2002,6561,3836708,55.5,629325,152524,54406
+0100000US,,United States,81293,Parking lots and garages,A,All establishments,820,20 largest firms,2002,7440,4500150,65.1,762719,184418,61741
+0100000US,,United States,81293,Parking lots and garages,A,All establishments,850,50 largest firms,2002,8545,5191634,75.1,940026,227841,71281
+0100000US,,United States,81293,Parking lots and garages,T,Establishments subject to federal income tax,001,All firms,2002,12027,6908409,100.0,1428791,342060,104281
+0100000US,,United States,81293,Parking lots and garages,T,Establishments subject to federal income tax,804,4 largest firms,2002,6088,3276235,47.4,559193,136510,51006
+0100000US,,United States,81293,Parking lots and garages,T,Establishments subject to federal income tax,808,8 largest firms,2002,6561,3836708,55.5,629325,152524,54406
+0100000US,,United States,81293,Parking lots and garages,T,Establishments subject to federal income tax,820,20 largest firms,2002,7440,4500150,65.1,762719,184418,61741
+0100000US,,United States,81293,Parking lots and garages,T,Establishments subject to federal income tax,850,50 largest firms,2002,8545,5191634,75.1,940026,227841,71281
+0100000US,,United States,812930,Parking lots and garages,A,All establishments,001,All firms,2002,12027,6908409,100.0,1428791,342060,104281
+0100000US,,United States,812930,Parking lots and garages,A,All establishments,804,4 largest firms,2002,6088,3276235,47.4,559193,136510,51006
+0100000US,,United States,812930,Parking lots and garages,A,All establishments,808,8 largest firms,2002,6561,3836708,55.5,629325,152524,54406
+0100000US,,United States,812930,Parking lots and garages,A,All establishments,820,20 largest firms,2002,7440,4500150,65.1,762719,184418,61741
+0100000US,,United States,812930,Parking lots and garages,A,All establishments,850,50 largest firms,2002,8545,5191634,75.1,940026,227841,71281
+0100000US,,United States,812930,Parking lots and garages,T,Establishments subject to federal income tax,001,All firms,2002,12027,6908409,100.0,1428791,342060,104281
+0100000US,,United States,812930,Parking lots and garages,T,Establishments subject to federal income tax,804,4 largest firms,2002,6088,3276235,47.4,559193,136510,51006
+0100000US,,United States,812930,Parking lots and garages,T,Establishments subject to federal income tax,808,8 largest firms,2002,6561,3836708,55.5,629325,152524,54406
+0100000US,,United States,812930,Parking lots and garages,T,Establishments subject to federal income tax,820,20 largest firms,2002,7440,4500150,65.1,762719,184418,61741
+0100000US,,United States,812930,Parking lots and garages,T,Establishments subject to federal income tax,850,50 largest firms,2002,8545,5191634,75.1,940026,227841,71281
+0100000US,,United States,81299,All other personal services,A,All establishments,001,All firms,2002,12197,5034366,100.0,1108832,262140,55140
+0100000US,,United States,81299,All other personal services,A,All establishments,804,4 largest firms,2002,59,993395,19.7,77604,18440,1182
+0100000US,,United States,81299,All other personal services,A,All establishments,808,8 largest firms,2002,65,1086145,21.6,100317,25964,1660
+0100000US,,United States,81299,All other personal services,A,All establishments,820,20 largest firms,2002,108,1286344,25.6,158921,41704,3368
+0100000US,,United States,81299,All other personal services,A,All establishments,850,50 largest firms,2002,161,1534709,30.5,209515,55721,5361
+0100000US,,United States,81299,All other personal services,T,Establishments subject to federal income tax,001,All firms,2002,12197,5034366,100.0,1108832,262140,55140
+0100000US,,United States,81299,All other personal services,T,Establishments subject to federal income tax,804,4 largest firms,2002,59,993395,19.7,77604,18440,1182
+0100000US,,United States,81299,All other personal services,T,Establishments subject to federal income tax,808,8 largest firms,2002,65,1086145,21.6,100317,25964,1660
+0100000US,,United States,81299,All other personal services,T,Establishments subject to federal income tax,820,20 largest firms,2002,108,1286344,25.6,158921,41704,3368
+0100000US,,United States,81299,All other personal services,T,Establishments subject to federal income tax,850,50 largest firms,2002,161,1534709,30.5,209515,55721,5361
+0100000US,,United States,812990,All other personal services,A,All establishments,001,All firms,2002,12197,5034366,100.0,1108832,262140,55140
+0100000US,,United States,812990,All other personal services,A,All establishments,804,4 largest firms,2002,59,993395,19.7,77604,18440,1182
+0100000US,,United States,812990,All other personal services,A,All establishments,808,8 largest firms,2002,65,1086145,21.6,100317,25964,1660
+0100000US,,United States,812990,All other personal services,A,All establishments,820,20 largest firms,2002,108,1286344,25.6,158921,41704,3368
+0100000US,,United States,812990,All other personal services,A,All establishments,850,50 largest firms,2002,161,1534709,30.5,209515,55721,5361
+0100000US,,United States,812990,All other personal services,T,Establishments subject to federal income tax,001,All firms,2002,12197,5034366,100.0,1108832,262140,55140
+0100000US,,United States,812990,All other personal services,T,Establishments subject to federal income tax,804,4 largest firms,2002,59,993395,19.7,77604,18440,1182
+0100000US,,United States,812990,All other personal services,T,Establishments subject to federal income tax,808,8 largest firms,2002,65,1086145,21.6,100317,25964,1660
+0100000US,,United States,812990,All other personal services,T,Establishments subject to federal income tax,820,20 largest firms,2002,108,1286344,25.6,158921,41704,3368
+0100000US,,United States,812990,All other personal services,T,Establishments subject to federal income tax,850,50 largest firms,2002,161,1534709,30.5,209515,55721,5361
+0100000US,,United States,8129901,Bail bonding,A,All establishments,001,All firms,2002,3325,1008893,100.0,241764,56535,11266
+0100000US,,United States,8129901,Bail bonding,A,All establishments,804,4 largest firms,2002,76,85321,8.5,23874,5688,546
+0100000US,,United States,8129901,Bail bonding,A,All establishments,808,8 largest firms,2002,80,117594,11.7,28921,6807,659
+0100000US,,United States,8129901,Bail bonding,A,All establishments,820,20 largest firms,2002,94,176785,17.5,42432,10662,1086
+0100000US,,United States,8129901,Bail bonding,A,All establishments,850,50 largest firms,2002,139,253592,25.1,63500,15178,1695
+0100000US,,United States,8129901,Bail bonding,T,Establishments subject to federal income tax,001,All firms,2002,3325,1008893,100.0,241764,56535,11266
+0100000US,,United States,8129901,Bail bonding,T,Establishments subject to federal income tax,804,4 largest firms,2002,76,85321,8.5,23874,5688,546
+0100000US,,United States,8129901,Bail bonding,T,Establishments subject to federal income tax,808,8 largest firms,2002,80,117594,11.7,28921,6807,659
+0100000US,,United States,8129901,Bail bonding,T,Establishments subject to federal income tax,820,20 largest firms,2002,94,176785,17.5,42432,10662,1086
+0100000US,,United States,8129901,Bail bonding,T,Establishments subject to federal income tax,850,50 largest firms,2002,139,253592,25.1,63500,15178,1695
+0100000US,,United States,8129902,Dating services,A,All establishments,001,All firms,2002,904,489470,100.0,110187,23842,4286
+0100000US,,United States,8129902,Dating services,A,All establishments,804,4 largest firms,2002,4,163052,33.3,18681,3904,227
+0100000US,,United States,8129902,Dating services,A,All establishments,808,8 largest firms,2002,9,184253,37.6,20969,4480,301
+0100000US,,United States,8129902,Dating services,A,All establishments,820,20 largest firms,2002,26,225598,46.1,36726,7310,788
+0100000US,,United States,8129902,Dating services,A,All establishments,850,50 largest firms,2002,63,288348,58.9,53058,10844,1382
+0100000US,,United States,8129902,Dating services,T,Establishments subject to federal income tax,001,All firms,2002,904,489470,100.0,110187,23842,4286
+0100000US,,United States,8129902,Dating services,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,163052,33.3,18681,3904,227
+0100000US,,United States,8129902,Dating services,T,Establishments subject to federal income tax,808,8 largest firms,2002,9,184253,37.6,20969,4480,301
+0100000US,,United States,8129902,Dating services,T,Establishments subject to federal income tax,820,20 largest firms,2002,26,225598,46.1,36726,7310,788
+0100000US,,United States,8129902,Dating services,T,Establishments subject to federal income tax,850,50 largest firms,2002,63,288348,58.9,53058,10844,1382
+0100000US,,United States,8129903,Pay telephone operators,A,All establishments,001,All firms,2002,1274,590142,100.0,132102,33033,5450
+0100000US,,United States,8129903,Pay telephone operators,A,All establishments,804,4 largest firms,2002,6,70830,12.0,10920,3596,299
+0100000US,,United States,8129903,Pay telephone operators,A,All establishments,808,8 largest firms,2002,12,107279,18.2,18667,6806,471
+0100000US,,United States,8129903,Pay telephone operators,A,All establishments,820,20 largest firms,2002,25,178347,30.2,38557,11291,994
+0100000US,,United States,8129903,Pay telephone operators,A,All establishments,850,50 largest firms,2002,59,282053,47.8,59256,16309,1666
+0100000US,,United States,8129903,Pay telephone operators,T,Establishments subject to federal income tax,001,All firms,2002,1274,590142,100.0,132102,33033,5450
+0100000US,,United States,8129903,Pay telephone operators,T,Establishments subject to federal income tax,804,4 largest firms,2002,6,70830,12.0,10920,3596,299
+0100000US,,United States,8129903,Pay telephone operators,T,Establishments subject to federal income tax,808,8 largest firms,2002,12,107279,18.2,18667,6806,471
+0100000US,,United States,8129903,Pay telephone operators,T,Establishments subject to federal income tax,820,20 largest firms,2002,25,178347,30.2,38557,11291,994
+0100000US,,United States,8129903,Pay telephone operators,T,Establishments subject to federal income tax,850,50 largest firms,2002,59,282053,47.8,59256,16309,1666
+0100000US,,United States,8129909,All other miscellaneous personal services,A,All establishments,001,All firms,2002,6694,2945861,100.0,624779,148730,34138
+0100000US,,United States,8129909,All other miscellaneous personal services,A,All establishments,804,4 largest firms,2002,18,877578,29.8,72367,19553,1181
+0100000US,,United States,8129909,All other miscellaneous personal services,A,All establishments,808,8 largest firms,2002,22,954416,32.4,99003,26629,2182
+0100000US,,United States,8129909,All other miscellaneous personal services,A,All establishments,820,20 largest firms,2002,37,1076332,36.5,131617,34939,3522
+0100000US,,United States,8129909,All other miscellaneous personal services,A,All establishments,850,50 largest firms,2002,86,1238272,42.0,174252,46384,7106
+0100000US,,United States,8129909,All other miscellaneous personal services,T,Establishments subject to federal income tax,001,All firms,2002,6694,2945861,100.0,624779,148730,34138
+0100000US,,United States,8129909,All other miscellaneous personal services,T,Establishments subject to federal income tax,804,4 largest firms,2002,18,877578,29.8,72367,19553,1181
+0100000US,,United States,8129909,All other miscellaneous personal services,T,Establishments subject to federal income tax,808,8 largest firms,2002,22,954416,32.4,99003,26629,2182
+0100000US,,United States,8129909,All other miscellaneous personal services,T,Establishments subject to federal income tax,820,20 largest firms,2002,37,1076332,36.5,131617,34939,3522
+0100000US,,United States,8129909,All other miscellaneous personal services,T,Establishments subject to federal income tax,850,50 largest firms,2002,86,1238272,42.0,174252,46384,7106
+0100000US,,United States,813,"Religious, grantmaking, civic, professional, and similar organizations",A,All establishments,001,All firms,2002,105514,116523311,100.0,24928801,6068425,893399
+0100000US,,United States,813,"Religious, grantmaking, civic, professional, and similar organizations",A,All establishments,804,4 largest firms,2002,6,4507716,3.9,33521,7947,513
+0100000US,,United States,813,"Religious, grantmaking, civic, professional, and similar organizations",A,All establishments,808,8 largest firms,2002,414,7149025,6.1,621475,164713,12682
+0100000US,,United States,813,"Religious, grantmaking, civic, professional, and similar organizations",A,All establishments,820,20 largest firms,2002,704,11863295,10.2,872638,225456,17804
+0100000US,,United States,813,"Religious, grantmaking, civic, professional, and similar organizations",A,All establishments,850,50 largest firms,2002,1280,18116676,15.5,1658764,411727,34151
+0100000US,,United States,813,"Religious, grantmaking, civic, professional, and similar organizations",N,Establishments exempt from federal income tax,001,All firms,2002,105514,116523311,100.0,24928801,6068425,893399
+0100000US,,United States,813,"Religious, grantmaking, civic, professional, and similar organizations",N,Establishments exempt from federal income tax,804,4 largest firms,2002,6,4507716,3.9,33521,7947,513
+0100000US,,United States,813,"Religious, grantmaking, civic, professional, and similar organizations",N,Establishments exempt from federal income tax,808,8 largest firms,2002,414,7149025,6.1,621475,164713,12682
+0100000US,,United States,813,"Religious, grantmaking, civic, professional, and similar organizations",N,Establishments exempt from federal income tax,820,20 largest firms,2002,704,11863295,10.2,872638,225456,17804
+0100000US,,United States,813,"Religious, grantmaking, civic, professional, and similar organizations",N,Establishments exempt from federal income tax,850,50 largest firms,2002,1280,18116676,15.5,1658764,411727,34151
+0100000US,,United States,8132,Grantmaking and giving services,A,All establishments,001,All firms,2002,14626,46275707,100.0,5101508,1237758,136555
+0100000US,,United States,8132,Grantmaking and giving services,A,All establishments,804,4 largest firms,2002,62,D,D,D,D,i
+0100000US,,United States,8132,Grantmaking and giving services,A,All establishments,808,8 largest firms,2002,344,D,D,D,D,j
+0100000US,,United States,8132,Grantmaking and giving services,A,All establishments,820,20 largest firms,2002,356,10234934,22.1,675098,168669,14630
+0100000US,,United States,8132,Grantmaking and giving services,A,All establishments,850,50 largest firms,2002,1076,15240967,32.9,1157157,284358,26851
+0100000US,,United States,8132,Grantmaking and giving services,N,Establishments exempt from federal income tax,001,All firms,2002,14626,46275707,100.0,5101508,1237758,136555
+0100000US,,United States,8132,Grantmaking and giving services,N,Establishments exempt from federal income tax,804,4 largest firms,2002,62,D,D,D,D,i
+0100000US,,United States,8132,Grantmaking and giving services,N,Establishments exempt from federal income tax,808,8 largest firms,2002,344,D,D,D,D,j
+0100000US,,United States,8132,Grantmaking and giving services,N,Establishments exempt from federal income tax,820,20 largest firms,2002,356,10234934,22.1,675098,168669,14630
+0100000US,,United States,8132,Grantmaking and giving services,N,Establishments exempt from federal income tax,850,50 largest firms,2002,1076,15240967,32.9,1157157,284358,26851
+0100000US,,United States,81321,Grantmaking and giving services,A,All establishments,001,All firms,2002,14626,46275707,100.0,5101508,1237758,136555
+0100000US,,United States,81321,Grantmaking and giving services,A,All establishments,804,4 largest firms,2002,62,D,D,D,D,i
+0100000US,,United States,81321,Grantmaking and giving services,A,All establishments,808,8 largest firms,2002,344,D,D,D,D,j
+0100000US,,United States,81321,Grantmaking and giving services,A,All establishments,820,20 largest firms,2002,356,10234934,22.1,675098,168669,14630
+0100000US,,United States,81321,Grantmaking and giving services,A,All establishments,850,50 largest firms,2002,1076,15240967,32.9,1157157,284358,26851
+0100000US,,United States,81321,Grantmaking and giving services,N,Establishments exempt from federal income tax,001,All firms,2002,14626,46275707,100.0,5101508,1237758,136555
+0100000US,,United States,81321,Grantmaking and giving services,N,Establishments exempt from federal income tax,804,4 largest firms,2002,62,D,D,D,D,i
+0100000US,,United States,81321,Grantmaking and giving services,N,Establishments exempt from federal income tax,808,8 largest firms,2002,344,D,D,D,D,j
+0100000US,,United States,81321,Grantmaking and giving services,N,Establishments exempt from federal income tax,820,20 largest firms,2002,356,10234934,22.1,675098,168669,14630
+0100000US,,United States,81321,Grantmaking and giving services,N,Establishments exempt from federal income tax,850,50 largest firms,2002,1076,15240967,32.9,1157157,284358,26851
+0100000US,,United States,813211,Grantmaking foundations,A,All establishments,001,All firms,2002,7877,26684525,100.0,2253059,540509,58981
+0100000US,,United States,813211,Grantmaking foundations,A,All establishments,804,4 largest firms,2002,6,4087229,15.3,34296,8344,435
+0100000US,,United States,813211,Grantmaking foundations,A,All establishments,808,8 largest firms,2002,10,5437283,20.4,74274,18030,1018
+0100000US,,United States,813211,Grantmaking foundations,A,All establishments,820,20 largest firms,2002,22,7620510,28.6,184288,43661,4515
+0100000US,,United States,813211,Grantmaking foundations,A,All establishments,850,50 largest firms,2002,69,10422806,39.1,338718,80152,7007
+0100000US,,United States,813211,Grantmaking foundations,N,Establishments exempt from federal income tax,001,All firms,2002,7877,26684525,100.0,2253059,540509,58981
+0100000US,,United States,813211,Grantmaking foundations,N,Establishments exempt from federal income tax,804,4 largest firms,2002,6,4087229,15.3,34296,8344,435
+0100000US,,United States,813211,Grantmaking foundations,N,Establishments exempt from federal income tax,808,8 largest firms,2002,10,5437283,20.4,74274,18030,1018
+0100000US,,United States,813211,Grantmaking foundations,N,Establishments exempt from federal income tax,820,20 largest firms,2002,22,7620510,28.6,184288,43661,4515
+0100000US,,United States,813211,Grantmaking foundations,N,Establishments exempt from federal income tax,850,50 largest firms,2002,69,10422806,39.1,338718,80152,7007
+0100000US,,United States,813212,Voluntary health organizations,A,All establishments,001,All firms,2002,4027,7732992,100.0,1818875,443961,49029
+0100000US,,United States,813212,Voluntary health organizations,A,All establishments,804,4 largest firms,2002,376,1856754,24.0,570869,143812,13477
+0100000US,,United States,813212,Voluntary health organizations,A,All establishments,808,8 largest firms,2002,825,2586938,33.5,769403,192761,18463
+0100000US,,United States,813212,Voluntary health organizations,A,All establishments,820,20 largest firms,2002,1085,3702290,47.9,892088,221528,21234
+0100000US,,United States,813212,Voluntary health organizations,A,All establishments,850,50 largest firms,2002,1158,4612729,59.6,1036842,256813,24991
+0100000US,,United States,813212,Voluntary health organizations,N,Establishments exempt from federal income tax,001,All firms,2002,4027,7732992,100.0,1818875,443961,49029
+0100000US,,United States,813212,Voluntary health organizations,N,Establishments exempt from federal income tax,804,4 largest firms,2002,376,1856754,24.0,570869,143812,13477
+0100000US,,United States,813212,Voluntary health organizations,N,Establishments exempt from federal income tax,808,8 largest firms,2002,825,2586938,33.5,769403,192761,18463
+0100000US,,United States,813212,Voluntary health organizations,N,Establishments exempt from federal income tax,820,20 largest firms,2002,1085,3702290,47.9,892088,221528,21234
+0100000US,,United States,813212,Voluntary health organizations,N,Establishments exempt from federal income tax,850,50 largest firms,2002,1158,4612729,59.6,1036842,256813,24991
+0100000US,,United States,813219,Other grantmaking and giving services,A,All establishments,001,All firms,2002,2722,11858190,100.0,1029574,253288,28545
+0100000US,,United States,813219,Other grantmaking and giving services,A,All establishments,804,4 largest firms,2002,4,1731063,14.6,28867,6822,592
+0100000US,,United States,813219,Other grantmaking and giving services,A,All establishments,808,8 largest firms,2002,8,2881441,24.3,40971,9415,835
+0100000US,,United States,813219,Other grantmaking and giving services,A,All establishments,820,20 largest firms,2002,74,4647939,39.2,145094,35558,2761
+0100000US,,United States,813219,Other grantmaking and giving services,A,All establishments,850,50 largest firms,2002,135,6670907,56.3,311115,76602,6290
+0100000US,,United States,813219,Other grantmaking and giving services,N,Establishments exempt from federal income tax,001,All firms,2002,2722,11858190,100.0,1029574,253288,28545
+0100000US,,United States,813219,Other grantmaking and giving services,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,1731063,14.6,28867,6822,592
+0100000US,,United States,813219,Other grantmaking and giving services,N,Establishments exempt from federal income tax,808,8 largest firms,2002,8,2881441,24.3,40971,9415,835
+0100000US,,United States,813219,Other grantmaking and giving services,N,Establishments exempt from federal income tax,820,20 largest firms,2002,74,4647939,39.2,145094,35558,2761
+0100000US,,United States,813219,Other grantmaking and giving services,N,Establishments exempt from federal income tax,850,50 largest firms,2002,135,6670907,56.3,311115,76602,6290
+0100000US,,United States,8133,Social advocacy organizations,A,All establishments,001,All firms,2002,12469,12058846,100.0,3162360,760653,104489
+0100000US,,United States,8133,Social advocacy organizations,A,All establishments,804,4 largest firms,2002,352,2337854,19.4,259311,62023,4803
+0100000US,,United States,8133,Social advocacy organizations,A,All establishments,808,8 largest firms,2002,472,2980756,24.7,347965,82771,6537
+0100000US,,United States,8133,Social advocacy organizations,A,All establishments,820,20 largest firms,2002,842,3964067,32.9,541351,128623,10381
+0100000US,,United States,8133,Social advocacy organizations,A,All establishments,850,50 largest firms,2002,1402,5088077,42.2,822181,195680,17500
+0100000US,,United States,8133,Social advocacy organizations,N,Establishments exempt from federal income tax,001,All firms,2002,12469,12058846,100.0,3162360,760653,104489
+0100000US,,United States,8133,Social advocacy organizations,N,Establishments exempt from federal income tax,804,4 largest firms,2002,352,2337854,19.4,259311,62023,4803
+0100000US,,United States,8133,Social advocacy organizations,N,Establishments exempt from federal income tax,808,8 largest firms,2002,472,2980756,24.7,347965,82771,6537
+0100000US,,United States,8133,Social advocacy organizations,N,Establishments exempt from federal income tax,820,20 largest firms,2002,842,3964067,32.9,541351,128623,10381
+0100000US,,United States,8133,Social advocacy organizations,N,Establishments exempt from federal income tax,850,50 largest firms,2002,1402,5088077,42.2,822181,195680,17500
+0100000US,,United States,81331,Social advocacy organizations,A,All establishments,001,All firms,2002,12469,12058846,100.0,3162360,760653,104489
+0100000US,,United States,81331,Social advocacy organizations,A,All establishments,804,4 largest firms,2002,352,2337854,19.4,259311,62023,4803
+0100000US,,United States,81331,Social advocacy organizations,A,All establishments,808,8 largest firms,2002,472,2980756,24.7,347965,82771,6537
+0100000US,,United States,81331,Social advocacy organizations,A,All establishments,820,20 largest firms,2002,842,3964067,32.9,541351,128623,10381
+0100000US,,United States,81331,Social advocacy organizations,A,All establishments,850,50 largest firms,2002,1402,5088077,42.2,822181,195680,17500
+0100000US,,United States,81331,Social advocacy organizations,N,Establishments exempt from federal income tax,001,All firms,2002,12469,12058846,100.0,3162360,760653,104489
+0100000US,,United States,81331,Social advocacy organizations,N,Establishments exempt from federal income tax,804,4 largest firms,2002,352,2337854,19.4,259311,62023,4803
+0100000US,,United States,81331,Social advocacy organizations,N,Establishments exempt from federal income tax,808,8 largest firms,2002,472,2980756,24.7,347965,82771,6537
+0100000US,,United States,81331,Social advocacy organizations,N,Establishments exempt from federal income tax,820,20 largest firms,2002,842,3964067,32.9,541351,128623,10381
+0100000US,,United States,81331,Social advocacy organizations,N,Establishments exempt from federal income tax,850,50 largest firms,2002,1402,5088077,42.2,822181,195680,17500
+0100000US,,United States,813311,Human rights organizations,A,All establishments,001,All firms,2002,2228,3962808,100.0,826174,201892,23166
+0100000US,,United States,813311,Human rights organizations,A,All establishments,804,4 largest firms,2002,68,1842709,46.5,155788,39592,2524
+0100000US,,United States,813311,Human rights organizations,A,All establishments,808,8 largest firms,2002,173,2202165,55.6,233948,58358,4187
+0100000US,,United States,813311,Human rights organizations,A,All establishments,820,20 largest firms,2002,309,2586984,65.3,327112,80206,6244
+0100000US,,United States,813311,Human rights organizations,A,All establishments,850,50 largest firms,2002,392,2930939,74.0,429098,104498,8722
+0100000US,,United States,813311,Human rights organizations,N,Establishments exempt from federal income tax,001,All firms,2002,2228,3962808,100.0,826174,201892,23166
+0100000US,,United States,813311,Human rights organizations,N,Establishments exempt from federal income tax,804,4 largest firms,2002,68,1842709,46.5,155788,39592,2524
+0100000US,,United States,813311,Human rights organizations,N,Establishments exempt from federal income tax,808,8 largest firms,2002,173,2202165,55.6,233948,58358,4187
+0100000US,,United States,813311,Human rights organizations,N,Establishments exempt from federal income tax,820,20 largest firms,2002,309,2586984,65.3,327112,80206,6244
+0100000US,,United States,813311,Human rights organizations,N,Establishments exempt from federal income tax,850,50 largest firms,2002,392,2930939,74.0,429098,104498,8722
+0100000US,,United States,813312,"Environment, conservation and wildlife organizations",A,All establishments,001,All firms,2002,4881,4381054,100.0,1194461,285060,42493
+0100000US,,United States,813312,"Environment, conservation and wildlife organizations",A,All establishments,804,4 largest firms,2002,341,998099,22.8,193522,44370,3735
+0100000US,,United States,813312,"Environment, conservation and wildlife organizations",A,All establishments,808,8 largest firms,2002,477,1298383,29.6,250899,57434,5007
+0100000US,,United States,813312,"Environment, conservation and wildlife organizations",A,All establishments,820,20 largest firms,2002,651,1777883,40.6,322341,74716,6585
+0100000US,,United States,813312,"Environment, conservation and wildlife organizations",A,All establishments,850,50 largest firms,2002,797,2179500,49.7,446210,106969,10670
+0100000US,,United States,813312,"Environment, conservation and wildlife organizations",N,Establishments exempt from federal income tax,001,All firms,2002,4881,4381054,100.0,1194461,285060,42493
+0100000US,,United States,813312,"Environment, conservation and wildlife organizations",N,Establishments exempt from federal income tax,804,4 largest firms,2002,341,998099,22.8,193522,44370,3735
+0100000US,,United States,813312,"Environment, conservation and wildlife organizations",N,Establishments exempt from federal income tax,808,8 largest firms,2002,477,1298383,29.6,250899,57434,5007
+0100000US,,United States,813312,"Environment, conservation and wildlife organizations",N,Establishments exempt from federal income tax,820,20 largest firms,2002,651,1777883,40.6,322341,74716,6585
+0100000US,,United States,813312,"Environment, conservation and wildlife organizations",N,Establishments exempt from federal income tax,850,50 largest firms,2002,797,2179500,49.7,446210,106969,10670
+0100000US,,United States,813319,Other social advocacy organizations,A,All establishments,001,All firms,2002,5360,3714984,100.0,1141725,273701,38830
+0100000US,,United States,813319,Other social advocacy organizations,A,All establishments,804,4 largest firms,2002,62,439724,11.8,75372,17639,1312
+0100000US,,United States,813319,Other social advocacy organizations,A,All establishments,808,8 largest firms,2002,393,600246,16.2,129160,30014,2986
+0100000US,,United States,813319,Other social advocacy organizations,A,All establishments,820,20 largest firms,2002,466,903558,24.3,226667,52607,6449
+0100000US,,United States,813319,Other social advocacy organizations,A,All establishments,850,50 largest firms,2002,537,1331241,35.8,303898,70768,8199
+0100000US,,United States,813319,Other social advocacy organizations,N,Establishments exempt from federal income tax,001,All firms,2002,5360,3714984,100.0,1141725,273701,38830
+0100000US,,United States,813319,Other social advocacy organizations,N,Establishments exempt from federal income tax,804,4 largest firms,2002,62,439724,11.8,75372,17639,1312
+0100000US,,United States,813319,Other social advocacy organizations,N,Establishments exempt from federal income tax,808,8 largest firms,2002,393,600246,16.2,129160,30014,2986
+0100000US,,United States,813319,Other social advocacy organizations,N,Establishments exempt from federal income tax,820,20 largest firms,2002,466,903558,24.3,226667,52607,6449
+0100000US,,United States,813319,Other social advocacy organizations,N,Establishments exempt from federal income tax,850,50 largest firms,2002,537,1331241,35.8,303898,70768,8199
+0100000US,,United States,8134,Civic and social organizations,A,All establishments,001,All firms,2002,31658,14679408,100.0,4427172,1054993,320504
+0100000US,,United States,8134,Civic and social organizations,A,All establishments,804,4 largest firms,2002,109,385553,2.6,80551,20669,2926
+0100000US,,United States,8134,Civic and social organizations,A,All establishments,808,8 largest firms,2002,161,661344,4.5,196042,47147,8998
+0100000US,,United States,8134,Civic and social organizations,A,All establishments,820,20 largest firms,2002,264,1260193,8.6,405632,102169,19935
+0100000US,,United States,8134,Civic and social organizations,A,All establishments,850,50 largest firms,2002,414,1881569,12.8,645198,159311,37602
+0100000US,,United States,8134,Civic and social organizations,N,Establishments exempt from federal income tax,001,All firms,2002,31658,14679408,100.0,4427172,1054993,320504
+0100000US,,United States,8134,Civic and social organizations,N,Establishments exempt from federal income tax,804,4 largest firms,2002,109,385553,2.6,80551,20669,2926
+0100000US,,United States,8134,Civic and social organizations,N,Establishments exempt from federal income tax,808,8 largest firms,2002,161,661344,4.5,196042,47147,8998
+0100000US,,United States,8134,Civic and social organizations,N,Establishments exempt from federal income tax,820,20 largest firms,2002,264,1260193,8.6,405632,102169,19935
+0100000US,,United States,8134,Civic and social organizations,N,Establishments exempt from federal income tax,850,50 largest firms,2002,414,1881569,12.8,645198,159311,37602
+0100000US,,United States,81341,Civic and social organizations,A,All establishments,001,All firms,2002,31658,14679408,100.0,4427172,1054993,320504
+0100000US,,United States,81341,Civic and social organizations,A,All establishments,804,4 largest firms,2002,109,385553,2.6,80551,20669,2926
+0100000US,,United States,81341,Civic and social organizations,A,All establishments,808,8 largest firms,2002,161,661344,4.5,196042,47147,8998
+0100000US,,United States,81341,Civic and social organizations,A,All establishments,820,20 largest firms,2002,264,1260193,8.6,405632,102169,19935
+0100000US,,United States,81341,Civic and social organizations,A,All establishments,850,50 largest firms,2002,414,1881569,12.8,645198,159311,37602
+0100000US,,United States,81341,Civic and social organizations,N,Establishments exempt from federal income tax,001,All firms,2002,31658,14679408,100.0,4427172,1054993,320504
+0100000US,,United States,81341,Civic and social organizations,N,Establishments exempt from federal income tax,804,4 largest firms,2002,109,385553,2.6,80551,20669,2926
+0100000US,,United States,81341,Civic and social organizations,N,Establishments exempt from federal income tax,808,8 largest firms,2002,161,661344,4.5,196042,47147,8998
+0100000US,,United States,81341,Civic and social organizations,N,Establishments exempt from federal income tax,820,20 largest firms,2002,264,1260193,8.6,405632,102169,19935
+0100000US,,United States,81341,Civic and social organizations,N,Establishments exempt from federal income tax,850,50 largest firms,2002,414,1881569,12.8,645198,159311,37602
+0100000US,,United States,813410,Civic and social organizations,A,All establishments,001,All firms,2002,31658,14679408,100.0,4427172,1054993,320504
+0100000US,,United States,813410,Civic and social organizations,A,All establishments,804,4 largest firms,2002,109,385553,2.6,80551,20669,2926
+0100000US,,United States,813410,Civic and social organizations,A,All establishments,808,8 largest firms,2002,161,661344,4.5,196042,47147,8998
+0100000US,,United States,813410,Civic and social organizations,A,All establishments,820,20 largest firms,2002,264,1260193,8.6,405632,102169,19935
+0100000US,,United States,813410,Civic and social organizations,A,All establishments,850,50 largest firms,2002,414,1881569,12.8,645198,159311,37602
+0100000US,,United States,813410,Civic and social organizations,N,Establishments exempt from federal income tax,001,All firms,2002,31658,14679408,100.0,4427172,1054993,320504
+0100000US,,United States,813410,Civic and social organizations,N,Establishments exempt from federal income tax,804,4 largest firms,2002,109,385553,2.6,80551,20669,2926
+0100000US,,United States,813410,Civic and social organizations,N,Establishments exempt from federal income tax,808,8 largest firms,2002,161,661344,4.5,196042,47147,8998
+0100000US,,United States,813410,Civic and social organizations,N,Establishments exempt from federal income tax,820,20 largest firms,2002,264,1260193,8.6,405632,102169,19935
+0100000US,,United States,813410,Civic and social organizations,N,Establishments exempt from federal income tax,850,50 largest firms,2002,414,1881569,12.8,645198,159311,37602
+0100000US,,United States,8134103,Scouting and related youth development organizations,A,All establishments,001,All firms,2002,4580,3558895,100.0,1509508,353649,90732
+0100000US,,United States,8134103,Scouting and related youth development organizations,A,All establishments,804,4 largest firms,2002,50,224832,6.3,120186,29771,5762
+0100000US,,United States,8134103,Scouting and related youth development organizations,A,All establishments,808,8 largest firms,2002,86,328189,9.2,152228,37514,7584
+0100000US,,United States,8134103,Scouting and related youth development organizations,A,All establishments,820,20 largest firms,2002,154,483639,13.6,214787,51999,11429
+0100000US,,United States,8134103,Scouting and related youth development organizations,A,All establishments,850,50 largest firms,2002,322,734167,20.6,321222,76745,18143
+0100000US,,United States,8134103,Scouting and related youth development organizations,N,Establishments exempt from federal income tax,001,All firms,2002,4580,3558895,100.0,1509508,353649,90732
+0100000US,,United States,8134103,Scouting and related youth development organizations,N,Establishments exempt from federal income tax,804,4 largest firms,2002,50,224832,6.3,120186,29771,5762
+0100000US,,United States,8134103,Scouting and related youth development organizations,N,Establishments exempt from federal income tax,808,8 largest firms,2002,86,328189,9.2,152228,37514,7584
+0100000US,,United States,8134103,Scouting and related youth development organizations,N,Establishments exempt from federal income tax,820,20 largest firms,2002,154,483639,13.6,214787,51999,11429
+0100000US,,United States,8134103,Scouting and related youth development organizations,N,Establishments exempt from federal income tax,850,50 largest firms,2002,322,734167,20.6,321222,76745,18143
+0100000US,,United States,8134104,Civic and social organizations ,A,All establishments,001,All firms,2002,27078,11120513,100.0,2917664,701344,229772
+0100000US,,United States,8134104,Civic and social organizations ,A,All establishments,804,4 largest firms,2002,85,347244,3.1,73871,19056,2784
+0100000US,,United States,8134104,Civic and social organizations ,A,All establishments,808,8 largest firms,2002,116,595805,5.4,146356,36114,5668
+0100000US,,United States,8134104,Civic and social organizations ,A,All establishments,820,20 largest firms,2002,203,1092726,9.8,309269,78061,16858
+0100000US,,United States,8134104,Civic and social organizations ,A,All establishments,850,50 largest firms,2002,302,1588110,14.3,494279,122190,29754
+0100000US,,United States,8134104,Civic and social organizations ,N,Establishments exempt from federal income tax,001,All firms,2002,27078,11120513,100.0,2917664,701344,229772
+0100000US,,United States,8134104,Civic and social organizations ,N,Establishments exempt from federal income tax,804,4 largest firms,2002,85,347244,3.1,73871,19056,2784
+0100000US,,United States,8134104,Civic and social organizations ,N,Establishments exempt from federal income tax,808,8 largest firms,2002,116,595805,5.4,146356,36114,5668
+0100000US,,United States,8134104,Civic and social organizations ,N,Establishments exempt from federal income tax,820,20 largest firms,2002,203,1092726,9.8,309269,78061,16858
+0100000US,,United States,8134104,Civic and social organizations ,N,Establishments exempt from federal income tax,850,50 largest firms,2002,302,1588110,14.3,494279,122190,29754
+0100000US,,United States,8139,"Business, professional, labor, political, and similar organizations",A,All establishments,001,All firms,2002,46761,43509350,100.0,12237761,3015021,331851
+0100000US,,United States,8139,"Business, professional, labor, political, and similar organizations",A,All establishments,804,4 largest firms,2002,8,1363317,3.1,199107,61612,2799
+0100000US,,United States,8139,"Business, professional, labor, political, and similar organizations",A,All establishments,808,8 largest firms,2002,19,2102785,4.8,309475,80721,4086
+0100000US,,United States,8139,"Business, professional, labor, political, and similar organizations",A,All establishments,820,20 largest firms,2002,51,3627591,8.3,594797,151025,8282
+0100000US,,United States,8139,"Business, professional, labor, political, and similar organizations",A,All establishments,850,50 largest firms,2002,165,6036932,13.9,1398034,348843,24115
+0100000US,,United States,8139,"Business, professional, labor, political, and similar organizations",N,Establishments exempt from federal income tax,001,All firms,2002,46761,43509350,100.0,12237761,3015021,331851
+0100000US,,United States,8139,"Business, professional, labor, political, and similar organizations",N,Establishments exempt from federal income tax,804,4 largest firms,2002,8,1363317,3.1,199107,61612,2799
+0100000US,,United States,8139,"Business, professional, labor, political, and similar organizations",N,Establishments exempt from federal income tax,808,8 largest firms,2002,19,2102785,4.8,309475,80721,4086
+0100000US,,United States,8139,"Business, professional, labor, political, and similar organizations",N,Establishments exempt from federal income tax,820,20 largest firms,2002,51,3627591,8.3,594797,151025,8282
+0100000US,,United States,8139,"Business, professional, labor, political, and similar organizations",N,Establishments exempt from federal income tax,850,50 largest firms,2002,165,6036932,13.9,1398034,348843,24115
+0100000US,,United States,81391,Business associations,A,All establishments,001,All firms,2002,17330,17293914,100.0,5342498,1346623,122090
+0100000US,,United States,81391,Business associations,A,All establishments,804,4 largest firms,2002,20,674850,3.9,114998,32614,1543
+0100000US,,United States,81391,Business associations,A,All establishments,808,8 largest firms,2002,27,1092045,6.3,249538,67160,4003
+0100000US,,United States,81391,Business associations,A,All establishments,820,20 largest firms,2002,91,1966425,11.4,543008,139579,8372
+0100000US,,United States,81391,Business associations,A,All establishments,850,50 largest firms,2002,160,3251960,18.8,867840,222017,12914
+0100000US,,United States,81391,Business associations,N,Establishments exempt from federal income tax,001,All firms,2002,17330,17293914,100.0,5342498,1346623,122090
+0100000US,,United States,81391,Business associations,N,Establishments exempt from federal income tax,804,4 largest firms,2002,20,674850,3.9,114998,32614,1543
+0100000US,,United States,81391,Business associations,N,Establishments exempt from federal income tax,808,8 largest firms,2002,27,1092045,6.3,249538,67160,4003
+0100000US,,United States,81391,Business associations,N,Establishments exempt from federal income tax,820,20 largest firms,2002,91,1966425,11.4,543008,139579,8372
+0100000US,,United States,81391,Business associations,N,Establishments exempt from federal income tax,850,50 largest firms,2002,160,3251960,18.8,867840,222017,12914
+0100000US,,United States,813910,Business associations,A,All establishments,001,All firms,2002,17330,17293914,100.0,5342498,1346623,122090
+0100000US,,United States,813910,Business associations,A,All establishments,804,4 largest firms,2002,20,674850,3.9,114998,32614,1543
+0100000US,,United States,813910,Business associations,A,All establishments,808,8 largest firms,2002,27,1092045,6.3,249538,67160,4003
+0100000US,,United States,813910,Business associations,A,All establishments,820,20 largest firms,2002,91,1966425,11.4,543008,139579,8372
+0100000US,,United States,813910,Business associations,A,All establishments,850,50 largest firms,2002,160,3251960,18.8,867840,222017,12914
+0100000US,,United States,813910,Business associations,N,Establishments exempt from federal income tax,001,All firms,2002,17330,17293914,100.0,5342498,1346623,122090
+0100000US,,United States,813910,Business associations,N,Establishments exempt from federal income tax,804,4 largest firms,2002,20,674850,3.9,114998,32614,1543
+0100000US,,United States,813910,Business associations,N,Establishments exempt from federal income tax,808,8 largest firms,2002,27,1092045,6.3,249538,67160,4003
+0100000US,,United States,813910,Business associations,N,Establishments exempt from federal income tax,820,20 largest firms,2002,91,1966425,11.4,543008,139579,8372
+0100000US,,United States,813910,Business associations,N,Establishments exempt from federal income tax,850,50 largest firms,2002,160,3251960,18.8,867840,222017,12914
+0100000US,,United States,81392,Professional organizations,A,All establishments,001,All firms,2002,7391,11083928,100.0,3330069,816573,72416
+0100000US,,United States,81392,Professional organizations,A,All establishments,804,4 largest firms,2002,15,706347,6.4,215341,54757,3623
+0100000US,,United States,81392,Professional organizations,A,All establishments,808,8 largest firms,2002,26,1074867,9.7,336298,84883,5525
+0100000US,,United States,81392,Professional organizations,A,All establishments,820,20 largest firms,2002,59,1837302,16.6,530501,131104,8912
+0100000US,,United States,81392,Professional organizations,A,All establishments,850,50 largest firms,2002,152,2967972,26.8,845490,210326,14482
+0100000US,,United States,81392,Professional organizations,N,Establishments exempt from federal income tax,001,All firms,2002,7391,11083928,100.0,3330069,816573,72416
+0100000US,,United States,81392,Professional organizations,N,Establishments exempt from federal income tax,804,4 largest firms,2002,15,706347,6.4,215341,54757,3623
+0100000US,,United States,81392,Professional organizations,N,Establishments exempt from federal income tax,808,8 largest firms,2002,26,1074867,9.7,336298,84883,5525
+0100000US,,United States,81392,Professional organizations,N,Establishments exempt from federal income tax,820,20 largest firms,2002,59,1837302,16.6,530501,131104,8912
+0100000US,,United States,81392,Professional organizations,N,Establishments exempt from federal income tax,850,50 largest firms,2002,152,2967972,26.8,845490,210326,14482
+0100000US,,United States,813920,Professional organizations,A,All establishments,001,All firms,2002,7391,11083928,100.0,3330069,816573,72416
+0100000US,,United States,813920,Professional organizations,A,All establishments,804,4 largest firms,2002,15,706347,6.4,215341,54757,3623
+0100000US,,United States,813920,Professional organizations,A,All establishments,808,8 largest firms,2002,26,1074867,9.7,336298,84883,5525
+0100000US,,United States,813920,Professional organizations,A,All establishments,820,20 largest firms,2002,59,1837302,16.6,530501,131104,8912
+0100000US,,United States,813920,Professional organizations,A,All establishments,850,50 largest firms,2002,152,2967972,26.8,845490,210326,14482
+0100000US,,United States,813920,Professional organizations,N,Establishments exempt from federal income tax,001,All firms,2002,7391,11083928,100.0,3330069,816573,72416
+0100000US,,United States,813920,Professional organizations,N,Establishments exempt from federal income tax,804,4 largest firms,2002,15,706347,6.4,215341,54757,3623
+0100000US,,United States,813920,Professional organizations,N,Establishments exempt from federal income tax,808,8 largest firms,2002,26,1074867,9.7,336298,84883,5525
+0100000US,,United States,813920,Professional organizations,N,Establishments exempt from federal income tax,820,20 largest firms,2002,59,1837302,16.6,530501,131104,8912
+0100000US,,United States,813920,Professional organizations,N,Establishments exempt from federal income tax,850,50 largest firms,2002,152,2967972,26.8,845490,210326,14482
+0100000US,,United States,81399,"Other similar organizations (except business, professional, labor, and political organizations)",A,All establishments,001,All firms,2002,22040,15131508,100.0,3565194,851825,137345
+0100000US,,United States,81399,"Other similar organizations (except business, professional, labor, and political organizations)",A,All establishments,804,4 largest firms,2002,5,1262245,8.3,127693,31141,1250
+0100000US,,United States,81399,"Other similar organizations (except business, professional, labor, and political organizations)",A,All establishments,808,8 largest firms,2002,12,1798233,11.9,194132,50601,2298
+0100000US,,United States,81399,"Other similar organizations (except business, professional, labor, and political organizations)",A,All establishments,820,20 largest firms,2002,26,2811734,18.6,415528,100428,8312
+0100000US,,United States,81399,"Other similar organizations (except business, professional, labor, and political organizations)",A,All establishments,850,50 largest firms,2002,104,3658282,24.2,584940,138342,12751
+0100000US,,United States,81399,"Other similar organizations (except business, professional, labor, and political organizations)",N,Establishments exempt from federal income tax,001,All firms,2002,22040,15131508,100.0,3565194,851825,137345
+0100000US,,United States,81399,"Other similar organizations (except business, professional, labor, and political organizations)",N,Establishments exempt from federal income tax,804,4 largest firms,2002,5,1262245,8.3,127693,31141,1250
+0100000US,,United States,81399,"Other similar organizations (except business, professional, labor, and political organizations)",N,Establishments exempt from federal income tax,808,8 largest firms,2002,12,1798233,11.9,194132,50601,2298
+0100000US,,United States,81399,"Other similar organizations (except business, professional, labor, and political organizations)",N,Establishments exempt from federal income tax,820,20 largest firms,2002,26,2811734,18.6,415528,100428,8312
+0100000US,,United States,81399,"Other similar organizations (except business, professional, labor, and political organizations)",N,Establishments exempt from federal income tax,850,50 largest firms,2002,104,3658282,24.2,584940,138342,12751
+0100000US,,United States,813990,"Other similar organizations (except business, professional, labor, and political organizations)",A,All establishments,001,All firms,2002,22040,15131508,100.0,3565194,851825,137345
+0100000US,,United States,813990,"Other similar organizations (except business, professional, labor, and political organizations)",A,All establishments,804,4 largest firms,2002,5,1262245,8.3,127693,31141,1250
+0100000US,,United States,813990,"Other similar organizations (except business, professional, labor, and political organizations)",A,All establishments,808,8 largest firms,2002,12,1798233,11.9,194132,50601,2298
+0100000US,,United States,813990,"Other similar organizations (except business, professional, labor, and political organizations)",A,All establishments,820,20 largest firms,2002,26,2811734,18.6,415528,100428,8312
+0100000US,,United States,813990,"Other similar organizations (except business, professional, labor, and political organizations)",A,All establishments,850,50 largest firms,2002,104,3658282,24.2,584940,138342,12751
+0100000US,,United States,813990,"Other similar organizations (except business, professional, labor, and political organizations)",N,Establishments exempt from federal income tax,001,All firms,2002,22040,15131508,100.0,3565194,851825,137345
+0100000US,,United States,813990,"Other similar organizations (except business, professional, labor, and political organizations)",N,Establishments exempt from federal income tax,804,4 largest firms,2002,5,1262245,8.3,127693,31141,1250
+0100000US,,United States,813990,"Other similar organizations (except business, professional, labor, and political organizations)",N,Establishments exempt from federal income tax,808,8 largest firms,2002,12,1798233,11.9,194132,50601,2298
+0100000US,,United States,813990,"Other similar organizations (except business, professional, labor, and political organizations)",N,Establishments exempt from federal income tax,820,20 largest firms,2002,26,2811734,18.6,415528,100428,8312
+0100000US,,United States,813990,"Other similar organizations (except business, professional, labor, and political organizations)",N,Establishments exempt from federal income tax,850,50 largest firms,2002,104,3658282,24.2,584940,138342,12751

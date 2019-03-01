@@ -1,0 +1,461 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VALPCT,PAYANT,PAYQ1T,EMP
+0100000US,,United States,51,Information,001,All firms,2002,137678,891845956,100.0,194670163,51062366,3736061
+0100000US,,United States,51,Information,804,4 largest firms,2002,19010,206855121,23.2,38184118,10249481,688096
+0100000US,,United States,51,Information,808,8 largest firms,2002,24364,306515052,34.4,55736008,14528838,936265
+0100000US,,United States,51,Information,820,20 largest firms,2002,32882,432770943,48.5,74640162,19623860,1260209
+0100000US,,United States,51,Information,850,50 largest firms,2002,40838,552558504,62.0,98011822,25841074,1729358
+0100000US,,United States,511,Publishing industries (except Internet),001,All firms,2002,32287,242216369,100.0,65680724,16673164,1089585
+0100000US,,United States,511,Publishing industries (except Internet),804,4 largest firms,2002,328,44425643,18.3,10551021,2252573,91804
+0100000US,,United States,511,Publishing industries (except Internet),808,8 largest firms,2002,633,62327688,25.7,12913273,2937331,131836
+0100000US,,United States,511,Publishing industries (except Internet),820,20 largest firms,2002,1220,97187822,40.1,20049688,4860643,249761
+0100000US,,United States,511,Publishing industries (except Internet),850,50 largest firms,2002,2756,134697176,55.6,29006919,7361689,385141
+0100000US,,United States,5111,"Newspaper, periodical, book, and directory publishers",001,All firms,2002,22334,138710521,100.0,30745775,7864341,732877
+0100000US,,United States,5111,"Newspaper, periodical, book, and directory publishers",804,4 largest firms,2002,359,18833705,13.6,3252242,899408,73305
+0100000US,,United States,5111,"Newspaper, periodical, book, and directory publishers",808,8 largest firms,2002,658,33904552,24.4,6023657,1599107,127239
+0100000US,,United States,5111,"Newspaper, periodical, book, and directory publishers",820,20 largest firms,2002,1191,62394476,45.0,10719157,2856676,206320
+0100000US,,United States,5111,"Newspaper, periodical, book, and directory publishers",850,50 largest firms,2002,2612,87159047,62.8,16103284,4246100,335836
+0100000US,,United States,51111,Newspaper publishers,001,All firms,2002,8603,46179063,100.0,13734533,3407424,401170
+0100000US,,United States,51111,Newspaper publishers,804,4 largest firms,2002,258,14712724,31.9,3827422,969052,88755
+0100000US,,United States,51111,Newspaper publishers,808,8 largest firms,2002,436,20364605,44.1,5444060,1382206,126742
+0100000US,,United States,51111,Newspaper publishers,820,20 largest firms,2002,727,28596731,61.9,7841058,1971932,190585
+0100000US,,United States,51111,Newspaper publishers,850,50 largest firms,2002,1396,35804592,77.5,10045704,2511457,256877
+0100000US,,United States,511110,Newspaper publishers,001,All firms,2002,8603,46179063,100.0,13734533,3407424,401170
+0100000US,,United States,511110,Newspaper publishers,804,4 largest firms,2002,258,14712724,31.9,3827422,969052,88755
+0100000US,,United States,511110,Newspaper publishers,808,8 largest firms,2002,436,20364605,44.1,5444060,1382206,126742
+0100000US,,United States,511110,Newspaper publishers,820,20 largest firms,2002,727,28596731,61.9,7841058,1971932,190585
+0100000US,,United States,511110,Newspaper publishers,850,50 largest firms,2002,1396,35804592,77.5,10045704,2511457,256877
+0100000US,,United States,51112,Periodical publishers,001,All firms,2002,7298,40180864,100.0,8377685,2195464,152227
+0100000US,,United States,51112,Periodical publishers,804,4 largest firms,2002,127,10300360,25.6,1184956,330956,12091
+0100000US,,United States,51112,Periodical publishers,808,8 largest firms,2002,742,15183792,37.8,2019393,543870,30498
+0100000US,,United States,51112,Periodical publishers,820,20 largest firms,2002,866,21641794,53.9,3382762,945617,46669
+0100000US,,United States,51112,Periodical publishers,850,50 largest firms,2002,1047,26510525,66.0,4543451,1242098,65376
+0100000US,,United States,511120,Periodical publishers,001,All firms,2002,7298,40180864,100.0,8377685,2195464,152227
+0100000US,,United States,511120,Periodical publishers,804,4 largest firms,2002,127,10300360,25.6,1184956,330956,12091
+0100000US,,United States,511120,Periodical publishers,808,8 largest firms,2002,742,15183792,37.8,2019393,543870,30498
+0100000US,,United States,511120,Periodical publishers,820,20 largest firms,2002,866,21641794,53.9,3382762,945617,46669
+0100000US,,United States,511120,Periodical publishers,850,50 largest firms,2002,1047,26510525,66.0,4543451,1242098,65376
+0100000US,,United States,51113,Book publishers,001,All firms,2002,3526,27928786,100.0,4966519,1343509,97080
+0100000US,,United States,51113,Book publishers,804,4 largest firms,2002,121,11361038,40.7,1635685,492129,28599
+0100000US,,United States,51113,Book publishers,808,8 largest firms,2002,134,15411098,55.2,2134918,638450,35766
+0100000US,,United States,51113,Book publishers,820,20 largest firms,2002,191,20305513,72.7,3077325,873058,51364
+0100000US,,United States,51113,Book publishers,850,50 largest firms,2002,245,22608902,81.0,3547457,992822,60374
+0100000US,,United States,511130,Book publishers,001,All firms,2002,3526,27928786,100.0,4966519,1343509,97080
+0100000US,,United States,511130,Book publishers,804,4 largest firms,2002,121,11361038,40.7,1635685,492129,28599
+0100000US,,United States,511130,Book publishers,808,8 largest firms,2002,134,15411098,55.2,2134918,638450,35766
+0100000US,,United States,511130,Book publishers,820,20 largest firms,2002,191,20305513,72.7,3077325,873058,51364
+0100000US,,United States,511130,Book publishers,850,50 largest firms,2002,245,22608902,81.0,3547457,992822,60374
+0100000US,,United States,51114,Directory and mailing list publishers,001,All firms,2002,1915,16920189,100.0,2583666,635878,55820
+0100000US,,United States,51114,Directory and mailing list publishers,804,4 largest firms,2002,339,10201006,60.3,793426,202358,17707
+0100000US,,United States,51114,Directory and mailing list publishers,808,8 largest firms,2002,585,12110891,71.6,1194287,298294,26674
+0100000US,,United States,51114,Directory and mailing list publishers,820,20 largest firms,2002,650,14067721,83.1,1667550,415527,35298
+0100000US,,United States,51114,Directory and mailing list publishers,850,50 largest firms,2002,777,15227616,90.0,2035250,503194,43281
+0100000US,,United States,511140,Directory and mailing list publishers,001,All firms,2002,1915,16920189,100.0,2583666,635878,55820
+0100000US,,United States,511140,Directory and mailing list publishers,804,4 largest firms,2002,339,10201006,60.3,793426,202358,17707
+0100000US,,United States,511140,Directory and mailing list publishers,808,8 largest firms,2002,585,12110891,71.6,1194287,298294,26674
+0100000US,,United States,511140,Directory and mailing list publishers,820,20 largest firms,2002,650,14067721,83.1,1667550,415527,35298
+0100000US,,United States,511140,Directory and mailing list publishers,850,50 largest firms,2002,777,15227616,90.0,2035250,503194,43281
+0100000US,,United States,51119,Other publishers,001,All firms,2002,992,7501619,100.0,1083372,282066,26580
+0100000US,,United States,51119,Other publishers,804,4 largest firms,2002,130,5355103,71.4,593136,168133,14080
+0100000US,,United States,51119,Other publishers,808,8 largest firms,2002,138,5828452,77.7,675465,183858,16154
+0100000US,,United States,51119,Other publishers,820,20 largest firms,2002,153,6484381,86.4,784294,210559,18928
+0100000US,,United States,51119,Other publishers,850,50 largest firms,2002,192,6893797,91.9,893291,235856,21129
+0100000US,,United States,511191,Greeting card publishers,001,All firms,2002,118,5355731,100.0,633123,177655,15707
+0100000US,,United States,511191,Greeting card publishers,804,4 largest firms,2002,17,D,D,D,D,j
+0100000US,,United States,511191,Greeting card publishers,808,8 largest firms,2002,22,D,D,D,D,j
+0100000US,,United States,511191,Greeting card publishers,820,20 largest firms,2002,38,5307219,99.1,617690,173680,15113
+0100000US,,United States,511191,Greeting card publishers,850,50 largest firms,2002,68,5347129,99.8,630922,177026,15574
+0100000US,,United States,511199,All other publishers,001,All firms,2002,874,2145888,100.0,450249,104411,10873
+0100000US,,United States,511199,All other publishers,804,4 largest firms,2002,117,D,D,D,D,g
+0100000US,,United States,511199,All other publishers,808,8 largest firms,2002,127,D,D,D,D,h
+0100000US,,United States,511199,All other publishers,820,20 largest firms,2002,143,1476031,68.8,241254,53951,5415
+0100000US,,United States,511199,All other publishers,850,50 largest firms,2002,175,1703897,79.4,304117,68557,6769
+0100000US,,United States,5112,Software publishers,001,All firms,2002,9953,103505848,100.0,34934949,8808823,356708
+0100000US,,United States,5112,Software publishers,804,4 largest firms,2002,196,40889885,39.5,9724918,2106331,54521
+0100000US,,United States,5112,Software publishers,808,8 largest firms,2002,455,47191934,45.6,11858521,2688301,75140
+0100000US,,United States,5112,Software publishers,820,20 largest firms,2002,887,58254332,56.3,16472547,3979653,120636
+0100000US,,United States,5112,Software publishers,850,50 largest firms,2002,1380,68993381,66.7,20241698,4993516,162590
+0100000US,,United States,51121,Software publishers,001,All firms,2002,9953,103505848,100.0,34934949,8808823,356708
+0100000US,,United States,51121,Software publishers,804,4 largest firms,2002,196,40889885,39.5,9724918,2106331,54521
+0100000US,,United States,51121,Software publishers,808,8 largest firms,2002,455,47191934,45.6,11858521,2688301,75140
+0100000US,,United States,51121,Software publishers,820,20 largest firms,2002,887,58254332,56.3,16472547,3979653,120636
+0100000US,,United States,51121,Software publishers,850,50 largest firms,2002,1380,68993381,66.7,20241698,4993516,162590
+0100000US,,United States,511210,Software publishers,001,All firms,2002,9953,103505848,100.0,34934949,8808823,356708
+0100000US,,United States,511210,Software publishers,804,4 largest firms,2002,196,40889885,39.5,9724918,2106331,54521
+0100000US,,United States,511210,Software publishers,808,8 largest firms,2002,455,47191934,45.6,11858521,2688301,75140
+0100000US,,United States,511210,Software publishers,820,20 largest firms,2002,887,58254332,56.3,16472547,3979653,120636
+0100000US,,United States,511210,Software publishers,850,50 largest firms,2002,1380,68993381,66.7,20241698,4993516,162590
+0100000US,,United States,512,Motion picture and sound recording industries,001,All firms,2002,22458,78250368,100.0,12599117,3107622,303148
+0100000US,,United States,512,Motion picture and sound recording industries,804,4 largest firms,2002,151,29012743,37.1,3214426,800888,35946
+0100000US,,United States,512,Motion picture and sound recording industries,808,8 largest firms,2002,352,40686103,52.0,4324303,1093917,55805
+0100000US,,United States,512,Motion picture and sound recording industries,820,20 largest firms,2002,2030,50778897,64.9,5394657,1355659,122300
+0100000US,,United States,512,Motion picture and sound recording industries,850,50 largest firms,2002,2658,56991983,72.8,6777960,1674700,151512
+0100000US,,United States,5121,Motion picture and video industries,001,All firms,2002,19074,62926611,100.0,10352661,2552159,271225
+0100000US,,United States,5121,Motion picture and video industries,804,4 largest firms,2002,196,23561510,37.4,2562508,651255,38749
+0100000US,,United States,5121,Motion picture and video industries,808,8 largest firms,2002,279,32247243,51.2,3268154,841045,47322
+0100000US,,United States,5121,Motion picture and video industries,820,20 largest firms,2002,1932,40483295,64.3,4422377,1135010,115232
+0100000US,,United States,5121,Motion picture and video industries,850,50 largest firms,2002,2493,45021002,71.5,5326987,1313934,139296
+0100000US,,United States,51211,Motion picture and video production,001,All firms,2002,11163,46761808,100.0,7389791,1826559,111112
+0100000US,,United States,51211,Motion picture and video production,804,4 largest firms,2002,96,22996558,49.2,2474407,629520,33640
+0100000US,,United States,51211,Motion picture and video production,808,8 largest firms,2002,175,31613384,67.6,3158466,813592,42002
+0100000US,,United States,51211,Motion picture and video production,820,20 largest firms,2002,189,34408864,73.6,3849787,953024,47009
+0100000US,,United States,51211,Motion picture and video production,850,50 largest firms,2002,240,36607779,78.3,4308173,1074139,52419
+0100000US,,United States,512110,Motion picture and video production,001,All firms,2002,11163,46761808,100.0,7389791,1826559,111112
+0100000US,,United States,512110,Motion picture and video production,804,4 largest firms,2002,96,22996558,49.2,2474407,629520,33640
+0100000US,,United States,512110,Motion picture and video production,808,8 largest firms,2002,175,31613384,67.6,3158466,813592,42002
+0100000US,,United States,512110,Motion picture and video production,820,20 largest firms,2002,189,34408864,73.6,3849787,953024,47009
+0100000US,,United States,512110,Motion picture and video production,850,50 largest firms,2002,240,36607779,78.3,4308173,1074139,52419
+0100000US,,United States,51212,Motion picture and video distribution,001,All firms,2002,484,1161901,100.0,200426,49666,3760
+0100000US,,United States,51212,Motion picture and video distribution,804,4 largest firms,2002,13,334765,28.8,27370,7529,692
+0100000US,,United States,51212,Motion picture and video distribution,808,8 largest firms,2002,37,484821,41.7,52321,13170,1029
+0100000US,,United States,51212,Motion picture and video distribution,820,20 largest firms,2002,49,704944,60.7,90031,22456,1671
+0100000US,,United States,51212,Motion picture and video distribution,850,50 largest firms,2002,82,894792,77.0,118911,29769,2182
+0100000US,,United States,512120,Motion picture and video distribution,001,All firms,2002,484,1161901,100.0,200426,49666,3760
+0100000US,,United States,512120,Motion picture and video distribution,804,4 largest firms,2002,13,334765,28.8,27370,7529,692
+0100000US,,United States,512120,Motion picture and video distribution,808,8 largest firms,2002,37,484821,41.7,52321,13170,1029
+0100000US,,United States,512120,Motion picture and video distribution,820,20 largest firms,2002,49,704944,60.7,90031,22456,1671
+0100000US,,United States,512120,Motion picture and video distribution,850,50 largest firms,2002,82,894792,77.0,118911,29769,2182
+0100000US,,United States,51213,Motion picture and video exhibition,001,All firms,2002,5264,10837750,100.0,1272512,289946,129982
+0100000US,,United States,51213,Motion picture and video exhibition,804,4 largest firms,2002,990,4514753,41.7,448710,106099,41500
+0100000US,,United States,51213,Motion picture and video exhibition,808,8 largest firms,2002,1704,6494683,59.9,692375,160111,66001
+0100000US,,United States,51213,Motion picture and video exhibition,820,20 largest firms,2002,2297,8147743,75.2,855493,197148,84349
+0100000US,,United States,51213,Motion picture and video exhibition,850,50 largest firms,2002,2667,9006353,83.1,954428,220739,96099
+0100000US,,United States,512131,Motion picture theaters (except drive-ins),001,All firms,2002,4979,10729734,100.0,1251767,286629,128468
+0100000US,,United States,512131,Motion picture theaters (except drive-ins),804,4 largest firms,2002,990,4514753,42.1,448710,106099,41500
+0100000US,,United States,512131,Motion picture theaters (except drive-ins),808,8 largest firms,2002,1688,6467031,60.3,685845,158999,65604
+0100000US,,United States,512131,Motion picture theaters (except drive-ins),820,20 largest firms,2002,2275,8113707,75.6,847558,195723,83798
+0100000US,,United States,512131,Motion picture theaters (except drive-ins),850,50 largest firms,2002,2641,8970584,83.6,946197,219289,95542
+0100000US,,United States,512132,Drive-in motion picture theaters,001,All firms,2002,285,108016,100.0,20745,3317,1514
+0100000US,,United States,512132,Drive-in motion picture theaters,804,4 largest firms,2002,24,42840,39.7,9193,1748,673
+0100000US,,United States,512132,Drive-in motion picture theaters,808,8 largest firms,2002,30,51863,48.0,11280,2200,905
+0100000US,,United States,512132,Drive-in motion picture theaters,820,20 largest firms,2002,52,63147,58.5,13195,2508,1015
+0100000US,,United States,512132,Drive-in motion picture theaters,850,50 largest firms,2002,83,79192,73.3,15943,2863,1208
+0100000US,,United States,51219,Postproduction services and other motion picture and video industries,001,All firms,2002,2163,4165152,100.0,1489932,385988,26371
+0100000US,,United States,51219,Postproduction services and other motion picture and video industries,804,4 largest firms,2002,38,1249697,30.0,358351,103680,5498
+0100000US,,United States,51219,Postproduction services and other motion picture and video industries,808,8 largest firms,2002,44,1595382,38.3,465863,131364,7183
+0100000US,,United States,51219,Postproduction services and other motion picture and video industries,820,20 largest firms,2002,73,1999228,48.0,635828,173690,9733
+0100000US,,United States,51219,Postproduction services and other motion picture and video industries,850,50 largest firms,2002,134,2502021,60.1,839939,225726,12832
+0100000US,,United States,512191,Teleproduction and other postproduction services,001,All firms,2002,1847,3209083,100.0,1254471,329202,22368
+0100000US,,United States,512191,Teleproduction and other postproduction services,804,4 largest firms,2002,37,832587,25.9,290789,88028,4741
+0100000US,,United States,512191,Teleproduction and other postproduction services,808,8 largest firms,2002,54,1010667,31.5,361790,108483,5918
+0100000US,,United States,512191,Teleproduction and other postproduction services,820,20 largest firms,2002,78,1327666,41.4,502170,141035,7830
+0100000US,,United States,512191,Teleproduction and other postproduction services,850,50 largest firms,2002,132,1780245,55.5,690269,186585,10505
+0100000US,,United States,512199,Other motion picture and video industries,001,All firms,2002,316,956069,100.0,235461,56786,4003
+0100000US,,United States,512199,Other motion picture and video industries,804,4 largest firms,2002,6,737654,77.2,161501,40140,2302
+0100000US,,United States,512199,Other motion picture and video industries,808,8 largest firms,2002,15,788799,82.5,177351,43440,2549
+0100000US,,United States,512199,Other motion picture and video industries,820,20 largest firms,2002,29,838963,87.8,195835,48016,2921
+0100000US,,United States,512199,Other motion picture and video industries,850,50 largest firms,2002,61,886380,92.7,210409,51506,3260
+0100000US,,United States,5122,Sound recording industries,001,All firms,2002,3384,15323757,100.0,2246456,555463,31923
+0100000US,,United States,5122,Sound recording industries,804,4 largest firms,2002,87,9332188,60.9,1148096,269105,9503
+0100000US,,United States,5122,Sound recording industries,808,8 largest firms,2002,136,12008873,78.4,1461447,362546,13376
+0100000US,,United States,5122,Sound recording industries,820,20 largest firms,2002,234,13028087,85.0,1613951,402295,15964
+0100000US,,United States,5122,Sound recording industries,850,50 largest firms,2002,297,13611828,88.8,1728867,430807,18085
+0100000US,,United States,51221,Record production,001,All firms,2002,349,336600,100.0,68888,18466,1582
+0100000US,,United States,51221,Record production,804,4 largest firms,2002,5,123913,36.8,8223,2566,67
+0100000US,,United States,51221,Record production,808,8 largest firms,2002,9,157847,46.9,12360,3509,176
+0100000US,,United States,51221,Record production,820,20 largest firms,2002,21,203495,60.5,27609,6585,484
+0100000US,,United States,51221,Record production,850,50 largest firms,2002,51,258603,76.8,45470,12192,891
+0100000US,,United States,512210,Record production,001,All firms,2002,349,336600,100.0,68888,18466,1582
+0100000US,,United States,512210,Record production,804,4 largest firms,2002,5,123913,36.8,8223,2566,67
+0100000US,,United States,512210,Record production,808,8 largest firms,2002,9,157847,46.9,12360,3509,176
+0100000US,,United States,512210,Record production,820,20 largest firms,2002,21,203495,60.5,27609,6585,484
+0100000US,,United States,512210,Record production,850,50 largest firms,2002,51,258603,76.8,45470,12192,891
+0100000US,,United States,51222,Integrated record production/distribution,001,All firms,2002,437,10511732,100.0,1452355,367279,13975
+0100000US,,United States,51222,Integrated record production/distribution,804,4 largest firms,2002,82,8516183,81.0,1162459,294655,9441
+0100000US,,United States,51222,Integrated record production/distribution,808,8 largest firms,2002,112,9799669,93.2,1308342,328969,11207
+0100000US,,United States,51222,Integrated record production/distribution,820,20 largest firms,2002,128,10126278,96.3,1364050,345196,11900
+0100000US,,United States,51222,Integrated record production/distribution,850,50 largest firms,2002,165,10344487,98.4,1414422,357951,12895
+0100000US,,United States,512220,Integrated record production/distribution,001,All firms,2002,437,10511732,100.0,1452355,367279,13975
+0100000US,,United States,512220,Integrated record production/distribution,804,4 largest firms,2002,82,8516183,81.0,1162459,294655,9441
+0100000US,,United States,512220,Integrated record production/distribution,808,8 largest firms,2002,112,9799669,93.2,1308342,328969,11207
+0100000US,,United States,512220,Integrated record production/distribution,820,20 largest firms,2002,128,10126278,96.3,1364050,345196,11900
+0100000US,,United States,512220,Integrated record production/distribution,850,50 largest firms,2002,165,10344487,98.4,1414422,357951,12895
+0100000US,,United States,51223,Music publishers,001,All firms,2002,619,3348360,100.0,340775,79288,5943
+0100000US,,United States,51223,Music publishers,804,4 largest firms,2002,19,1856565,55.4,145503,35306,1937
+0100000US,,United States,51223,Music publishers,808,8 largest firms,2002,25,2414062,72.1,177178,41649,2468
+0100000US,,United States,51223,Music publishers,820,20 largest firms,2002,54,2958643,88.4,239754,56087,3441
+0100000US,,United States,51223,Music publishers,850,50 largest firms,2002,88,3137839,93.7,279474,65117,4264
+0100000US,,United States,512230,Music publishers,001,All firms,2002,619,3348360,100.0,340775,79288,5943
+0100000US,,United States,512230,Music publishers,804,4 largest firms,2002,19,1856565,55.4,145503,35306,1937
+0100000US,,United States,512230,Music publishers,808,8 largest firms,2002,25,2414062,72.1,177178,41649,2468
+0100000US,,United States,512230,Music publishers,820,20 largest firms,2002,54,2958643,88.4,239754,56087,3441
+0100000US,,United States,512230,Music publishers,850,50 largest firms,2002,88,3137839,93.7,279474,65117,4264
+0100000US,,United States,51224,Sound recording studios,001,All firms,2002,1488,664248,100.0,238160,55698,6150
+0100000US,,United States,51224,Sound recording studios,804,4 largest firms,2002,8,64202,9.7,28864,6237,381
+0100000US,,United States,51224,Sound recording studios,808,8 largest firms,2002,14,98105,14.8,45065,10293,612
+0100000US,,United States,51224,Sound recording studios,820,20 largest firms,2002,32,157216,23.7,70361,16873,1106
+0100000US,,United States,51224,Sound recording studios,850,50 largest firms,2002,66,239644,36.1,100886,23609,1789
+0100000US,,United States,512240,Sound recording studios,001,All firms,2002,1488,664248,100.0,238160,55698,6150
+0100000US,,United States,512240,Sound recording studios,804,4 largest firms,2002,8,64202,9.7,28864,6237,381
+0100000US,,United States,512240,Sound recording studios,808,8 largest firms,2002,14,98105,14.8,45065,10293,612
+0100000US,,United States,512240,Sound recording studios,820,20 largest firms,2002,32,157216,23.7,70361,16873,1106
+0100000US,,United States,512240,Sound recording studios,850,50 largest firms,2002,66,239644,36.1,100886,23609,1789
+0100000US,,United States,51229,Other sound recording industries,001,All firms,2002,491,462817,100.0,146278,34732,4273
+0100000US,,United States,51229,Other sound recording industries,804,4 largest firms,2002,94,257652,55.7,80023,18898,2138
+0100000US,,United States,51229,Other sound recording industries,808,8 largest firms,2002,110,294065,63.5,88785,20993,2431
+0100000US,,United States,51229,Other sound recording industries,820,20 largest firms,2002,124,337192,72.9,105488,24640,2729
+0100000US,,United States,51229,Other sound recording industries,850,50 largest firms,2002,154,379954,82.1,121643,28596,3224
+0100000US,,United States,512290,Other sound recording industries,001,All firms,2002,491,462817,100.0,146278,34732,4273
+0100000US,,United States,512290,Other sound recording industries,804,4 largest firms,2002,94,257652,55.7,80023,18898,2138
+0100000US,,United States,512290,Other sound recording industries,808,8 largest firms,2002,110,294065,63.5,88785,20993,2431
+0100000US,,United States,512290,Other sound recording industries,820,20 largest firms,2002,124,337192,72.9,105488,24640,2729
+0100000US,,United States,512290,Other sound recording industries,850,50 largest firms,2002,154,379954,82.1,121643,28596,3224
+0100000US,,United States,5122902,Producers of taped radio programs,001,All firms,2002,143,93410,100.0,30625,7759,1036
+0100000US,,United States,5122902,Producers of taped radio programs,804,4 largest firms,2002,5,32406,34.7,11222,2874,353
+0100000US,,United States,5122902,Producers of taped radio programs,808,8 largest firms,2002,11,45265,48.5,14214,3587,436
+0100000US,,United States,5122902,Producers of taped radio programs,820,20 largest firms,2002,23,59811,64.0,18949,4592,569
+0100000US,,United States,5122902,Producers of taped radio programs,850,50 largest firms,2002,53,77943,83.4,24878,6129,782
+0100000US,,United States,5122909,All other sound recording industries (except producers of taped radio programs),001,All firms,2002,348,369407,100.0,115653,26973,3237
+0100000US,,United States,5122909,All other sound recording industries (except producers of taped radio programs),804,4 largest firms,2002,105,256697,69.5,79298,18635,2057
+0100000US,,United States,5122909,All other sound recording industries (except producers of taped radio programs),808,8 largest firms,2002,109,282053,76.4,87580,20344,2220
+0100000US,,United States,5122909,All other sound recording industries (except producers of taped radio programs),820,20 largest firms,2002,121,306248,82.9,97457,22854,2487
+0100000US,,United States,5122909,All other sound recording industries (except producers of taped radio programs),850,50 largest firms,2002,151,335631,90.9,106635,25007,2804
+0100000US,,United States,515,Broadcasting (except Internet),001,All firms,2002,9540,73962118,100.0,14438885,3760498,291361
+0100000US,,United States,515,Broadcasting (except Internet),804,4 largest firms,2002,336,30447124,41.2,4358138,1215107,54453
+0100000US,,United States,515,Broadcasting (except Internet),808,8 largest firms,2002,1819,42460404,57.4,6315630,1706694,95976
+0100000US,,United States,515,Broadcasting (except Internet),820,20 largest firms,2002,2181,51725690,69.9,7964583,2151872,123441
+0100000US,,United States,515,Broadcasting (except Internet),850,50 largest firms,2002,2704,59790932,80.8,10031996,2659343,163272
+0100000US,,United States,5151,Radio and television broadcasting,001,All firms,2002,8851,48589052,100.0,11590880,2876490,252221
+0100000US,,United States,5151,Radio and television broadcasting,804,4 largest firms,2002,277,18974912,39.1,3375491,835241,43330
+0100000US,,United States,5151,Radio and television broadcasting,808,8 largest firms,2002,1771,26056809,53.6,5025704,1267506,82421
+0100000US,,United States,5151,Radio and television broadcasting,820,20 largest firms,2002,2038,32346115,66.6,6408475,1598173,109107
+0100000US,,United States,5151,Radio and television broadcasting,850,50 largest firms,2002,2569,38155360,78.5,8004836,1985901,142466
+0100000US,,United States,51511,Radio broadcasting,001,All firms,2002,6893,15602466,100.0,4762176,1187368,127892
+0100000US,,United States,51511,Radio broadcasting,804,4 largest firms,2002,1504,6856199,43.9,1750897,446273,41147
+0100000US,,United States,51511,Radio broadcasting,808,8 largest firms,2002,1615,8299573,53.2,2189565,552048,49999
+0100000US,,United States,51511,Radio broadcasting,820,20 largest firms,2002,1853,10241688,65.6,2770534,694142,61079
+0100000US,,United States,51511,Radio broadcasting,850,50 largest firms,2002,2029,11582476,74.2,3193188,801063,69901
+0100000US,,United States,515111,Radio networks,001,All firms,2002,599,2099149,100.0,570116,140367,11092
+0100000US,,United States,515111,Radio networks,804,4 largest firms,2002,59,1129593,53.8,269674,65667,3947
+0100000US,,United States,515111,Radio networks,808,8 largest firms,2002,84,1345081,64.1,351170,88570,5141
+0100000US,,United States,515111,Radio networks,820,20 largest firms,2002,115,1655904,78.9,424253,105486,6415
+0100000US,,United States,515111,Radio networks,850,50 largest firms,2002,233,1899001,90.5,496668,123026,8286
+0100000US,,United States,515112,Radio stations,001,All firms,2002,6294,13503317,100.0,4192060,1047001,116800
+0100000US,,United States,515112,Radio stations,804,4 largest firms,2002,1505,6343813,47.0,1676567,424638,40926
+0100000US,,United States,515112,Radio stations,808,8 largest firms,2002,1632,7491120,55.5,2016630,509871,48960
+0100000US,,United States,515112,Radio stations,820,20 largest firms,2002,1795,9168380,67.9,2519340,634443,57619
+0100000US,,United States,515112,Radio stations,850,50 largest firms,2002,1947,10212296,75.6,2875800,721257,65066
+0100000US,,United States,51512,Television broadcasting,001,All firms,2002,1958,32986586,100.0,6828704,1689122,124329
+0100000US,,United States,51512,Television broadcasting,804,4 largest firms,2002,153,16570721,50.2,2686406,663292,33102
+0100000US,,United States,51512,Television broadcasting,808,8 largest firms,2002,265,20085244,60.9,3423543,861776,44595
+0100000US,,United States,51512,Television broadcasting,820,20 largest firms,2002,517,25062622,76.0,4483730,1117708,64840
+0100000US,,United States,51512,Television broadcasting,850,50 largest firms,2002,774,28904373,87.6,5546688,1372111,88206
+0100000US,,United States,515120,Television broadcasting,001,All firms,2002,1958,32986586,100.0,6828704,1689122,124329
+0100000US,,United States,515120,Television broadcasting,804,4 largest firms,2002,153,16570721,50.2,2686406,663292,33102
+0100000US,,United States,515120,Television broadcasting,808,8 largest firms,2002,265,20085244,60.9,3423543,861776,44595
+0100000US,,United States,515120,Television broadcasting,820,20 largest firms,2002,517,25062622,76.0,4483730,1117708,64840
+0100000US,,United States,515120,Television broadcasting,850,50 largest firms,2002,774,28904373,87.6,5546688,1372111,88206
+0100000US,,United States,5152,Cable and other subscription programming,001,All firms,2002,689,25373066,100.0,2848005,884008,39140
+0100000US,,United States,5152,Cable and other subscription programming,804,4 largest firms,2002,65,16222017,63.9,1457001,500489,17417
+0100000US,,United States,5152,Cable and other subscription programming,808,8 largest firms,2002,213,19713273,77.7,1794414,597560,21478
+0100000US,,United States,5152,Cable and other subscription programming,820,20 largest firms,2002,303,23312812,91.9,2477767,784700,29456
+0100000US,,United States,5152,Cable and other subscription programming,850,50 largest firms,2002,363,24976289,98.4,2743844,857469,36412
+0100000US,,United States,51521,Cable and other subscription programming,001,All firms,2002,689,25373066,100.0,2848005,884008,39140
+0100000US,,United States,51521,Cable and other subscription programming,804,4 largest firms,2002,65,16222017,63.9,1457001,500489,17417
+0100000US,,United States,51521,Cable and other subscription programming,808,8 largest firms,2002,213,19713273,77.7,1794414,597560,21478
+0100000US,,United States,51521,Cable and other subscription programming,820,20 largest firms,2002,303,23312812,91.9,2477767,784700,29456
+0100000US,,United States,51521,Cable and other subscription programming,850,50 largest firms,2002,363,24976289,98.4,2743844,857469,36412
+0100000US,,United States,515210,Cable and other subscription programming,001,All firms,2002,689,25373066,100.0,2848005,884008,39140
+0100000US,,United States,515210,Cable and other subscription programming,804,4 largest firms,2002,65,16222017,63.9,1457001,500489,17417
+0100000US,,United States,515210,Cable and other subscription programming,808,8 largest firms,2002,213,19713273,77.7,1794414,597560,21478
+0100000US,,United States,515210,Cable and other subscription programming,820,20 largest firms,2002,303,23312812,91.9,2477767,784700,29456
+0100000US,,United States,515210,Cable and other subscription programming,850,50 largest firms,2002,363,24976289,98.4,2743844,857469,36412
+0100000US,,United States,516,Internet publishing and broadcasting ,001,All firms,2002,2057,6363468,100.0,2346256,635008,40021
+0100000US,,United States,516,Internet publishing and broadcasting ,804,4 largest firms,2002,68,1591861,25.0,589216,159395,8896
+0100000US,,United States,516,Internet publishing and broadcasting ,808,8 largest firms,2002,88,2054205,32.3,751039,200652,10858
+0100000US,,United States,516,Internet publishing and broadcasting ,820,20 largest firms,2002,127,2967669,46.6,1008885,268937,15649
+0100000US,,United States,516,Internet publishing and broadcasting ,850,50 largest firms,2002,276,4048927,63.6,1418020,385419,21712
+0100000US,,United States,5161,Internet publishing and broadcasting ,001,All firms,2002,2057,6363468,100.0,2346256,635008,40021
+0100000US,,United States,5161,Internet publishing and broadcasting ,804,4 largest firms,2002,68,1591861,25.0,589216,159395,8896
+0100000US,,United States,5161,Internet publishing and broadcasting ,808,8 largest firms,2002,88,2054205,32.3,751039,200652,10858
+0100000US,,United States,5161,Internet publishing and broadcasting ,820,20 largest firms,2002,127,2967669,46.6,1008885,268937,15649
+0100000US,,United States,5161,Internet publishing and broadcasting ,850,50 largest firms,2002,276,4048927,63.6,1418020,385419,21712
+0100000US,,United States,51611,Internet publishing and broadcasting ,001,All firms,2002,2057,6363468,100.0,2346256,635008,40021
+0100000US,,United States,51611,Internet publishing and broadcasting ,804,4 largest firms,2002,68,1591861,25.0,589216,159395,8896
+0100000US,,United States,51611,Internet publishing and broadcasting ,808,8 largest firms,2002,88,2054205,32.3,751039,200652,10858
+0100000US,,United States,51611,Internet publishing and broadcasting ,820,20 largest firms,2002,127,2967669,46.6,1008885,268937,15649
+0100000US,,United States,51611,Internet publishing and broadcasting ,850,50 largest firms,2002,276,4048927,63.6,1418020,385419,21712
+0100000US,,United States,516110,Internet publishing and broadcasting ,001,All firms,2002,2057,6363468,100.0,2346256,635008,40021
+0100000US,,United States,516110,Internet publishing and broadcasting ,804,4 largest firms,2002,68,1591861,25.0,589216,159395,8896
+0100000US,,United States,516110,Internet publishing and broadcasting ,808,8 largest firms,2002,88,2054205,32.3,751039,200652,10858
+0100000US,,United States,516110,Internet publishing and broadcasting ,820,20 largest firms,2002,127,2967669,46.6,1008885,268937,15649
+0100000US,,United States,516110,Internet publishing and broadcasting ,850,50 largest firms,2002,276,4048927,63.6,1418020,385419,21712
+0100000US,,United States,517,Telecommunications,001,All firms,2002,49275,411644543,100.0,72181547,19424069,1440141
+0100000US,,United States,517,Telecommunications,804,4 largest firms,2002,20217,187685834,45.6,37261325,10123267,685956
+0100000US,,United States,517,Telecommunications,808,8 largest firms,2002,27402,261101296,63.4,48070682,12992618,905235
+0100000US,,United States,517,Telecommunications,820,20 largest firms,2002,31609,324457111,78.8,56284859,15106577,1104808
+0100000US,,United States,517,Telecommunications,850,50 largest firms,2002,34845,355746924,86.4,61423998,16576777,1206491
+0100000US,,United States,5171,Wired telecommunications carriers,001,All firms,2002,27955,237697299,100.0,47496436,12932377,842426
+0100000US,,United States,5171,Wired telecommunications carriers,804,4 largest firms,2002,14880,141854118,59.7,29382848,7753276,490924
+0100000US,,United States,5171,Wired telecommunications carriers,808,8 largest firms,2002,21092,192294117,80.9,38174412,10321297,665728
+0100000US,,United States,5171,Wired telecommunications carriers,820,20 largest firms,2002,22953,208808097,87.8,41430509,11270079,727295
+0100000US,,United States,5171,Wired telecommunications carriers,850,50 largest firms,2002,23819,219984373,92.5,43569456,11894926,762986
+0100000US,,United States,51711,Wired telecommunications carriers,001,All firms,2002,27955,237697299,100.0,47496436,12932377,842426
+0100000US,,United States,51711,Wired telecommunications carriers,804,4 largest firms,2002,14880,141854118,59.7,29382848,7753276,490924
+0100000US,,United States,51711,Wired telecommunications carriers,808,8 largest firms,2002,21092,192294117,80.9,38174412,10321297,665728
+0100000US,,United States,51711,Wired telecommunications carriers,820,20 largest firms,2002,22953,208808097,87.8,41430509,11270079,727295
+0100000US,,United States,51711,Wired telecommunications carriers,850,50 largest firms,2002,23819,219984373,92.5,43569456,11894926,762986
+0100000US,,United States,517110,Wired telecommunications carriers,001,All firms,2002,27955,237697299,100.0,47496436,12932377,842426
+0100000US,,United States,517110,Wired telecommunications carriers,804,4 largest firms,2002,14880,141854118,59.7,29382848,7753276,490924
+0100000US,,United States,517110,Wired telecommunications carriers,808,8 largest firms,2002,21092,192294117,80.9,38174412,10321297,665728
+0100000US,,United States,517110,Wired telecommunications carriers,820,20 largest firms,2002,22953,208808097,87.8,41430509,11270079,727295
+0100000US,,United States,517110,Wired telecommunications carriers,850,50 largest firms,2002,23819,219984373,92.5,43569456,11894926,762986
+0100000US,,United States,5172,Wireless telecommunications carriers (except satellite),001,All firms,2002,11155,99192758,100.0,13206715,3555292,281415
+0100000US,,United States,5172,Wireless telecommunications carriers (except satellite),804,4 largest firms,2002,4577,61172578,61.7,8025828,2267636,165974
+0100000US,,United States,5172,Wireless telecommunications carriers (except satellite),808,8 largest firms,2002,5860,81042998,81.7,10459057,2843637,213005
+0100000US,,United States,5172,Wireless telecommunications carriers (except satellite),820,20 largest firms,2002,7115,89247293,90.0,11545308,3120879,238951
+0100000US,,United States,5172,Wireless telecommunications carriers (except satellite),850,50 largest firms,2002,7437,93916444,94.7,12154134,3280797,253364
+0100000US,,United States,51721,Wireless telecommunications carriers (except satellite),001,All firms,2002,11155,99192758,100.0,13206715,3555292,281415
+0100000US,,United States,51721,Wireless telecommunications carriers (except satellite),804,4 largest firms,2002,4577,61172578,61.7,8025828,2267636,165974
+0100000US,,United States,51721,Wireless telecommunications carriers (except satellite),808,8 largest firms,2002,5860,81042998,81.7,10459057,2843637,213005
+0100000US,,United States,51721,Wireless telecommunications carriers (except satellite),820,20 largest firms,2002,7115,89247293,90.0,11545308,3120879,238951
+0100000US,,United States,51721,Wireless telecommunications carriers (except satellite),850,50 largest firms,2002,7437,93916444,94.7,12154134,3280797,253364
+0100000US,,United States,517211,Paging,001,All firms,2002,1643,2662566,100.0,678122,181088,19556
+0100000US,,United States,517211,Paging,804,4 largest firms,2002,278,1554401,58.4,353152,93356,9512
+0100000US,,United States,517211,Paging,808,8 largest firms,2002,344,1705788,64.1,410761,110457,10668
+0100000US,,United States,517211,Paging,820,20 largest firms,2002,448,1925194,72.3,480067,128620,12289
+0100000US,,United States,517211,Paging,850,50 largest firms,2002,527,2125347,79.8,528034,141085,13960
+0100000US,,United States,517212,Cellular and other wireless telecommunications ,001,All firms,2002,9512,96530192,100.0,12528593,3374204,261859
+0100000US,,United States,517212,Cellular and other wireless telecommunications ,804,4 largest firms,2002,4577,61172578,63.4,8025828,2267636,165974
+0100000US,,United States,517212,Cellular and other wireless telecommunications ,808,8 largest firms,2002,5857,81015182,83.9,10450382,2841285,212848
+0100000US,,United States,517212,Cellular and other wireless telecommunications ,820,20 largest firms,2002,6827,88704225,91.9,11335522,3062423,233074
+0100000US,,United States,517212,Cellular and other wireless telecommunications ,850,50 largest firms,2002,7143,92510162,95.8,11810974,3189232,243931
+0100000US,,United States,5173,Telecommunications resellers,001,All firms,2002,2525,9716887,100.0,1396793,377241,34452
+0100000US,,United States,5173,Telecommunications resellers,804,4 largest firms,2002,5,2461386,25.3,195112,57783,3595
+0100000US,,United States,5173,Telecommunications resellers,808,8 largest firms,2002,65,3119125,32.1,293547,83205,6013
+0100000US,,United States,5173,Telecommunications resellers,820,20 largest firms,2002,97,4194268,43.2,481403,132433,10135
+0100000US,,United States,5173,Telecommunications resellers,850,50 largest firms,2002,248,5451061,56.1,645096,180021,14513
+0100000US,,United States,51731,Telecommunications resellers,001,All firms,2002,2525,9716887,100.0,1396793,377241,34452
+0100000US,,United States,51731,Telecommunications resellers,804,4 largest firms,2002,5,2461386,25.3,195112,57783,3595
+0100000US,,United States,51731,Telecommunications resellers,808,8 largest firms,2002,65,3119125,32.1,293547,83205,6013
+0100000US,,United States,51731,Telecommunications resellers,820,20 largest firms,2002,97,4194268,43.2,481403,132433,10135
+0100000US,,United States,51731,Telecommunications resellers,850,50 largest firms,2002,248,5451061,56.1,645096,180021,14513
+0100000US,,United States,517310,Telecommunications resellers,001,All firms,2002,2525,9716887,100.0,1396793,377241,34452
+0100000US,,United States,517310,Telecommunications resellers,804,4 largest firms,2002,5,2461386,25.3,195112,57783,3595
+0100000US,,United States,517310,Telecommunications resellers,808,8 largest firms,2002,65,3119125,32.1,293547,83205,6013
+0100000US,,United States,517310,Telecommunications resellers,820,20 largest firms,2002,97,4194268,43.2,481403,132433,10135
+0100000US,,United States,517310,Telecommunications resellers,850,50 largest firms,2002,248,5451061,56.1,645096,180021,14513
+0100000US,,United States,5174,Satellite telecommunications,001,All firms,2002,646,5748139,100.0,914593,250699,14418
+0100000US,,United States,5174,Satellite telecommunications,804,4 largest firms,2002,33,1987296,34.6,237813,68806,2390
+0100000US,,United States,5174,Satellite telecommunications,808,8 largest firms,2002,82,2826018,49.2,344296,94912,4140
+0100000US,,United States,5174,Satellite telecommunications,820,20 largest firms,2002,141,3995794,69.5,580656,159222,8395
+0100000US,,United States,5174,Satellite telecommunications,850,50 largest firms,2002,204,5017957,87.3,746506,205525,10969
+0100000US,,United States,51741,Satellite telecommunications,001,All firms,2002,646,5748139,100.0,914593,250699,14418
+0100000US,,United States,51741,Satellite telecommunications,804,4 largest firms,2002,33,1987296,34.6,237813,68806,2390
+0100000US,,United States,51741,Satellite telecommunications,808,8 largest firms,2002,82,2826018,49.2,344296,94912,4140
+0100000US,,United States,51741,Satellite telecommunications,820,20 largest firms,2002,141,3995794,69.5,580656,159222,8395
+0100000US,,United States,51741,Satellite telecommunications,850,50 largest firms,2002,204,5017957,87.3,746506,205525,10969
+0100000US,,United States,517410,Satellite telecommunications,001,All firms,2002,646,5748139,100.0,914593,250699,14418
+0100000US,,United States,517410,Satellite telecommunications,804,4 largest firms,2002,33,1987296,34.6,237813,68806,2390
+0100000US,,United States,517410,Satellite telecommunications,808,8 largest firms,2002,82,2826018,49.2,344296,94912,4140
+0100000US,,United States,517410,Satellite telecommunications,820,20 largest firms,2002,141,3995794,69.5,580656,159222,8395
+0100000US,,United States,517410,Satellite telecommunications,850,50 largest firms,2002,204,5017957,87.3,746506,205525,10969
+0100000US,,United States,5175,Cable and other program distribution,001,All firms,2002,6288,57708708,100.0,8553052,2146617,256015
+0100000US,,United States,5175,Cable and other program distribution,804,4 largest firms,2002,2665,28379241,49.2,4458413,1141068,136248
+0100000US,,United States,5175,Cable and other program distribution,808,8 largest firms,2002,3874,45119274,78.2,6611536,1647332,204397
+0100000US,,United States,5175,Cable and other program distribution,820,20 largest firms,2002,4440,52637645,91.2,7670896,1918050,230093
+0100000US,,United States,5175,Cable and other program distribution,850,50 largest firms,2002,4705,55293941,95.8,8038136,2009711,239785
+0100000US,,United States,51751,Cable and other program distribution,001,All firms,2002,6288,57708708,100.0,8553052,2146617,256015
+0100000US,,United States,51751,Cable and other program distribution,804,4 largest firms,2002,2665,28379241,49.2,4458413,1141068,136248
+0100000US,,United States,51751,Cable and other program distribution,808,8 largest firms,2002,3874,45119274,78.2,6611536,1647332,204397
+0100000US,,United States,51751,Cable and other program distribution,820,20 largest firms,2002,4440,52637645,91.2,7670896,1918050,230093
+0100000US,,United States,51751,Cable and other program distribution,850,50 largest firms,2002,4705,55293941,95.8,8038136,2009711,239785
+0100000US,,United States,517510,Cable and other program distribution,001,All firms,2002,6288,57708708,100.0,8553052,2146617,256015
+0100000US,,United States,517510,Cable and other program distribution,804,4 largest firms,2002,2665,28379241,49.2,4458413,1141068,136248
+0100000US,,United States,517510,Cable and other program distribution,808,8 largest firms,2002,3874,45119274,78.2,6611536,1647332,204397
+0100000US,,United States,517510,Cable and other program distribution,820,20 largest firms,2002,4440,52637645,91.2,7670896,1918050,230093
+0100000US,,United States,517510,Cable and other program distribution,850,50 largest firms,2002,4705,55293941,95.8,8038136,2009711,239785
+0100000US,,United States,5179,Other telecommunications,001,All firms,2002,706,1580752,100.0,613958,161843,11415
+0100000US,,United States,5179,Other telecommunications,804,4 largest firms,2002,64,495577,31.4,171686,47387,3486
+0100000US,,United States,5179,Other telecommunications,808,8 largest firms,2002,86,747733,47.3,280037,74099,5107
+0100000US,,United States,5179,Other telecommunications,820,20 largest firms,2002,118,1086946,68.8,439760,115703,7385
+0100000US,,United States,5179,Other telecommunications,850,50 largest firms,2002,276,1331421,84.2,531515,140299,8654
+0100000US,,United States,51791,Other telecommunications,001,All firms,2002,706,1580752,100.0,613958,161843,11415
+0100000US,,United States,51791,Other telecommunications,804,4 largest firms,2002,64,495577,31.4,171686,47387,3486
+0100000US,,United States,51791,Other telecommunications,808,8 largest firms,2002,86,747733,47.3,280037,74099,5107
+0100000US,,United States,51791,Other telecommunications,820,20 largest firms,2002,118,1086946,68.8,439760,115703,7385
+0100000US,,United States,51791,Other telecommunications,850,50 largest firms,2002,276,1331421,84.2,531515,140299,8654
+0100000US,,United States,517910,Other telecommunications,001,All firms,2002,706,1580752,100.0,613958,161843,11415
+0100000US,,United States,517910,Other telecommunications,804,4 largest firms,2002,64,495577,31.4,171686,47387,3486
+0100000US,,United States,517910,Other telecommunications,808,8 largest firms,2002,86,747733,47.3,280037,74099,5107
+0100000US,,United States,517910,Other telecommunications,820,20 largest firms,2002,118,1086946,68.8,439760,115703,7385
+0100000US,,United States,517910,Other telecommunications,850,50 largest firms,2002,276,1331421,84.2,531515,140299,8654
+0100000US,,United States,518,"Data processing, hosting and related services",001,All firms,2002,18589,74507785,100.0,25718584,7036941,514046
+0100000US,,United States,518,"Data processing, hosting and related services",804,4 largest firms,2002,3357,24656714,33.1,5937284,1741678,119881
+0100000US,,United States,518,"Data processing, hosting and related services",808,8 largest firms,2002,3577,29509217,39.6,6913803,1999573,141708
+0100000US,,United States,518,"Data processing, hosting and related services",820,20 largest firms,2002,3960,36886633,49.5,9127492,2620813,176949
+0100000US,,United States,518,"Data processing, hosting and related services",850,50 largest firms,2002,4460,45099346,60.5,11713111,3360626,227421
+0100000US,,United States,5181,Internet service providers ,001,All firms,2002,4820,21418640,100.0,4451406,1278966,79770
+0100000US,,United States,5181,Internet service providers ,804,4 largest firms,2002,155,11369031,53.1,1600787,450744,25143
+0100000US,,United States,5181,Internet service providers ,808,8 largest firms,2002,233,12941545,60.4,1838853,508473,27968
+0100000US,,United States,5181,Internet service providers ,820,20 largest firms,2002,332,15137249,70.7,2608675,769085,38782
+0100000US,,United States,5181,Internet service providers ,850,50 largest firms,2002,408,16871549,78.8,3137859,925979,46096
+0100000US,,United States,51811,Internet service providers,001,All firms,2002,4820,21418640,100.0,4451406,1278966,79770
+0100000US,,United States,51811,Internet service providers,804,4 largest firms,2002,155,11369031,53.1,1600787,450744,25143
+0100000US,,United States,51811,Internet service providers,808,8 largest firms,2002,233,12941545,60.4,1838853,508473,27968
+0100000US,,United States,51811,Internet service providers,820,20 largest firms,2002,332,15137249,70.7,2608675,769085,38782
+0100000US,,United States,51811,Internet service providers,850,50 largest firms,2002,408,16871549,78.8,3137859,925979,46096
+0100000US,,United States,518111,Internet service providers ,001,All firms,2002,4370,18710967,100.0,3527917,1018955,69833
+0100000US,,United States,518111,Internet service providers ,804,4 largest firms,2002,180,11105283,59.4,1285297,342548,23736
+0100000US,,United States,518111,Internet service providers ,808,8 largest firms,2002,245,12416556,66.4,1688500,496314,28938
+0100000US,,United States,518111,Internet service providers ,820,20 largest firms,2002,326,13850404,74.0,2146953,628250,36215
+0100000US,,United States,518111,Internet service providers ,850,50 largest firms,2002,407,15122558,80.8,2533086,751208,42425
+0100000US,,United States,518112,Web search portals,001,All firms,2002,450,2707673,100.0,923489,260011,9937
+0100000US,,United States,518112,Web search portals,804,4 largest firms,2002,8,1557258,57.5,510367,159333,3344
+0100000US,,United States,518112,Web search portals,808,8 largest firms,2002,16,1926763,71.2,640056,192710,4856
+0100000US,,United States,518112,Web search portals,820,20 largest firms,2002,39,2331830,86.1,774121,222591,6315
+0100000US,,United States,518112,Web search portals,850,50 largest firms,2002,92,2533784,93.6,849484,240781,7958
+0100000US,,United States,5182,"Data processing, hosting, and related services",001,All firms,2002,13769,53089145,100.0,21267178,5757975,434276
+0100000US,,United States,5182,"Data processing, hosting, and related services",804,4 largest firms,2002,3390,17904000,33.7,5461195,1619076,115414
+0100000US,,United States,5182,"Data processing, hosting, and related services",808,8 largest firms,2002,3518,21043722,39.6,6474316,1862861,134341
+0100000US,,United States,5182,"Data processing, hosting, and related services",820,20 largest firms,2002,3795,26686791,50.3,8219969,2360791,171966
+0100000US,,United States,5182,"Data processing, hosting, and related services",850,50 largest firms,2002,4196,32398095,61.0,10046346,2831059,206504
+0100000US,,United States,51821,"Data processing, hosting, and related services",001,All firms,2002,13769,53089145,100.0,21267178,5757975,434276
+0100000US,,United States,51821,"Data processing, hosting, and related services",804,4 largest firms,2002,3390,17904000,33.7,5461195,1619076,115414
+0100000US,,United States,51821,"Data processing, hosting, and related services",808,8 largest firms,2002,3518,21043722,39.6,6474316,1862861,134341
+0100000US,,United States,51821,"Data processing, hosting, and related services",820,20 largest firms,2002,3795,26686791,50.3,8219969,2360791,171966
+0100000US,,United States,51821,"Data processing, hosting, and related services",850,50 largest firms,2002,4196,32398095,61.0,10046346,2831059,206504
+0100000US,,United States,518210,"Data processing, hosting, and related services",001,All firms,2002,13769,53089145,100.0,21267178,5757975,434276
+0100000US,,United States,518210,"Data processing, hosting, and related services",804,4 largest firms,2002,3390,17904000,33.7,5461195,1619076,115414
+0100000US,,United States,518210,"Data processing, hosting, and related services",808,8 largest firms,2002,3518,21043722,39.6,6474316,1862861,134341
+0100000US,,United States,518210,"Data processing, hosting, and related services",820,20 largest firms,2002,3795,26686791,50.3,8219969,2360791,171966
+0100000US,,United States,518210,"Data processing, hosting, and related services",850,50 largest firms,2002,4196,32398095,61.0,10046346,2831059,206504
+0100000US,,United States,519,Other information services,001,All firms,2002,3472,4901305,100.0,1705050,425064,57759
+0100000US,,United States,519,Other information services,804,4 largest firms,2002,160,1504587,30.7,431889,105485,12076
+0100000US,,United States,519,Other information services,808,8 largest firms,2002,285,2202276,44.9,650379,160546,18563
+0100000US,,United States,519,Other information services,820,20 largest firms,2002,332,2951272,60.2,904743,225164,24148
+0100000US,,United States,519,Other information services,850,50 largest firms,2002,442,3487382,71.2,1090118,270490,29469
+0100000US,,United States,5191,Other information services,001,All firms,2002,3472,4901305,100.0,1705050,425064,57759
+0100000US,,United States,5191,Other information services,804,4 largest firms,2002,160,1504587,30.7,431889,105485,12076
+0100000US,,United States,5191,Other information services,808,8 largest firms,2002,285,2202276,44.9,650379,160546,18563
+0100000US,,United States,5191,Other information services,820,20 largest firms,2002,332,2951272,60.2,904743,225164,24148
+0100000US,,United States,5191,Other information services,850,50 largest firms,2002,442,3487382,71.2,1090118,270490,29469
+0100000US,,United States,51911,News syndicates,001,All firms,2002,535,1843668,100.0,586683,147593,10578
+0100000US,,United States,51911,News syndicates,804,4 largest firms,2002,170,1064126,57.7,312997,76580,5471
+0100000US,,United States,51911,News syndicates,808,8 largest firms,2002,182,1290254,70.0,378928,94423,6806
+0100000US,,United States,51911,News syndicates,820,20 largest firms,2002,221,1543216,83.7,449585,113356,7812
+0100000US,,United States,51911,News syndicates,850,50 largest firms,2002,280,1742883,94.5,539514,136296,9400
+0100000US,,United States,519110,News syndicates,001,All firms,2002,535,1843668,100.0,586683,147593,10578
+0100000US,,United States,519110,News syndicates,804,4 largest firms,2002,170,1064126,57.7,312997,76580,5471
+0100000US,,United States,519110,News syndicates,808,8 largest firms,2002,182,1290254,70.0,378928,94423,6806
+0100000US,,United States,519110,News syndicates,820,20 largest firms,2002,221,1543216,83.7,449585,113356,7812
+0100000US,,United States,519110,News syndicates,850,50 largest firms,2002,280,1742883,94.5,539514,136296,9400
+0100000US,,United States,51912,Libraries and archives,001,All firms,2002,2680,1649136,100.0,704681,174736,33359
+0100000US,,United States,51912,Libraries and archives,804,4 largest firms,2002,90,439144,26.6,176677,43300,5606
+0100000US,,United States,51912,Libraries and archives,808,8 largest firms,2002,114,527600,32.0,212917,52491,7418
+0100000US,,United States,51912,Libraries and archives,820,20 largest firms,2002,145,685337,41.6,277579,68111,9706
+0100000US,,United States,51912,Libraries and archives,850,50 largest firms,2002,225,874510,53.0,355814,87262,13124
+0100000US,,United States,519120,Libraries and archives,001,All firms,2002,2680,1649136,100.0,704681,174736,33359
+0100000US,,United States,519120,Libraries and archives,804,4 largest firms,2002,90,439144,26.6,176677,43300,5606
+0100000US,,United States,519120,Libraries and archives,808,8 largest firms,2002,114,527600,32.0,212917,52491,7418
+0100000US,,United States,519120,Libraries and archives,820,20 largest firms,2002,145,685337,41.6,277579,68111,9706
+0100000US,,United States,519120,Libraries and archives,850,50 largest firms,2002,225,874510,53.0,355814,87262,13124
+0100000US,,United States,51919,All other information services,001,All firms,2002,257,1408501,100.0,413686,102735,13822
+0100000US,,United States,51919,All other information services,804,4 largest firms,2002,53,995756,70.7,258209,63761,10302
+0100000US,,United States,51919,All other information services,808,8 largest firms,2002,60,1202461,85.4,345135,85667,11810
+0100000US,,United States,51919,All other information services,820,20 largest firms,2002,75,1315749,93.4,381710,95390,12761
+0100000US,,United States,51919,All other information services,850,50 largest firms,2002,127,1374243,97.6,402135,100056,13352
+0100000US,,United States,519190,All other information services,001,All firms,2002,257,1408501,100.0,413686,102735,13822
+0100000US,,United States,519190,All other information services,804,4 largest firms,2002,53,995756,70.7,258209,63761,10302
+0100000US,,United States,519190,All other information services,808,8 largest firms,2002,60,1202461,85.4,345135,85667,11810
+0100000US,,United States,519190,All other information services,820,20 largest firms,2002,75,1315749,93.4,381710,95390,12761
+0100000US,,United States,519190,All other information services,850,50 largest firms,2002,127,1374243,97.6,402135,100056,13352

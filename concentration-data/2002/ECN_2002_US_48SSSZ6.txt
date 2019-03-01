@@ -1,0 +1,82 @@
+EC0248SSSZ6
+Transportation and Warehousing: Subject Series - Estab and Firm Size: Concentration by Largest Firms for the United States: 2002
+
+[NOTE. Data based on the 2002 Economic Census. For information on
+confidentiality protection, sampling error, nonsampling error, and
+definitions, see 
+Survey
+Methodology. Data in this table represent those available when
+this report was created; data may not be available for all NAICS
+industries or geographies. Data in this table may be subject to
+employment- and/or sales-size minimums that vary by industry.]
+
+
+
+(037)	Data do not include large certificated passenger carriers that report to the Office of Airline Information, U.S. Department of Transportation.  Railroad transportation and U.S. Postal Service are out of scope.
+
+(001)	Data do not include large certificated passenger carriers that report to the Office of Airline Information, U.S. Department of Transportation.
+
+D	Withheld to avoid disclosing data for individual companies; data are included in higher level totals
+
+i	5,000 to 9,999 employees
+
+g	1,000 to 2,499 employees
+
+f	500 to 999 employees
+
+h	2,500 to 4,999 employees
+
+j	10,000 to 24,999 employees
+
+m	100,000 employees or more
+
+UNIVERSE DESCRIPTION
+The universe of this file is all establishments of firms with
+payroll. This universe includes all establishments classified in
+Transportation and Warehousing (sector 48-49) in 2002. These data
+supersede data released in the Industry Series reports from the
+2002 Economic Census.
+DATA ITEMS
+This file contains data on:
+
+  Establishments
+  Revenue
+  Revenue of largest firms as a percent of total revenue
+  Annual payroll
+  First-quarter payroll
+  Paid employees
+
+GEOGRAPHIC COVERAGE
+The data are shown at the U.S. level.
+INDUSTRY DETAIL
+The data are shown at selected 2- through 7-digit NAICS code
+levels.
+OTHER VARIABLES IDENTIFYING RECORDS
+Each record includes CONCENFI which is the three-digit code
+representing concentration by largest firms categories (including
+all firms, 4 largest firms, 8 largest firms, 20 largest firms, and
+50 largest firms).
+RELEASE SCHEDULE
+The data in this file correspond to the Subject Series,
+Establishment and Firm Size (Including Legal Form of Organization)
+report (EC02-48SS-SZ) that will be released in December 2005.
+RELATED DATA FILES
+EC0248SSSZ1 through EC0248SSSZ5 and EC0248SSSZ7 present data by
+employment and revenue size for establishments and firms, number of
+single unit and multiunit firms, and legal form of organization for
+the United States.
+CORRESPONDENCE TO PDF REPORTS
+These data are exactly the same as are shown in the PDF-format
+Subject Series, Establishment and Firm Size (Including Legal Form
+of Organization) report (EC02-48SS-SZ). This report will also be
+released on the Census Bureau's Internet site at
+www.census.gov.
+DATA LIMITATIONS
+There are no special limitations to these data.
+FILE SEQUENCE
+Data are presented by firm concentration in ascending NAICS code
+sequence.
+
+
+
+

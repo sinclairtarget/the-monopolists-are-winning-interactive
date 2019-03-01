@@ -1,0 +1,541 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,OPTAX.id,OPTAX.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VALPCT,PAYANT,PAYQ1T,EMP
+0100000US,,United States,61,Educational services,A,All establishments,001,All firms,2002,49319,30690707,100.0,10164378,2445276,430164
+0100000US,,United States,61,Educational services,A,All establishments,804,4 largest firms,2002,477,1994616,6.5,538970,136728,16177
+0100000US,,United States,61,Educational services,A,All establishments,808,8 largest firms,2002,981,3249928,10.6,847063,212712,26307
+0100000US,,United States,61,Educational services,A,All establishments,820,20 largest firms,2002,1345,4796968,15.6,1276328,314240,38131
+0100000US,,United States,61,Educational services,A,All establishments,850,50 largest firms,2002,1494,6571233,21.4,1785875,433516,50013
+0100000US,,United States,61,Educational services,N,Establishments exempt from federal income tax,001,All firms,2002,11020,8531101,100.0,2615345,636785,116249
+0100000US,,United States,61,Educational services,N,Establishments exempt from federal income tax,804,4 largest firms,2002,26,1310775,15.4,221433,55224,4540
+0100000US,,United States,61,Educational services,N,Establishments exempt from federal income tax,808,8 largest firms,2002,40,1698938,19.9,301611,75791,6919
+0100000US,,United States,61,Educational services,N,Establishments exempt from federal income tax,820,20 largest firms,2002,106,2163821,25.4,442539,109758,10469
+0100000US,,United States,61,Educational services,N,Establishments exempt from federal income tax,850,50 largest firms,2002,203,2742674,32.1,599640,146898,14860
+0100000US,,United States,61,Educational services,T,Establishments subject to federal income tax,001,All firms,2002,38299,22159606,100.0,7549033,1808491,313915
+0100000US,,United States,61,Educational services,T,Establishments subject to federal income tax,804,4 largest firms,2002,482,1682624,7.6,522867,128283,16348
+0100000US,,United States,61,Educational services,T,Establishments subject to federal income tax,808,8 largest firms,2002,1122,2496853,11.3,795345,195182,25753
+0100000US,,United States,61,Educational services,T,Establishments subject to federal income tax,820,20 largest firms,2002,1338,3554810,16.0,1065229,261981,33223
+0100000US,,United States,61,Educational services,T,Establishments subject to federal income tax,850,50 largest firms,2002,1489,5131109,23.2,1590642,389038,46793
+0100000US,,United States,611,Educational services,A,All establishments,001,All firms,2002,49319,30690707,100.0,10164378,2445276,430164
+0100000US,,United States,611,Educational services,A,All establishments,804,4 largest firms,2002,477,1994616,6.5,538970,136728,16177
+0100000US,,United States,611,Educational services,A,All establishments,808,8 largest firms,2002,981,3249928,10.6,847063,212712,26307
+0100000US,,United States,611,Educational services,A,All establishments,820,20 largest firms,2002,1345,4796968,15.6,1276328,314240,38131
+0100000US,,United States,611,Educational services,A,All establishments,850,50 largest firms,2002,1494,6571233,21.4,1785875,433516,50013
+0100000US,,United States,611,Educational services,N,Establishments exempt from federal income tax,001,All firms,2002,11020,8531101,100.0,2615345,636785,116249
+0100000US,,United States,611,Educational services,N,Establishments exempt from federal income tax,804,4 largest firms,2002,26,1310775,15.4,221433,55224,4540
+0100000US,,United States,611,Educational services,N,Establishments exempt from federal income tax,808,8 largest firms,2002,40,1698938,19.9,301611,75791,6919
+0100000US,,United States,611,Educational services,N,Establishments exempt from federal income tax,820,20 largest firms,2002,106,2163821,25.4,442539,109758,10469
+0100000US,,United States,611,Educational services,N,Establishments exempt from federal income tax,850,50 largest firms,2002,203,2742674,32.1,599640,146898,14860
+0100000US,,United States,611,Educational services,T,Establishments subject to federal income tax,001,All firms,2002,38299,22159606,100.0,7549033,1808491,313915
+0100000US,,United States,611,Educational services,T,Establishments subject to federal income tax,804,4 largest firms,2002,482,1682624,7.6,522867,128283,16348
+0100000US,,United States,611,Educational services,T,Establishments subject to federal income tax,808,8 largest firms,2002,1122,2496853,11.3,795345,195182,25753
+0100000US,,United States,611,Educational services,T,Establishments subject to federal income tax,820,20 largest firms,2002,1338,3554810,16.0,1065229,261981,33223
+0100000US,,United States,611,Educational services,T,Establishments subject to federal income tax,850,50 largest firms,2002,1489,5131109,23.2,1590642,389038,46793
+0100000US,,United States,6114,Business schools and computer and management training,A,All establishments,001,All firms,2002,7926,7717082,100.0,2682997,663798,67614
+0100000US,,United States,6114,Business schools and computer and management training,A,All establishments,804,4 largest firms,2002,46,675845,8.8,133469,36631,2525
+0100000US,,United States,6114,Business schools and computer and management training,A,All establishments,808,8 largest firms,2002,88,944025,12.2,213183,57050,3938
+0100000US,,United States,6114,Business schools and computer and management training,A,All establishments,820,20 largest firms,2002,124,1503645,19.5,423173,109816,7666
+0100000US,,United States,6114,Business schools and computer and management training,A,All establishments,850,50 largest firms,2002,287,2314909,30.0,718001,179447,13605
+0100000US,,United States,6114,Business schools and computer and management training,N,Establishments exempt from federal income tax,001,All firms,2002,1076,929482,100.0,310164,75554,9169
+0100000US,,United States,6114,Business schools and computer and management training,N,Establishments exempt from federal income tax,804,4 largest firms,2002,63,139424,15.0,46359,11445,1047
+0100000US,,United States,6114,Business schools and computer and management training,N,Establishments exempt from federal income tax,808,8 largest firms,2002,72,202236,21.8,73462,18225,2033
+0100000US,,United States,6114,Business schools and computer and management training,N,Establishments exempt from federal income tax,820,20 largest firms,2002,90,325118,35.0,105429,26237,2847
+0100000US,,United States,6114,Business schools and computer and management training,N,Establishments exempt from federal income tax,850,50 largest firms,2002,124,478806,51.5,151370,37482,3983
+0100000US,,United States,6114,Business schools and computer and management training,T,Establishments subject to federal income tax,001,All firms,2002,6850,6787600,100.0,2372833,588244,58445
+0100000US,,United States,6114,Business schools and computer and management training,T,Establishments subject to federal income tax,804,4 largest firms,2002,41,657351,9.7,123522,34167,2239
+0100000US,,United States,6114,Business schools and computer and management training,T,Establishments subject to federal income tax,808,8 largest firms,2002,83,925531,13.6,203236,54586,3652
+0100000US,,United States,6114,Business schools and computer and management training,T,Establishments subject to federal income tax,820,20 largest firms,2002,120,1468978,21.6,401923,104557,7308
+0100000US,,United States,6114,Business schools and computer and management training,T,Establishments subject to federal income tax,850,50 largest firms,2002,226,2227193,32.8,686724,171265,12820
+0100000US,,United States,61141,Business and secretarial schools,A,All establishments,001,All firms,2002,459,498389,100.0,184718,44154,7970
+0100000US,,United States,61141,Business and secretarial schools,A,All establishments,804,4 largest firms,2002,16,61996,12.4,20900,5050,880
+0100000US,,United States,61141,Business and secretarial schools,A,All establishments,808,8 largest firms,2002,29,112063,22.5,39790,9573,1589
+0100000US,,United States,61141,Business and secretarial schools,A,All establishments,820,20 largest firms,2002,64,212348,42.6,75178,17968,2857
+0100000US,,United States,61141,Business and secretarial schools,A,All establishments,850,50 largest firms,2002,125,320376,64.3,115678,27259,4496
+0100000US,,United States,61141,Business and secretarial schools,N,Establishments exempt from federal income tax,001,All firms,2002,64,47462,100.0,19481,4664,771
+0100000US,,United States,61141,Business and secretarial schools,N,Establishments exempt from federal income tax,804,4 largest firms,2002,7,21750,45.8,8770,2121,271
+0100000US,,United States,61141,Business and secretarial schools,N,Establishments exempt from federal income tax,808,8 largest firms,2002,12,29362,61.9,11927,2841,393
+0100000US,,United States,61141,Business and secretarial schools,N,Establishments exempt from federal income tax,820,20 largest firms,2002,24,40770,85.9,16719,3948,579
+0100000US,,United States,61141,Business and secretarial schools,N,Establishments exempt from federal income tax,850,50 largest firms,2002,57,47298,99.7,19443,4654,763
+0100000US,,United States,61141,Business and secretarial schools,T,Establishments subject to federal income tax,001,All firms,2002,395,450927,100.0,165237,39490,7199
+0100000US,,United States,61141,Business and secretarial schools,T,Establishments subject to federal income tax,804,4 largest firms,2002,14,61421,13.6,20060,4960,867
+0100000US,,United States,61141,Business and secretarial schools,T,Establishments subject to federal income tax,808,8 largest firms,2002,29,109418,24.3,37910,9114,1526
+0100000US,,United States,61141,Business and secretarial schools,T,Establishments subject to federal income tax,820,20 largest firms,2002,60,205581,45.6,72822,17235,2763
+0100000US,,United States,61141,Business and secretarial schools,T,Establishments subject to federal income tax,850,50 largest firms,2002,121,308059,68.3,110808,26149,4348
+0100000US,,United States,611410,Business and secretarial schools,A,All establishments,001,All firms,2002,459,498389,100.0,184718,44154,7970
+0100000US,,United States,611410,Business and secretarial schools,A,All establishments,804,4 largest firms,2002,16,61996,12.4,20900,5050,880
+0100000US,,United States,611410,Business and secretarial schools,A,All establishments,808,8 largest firms,2002,29,112063,22.5,39790,9573,1589
+0100000US,,United States,611410,Business and secretarial schools,A,All establishments,820,20 largest firms,2002,64,212348,42.6,75178,17968,2857
+0100000US,,United States,611410,Business and secretarial schools,A,All establishments,850,50 largest firms,2002,125,320376,64.3,115678,27259,4496
+0100000US,,United States,611410,Business and secretarial schools,N,Establishments exempt from federal income tax,001,All firms,2002,64,47462,100.0,19481,4664,771
+0100000US,,United States,611410,Business and secretarial schools,N,Establishments exempt from federal income tax,804,4 largest firms,2002,7,21750,45.8,8770,2121,271
+0100000US,,United States,611410,Business and secretarial schools,N,Establishments exempt from federal income tax,808,8 largest firms,2002,12,29362,61.9,11927,2841,393
+0100000US,,United States,611410,Business and secretarial schools,N,Establishments exempt from federal income tax,820,20 largest firms,2002,24,40770,85.9,16719,3948,579
+0100000US,,United States,611410,Business and secretarial schools,N,Establishments exempt from federal income tax,850,50 largest firms,2002,57,47298,99.7,19443,4654,763
+0100000US,,United States,611410,Business and secretarial schools,T,Establishments subject to federal income tax,001,All firms,2002,395,450927,100.0,165237,39490,7199
+0100000US,,United States,611410,Business and secretarial schools,T,Establishments subject to federal income tax,804,4 largest firms,2002,14,61421,13.6,20060,4960,867
+0100000US,,United States,611410,Business and secretarial schools,T,Establishments subject to federal income tax,808,8 largest firms,2002,29,109418,24.3,37910,9114,1526
+0100000US,,United States,611410,Business and secretarial schools,T,Establishments subject to federal income tax,820,20 largest firms,2002,60,205581,45.6,72822,17235,2763
+0100000US,,United States,611410,Business and secretarial schools,T,Establishments subject to federal income tax,850,50 largest firms,2002,121,308059,68.3,110808,26149,4348
+0100000US,,United States,61142,Computer training,A,All establishments,001,All firms,2002,2988,3248547,100.0,1214228,308214,29281
+0100000US,,United States,61142,Computer training,A,All establishments,804,4 largest firms,2002,41,631934,19.5,121437,35181,1976
+0100000US,,United States,61142,Computer training,A,All establishments,808,8 largest firms,2002,58,825428,25.4,230952,62610,3704
+0100000US,,United States,61142,Computer training,A,All establishments,820,20 largest firms,2002,120,1167097,35.9,382798,95861,6667
+0100000US,,United States,61142,Computer training,A,All establishments,850,50 largest firms,2002,197,1568902,48.3,526223,133988,10137
+0100000US,,United States,61142,Computer training,N,Establishments exempt from federal income tax,001,All firms,2002,215,101741,100.0,36519,8424,1187
+0100000US,,United States,61142,Computer training,N,Establishments exempt from federal income tax,804,4 largest firms,2002,6,31961,31.4,4876,1151,101
+0100000US,,United States,61142,Computer training,N,Establishments exempt from federal income tax,808,8 largest firms,2002,15,45536,44.8,13468,3280,288
+0100000US,,United States,61142,Computer training,N,Establishments exempt from federal income tax,820,20 largest firms,2002,29,65172,64.1,19582,4456,423
+0100000US,,United States,61142,Computer training,N,Establishments exempt from federal income tax,850,50 largest firms,2002,62,84666,83.2,28501,6524,760
+0100000US,,United States,61142,Computer training,T,Establishments subject to federal income tax,001,All firms,2002,2773,3146806,100.0,1177709,299790,28094
+0100000US,,United States,61142,Computer training,T,Establishments subject to federal income tax,804,4 largest firms,2002,41,631934,20.1,121437,35181,1976
+0100000US,,United States,61142,Computer training,T,Establishments subject to federal income tax,808,8 largest firms,2002,58,825428,26.2,230952,62610,3704
+0100000US,,United States,61142,Computer training,T,Establishments subject to federal income tax,820,20 largest firms,2002,120,1167097,37.1,382798,95861,6667
+0100000US,,United States,61142,Computer training,T,Establishments subject to federal income tax,850,50 largest firms,2002,207,1565635,49.8,529032,135128,10185
+0100000US,,United States,611420,Computer training,A,All establishments,001,All firms,2002,2988,3248547,100.0,1214228,308214,29281
+0100000US,,United States,611420,Computer training,A,All establishments,804,4 largest firms,2002,41,631934,19.5,121437,35181,1976
+0100000US,,United States,611420,Computer training,A,All establishments,808,8 largest firms,2002,58,825428,25.4,230952,62610,3704
+0100000US,,United States,611420,Computer training,A,All establishments,820,20 largest firms,2002,120,1167097,35.9,382798,95861,6667
+0100000US,,United States,611420,Computer training,A,All establishments,850,50 largest firms,2002,197,1568902,48.3,526223,133988,10137
+0100000US,,United States,611420,Computer training,N,Establishments exempt from federal income tax,001,All firms,2002,215,101741,100.0,36519,8424,1187
+0100000US,,United States,611420,Computer training,N,Establishments exempt from federal income tax,804,4 largest firms,2002,6,31961,31.4,4876,1151,101
+0100000US,,United States,611420,Computer training,N,Establishments exempt from federal income tax,808,8 largest firms,2002,15,45536,44.8,13468,3280,288
+0100000US,,United States,611420,Computer training,N,Establishments exempt from federal income tax,820,20 largest firms,2002,29,65172,64.1,19582,4456,423
+0100000US,,United States,611420,Computer training,N,Establishments exempt from federal income tax,850,50 largest firms,2002,62,84666,83.2,28501,6524,760
+0100000US,,United States,611420,Computer training,T,Establishments subject to federal income tax,001,All firms,2002,2773,3146806,100.0,1177709,299790,28094
+0100000US,,United States,611420,Computer training,T,Establishments subject to federal income tax,804,4 largest firms,2002,41,631934,20.1,121437,35181,1976
+0100000US,,United States,611420,Computer training,T,Establishments subject to federal income tax,808,8 largest firms,2002,58,825428,26.2,230952,62610,3704
+0100000US,,United States,611420,Computer training,T,Establishments subject to federal income tax,820,20 largest firms,2002,120,1167097,37.1,382798,95861,6667
+0100000US,,United States,611420,Computer training,T,Establishments subject to federal income tax,850,50 largest firms,2002,207,1565635,49.8,529032,135128,10185
+0100000US,,United States,61143,Professional and management development training,A,All establishments,001,All firms,2002,4479,3970146,100.0,1284051,311430,30363
+0100000US,,United States,61143,Professional and management development training,A,All establishments,804,4 largest firms,2002,47,307463,7.7,84019,19660,1612
+0100000US,,United States,61143,Professional and management development training,A,All establishments,808,8 largest firms,2002,54,519485,13.1,136537,33083,2779
+0100000US,,United States,61143,Professional and management development training,A,All establishments,820,20 largest firms,2002,125,915024,23.0,251497,60782,5098
+0100000US,,United States,61143,Professional and management development training,A,All establishments,850,50 largest firms,2002,180,1390768,35.0,410568,100908,8278
+0100000US,,United States,61143,Professional and management development training,N,Establishments exempt from federal income tax,001,All firms,2002,797,780279,100.0,254164,62466,7211
+0100000US,,United States,61143,Professional and management development training,N,Establishments exempt from federal income tax,804,4 largest firms,2002,63,139424,17.9,46359,11445,1047
+0100000US,,United States,61143,Professional and management development training,N,Establishments exempt from federal income tax,808,8 largest firms,2002,72,202236,25.9,73462,18225,2033
+0100000US,,United States,61143,Professional and management development training,N,Establishments exempt from federal income tax,820,20 largest firms,2002,85,313229,40.1,105511,26084,2816
+0100000US,,United States,61143,Professional and management development training,N,Establishments exempt from federal income tax,850,50 largest firms,2002,116,450183,57.7,142458,35347,3762
+0100000US,,United States,61143,Professional and management development training,T,Establishments subject to federal income tax,001,All firms,2002,3682,3189867,100.0,1029887,248964,23152
+0100000US,,United States,61143,Professional and management development training,T,Establishments subject to federal income tax,804,4 largest firms,2002,42,288969,9.1,74072,17196,1326
+0100000US,,United States,61143,Professional and management development training,T,Establishments subject to federal income tax,808,8 largest firms,2002,47,490256,15.4,121381,30112,2628
+0100000US,,United States,61143,Professional and management development training,T,Establishments subject to federal income tax,820,20 largest firms,2002,77,854647,26.8,235566,57893,4236
+0100000US,,United States,61143,Professional and management development training,T,Establishments subject to federal income tax,850,50 largest firms,2002,114,1253616,39.3,347728,84585,6306
+0100000US,,United States,611430,Professional and management development training,A,All establishments,001,All firms,2002,4479,3970146,100.0,1284051,311430,30363
+0100000US,,United States,611430,Professional and management development training,A,All establishments,804,4 largest firms,2002,47,307463,7.7,84019,19660,1612
+0100000US,,United States,611430,Professional and management development training,A,All establishments,808,8 largest firms,2002,54,519485,13.1,136537,33083,2779
+0100000US,,United States,611430,Professional and management development training,A,All establishments,820,20 largest firms,2002,125,915024,23.0,251497,60782,5098
+0100000US,,United States,611430,Professional and management development training,A,All establishments,850,50 largest firms,2002,180,1390768,35.0,410568,100908,8278
+0100000US,,United States,611430,Professional and management development training,N,Establishments exempt from federal income tax,001,All firms,2002,797,780279,100.0,254164,62466,7211
+0100000US,,United States,611430,Professional and management development training,N,Establishments exempt from federal income tax,804,4 largest firms,2002,63,139424,17.9,46359,11445,1047
+0100000US,,United States,611430,Professional and management development training,N,Establishments exempt from federal income tax,808,8 largest firms,2002,72,202236,25.9,73462,18225,2033
+0100000US,,United States,611430,Professional and management development training,N,Establishments exempt from federal income tax,820,20 largest firms,2002,85,313229,40.1,105511,26084,2816
+0100000US,,United States,611430,Professional and management development training,N,Establishments exempt from federal income tax,850,50 largest firms,2002,116,450183,57.7,142458,35347,3762
+0100000US,,United States,611430,Professional and management development training,T,Establishments subject to federal income tax,001,All firms,2002,3682,3189867,100.0,1029887,248964,23152
+0100000US,,United States,611430,Professional and management development training,T,Establishments subject to federal income tax,804,4 largest firms,2002,42,288969,9.1,74072,17196,1326
+0100000US,,United States,611430,Professional and management development training,T,Establishments subject to federal income tax,808,8 largest firms,2002,47,490256,15.4,121381,30112,2628
+0100000US,,United States,611430,Professional and management development training,T,Establishments subject to federal income tax,820,20 largest firms,2002,77,854647,26.8,235566,57893,4236
+0100000US,,United States,611430,Professional and management development training,T,Establishments subject to federal income tax,850,50 largest firms,2002,114,1253616,39.3,347728,84585,6306
+0100000US,,United States,6115,Technical and trade schools,A,All establishments,001,All firms,2002,7248,7451159,100.0,2454426,590724,91893
+0100000US,,United States,6115,Technical and trade schools,A,All establishments,804,4 largest firms,2002,137,1091345,14.6,331464,80521,7180
+0100000US,,United States,6115,Technical and trade schools,A,All establishments,808,8 largest firms,2002,170,1405249,18.9,428059,101588,9508
+0100000US,,United States,6115,Technical and trade schools,A,All establishments,820,20 largest firms,2002,243,2059485,27.6,622920,145212,14796
+0100000US,,United States,6115,Technical and trade schools,A,All establishments,850,50 largest firms,2002,364,2847797,38.2,872122,214577,23721
+0100000US,,United States,6115,Technical and trade schools,N,Establishments exempt from federal income tax,001,All firms,2002,1870,1545692,100.0,531692,129016,24047
+0100000US,,United States,6115,Technical and trade schools,N,Establishments exempt from federal income tax,804,4 largest firms,2002,10,115983,7.5,36168,8451,1011
+0100000US,,United States,6115,Technical and trade schools,N,Establishments exempt from federal income tax,808,8 largest firms,2002,19,182261,11.8,53457,12070,1536
+0100000US,,United States,6115,Technical and trade schools,N,Establishments exempt from federal income tax,820,20 largest firms,2002,50,350994,22.7,112018,25596,3496
+0100000US,,United States,6115,Technical and trade schools,N,Establishments exempt from federal income tax,850,50 largest firms,2002,173,606526,39.2,204210,47875,6795
+0100000US,,United States,6115,Technical and trade schools,T,Establishments subject to federal income tax,001,All firms,2002,5378,5905467,100.0,1922734,461708,67846
+0100000US,,United States,6115,Technical and trade schools,T,Establishments subject to federal income tax,804,4 largest firms,2002,137,1091345,18.5,331464,80521,7180
+0100000US,,United States,6115,Technical and trade schools,T,Establishments subject to federal income tax,808,8 largest firms,2002,170,1405249,23.8,428059,101588,9508
+0100000US,,United States,6115,Technical and trade schools,T,Establishments subject to federal income tax,820,20 largest firms,2002,243,2050104,34.7,613178,143828,14915
+0100000US,,United States,6115,Technical and trade schools,T,Establishments subject to federal income tax,850,50 largest firms,2002,366,2799540,47.4,867309,212286,23647
+0100000US,,United States,61151,Technical and trade schools,A,All establishments,001,All firms,2002,7248,7451159,100.0,2454426,590724,91893
+0100000US,,United States,61151,Technical and trade schools,A,All establishments,804,4 largest firms,2002,137,1091345,14.6,331464,80521,7180
+0100000US,,United States,61151,Technical and trade schools,A,All establishments,808,8 largest firms,2002,170,1405249,18.9,428059,101588,9508
+0100000US,,United States,61151,Technical and trade schools,A,All establishments,820,20 largest firms,2002,243,2059485,27.6,622920,145212,14796
+0100000US,,United States,61151,Technical and trade schools,A,All establishments,850,50 largest firms,2002,364,2847797,38.2,872122,214577,23721
+0100000US,,United States,61151,Technical and trade schools,N,Establishments exempt from federal income tax,001,All firms,2002,1870,1545692,100.0,531692,129016,24047
+0100000US,,United States,61151,Technical and trade schools,N,Establishments exempt from federal income tax,804,4 largest firms,2002,10,115983,7.5,36168,8451,1011
+0100000US,,United States,61151,Technical and trade schools,N,Establishments exempt from federal income tax,808,8 largest firms,2002,19,182261,11.8,53457,12070,1536
+0100000US,,United States,61151,Technical and trade schools,N,Establishments exempt from federal income tax,820,20 largest firms,2002,50,350994,22.7,112018,25596,3496
+0100000US,,United States,61151,Technical and trade schools,N,Establishments exempt from federal income tax,850,50 largest firms,2002,173,606526,39.2,204210,47875,6795
+0100000US,,United States,61151,Technical and trade schools,T,Establishments subject to federal income tax,001,All firms,2002,5378,5905467,100.0,1922734,461708,67846
+0100000US,,United States,61151,Technical and trade schools,T,Establishments subject to federal income tax,804,4 largest firms,2002,137,1091345,18.5,331464,80521,7180
+0100000US,,United States,61151,Technical and trade schools,T,Establishments subject to federal income tax,808,8 largest firms,2002,170,1405249,23.8,428059,101588,9508
+0100000US,,United States,61151,Technical and trade schools,T,Establishments subject to federal income tax,820,20 largest firms,2002,243,2050104,34.7,613178,143828,14915
+0100000US,,United States,61151,Technical and trade schools,T,Establishments subject to federal income tax,850,50 largest firms,2002,366,2799540,47.4,867309,212286,23647
+0100000US,,United States,611511,Cosmetology and barber schools,A,All establishments,001,All firms,2002,1552,746473,100.0,249481,55842,11049
+0100000US,,United States,611511,Cosmetology and barber schools,A,All establishments,804,4 largest firms,2002,36,103909,13.9,26928,4834,553
+0100000US,,United States,611511,Cosmetology and barber schools,A,All establishments,808,8 largest firms,2002,54,129134,17.3,36419,7197,941
+0100000US,,United States,611511,Cosmetology and barber schools,A,All establishments,820,20 largest firms,2002,102,182292,24.4,51571,10613,1592
+0100000US,,United States,611511,Cosmetology and barber schools,A,All establishments,850,50 largest firms,2002,178,261464,35.0,76809,16625,2580
+0100000US,,United States,611511,Cosmetology and barber schools,N,Establishments exempt from federal income tax,001,All firms,2002,67,31907,100.0,12155,2857,603
+0100000US,,United States,611511,Cosmetology and barber schools,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,17872,56.0,7558,1827,358
+0100000US,,United States,611511,Cosmetology and barber schools,N,Establishments exempt from federal income tax,808,8 largest firms,2002,8,22415,70.3,8863,2177,422
+0100000US,,United States,611511,Cosmetology and barber schools,N,Establishments exempt from federal income tax,820,20 largest firms,2002,20,27355,85.7,10542,2527,493
+0100000US,,United States,611511,Cosmetology and barber schools,N,Establishments exempt from federal income tax,850,50 largest firms,2002,50,31503,98.7,12008,2812,578
+0100000US,,United States,611511,Cosmetology and barber schools,T,Establishments subject to federal income tax,001,All firms,2002,1485,714566,100.0,237326,52985,10446
+0100000US,,United States,611511,Cosmetology and barber schools,T,Establishments subject to federal income tax,804,4 largest firms,2002,36,103909,14.5,26928,4834,553
+0100000US,,United States,611511,Cosmetology and barber schools,T,Establishments subject to federal income tax,808,8 largest firms,2002,55,127555,17.9,33308,6358,800
+0100000US,,United States,611511,Cosmetology and barber schools,T,Establishments subject to federal income tax,820,20 largest firms,2002,106,175852,24.6,48261,9794,1405
+0100000US,,United States,611511,Cosmetology and barber schools,T,Establishments subject to federal income tax,850,50 largest firms,2002,177,248834,34.8,71589,15265,2337
+0100000US,,United States,611512,Flight training,A,All establishments,001,All firms,2002,991,1662607,100.0,480215,120707,15155
+0100000US,,United States,611512,Flight training,A,All establishments,804,4 largest firms,2002,119,787235,47.3,211758,53155,3890
+0100000US,,United States,611512,Flight training,A,All establishments,808,8 largest firms,2002,134,920753,55.4,275589,68700,5509
+0100000US,,United States,611512,Flight training,A,All establishments,820,20 largest firms,2002,148,1092983,65.7,331119,85470,7795
+0100000US,,United States,611512,Flight training,A,All establishments,850,50 largest firms,2002,187,1252994,75.4,372751,95269,9423
+0100000US,,United States,611512,Flight training,N,Establishments exempt from federal income tax,001,All firms,2002,49,24998,100.0,6645,1788,357
+0100000US,,United States,611512,Flight training,N,Establishments exempt from federal income tax,804,4 largest firms,2002,8,16243,65.0,3866,1035,202
+0100000US,,United States,611512,Flight training,N,Establishments exempt from federal income tax,808,8 largest firms,2002,12,19700,78.8,4811,1402,264
+0100000US,,United States,611512,Flight training,N,Establishments exempt from federal income tax,820,20 largest firms,2002,24,24012,96.1,6410,1735,333
+0100000US,,United States,611512,Flight training,N,Establishments exempt from federal income tax,850,50 largest firms,2002,49,24998,100.0,6645,1788,357
+0100000US,,United States,611512,Flight training,T,Establishments subject to federal income tax,001,All firms,2002,942,1637609,100.0,473570,118919,14798
+0100000US,,United States,611512,Flight training,T,Establishments subject to federal income tax,804,4 largest firms,2002,119,787235,48.1,211758,53155,3890
+0100000US,,United States,611512,Flight training,T,Establishments subject to federal income tax,808,8 largest firms,2002,134,920753,56.2,275589,68700,5509
+0100000US,,United States,611512,Flight training,T,Establishments subject to federal income tax,820,20 largest firms,2002,148,1092983,66.7,331119,85470,7795
+0100000US,,United States,611512,Flight training,T,Establishments subject to federal income tax,850,50 largest firms,2002,184,1247500,76.2,371499,94913,9363
+0100000US,,United States,611513,Apprenticeship training,A,All establishments,001,All firms,2002,1370,882053,100.0,286828,69880,13993
+0100000US,,United States,611513,Apprenticeship training,A,All establishments,804,4 largest firms,2002,15,68476,7.8,19200,4164,513
+0100000US,,United States,611513,Apprenticeship training,A,All establishments,808,8 largest firms,2002,21,122169,13.9,35704,8234,1132
+0100000US,,United States,611513,Apprenticeship training,A,All establishments,820,20 largest firms,2002,119,233118,26.4,72764,16851,2327
+0100000US,,United States,611513,Apprenticeship training,A,All establishments,850,50 largest firms,2002,173,366070,41.5,114612,26773,3860
+0100000US,,United States,611513,Apprenticeship training,N,Establishments exempt from federal income tax,001,All firms,2002,1164,790537,100.0,256671,63018,12685
+0100000US,,United States,611513,Apprenticeship training,N,Establishments exempt from federal income tax,804,4 largest firms,2002,15,68476,8.7,19200,4164,513
+0100000US,,United States,611513,Apprenticeship training,N,Establishments exempt from federal income tax,808,8 largest firms,2002,21,122169,15.5,35704,8234,1132
+0100000US,,United States,611513,Apprenticeship training,N,Establishments exempt from federal income tax,820,20 largest firms,2002,117,227716,28.8,72412,16841,2430
+0100000US,,United States,611513,Apprenticeship training,N,Establishments exempt from federal income tax,850,50 largest firms,2002,170,355549,45.0,111967,26306,3881
+0100000US,,United States,611513,Apprenticeship training,T,Establishments subject to federal income tax,001,All firms,2002,206,91516,100.0,30157,6862,1308
+0100000US,,United States,611513,Apprenticeship training,T,Establishments subject to federal income tax,804,4 largest firms,2002,7,22923,25.0,7146,1528,183
+0100000US,,United States,611513,Apprenticeship training,T,Establishments subject to federal income tax,808,8 largest firms,2002,11,32167,35.1,10078,2114,253
+0100000US,,United States,611513,Apprenticeship training,T,Establishments subject to federal income tax,820,20 largest firms,2002,23,47861,52.3,15710,3193,536
+0100000US,,United States,611513,Apprenticeship training,T,Establishments subject to federal income tax,850,50 largest firms,2002,53,70235,76.7,23275,5071,856
+0100000US,,United States,611519,Other technical and trade schools,A,All establishments,001,All firms,2002,3335,4160026,100.0,1437902,344295,51696
+0100000US,,United States,611519,Other technical and trade schools,A,All establishments,804,4 largest firms,2002,37,589181,14.2,197513,46919,4939
+0100000US,,United States,611519,Other technical and trade schools,A,All establishments,808,8 largest firms,2002,88,847424,20.4,280360,64619,7673
+0100000US,,United States,611519,Other technical and trade schools,A,All establishments,820,20 largest firms,2002,135,1385239,33.3,438453,103629,13236
+0100000US,,United States,611519,Other technical and trade schools,A,All establishments,850,50 largest firms,2002,252,1980369,47.6,638061,152670,19293
+0100000US,,United States,611519,Other technical and trade schools,N,Establishments exempt from federal income tax,001,All firms,2002,590,698250,100.0,256221,61353,10402
+0100000US,,United States,611519,Other technical and trade schools,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,111714,16.0,33952,7836,1031
+0100000US,,United States,611519,Other technical and trade schools,N,Establishments exempt from federal income tax,808,8 largest firms,2002,15,173906,24.9,58556,13271,1669
+0100000US,,United States,611519,Other technical and trade schools,N,Establishments exempt from federal income tax,820,20 largest firms,2002,34,303423,43.5,105967,24838,3461
+0100000US,,United States,611519,Other technical and trade schools,N,Establishments exempt from federal income tax,850,50 largest firms,2002,86,446286,63.9,160798,38530,5448
+0100000US,,United States,611519,Other technical and trade schools,T,Establishments subject to federal income tax,001,All firms,2002,2745,3461776,100.0,1181681,282942,41294
+0100000US,,United States,611519,Other technical and trade schools,T,Establishments subject to federal income tax,804,4 largest firms,2002,37,589181,17.0,197513,46919,4939
+0100000US,,United States,611519,Other technical and trade schools,T,Establishments subject to federal income tax,808,8 largest firms,2002,88,847424,24.5,280360,64619,7673
+0100000US,,United States,611519,Other technical and trade schools,T,Establishments subject to federal income tax,820,20 largest firms,2002,135,1363069,39.4,417317,99432,12587
+0100000US,,United States,611519,Other technical and trade schools,T,Establishments subject to federal income tax,850,50 largest firms,2002,271,1895340,54.8,603638,144579,18398
+0100000US,,United States,6115191,Technical and trade schools ,A,All establishments,001,All firms,2002,2886,3686254,100.0,1273003,301035,45347
+0100000US,,United States,6115191,Technical and trade schools ,A,All establishments,804,4 largest firms,2002,37,589181,16.0,197513,46919,4939
+0100000US,,United States,6115191,Technical and trade schools ,A,All establishments,808,8 largest firms,2002,82,832725,22.6,276746,66264,7533
+0100000US,,United States,6115191,Technical and trade schools ,A,All establishments,820,20 largest firms,2002,136,1350312,36.6,423925,99269,12610
+0100000US,,United States,6115191,Technical and trade schools ,A,All establishments,850,50 largest firms,2002,253,1894977,51.4,615744,145939,18560
+0100000US,,United States,6115191,Technical and trade schools ,N,Establishments exempt from federal income tax,001,All firms,2002,564,676845,100.0,249692,59414,10160
+0100000US,,United States,6115191,Technical and trade schools ,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,111714,16.5,33952,7836,1031
+0100000US,,United States,6115191,Technical and trade schools ,N,Establishments exempt from federal income tax,808,8 largest firms,2002,15,173906,25.7,58556,13271,1669
+0100000US,,United States,6115191,Technical and trade schools ,N,Establishments exempt from federal income tax,820,20 largest firms,2002,34,303423,44.8,105967,24838,3461
+0100000US,,United States,6115191,Technical and trade schools ,N,Establishments exempt from federal income tax,850,50 largest firms,2002,90,443896,65.6,161766,38598,5587
+0100000US,,United States,6115191,Technical and trade schools ,T,Establishments subject to federal income tax,001,All firms,2002,2322,3009409,100.0,1023311,241621,35187
+0100000US,,United States,6115191,Technical and trade schools ,T,Establishments subject to federal income tax,804,4 largest firms,2002,37,589181,19.6,197513,46919,4939
+0100000US,,United States,6115191,Technical and trade schools ,T,Establishments subject to federal income tax,808,8 largest firms,2002,82,832725,27.7,276746,66264,7533
+0100000US,,United States,6115191,Technical and trade schools ,T,Establishments subject to federal income tax,820,20 largest firms,2002,140,1326522,44.1,412701,97532,12333
+0100000US,,United States,6115191,Technical and trade schools ,T,Establishments subject to federal income tax,850,50 largest firms,2002,256,1784860,59.3,572235,135668,17110
+0100000US,,United States,6115192,Computer repair training,A,All establishments,001,All firms,2002,62,106798,100.0,41028,6997,877
+0100000US,,United States,6115192,Computer repair training,A,All establishments,804,4 largest firms,2002,7,60181,56.4,18481,2106,270
+0100000US,,United States,6115192,Computer repair training,A,All establishments,808,8 largest firms,2002,11,76826,71.9,25461,3764,408
+0100000US,,United States,6115192,Computer repair training,A,All establishments,820,20 largest firms,2002,23,97305,91.1,37995,6270,742
+0100000US,,United States,6115192,Computer repair training,A,All establishments,850,50 largest firms,2002,53,106606,99.8,40952,6974,865
+0100000US,,United States,6115192,Computer repair training,N,Establishments exempt from federal income tax,001,All firms,2002,6,806,100.0,334,73,21
+0100000US,,United States,6115192,Computer repair training,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,D,D,D,D,a
+0100000US,,United States,6115192,Computer repair training,N,Establishments exempt from federal income tax,808,8 largest firms,2002,6,D,D,D,D,b
+0100000US,,United States,6115192,Computer repair training,N,Establishments exempt from federal income tax,820,20 largest firms,2002,6,D,D,D,D,b
+0100000US,,United States,6115192,Computer repair training,N,Establishments exempt from federal income tax,850,50 largest firms,2002,6,D,D,D,D,b
+0100000US,,United States,6115192,Computer repair training,T,Establishments subject to federal income tax,001,All firms,2002,56,105992,100.0,40694,6924,856
+0100000US,,United States,6115192,Computer repair training,T,Establishments subject to federal income tax,804,4 largest firms,2002,7,60181,56.8,18481,2106,270
+0100000US,,United States,6115192,Computer repair training,T,Establishments subject to federal income tax,808,8 largest firms,2002,11,76826,72.5,25461,3764,408
+0100000US,,United States,6115192,Computer repair training,T,Establishments subject to federal income tax,820,20 largest firms,2002,23,97305,91.8,37995,6270,742
+0100000US,,United States,6115192,Computer repair training,T,Establishments subject to federal income tax,850,50 largest firms,2002,53,105967,100.0,40683,6923,855
+0100000US,,United States,6115193,Truck driving schools,A,All establishments,001,All firms,2002,387,366974,100.0,123871,36263,5472
+0100000US,,United States,6115193,Truck driving schools,A,All establishments,804,4 largest firms,2002,21,114516,31.2,31608,11165,1432
+0100000US,,United States,6115193,Truck driving schools,A,All establishments,808,8 largest firms,2002,52,146775,40.0,41863,13514,1885
+0100000US,,United States,6115193,Truck driving schools,A,All establishments,820,20 largest firms,2002,83,202356,55.1,59642,19176,2638
+0100000US,,United States,6115193,Truck driving schools,A,All establishments,850,50 largest firms,2002,123,269017,73.3,85528,26528,3738
+0100000US,,United States,6115193,Truck driving schools,N,Establishments exempt from federal income tax,001,All firms,2002,20,20599,100.0,6195,1866,221
+0100000US,,United States,6115193,Truck driving schools,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,13652,66.3,3701,1176,110
+0100000US,,United States,6115193,Truck driving schools,N,Establishments exempt from federal income tax,808,8 largest firms,2002,8,17980,87.3,5535,1709,176
+0100000US,,United States,6115193,Truck driving schools,N,Establishments exempt from federal income tax,820,20 largest firms,2002,20,20599,100.0,6195,1866,221
+0100000US,,United States,6115193,Truck driving schools,N,Establishments exempt from federal income tax,850,50 largest firms,2002,20,20599,100.0,6195,1866,221
+0100000US,,United States,6115193,Truck driving schools,T,Establishments subject to federal income tax,001,All firms,2002,367,346375,100.0,117676,34397,5251
+0100000US,,United States,6115193,Truck driving schools,T,Establishments subject to federal income tax,804,4 largest firms,2002,21,114516,33.1,31608,11165,1432
+0100000US,,United States,6115193,Truck driving schools,T,Establishments subject to federal income tax,808,8 largest firms,2002,52,146775,42.4,41863,13514,1885
+0100000US,,United States,6115193,Truck driving schools,T,Establishments subject to federal income tax,820,20 largest firms,2002,88,200122,57.8,59809,19168,2649
+0100000US,,United States,6115193,Truck driving schools,T,Establishments subject to federal income tax,850,50 largest firms,2002,122,260258,75.1,83628,25796,3686
+0100000US,,United States,6116,Other schools and instruction,A,All establishments,001,All firms,2002,29301,9783370,100.0,3398145,803712,223082
+0100000US,,United States,6116,Other schools and instruction,A,All establishments,804,4 largest firms,2002,888,674897,6.9,268765,64540,14133
+0100000US,,United States,6116,Other schools and instruction,A,All establishments,808,8 largest firms,2002,892,866323,8.9,357128,86220,15443
+0100000US,,United States,6116,Other schools and instruction,A,All establishments,820,20 largest firms,2002,946,1190740,12.2,440564,106671,17092
+0100000US,,United States,6116,Other schools and instruction,A,All establishments,850,50 largest firms,2002,1071,1610625,16.5,593123,141371,22080
+0100000US,,United States,6116,Other schools and instruction,N,Establishments exempt from federal income tax,001,All firms,2002,6583,2688705,100.0,996476,241456,60800
+0100000US,,United States,6116,Other schools and instruction,N,Establishments exempt from federal income tax,804,4 largest firms,2002,39,96956,3.6,31906,7634,1007
+0100000US,,United States,6116,Other schools and instruction,N,Establishments exempt from federal income tax,808,8 largest firms,2002,55,154428,5.7,49316,11453,1599
+0100000US,,United States,6116,Other schools and instruction,N,Establishments exempt from federal income tax,820,20 largest firms,2002,67,284838,10.6,81408,18450,2503
+0100000US,,United States,6116,Other schools and instruction,N,Establishments exempt from federal income tax,850,50 largest firms,2002,122,495328,18.4,149625,35844,5208
+0100000US,,United States,6116,Other schools and instruction,T,Establishments subject to federal income tax,001,All firms,2002,22718,7094665,100.0,2401669,562256,162282
+0100000US,,United States,6116,Other schools and instruction,T,Establishments subject to federal income tax,804,4 largest firms,2002,888,674897,9.5,268765,64540,14133
+0100000US,,United States,6116,Other schools and instruction,T,Establishments subject to federal income tax,808,8 largest firms,2002,892,866323,12.2,357128,86220,15443
+0100000US,,United States,6116,Other schools and instruction,T,Establishments subject to federal income tax,820,20 largest firms,2002,945,1159964,16.3,446445,106653,17400
+0100000US,,United States,6116,Other schools and instruction,T,Establishments subject to federal income tax,850,50 largest firms,2002,1116,1513780,21.3,569527,137031,21763
+0100000US,,United States,61161,Fine arts schools,A,All establishments,001,All firms,2002,9141,2237560,100.0,737572,180551,60523
+0100000US,,United States,61161,Fine arts schools,A,All establishments,804,4 largest firms,2002,4,54780,2.4,16619,3794,299
+0100000US,,United States,61161,Fine arts schools,A,All establishments,808,8 largest firms,2002,28,93099,4.2,33649,8167,825
+0100000US,,United States,61161,Fine arts schools,A,All establishments,820,20 largest firms,2002,44,163369,7.3,63718,15882,2290
+0100000US,,United States,61161,Fine arts schools,A,All establishments,850,50 largest firms,2002,86,287316,12.8,114011,28438,4908
+0100000US,,United States,61161,Fine arts schools,N,Establishments exempt from federal income tax,001,All firms,2002,1833,738747,100.0,280190,68306,19061
+0100000US,,United States,61161,Fine arts schools,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,33958,4.6,12456,3337,486
+0100000US,,United States,61161,Fine arts schools,N,Establishments exempt from federal income tax,808,8 largest firms,2002,11,57252,7.7,22362,5933,927
+0100000US,,United States,61161,Fine arts schools,N,Establishments exempt from federal income tax,820,20 largest firms,2002,34,114265,15.5,47134,12131,2421
+0100000US,,United States,61161,Fine arts schools,N,Establishments exempt from federal income tax,850,50 largest firms,2002,72,211099,28.6,81836,20661,4344
+0100000US,,United States,61161,Fine arts schools,T,Establishments subject to federal income tax,001,All firms,2002,7308,1498813,100.0,457382,112245,41462
+0100000US,,United States,61161,Fine arts schools,T,Establishments subject to federal income tax,804,4 largest firms,2002,6,53614,3.6,18687,4268,446
+0100000US,,United States,61161,Fine arts schools,T,Establishments subject to federal income tax,808,8 largest firms,2002,29,85315,5.7,32109,7919,916
+0100000US,,United States,61161,Fine arts schools,T,Establishments subject to federal income tax,820,20 largest firms,2002,42,134835,9.0,52606,12855,1799
+0100000US,,United States,61161,Fine arts schools,T,Establishments subject to federal income tax,850,50 largest firms,2002,95,199990,13.3,75967,18086,3082
+0100000US,,United States,611610,Fine arts schools,A,All establishments,001,All firms,2002,9141,2237560,100.0,737572,180551,60523
+0100000US,,United States,611610,Fine arts schools,A,All establishments,804,4 largest firms,2002,4,54780,2.4,16619,3794,299
+0100000US,,United States,611610,Fine arts schools,A,All establishments,808,8 largest firms,2002,28,93099,4.2,33649,8167,825
+0100000US,,United States,611610,Fine arts schools,A,All establishments,820,20 largest firms,2002,44,163369,7.3,63718,15882,2290
+0100000US,,United States,611610,Fine arts schools,A,All establishments,850,50 largest firms,2002,86,287316,12.8,114011,28438,4908
+0100000US,,United States,611610,Fine arts schools,N,Establishments exempt from federal income tax,001,All firms,2002,1833,738747,100.0,280190,68306,19061
+0100000US,,United States,611610,Fine arts schools,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,33958,4.6,12456,3337,486
+0100000US,,United States,611610,Fine arts schools,N,Establishments exempt from federal income tax,808,8 largest firms,2002,11,57252,7.7,22362,5933,927
+0100000US,,United States,611610,Fine arts schools,N,Establishments exempt from federal income tax,820,20 largest firms,2002,34,114265,15.5,47134,12131,2421
+0100000US,,United States,611610,Fine arts schools,N,Establishments exempt from federal income tax,850,50 largest firms,2002,72,211099,28.6,81836,20661,4344
+0100000US,,United States,611610,Fine arts schools,T,Establishments subject to federal income tax,001,All firms,2002,7308,1498813,100.0,457382,112245,41462
+0100000US,,United States,611610,Fine arts schools,T,Establishments subject to federal income tax,804,4 largest firms,2002,6,53614,3.6,18687,4268,446
+0100000US,,United States,611610,Fine arts schools,T,Establishments subject to federal income tax,808,8 largest firms,2002,29,85315,5.7,32109,7919,916
+0100000US,,United States,611610,Fine arts schools,T,Establishments subject to federal income tax,820,20 largest firms,2002,42,134835,9.0,52606,12855,1799
+0100000US,,United States,611610,Fine arts schools,T,Establishments subject to federal income tax,850,50 largest firms,2002,95,199990,13.3,75967,18086,3082
+0100000US,,United States,6116101,Dance schools (including children's and professionals'),A,All establishments,001,All firms,2002,6504,1318672,100.0,390426,95737,37716
+0100000US,,United States,6116101,Dance schools (including children's and professionals'),A,All establishments,804,4 largest firms,2002,7,38476,2.9,13923,3276,318
+0100000US,,United States,6116101,Dance schools (including children's and professionals'),A,All establishments,808,8 largest firms,2002,11,57689,4.4,20984,4749,637
+0100000US,,United States,6116101,Dance schools (including children's and professionals'),A,All establishments,820,20 largest firms,2002,26,94241,7.1,32767,7293,1259
+0100000US,,United States,6116101,Dance schools (including children's and professionals'),A,All establishments,850,50 largest firms,2002,73,153665,11.7,54148,12473,2547
+0100000US,,United States,6116101,Dance schools (including children's and professionals'),N,Establishments exempt from federal income tax,001,All firms,2002,701,174523,100.0,56908,13766,4456
+0100000US,,United States,6116101,Dance schools (including children's and professionals'),N,Establishments exempt from federal income tax,804,4 largest firms,2002,8,20529,11.8,7129,1747,280
+0100000US,,United States,6116101,Dance schools (including children's and professionals'),N,Establishments exempt from federal income tax,808,8 largest firms,2002,13,31397,18.0,10731,2583,430
+0100000US,,United States,6116101,Dance schools (including children's and professionals'),N,Establishments exempt from federal income tax,820,20 largest firms,2002,25,54051,31.0,18567,4422,774
+0100000US,,United States,6116101,Dance schools (including children's and professionals'),N,Establishments exempt from federal income tax,850,50 largest firms,2002,55,79636,45.6,26317,6202,1227
+0100000US,,United States,6116101,Dance schools (including children's and professionals'),T,Establishments subject to federal income tax,001,All firms,2002,5803,1144149,100.0,333518,81971,33260
+0100000US,,United States,6116101,Dance schools (including children's and professionals'),T,Establishments subject to federal income tax,804,4 largest firms,2002,5,35307,3.1,14209,3111,467
+0100000US,,United States,6116101,Dance schools (including children's and professionals'),T,Establishments subject to federal income tax,808,8 largest firms,2002,9,51433,4.5,18285,4171,578
+0100000US,,United States,6116101,Dance schools (including children's and professionals'),T,Establishments subject to federal income tax,820,20 largest firms,2002,24,80933,7.1,28740,6436,1229
+0100000US,,United States,6116101,Dance schools (including children's and professionals'),T,Establishments subject to federal income tax,850,50 largest firms,2002,75,127364,11.1,46989,10672,2541
+0100000US,,United States,6116102,"Art, drama, and music schools",A,All establishments,001,All firms,2002,2637,918888,100.0,347146,84814,22807
+0100000US,,United States,6116102,"Art, drama, and music schools",A,All establishments,804,4 largest firms,2002,6,47433,5.2,14488,3158,472
+0100000US,,United States,6116102,"Art, drama, and music schools",A,All establishments,808,8 largest firms,2002,28,81148,8.8,29600,7632,1081
+0100000US,,United States,6116102,"Art, drama, and music schools",A,All establishments,820,20 largest firms,2002,51,143254,15.6,56911,14747,2634
+0100000US,,United States,6116102,"Art, drama, and music schools",A,All establishments,850,50 largest firms,2002,86,252793,27.5,101525,25784,4743
+0100000US,,United States,6116102,"Art, drama, and music schools",N,Establishments exempt from federal income tax,001,All firms,2002,1132,564224,100.0,223282,54540,14605
+0100000US,,United States,6116102,"Art, drama, and music schools",N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,32319,5.7,12126,3382,584
+0100000US,,United States,6116102,"Art, drama, and music schools",N,Establishments exempt from federal income tax,808,8 largest firms,2002,9,54093,9.6,22093,5878,963
+0100000US,,United States,6116102,"Art, drama, and music schools",N,Establishments exempt from federal income tax,820,20 largest firms,2002,32,109002,19.3,45481,11469,2479
+0100000US,,United States,6116102,"Art, drama, and music schools",N,Establishments exempt from federal income tax,850,50 largest firms,2002,68,198518,35.2,78615,19798,4337
+0100000US,,United States,6116102,"Art, drama, and music schools",T,Establishments subject to federal income tax,001,All firms,2002,1505,354664,100.0,123864,30274,8202
+0100000US,,United States,6116102,"Art, drama, and music schools",T,Establishments subject to federal income tax,804,4 largest firms,2002,6,46165,13.0,15851,3669,541
+0100000US,,United States,6116102,"Art, drama, and music schools",T,Establishments subject to federal income tax,808,8 largest firms,2002,28,68905,19.4,27957,7211,878
+0100000US,,United States,6116102,"Art, drama, and music schools",T,Establishments subject to federal income tax,820,20 largest firms,2002,49,100886,28.4,39896,10033,1329
+0100000US,,United States,6116102,"Art, drama, and music schools",T,Establishments subject to federal income tax,850,50 largest firms,2002,82,139344,39.3,55343,13675,2104
+0100000US,,United States,61162,Sports and recreation instruction,A,All establishments,001,All firms,2002,9095,2489219,100.0,772452,173015,55475
+0100000US,,United States,61162,Sports and recreation instruction,A,All establishments,804,4 largest firms,2002,6,135356,5.4,50498,11789,1032
+0100000US,,United States,61162,Sports and recreation instruction,A,All establishments,808,8 largest firms,2002,47,187591,7.5,63783,14911,1632
+0100000US,,United States,61162,Sports and recreation instruction,A,All establishments,820,20 largest firms,2002,96,263356,10.6,84862,18922,2314
+0100000US,,United States,61162,Sports and recreation instruction,A,All establishments,850,50 largest firms,2002,134,381827,15.3,117565,25316,3751
+0100000US,,United States,61162,Sports and recreation instruction,N,Establishments exempt from federal income tax,001,All firms,2002,1560,391550,100.0,131380,31017,10314
+0100000US,,United States,61162,Sports and recreation instruction,N,Establishments exempt from federal income tax,804,4 largest firms,2002,7,23475,6.0,6625,1600,401
+0100000US,,United States,61162,Sports and recreation instruction,N,Establishments exempt from federal income tax,808,8 largest firms,2002,11,37298,9.5,11666,2794,540
+0100000US,,United States,61162,Sports and recreation instruction,N,Establishments exempt from federal income tax,820,20 largest firms,2002,25,64920,16.6,22444,5007,937
+0100000US,,United States,61162,Sports and recreation instruction,N,Establishments exempt from federal income tax,850,50 largest firms,2002,55,114124,29.1,37300,8825,2121
+0100000US,,United States,61162,Sports and recreation instruction,T,Establishments subject to federal income tax,001,All firms,2002,7535,2097669,100.0,641072,141998,45161
+0100000US,,United States,61162,Sports and recreation instruction,T,Establishments subject to federal income tax,804,4 largest firms,2002,6,135356,6.5,50498,11789,1032
+0100000US,,United States,61162,Sports and recreation instruction,T,Establishments subject to federal income tax,808,8 largest firms,2002,47,186987,8.9,62858,14559,1643
+0100000US,,United States,61162,Sports and recreation instruction,T,Establishments subject to federal income tax,820,20 largest firms,2002,94,259931,12.4,82865,18217,2242
+0100000US,,United States,61162,Sports and recreation instruction,T,Establishments subject to federal income tax,850,50 largest firms,2002,134,367081,17.5,114290,24230,3698
+0100000US,,United States,611620,Sports and recreation instruction,A,All establishments,001,All firms,2002,9095,2489219,100.0,772452,173015,55475
+0100000US,,United States,611620,Sports and recreation instruction,A,All establishments,804,4 largest firms,2002,6,135356,5.4,50498,11789,1032
+0100000US,,United States,611620,Sports and recreation instruction,A,All establishments,808,8 largest firms,2002,47,187591,7.5,63783,14911,1632
+0100000US,,United States,611620,Sports and recreation instruction,A,All establishments,820,20 largest firms,2002,96,263356,10.6,84862,18922,2314
+0100000US,,United States,611620,Sports and recreation instruction,A,All establishments,850,50 largest firms,2002,134,381827,15.3,117565,25316,3751
+0100000US,,United States,611620,Sports and recreation instruction,N,Establishments exempt from federal income tax,001,All firms,2002,1560,391550,100.0,131380,31017,10314
+0100000US,,United States,611620,Sports and recreation instruction,N,Establishments exempt from federal income tax,804,4 largest firms,2002,7,23475,6.0,6625,1600,401
+0100000US,,United States,611620,Sports and recreation instruction,N,Establishments exempt from federal income tax,808,8 largest firms,2002,11,37298,9.5,11666,2794,540
+0100000US,,United States,611620,Sports and recreation instruction,N,Establishments exempt from federal income tax,820,20 largest firms,2002,25,64920,16.6,22444,5007,937
+0100000US,,United States,611620,Sports and recreation instruction,N,Establishments exempt from federal income tax,850,50 largest firms,2002,55,114124,29.1,37300,8825,2121
+0100000US,,United States,611620,Sports and recreation instruction,T,Establishments subject to federal income tax,001,All firms,2002,7535,2097669,100.0,641072,141998,45161
+0100000US,,United States,611620,Sports and recreation instruction,T,Establishments subject to federal income tax,804,4 largest firms,2002,6,135356,6.5,50498,11789,1032
+0100000US,,United States,611620,Sports and recreation instruction,T,Establishments subject to federal income tax,808,8 largest firms,2002,47,186987,8.9,62858,14559,1643
+0100000US,,United States,611620,Sports and recreation instruction,T,Establishments subject to federal income tax,820,20 largest firms,2002,94,259931,12.4,82865,18217,2242
+0100000US,,United States,611620,Sports and recreation instruction,T,Establishments subject to federal income tax,850,50 largest firms,2002,134,367081,17.5,114290,24230,3698
+0100000US,,United States,61163,Language schools,A,All establishments,001,All firms,2002,1075,649992,100.0,247417,60210,14534
+0100000US,,United States,61163,Language schools,A,All establishments,804,4 largest firms,2002,93,226304,34.8,77343,18812,2945
+0100000US,,United States,61163,Language schools,A,All establishments,808,8 largest firms,2002,102,274743,42.3,91870,22348,3552
+0100000US,,United States,61163,Language schools,A,All establishments,820,20 largest firms,2002,140,355027,54.6,125572,31358,4808
+0100000US,,United States,61163,Language schools,A,All establishments,850,50 largest firms,2002,193,429108,66.0,155620,38097,6227
+0100000US,,United States,61163,Language schools,N,Establishments exempt from federal income tax,001,All firms,2002,364,135277,100.0,57389,14004,5164
+0100000US,,United States,61163,Language schools,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,39219,29.0,14460,3621,567
+0100000US,,United States,61163,Language schools,N,Establishments exempt from federal income tax,808,8 largest firms,2002,9,51381,38.0,22267,5609,874
+0100000US,,United States,61163,Language schools,N,Establishments exempt from federal income tax,820,20 largest firms,2002,21,75006,55.4,30109,7261,1286
+0100000US,,United States,61163,Language schools,N,Establishments exempt from federal income tax,850,50 largest firms,2002,57,99738,73.7,40955,9980,2382
+0100000US,,United States,61163,Language schools,T,Establishments subject to federal income tax,001,All firms,2002,711,514715,100.0,190028,46206,9370
+0100000US,,United States,61163,Language schools,T,Establishments subject to federal income tax,804,4 largest firms,2002,93,226304,44.0,77343,18812,2945
+0100000US,,United States,61163,Language schools,T,Establishments subject to federal income tax,808,8 largest firms,2002,112,267501,52.0,90892,22325,3545
+0100000US,,United States,61163,Language schools,T,Establishments subject to federal income tax,820,20 largest firms,2002,140,328552,63.8,114965,28515,4435
+0100000US,,United States,61163,Language schools,T,Establishments subject to federal income tax,850,50 largest firms,2002,201,384651,74.7,139029,34181,5649
+0100000US,,United States,611630,Language schools,A,All establishments,001,All firms,2002,1075,649992,100.0,247417,60210,14534
+0100000US,,United States,611630,Language schools,A,All establishments,804,4 largest firms,2002,93,226304,34.8,77343,18812,2945
+0100000US,,United States,611630,Language schools,A,All establishments,808,8 largest firms,2002,102,274743,42.3,91870,22348,3552
+0100000US,,United States,611630,Language schools,A,All establishments,820,20 largest firms,2002,140,355027,54.6,125572,31358,4808
+0100000US,,United States,611630,Language schools,A,All establishments,850,50 largest firms,2002,193,429108,66.0,155620,38097,6227
+0100000US,,United States,611630,Language schools,N,Establishments exempt from federal income tax,001,All firms,2002,364,135277,100.0,57389,14004,5164
+0100000US,,United States,611630,Language schools,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,39219,29.0,14460,3621,567
+0100000US,,United States,611630,Language schools,N,Establishments exempt from federal income tax,808,8 largest firms,2002,9,51381,38.0,22267,5609,874
+0100000US,,United States,611630,Language schools,N,Establishments exempt from federal income tax,820,20 largest firms,2002,21,75006,55.4,30109,7261,1286
+0100000US,,United States,611630,Language schools,N,Establishments exempt from federal income tax,850,50 largest firms,2002,57,99738,73.7,40955,9980,2382
+0100000US,,United States,611630,Language schools,T,Establishments subject to federal income tax,001,All firms,2002,711,514715,100.0,190028,46206,9370
+0100000US,,United States,611630,Language schools,T,Establishments subject to federal income tax,804,4 largest firms,2002,93,226304,44.0,77343,18812,2945
+0100000US,,United States,611630,Language schools,T,Establishments subject to federal income tax,808,8 largest firms,2002,112,267501,52.0,90892,22325,3545
+0100000US,,United States,611630,Language schools,T,Establishments subject to federal income tax,820,20 largest firms,2002,140,328552,63.8,114965,28515,4435
+0100000US,,United States,611630,Language schools,T,Establishments subject to federal income tax,850,50 largest firms,2002,201,384651,74.7,139029,34181,5649
+0100000US,,United States,61169,All other schools and instruction,A,All establishments,001,All firms,2002,9990,4406599,100.0,1640704,389936,92550
+0100000US,,United States,61169,All other schools and instruction,A,All establishments,804,4 largest firms,2002,799,612767,13.9,264781,64286,12153
+0100000US,,United States,61169,All other schools and instruction,A,All establishments,808,8 largest firms,2002,804,736065,16.7,286889,69428,12546
+0100000US,,United States,61169,All other schools and instruction,A,All establishments,820,20 largest firms,2002,893,949460,21.5,374959,89454,15387
+0100000US,,United States,61169,All other schools and instruction,A,All establishments,850,50 largest firms,2002,1145,1276453,29.0,469292,112056,18832
+0100000US,,United States,61169,All other schools and instruction,N,Establishments exempt from federal income tax,001,All firms,2002,2826,1423131,100.0,527517,128129,26261
+0100000US,,United States,61169,All other schools and instruction,N,Establishments exempt from federal income tax,804,4 largest firms,2002,39,96956,6.8,31906,7634,1007
+0100000US,,United States,61169,All other schools and instruction,N,Establishments exempt from federal income tax,808,8 largest firms,2002,55,154428,10.9,49316,11453,1599
+0100000US,,United States,61169,All other schools and instruction,N,Establishments exempt from federal income tax,820,20 largest firms,2002,69,273712,19.2,75794,17217,2373
+0100000US,,United States,61169,All other schools and instruction,N,Establishments exempt from federal income tax,850,50 largest firms,2002,134,458092,32.2,131237,30768,4412
+0100000US,,United States,61169,All other schools and instruction,T,Establishments subject to federal income tax,001,All firms,2002,7164,2983468,100.0,1113187,261807,66289
+0100000US,,United States,61169,All other schools and instruction,T,Establishments subject to federal income tax,804,4 largest firms,2002,799,612767,20.5,264781,64286,12153
+0100000US,,United States,61169,All other schools and instruction,T,Establishments subject to federal income tax,808,8 largest firms,2002,805,723145,24.2,286379,69463,12594
+0100000US,,United States,61169,All other schools and instruction,T,Establishments subject to federal income tax,820,20 largest firms,2002,860,901065,30.2,366647,86737,14993
+0100000US,,United States,61169,All other schools and instruction,T,Establishments subject to federal income tax,850,50 largest firms,2002,1115,1140777,38.2,438198,105958,18409
+0100000US,,United States,611691,Exam preparation and tutoring,A,All establishments,001,All firms,2002,5035,1909336,100.0,772544,183676,53669
+0100000US,,United States,611691,Exam preparation and tutoring,A,All establishments,804,4 largest firms,2002,799,590662,30.9,243855,58032,11965
+0100000US,,United States,611691,Exam preparation and tutoring,A,All establishments,808,8 largest firms,2002,841,648404,34.0,265131,62874,12810
+0100000US,,United States,611691,Exam preparation and tutoring,A,All establishments,820,20 largest firms,2002,1066,744730,39.0,299825,72694,14531
+0100000US,,United States,611691,Exam preparation and tutoring,A,All establishments,850,50 largest firms,2002,1133,858304,45.0,351864,84009,17388
+0100000US,,United States,611691,Exam preparation and tutoring,N,Establishments exempt from federal income tax,001,All firms,2002,1240,370220,100.0,170877,42521,10966
+0100000US,,United States,611691,Exam preparation and tutoring,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,27928,7.5,13116,3163,479
+0100000US,,United States,611691,Exam preparation and tutoring,N,Establishments exempt from federal income tax,808,8 largest firms,2002,13,44772,12.1,24122,5839,939
+0100000US,,United States,611691,Exam preparation and tutoring,N,Establishments exempt from federal income tax,820,20 largest firms,2002,26,82958,22.4,37133,8645,1544
+0100000US,,United States,611691,Exam preparation and tutoring,N,Establishments exempt from federal income tax,850,50 largest firms,2002,76,143698,38.8,63790,15940,3057
+0100000US,,United States,611691,Exam preparation and tutoring,T,Establishments subject to federal income tax,001,All firms,2002,3795,1539116,100.0,601667,141155,42703
+0100000US,,United States,611691,Exam preparation and tutoring,T,Establishments subject to federal income tax,804,4 largest firms,2002,799,590662,38.4,243855,58032,11965
+0100000US,,United States,611691,Exam preparation and tutoring,T,Establishments subject to federal income tax,808,8 largest firms,2002,841,648404,42.1,265131,62874,12810
+0100000US,,United States,611691,Exam preparation and tutoring,T,Establishments subject to federal income tax,820,20 largest firms,2002,1067,735596,47.8,296522,71480,14765
+0100000US,,United States,611691,Exam preparation and tutoring,T,Establishments subject to federal income tax,850,50 largest firms,2002,1143,825019,53.6,332378,79464,16898
+0100000US,,United States,611692,Automobile driving schools,A,All establishments,001,All firms,2002,2039,541590,100.0,199486,45652,13384
+0100000US,,United States,611692,Automobile driving schools,A,All establishments,804,4 largest firms,2002,4,58589,10.8,18674,5013,764
+0100000US,,United States,611692,Automobile driving schools,A,All establishments,808,8 largest firms,2002,8,81269,15.0,24364,6318,1031
+0100000US,,United States,611692,Automobile driving schools,A,All establishments,820,20 largest firms,2002,20,122248,22.6,40936,9960,1684
+0100000US,,United States,611692,Automobile driving schools,A,All establishments,850,50 largest firms,2002,72,185657,34.3,65512,15662,2988
+0100000US,,United States,611692,Automobile driving schools,N,Establishments exempt from federal income tax,001,All firms,2002,179,62985,100.0,20982,5214,1465
+0100000US,,United States,611692,Automobile driving schools,N,Establishments exempt from federal income tax,804,4 largest firms,2002,4,22059,35.0,4857,1218,235
+0100000US,,United States,611692,Automobile driving schools,N,Establishments exempt from federal income tax,808,8 largest firms,2002,10,30121,47.8,8430,2204,428
+0100000US,,United States,611692,Automobile driving schools,N,Establishments exempt from federal income tax,820,20 largest firms,2002,28,43050,68.3,13899,3486,841
+0100000US,,United States,611692,Automobile driving schools,N,Establishments exempt from federal income tax,850,50 largest firms,2002,58,54368,86.3,17880,4454,1130
+0100000US,,United States,611692,Automobile driving schools,T,Establishments subject to federal income tax,001,All firms,2002,1860,478605,100.0,178504,40438,11919
+0100000US,,United States,611692,Automobile driving schools,T,Establishments subject to federal income tax,804,4 largest firms,2002,4,54768,11.4,20453,5353,820
+0100000US,,United States,611692,Automobile driving schools,T,Establishments subject to federal income tax,808,8 largest firms,2002,8,75002,15.7,26495,6976,1018
+0100000US,,United States,611692,Automobile driving schools,T,Establishments subject to federal income tax,820,20 largest firms,2002,31,110360,23.1,40139,9736,1676
+0100000US,,United States,611692,Automobile driving schools,T,Establishments subject to federal income tax,850,50 largest firms,2002,73,167440,35.0,60959,14404,2828
+0100000US,,United States,611699,All other miscellaneous schools and instruction,A,All establishments,001,All firms,2002,2916,1955673,100.0,668674,160608,25497
+0100000US,,United States,611699,All other miscellaneous schools and instruction,A,All establishments,804,4 largest firms,2002,5,135940,7.0,45922,12336,630
+0100000US,,United States,611699,All other miscellaneous schools and instruction,A,All establishments,808,8 largest firms,2002,23,218962,11.2,75168,17624,1285
+0100000US,,United States,611699,All other miscellaneous schools and instruction,A,All establishments,820,20 largest firms,2002,69,382629,19.6,132143,30473,3102
+0100000US,,United States,611699,All other miscellaneous schools and instruction,A,All establishments,850,50 largest firms,2002,114,636286,32.5,197615,46256,5328
+0100000US,,United States,611699,All other miscellaneous schools and instruction,N,Establishments exempt from federal income tax,001,All firms,2002,1407,989926,100.0,335658,80394,13830
+0100000US,,United States,611699,All other miscellaneous schools and instruction,N,Establishments exempt from federal income tax,804,4 largest firms,2002,14,93339,9.4,25948,5925,760
+0100000US,,United States,611699,All other miscellaneous schools and instruction,N,Establishments exempt from federal income tax,808,8 largest firms,2002,51,150012,15.2,45648,10536,1540
+0100000US,,United States,611699,All other miscellaneous schools and instruction,N,Establishments exempt from federal income tax,820,20 largest firms,2002,68,264207,26.7,67582,14995,2207
+0100000US,,United States,611699,All other miscellaneous schools and instruction,N,Establishments exempt from federal income tax,850,50 largest firms,2002,129,435918,44.0,123287,28357,4164
+0100000US,,United States,611699,All other miscellaneous schools and instruction,T,Establishments subject to federal income tax,001,All firms,2002,1509,965747,100.0,333016,80214,11667
+0100000US,,United States,611699,All other miscellaneous schools and instruction,T,Establishments subject to federal income tax,804,4 largest firms,2002,5,124740,12.9,44699,10150,488
+0100000US,,United States,611699,All other miscellaneous schools and instruction,T,Establishments subject to federal income tax,808,8 largest firms,2002,14,182876,18.9,68795,15437,910
+0100000US,,United States,611699,All other miscellaneous schools and instruction,T,Establishments subject to federal income tax,820,20 largest firms,2002,26,301783,31.2,107622,25724,2046
+0100000US,,United States,611699,All other miscellaneous schools and instruction,T,Establishments subject to federal income tax,850,50 largest firms,2002,74,457123,47.3,153073,37001,3727
+0100000US,,United States,6117,Educational support services,A,All establishments,001,All firms,2002,4844,5739096,100.0,1628810,387042,47575
+0100000US,,United States,6117,Educational support services,A,All establishments,804,4 largest firms,2002,35,1484271,25.9,286967,73995,6923
+0100000US,,United States,6117,Educational support services,A,All establishments,808,8 largest firms,2002,229,2102385,36.6,457866,115302,11953
+0100000US,,United States,6117,Educational support services,A,All establishments,820,20 largest firms,2002,259,2697047,47.0,596620,145613,15328
+0100000US,,United States,6117,Educational support services,A,All establishments,850,50 largest firms,2002,298,3254071,56.7,768199,185312,19284
+0100000US,,United States,6117,Educational support services,N,Establishments exempt from federal income tax,001,All firms,2002,1491,3367222,100.0,777013,190759,22233
+0100000US,,United States,6117,Educational support services,N,Establishments exempt from federal income tax,804,4 largest firms,2002,26,1310775,38.9,221433,55224,4540
+0100000US,,United States,6117,Educational support services,N,Establishments exempt from federal income tax,808,8 largest firms,2002,40,1698938,50.5,301611,75791,6919
+0100000US,,United States,6117,Educational support services,N,Establishments exempt from federal income tax,820,20 largest firms,2002,58,2088122,62.0,392393,96949,9189
+0100000US,,United States,6117,Educational support services,N,Establishments exempt from federal income tax,850,50 largest firms,2002,94,2461839,73.1,482017,119039,11728
+0100000US,,United States,6117,Educational support services,T,Establishments subject to federal income tax,001,All firms,2002,3353,2371874,100.0,851797,196283,25342
+0100000US,,United States,6117,Educational support services,T,Establishments subject to federal income tax,804,4 largest firms,2002,190,622628,26.3,193282,48598,5954
+0100000US,,United States,6117,Educational support services,T,Establishments subject to federal income tax,808,8 largest firms,2002,209,789928,33.3,257701,61027,7537
+0100000US,,United States,6117,Educational support services,T,Establishments subject to federal income tax,820,20 largest firms,2002,230,986837,41.6,334378,77249,8660
+0100000US,,United States,6117,Educational support services,T,Establishments subject to federal income tax,850,50 largest firms,2002,290,1225298,51.7,428261,98416,11130
+0100000US,,United States,61171,Educational support services,A,All establishments,001,All firms,2002,4844,5739096,100.0,1628810,387042,47575
+0100000US,,United States,61171,Educational support services,A,All establishments,804,4 largest firms,2002,35,1484271,25.9,286967,73995,6923
+0100000US,,United States,61171,Educational support services,A,All establishments,808,8 largest firms,2002,229,2102385,36.6,457866,115302,11953
+0100000US,,United States,61171,Educational support services,A,All establishments,820,20 largest firms,2002,259,2697047,47.0,596620,145613,15328
+0100000US,,United States,61171,Educational support services,A,All establishments,850,50 largest firms,2002,298,3254071,56.7,768199,185312,19284
+0100000US,,United States,61171,Educational support services,N,Establishments exempt from federal income tax,001,All firms,2002,1491,3367222,100.0,777013,190759,22233
+0100000US,,United States,61171,Educational support services,N,Establishments exempt from federal income tax,804,4 largest firms,2002,26,1310775,38.9,221433,55224,4540
+0100000US,,United States,61171,Educational support services,N,Establishments exempt from federal income tax,808,8 largest firms,2002,40,1698938,50.5,301611,75791,6919
+0100000US,,United States,61171,Educational support services,N,Establishments exempt from federal income tax,820,20 largest firms,2002,58,2088122,62.0,392393,96949,9189
+0100000US,,United States,61171,Educational support services,N,Establishments exempt from federal income tax,850,50 largest firms,2002,94,2461839,73.1,482017,119039,11728
+0100000US,,United States,61171,Educational support services,T,Establishments subject to federal income tax,001,All firms,2002,3353,2371874,100.0,851797,196283,25342
+0100000US,,United States,61171,Educational support services,T,Establishments subject to federal income tax,804,4 largest firms,2002,190,622628,26.3,193282,48598,5954
+0100000US,,United States,61171,Educational support services,T,Establishments subject to federal income tax,808,8 largest firms,2002,209,789928,33.3,257701,61027,7537
+0100000US,,United States,61171,Educational support services,T,Establishments subject to federal income tax,820,20 largest firms,2002,230,986837,41.6,334378,77249,8660
+0100000US,,United States,61171,Educational support services,T,Establishments subject to federal income tax,850,50 largest firms,2002,290,1225298,51.7,428261,98416,11130
+0100000US,,United States,611710,Educational support services,A,All establishments,001,All firms,2002,4844,5739096,100.0,1628810,387042,47575
+0100000US,,United States,611710,Educational support services,A,All establishments,804,4 largest firms,2002,35,1484271,25.9,286967,73995,6923
+0100000US,,United States,611710,Educational support services,A,All establishments,808,8 largest firms,2002,229,2102385,36.6,457866,115302,11953
+0100000US,,United States,611710,Educational support services,A,All establishments,820,20 largest firms,2002,259,2697047,47.0,596620,145613,15328
+0100000US,,United States,611710,Educational support services,A,All establishments,850,50 largest firms,2002,298,3254071,56.7,768199,185312,19284
+0100000US,,United States,611710,Educational support services,N,Establishments exempt from federal income tax,001,All firms,2002,1491,3367222,100.0,777013,190759,22233
+0100000US,,United States,611710,Educational support services,N,Establishments exempt from federal income tax,804,4 largest firms,2002,26,1310775,38.9,221433,55224,4540
+0100000US,,United States,611710,Educational support services,N,Establishments exempt from federal income tax,808,8 largest firms,2002,40,1698938,50.5,301611,75791,6919
+0100000US,,United States,611710,Educational support services,N,Establishments exempt from federal income tax,820,20 largest firms,2002,58,2088122,62.0,392393,96949,9189
+0100000US,,United States,611710,Educational support services,N,Establishments exempt from federal income tax,850,50 largest firms,2002,94,2461839,73.1,482017,119039,11728
+0100000US,,United States,611710,Educational support services,T,Establishments subject to federal income tax,001,All firms,2002,3353,2371874,100.0,851797,196283,25342
+0100000US,,United States,611710,Educational support services,T,Establishments subject to federal income tax,804,4 largest firms,2002,190,622628,26.3,193282,48598,5954
+0100000US,,United States,611710,Educational support services,T,Establishments subject to federal income tax,808,8 largest firms,2002,209,789928,33.3,257701,61027,7537
+0100000US,,United States,611710,Educational support services,T,Establishments subject to federal income tax,820,20 largest firms,2002,230,986837,41.6,334378,77249,8660
+0100000US,,United States,611710,Educational support services,T,Establishments subject to federal income tax,850,50 largest firms,2002,290,1225298,51.7,428261,98416,11130
+0100000US,,United States,6117101,Educational support services ,A,All establishments,001,All firms,2002,2942,3068533,100.0,831170,196652,25570
+0100000US,,United States,6117101,Educational support services ,A,All establishments,804,4 largest firms,2002,15,586220,19.1,87269,20147,1705
+0100000US,,United States,6117101,Educational support services ,A,All establishments,808,8 largest firms,2002,21,812495,26.5,142121,34610,3246
+0100000US,,United States,6117101,Educational support services ,A,All establishments,820,20 largest firms,2002,38,1132143,36.9,213469,51786,4916
+0100000US,,United States,6117101,Educational support services ,A,All establishments,850,50 largest firms,2002,88,1505270,49.1,304114,72730,7313
+0100000US,,United States,6117101,Educational support services ,N,Establishments exempt from federal income tax,001,All firms,2002,1168,1862297,100.0,458185,110454,14040
+0100000US,,United States,6117101,Educational support services ,N,Establishments exempt from federal income tax,804,4 largest firms,2002,11,529701,28.4,94514,21954,1996
+0100000US,,United States,6117101,Educational support services ,N,Establishments exempt from federal income tax,808,8 largest firms,2002,17,687833,36.9,113150,26451,2439
+0100000US,,United States,6117101,Educational support services ,N,Establishments exempt from federal income tax,820,20 largest firms,2002,33,937280,50.3,176697,42564,4148
+0100000US,,United States,6117101,Educational support services ,N,Establishments exempt from federal income tax,850,50 largest firms,2002,67,1202395,64.6,246219,59004,6366
+0100000US,,United States,6117101,Educational support services ,T,Establishments subject to federal income tax,001,All firms,2002,1774,1206236,100.0,372985,86198,11530
+0100000US,,United States,6117101,Educational support services ,T,Establishments subject to federal income tax,804,4 largest firms,2002,10,258179,21.4,46474,12436,1191
+0100000US,,United States,6117101,Educational support services ,T,Establishments subject to federal income tax,808,8 largest firms,2002,14,327018,27.1,66500,16997,1411
+0100000US,,United States,6117101,Educational support services ,T,Establishments subject to federal income tax,820,20 largest firms,2002,41,445805,37.0,100743,24080,2332
+0100000US,,United States,6117101,Educational support services ,T,Establishments subject to federal income tax,850,50 largest firms,2002,100,601413,49.9,151373,35596,3795
+0100000US,,United States,6117102,Educational test development and evaluation services,A,All establishments,001,All firms,2002,1902,2670563,100.0,797640,190390,22005
+0100000US,,United States,6117102,Educational test development and evaluation services,A,All establishments,804,4 largest firms,2002,42,1370412,51.3,267144,70740,6894
+0100000US,,United States,6117102,Educational test development and evaluation services,A,All establishments,808,8 largest firms,2002,224,1693997,63.4,416579,102049,11226
+0100000US,,United States,6117102,Educational test development and evaluation services,A,All establishments,820,20 largest firms,2002,243,1934999,72.5,519476,124563,13343
+0100000US,,United States,6117102,Educational test development and evaluation services,A,All establishments,850,50 largest firms,2002,281,2150246,80.5,610733,146566,15358
+0100000US,,United States,6117102,Educational test development and evaluation services,N,Establishments exempt from federal income tax,001,All firms,2002,323,1504925,100.0,318828,80305,8193
+0100000US,,United States,6117102,Educational test development and evaluation services,N,Establishments exempt from federal income tax,804,4 largest firms,2002,28,1163253,77.3,205793,53559,4904
+0100000US,,United States,6117102,Educational test development and evaluation services,N,Establishments exempt from federal income tax,808,8 largest firms,2002,33,1278835,85.0,245728,62859,5920
+0100000US,,United States,6117102,Educational test development and evaluation services,N,Establishments exempt from federal income tax,820,20 largest firms,2002,52,1383835,92.0,278655,70678,6654
+0100000US,,United States,6117102,Educational test development and evaluation services,N,Establishments exempt from federal income tax,850,50 largest firms,2002,82,1445446,96.0,297460,74999,7196
+0100000US,,United States,6117102,Educational test development and evaluation services,T,Establishments subject to federal income tax,001,All firms,2002,1579,1165638,100.0,478812,110085,13812
+0100000US,,United States,6117102,Educational test development and evaluation services,T,Establishments subject to federal income tax,804,4 largest firms,2002,184,485293,41.6,185556,43444,5462
+0100000US,,United States,6117102,Educational test development and evaluation services,T,Establishments subject to federal income tax,808,8 largest firms,2002,202,587829,50.4,246930,55956,6849
+0100000US,,United States,6117102,Educational test development and evaluation services,T,Establishments subject to federal income tax,820,20 largest firms,2002,216,702916,60.3,301028,67786,8018
+0100000US,,United States,6117102,Educational test development and evaluation services,T,Establishments subject to federal income tax,850,50 largest firms,2002,250,823045,70.6,354607,81442,9158

@@ -1,0 +1,216 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VALPCT,PAYANT,PAYQ1T,EMP
+0100000US,,United States,72,Accommodation and food services,001,All firms,2002,565590,449498718,100.0,127554483,30334373,10120951
+0100000US,,United States,72,Accommodation and food services,804,4 largest firms,2002,7829,23005624,5.1,6134254,1468749,428249
+0100000US,,United States,72,Accommodation and food services,808,8 largest firms,2002,13324,39954047,8.9,10621543,2577692,660413
+0100000US,,United States,72,Accommodation and food services,820,20 largest firms,2002,32195,74357926,16.5,21273696,5119574,1340406
+0100000US,,United States,72,Accommodation and food services,850,50 largest firms,2002,41865,103857717,23.1,29684681,7141643,1864623
+0100000US,,United States,721,Accommodation,001,All firms,2002,60949,128098210,100.0,34955244,8291615,1813326
+0100000US,,United States,721,Accommodation,804,4 largest firms,2002,1133,21500395,16.8,5699621,1396091,252652
+0100000US,,United States,721,Accommodation,808,8 largest firms,2002,1461,34312196,26.8,9738624,2379287,399387
+0100000US,,United States,721,Accommodation,820,20 largest firms,2002,3153,48053660,37.5,13270978,3207008,554299
+0100000US,,United States,721,Accommodation,850,50 largest firms,2002,4914,61092252,47.7,16665066,4022237,717976
+0100000US,,United States,7211,Traveler accommodation,001,All firms,2002,50982,123899931,100.0,33910089,8096878,1761303
+0100000US,,United States,7211,Traveler accommodation,804,4 largest firms,2002,1133,21500395,17.4,5699621,1396091,252652
+0100000US,,United States,7211,Traveler accommodation,808,8 largest firms,2002,1461,34312196,27.7,9738624,2379287,399387
+0100000US,,United States,7211,Traveler accommodation,820,20 largest firms,2002,3152,48001704,38.7,13264227,3205277,553905
+0100000US,,United States,7211,Traveler accommodation,850,50 largest firms,2002,4913,61040296,49.3,16658315,4020506,717582
+0100000US,,United States,72111,Hotels (except casino hotels) and motels,001,All firms,2002,46295,89357109,100.0,24204364,5698575,1366850
+0100000US,,United States,72111,Hotels (except casino hotels) and motels,804,4 largest firms,2002,1395,20033330,22.4,5565689,1307238,237409
+0100000US,,United States,72111,Hotels (except casino hotels) and motels,808,8 largest firms,2002,2800,25726554,28.8,6935248,1629687,310559
+0100000US,,United States,72111,Hotels (except casino hotels) and motels,820,20 largest firms,2002,4499,32451567,36.3,8679653,2039714,399862
+0100000US,,United States,72111,Hotels (except casino hotels) and motels,850,50 largest firms,2002,5640,39138382,43.8,10511903,2483964,496896
+0100000US,,United States,721110,Hotels (except casino hotels) and motels,001,All firms,2002,46295,89357109,100.0,24204364,5698575,1366850
+0100000US,,United States,721110,Hotels (except casino hotels) and motels,804,4 largest firms,2002,1395,20033330,22.4,5565689,1307238,237409
+0100000US,,United States,721110,Hotels (except casino hotels) and motels,808,8 largest firms,2002,2800,25726554,28.8,6935248,1629687,310559
+0100000US,,United States,721110,Hotels (except casino hotels) and motels,820,20 largest firms,2002,4499,32451567,36.3,8679653,2039714,399862
+0100000US,,United States,721110,Hotels (except casino hotels) and motels,850,50 largest firms,2002,5640,39138382,43.8,10511903,2483964,496896
+0100000US,,United States,72112,Casino hotels,001,All firms,2002,283,33417673,100.0,9428235,2340158,373299
+0100000US,,United States,72112,Casino hotels,804,4 largest firms,2002,63,14230614,42.6,4153529,1066458,161283
+0100000US,,United States,72112,Casino hotels,808,8 largest firms,2002,85,18659348,55.8,5288564,1322649,203395
+0100000US,,United States,72112,Casino hotels,820,20 largest firms,2002,125,25386051,76.0,7025801,1750840,270732
+0100000US,,United States,72112,Casino hotels,850,50 largest firms,2002,161,30280440,90.6,8503363,2117424,328377
+0100000US,,United States,721120,Casino hotels,001,All firms,2002,283,33417673,100.0,9428235,2340158,373299
+0100000US,,United States,721120,Casino hotels,804,4 largest firms,2002,63,14230614,42.6,4153529,1066458,161283
+0100000US,,United States,721120,Casino hotels,808,8 largest firms,2002,85,18659348,55.8,5288564,1322649,203395
+0100000US,,United States,721120,Casino hotels,820,20 largest firms,2002,125,25386051,76.0,7025801,1750840,270732
+0100000US,,United States,721120,Casino hotels,850,50 largest firms,2002,161,30280440,90.6,8503363,2117424,328377
+0100000US,,United States,72119,Other traveler accommodation,001,All firms,2002,4404,1125149,100.0,277490,58145,21154
+0100000US,,United States,72119,Other traveler accommodation,804,4 largest firms,2002,29,33757,3.0,10206,2378,478
+0100000US,,United States,72119,Other traveler accommodation,808,8 largest firms,2002,43,51065,4.5,15228,3556,735
+0100000US,,United States,72119,Other traveler accommodation,820,20 largest firms,2002,61,84092,7.5,25958,5572,1262
+0100000US,,United States,72119,Other traveler accommodation,850,50 largest firms,2002,92,141911,12.6,42751,9585,2368
+0100000US,,United States,721191,Bed-and-Breakfast inns,001,All firms,2002,3535,908652,100.0,229395,48477,18076
+0100000US,,United States,721191,Bed-and-Breakfast inns,804,4 largest firms,2002,25,27370,3.0,7460,1714,420
+0100000US,,United States,721191,Bed-and-Breakfast inns,808,8 largest firms,2002,29,42161,4.6,12462,2607,628
+0100000US,,United States,721191,Bed-and-Breakfast inns,820,20 largest firms,2002,41,71143,7.8,22101,4545,1168
+0100000US,,United States,721191,Bed-and-Breakfast inns,850,50 largest firms,2002,72,123144,13.6,37939,7986,2097
+0100000US,,United States,721199,All other traveler accommodation,001,All firms,2002,869,216497,100.0,48095,9668,3078
+0100000US,,United States,721199,All other traveler accommodation,804,4 largest firms,2002,24,21451,9.9,6640,1609,299
+0100000US,,United States,721199,All other traveler accommodation,808,8 largest firms,2002,28,30378,14.0,8776,2518,537
+0100000US,,United States,721199,All other traveler accommodation,820,20 largest firms,2002,40,49868,23.0,13904,3433,835
+0100000US,,United States,721199,All other traveler accommodation,850,50 largest firms,2002,71,79013,36.5,20636,4569,1204
+0100000US,,United States,7212,RV (recreational vehicle) parks and recreational camps,001,All firms,2002,7353,3466917,100.0,883137,153843,39319
+0100000US,,United States,7212,RV (recreational vehicle) parks and recreational camps,804,4 largest firms,2002,117,168716,4.9,47940,9443,2284
+0100000US,,United States,7212,RV (recreational vehicle) parks and recreational camps,808,8 largest firms,2002,159,253585,7.3,67409,13403,3066
+0100000US,,United States,7212,RV (recreational vehicle) parks and recreational camps,820,20 largest firms,2002,192,389537,11.2,102289,19554,4118
+0100000US,,United States,7212,RV (recreational vehicle) parks and recreational camps,850,50 largest firms,2002,266,575815,16.6,156679,29448,6509
+0100000US,,United States,72121,RV (recreational vehicle) parks and recreational camps,001,All firms,2002,7353,3466917,100.0,883137,153843,39319
+0100000US,,United States,72121,RV (recreational vehicle) parks and recreational camps,804,4 largest firms,2002,117,168716,4.9,47940,9443,2284
+0100000US,,United States,72121,RV (recreational vehicle) parks and recreational camps,808,8 largest firms,2002,159,253585,7.3,67409,13403,3066
+0100000US,,United States,72121,RV (recreational vehicle) parks and recreational camps,820,20 largest firms,2002,192,389537,11.2,102289,19554,4118
+0100000US,,United States,72121,RV (recreational vehicle) parks and recreational camps,850,50 largest firms,2002,266,575815,16.6,156679,29448,6509
+0100000US,,United States,721211,RV (recreational vehicle) parks and campgrounds,001,All firms,2002,4170,1723663,100.0,367825,69123,18511
+0100000US,,United States,721211,RV (recreational vehicle) parks and campgrounds,804,4 largest firms,2002,104,156239,9.1,43364,8663,2146
+0100000US,,United States,721211,RV (recreational vehicle) parks and campgrounds,808,8 largest firms,2002,147,226258,13.1,56196,11656,2779
+0100000US,,United States,721211,RV (recreational vehicle) parks and campgrounds,820,20 largest firms,2002,160,314699,18.3,74844,15096,3473
+0100000US,,United States,721211,RV (recreational vehicle) parks and campgrounds,850,50 largest firms,2002,250,438840,25.5,102716,19845,4518
+0100000US,,United States,721214,Recreational and vacation camps (except campgrounds),001,All firms,2002,3183,1743254,100.0,515312,84720,20808
+0100000US,,United States,721214,Recreational and vacation camps (except campgrounds),804,4 largest firms,2002,33,88814,5.1,30122,5142,858
+0100000US,,United States,721214,Recreational and vacation camps (except campgrounds),808,8 largest firms,2002,39,127563,7.3,38421,6396,1013
+0100000US,,United States,721214,Recreational and vacation camps (except campgrounds),820,20 largest firms,2002,58,207517,11.9,69547,12091,2468
+0100000US,,United States,721214,Recreational and vacation camps (except campgrounds),850,50 largest firms,2002,103,324673,18.6,104166,18228,3566
+0100000US,,United States,7213,Rooming and boarding houses,001,All firms,2002,2614,731362,100.0,162018,40894,12704
+0100000US,,United States,7213,Rooming and boarding houses,804,4 largest firms,2002,5,48544,6.6,18680,4114,775
+0100000US,,United States,7213,Rooming and boarding houses,808,8 largest firms,2002,9,72854,10.0,24852,5491,1200
+0100000US,,United States,7213,Rooming and boarding houses,820,20 largest firms,2002,47,122943,16.8,35927,8216,1855
+0100000US,,United States,7213,Rooming and boarding houses,850,50 largest firms,2002,114,179950,24.6,53982,12499,2973
+0100000US,,United States,72131,Rooming and boarding houses,001,All firms,2002,2614,731362,100.0,162018,40894,12704
+0100000US,,United States,72131,Rooming and boarding houses,804,4 largest firms,2002,5,48544,6.6,18680,4114,775
+0100000US,,United States,72131,Rooming and boarding houses,808,8 largest firms,2002,9,72854,10.0,24852,5491,1200
+0100000US,,United States,72131,Rooming and boarding houses,820,20 largest firms,2002,47,122943,16.8,35927,8216,1855
+0100000US,,United States,72131,Rooming and boarding houses,850,50 largest firms,2002,114,179950,24.6,53982,12499,2973
+0100000US,,United States,721310,Rooming and boarding houses,001,All firms,2002,2614,731362,100.0,162018,40894,12704
+0100000US,,United States,721310,Rooming and boarding houses,804,4 largest firms,2002,5,48544,6.6,18680,4114,775
+0100000US,,United States,721310,Rooming and boarding houses,808,8 largest firms,2002,9,72854,10.0,24852,5491,1200
+0100000US,,United States,721310,Rooming and boarding houses,820,20 largest firms,2002,47,122943,16.8,35927,8216,1855
+0100000US,,United States,721310,Rooming and boarding houses,850,50 largest firms,2002,114,179950,24.6,53982,12499,2973
+0100000US,,United States,722,Food services and drinking places,001,All firms,2002,504641,321400508,100.0,92599239,22042758,8307625
+0100000US,,United States,722,Food services and drinking places,804,4 largest firms,2002,12160,18272051,5.7,4880582,1171545,405656
+0100000US,,United States,722,Food services and drinking places,808,8 largest firms,2002,26606,31996076,10.0,9227586,2189429,736140
+0100000US,,United States,722,Food services and drinking places,820,20 largest firms,2002,34383,47748263,14.9,14099712,3380817,1130762
+0100000US,,United States,722,Food services and drinking places,850,50 largest firms,2002,46362,64451610,20.1,19067416,4590775,1547713
+0100000US,,United States,7221,Full-service restaurants,001,All firms,2002,195659,144649964,100.0,46064140,11076100,3904628
+0100000US,,United States,7221,Full-service restaurants,804,4 largest firms,2002,3543,12434193,8.6,4046149,994128,305708
+0100000US,,United States,7221,Full-service restaurants,808,8 largest firms,2002,5167,15853691,11.0,5226995,1291010,403138
+0100000US,,United States,7221,Full-service restaurants,820,20 largest firms,2002,8629,22359408,15.5,7476178,1830494,582491
+0100000US,,United States,7221,Full-service restaurants,850,50 largest firms,2002,11653,29973675,20.7,9939599,2419170,767388
+0100000US,,United States,72211,Full-service restaurants,001,All firms,2002,195659,144649964,100.0,46064140,11076100,3904628
+0100000US,,United States,72211,Full-service restaurants,804,4 largest firms,2002,3543,12434193,8.6,4046149,994128,305708
+0100000US,,United States,72211,Full-service restaurants,808,8 largest firms,2002,5167,15853691,11.0,5226995,1291010,403138
+0100000US,,United States,72211,Full-service restaurants,820,20 largest firms,2002,8629,22359408,15.5,7476178,1830494,582491
+0100000US,,United States,72211,Full-service restaurants,850,50 largest firms,2002,11653,29973675,20.7,9939599,2419170,767388
+0100000US,,United States,722110,Full-service restaurants,001,All firms,2002,195659,144649964,100.0,46064140,11076100,3904628
+0100000US,,United States,722110,Full-service restaurants,804,4 largest firms,2002,3543,12434193,8.6,4046149,994128,305708
+0100000US,,United States,722110,Full-service restaurants,808,8 largest firms,2002,5167,15853691,11.0,5226995,1291010,403138
+0100000US,,United States,722110,Full-service restaurants,820,20 largest firms,2002,8629,22359408,15.5,7476178,1830494,582491
+0100000US,,United States,722110,Full-service restaurants,850,50 largest firms,2002,11653,29973675,20.7,9939599,2419170,767388
+0100000US,,United States,7222,Limited-service eating places,001,All firms,2002,228789,135324135,100.0,35441793,8349057,3526264
+0100000US,,United States,7222,Limited-service eating places,804,4 largest firms,2002,12450,12782084,9.4,3480995,792427,306525
+0100000US,,United States,7222,Limited-service eating places,808,8 largest firms,2002,16152,17314572,12.8,4812355,1110610,430939
+0100000US,,United States,7222,Limited-service eating places,820,20 largest firms,2002,22085,23759638,17.6,6466574,1524929,595389
+0100000US,,United States,7222,Limited-service eating places,850,50 largest firms,2002,29860,31318675,23.1,8548840,2035704,784780
+0100000US,,United States,72221,Limited-service eating places,001,All firms,2002,228789,135324135,100.0,35441793,8349057,3526264
+0100000US,,United States,72221,Limited-service eating places,804,4 largest firms,2002,12450,12782084,9.4,3480995,792427,306525
+0100000US,,United States,72221,Limited-service eating places,808,8 largest firms,2002,16152,17314572,12.8,4812355,1110610,430939
+0100000US,,United States,72221,Limited-service eating places,820,20 largest firms,2002,22085,23759638,17.6,6466574,1524929,595389
+0100000US,,United States,72221,Limited-service eating places,850,50 largest firms,2002,29860,31318675,23.1,8548840,2035704,784780
+0100000US,,United States,722211,Limited-service restaurants,001,All firms,2002,186942,116516316,100.0,30426880,7177998,3060937
+0100000US,,United States,722211,Limited-service restaurants,804,4 largest firms,2002,10721,11898585,10.2,3346735,766295,303094
+0100000US,,United States,722211,Limited-service restaurants,808,8 largest firms,2002,13748,15262547,13.1,4303216,991883,393770
+0100000US,,United States,722211,Limited-service restaurants,820,20 largest firms,2002,19453,20958357,18.0,5772220,1366338,540389
+0100000US,,United States,722211,Limited-service restaurants,850,50 largest firms,2002,25701,26619157,22.8,7247432,1721826,677400
+0100000US,,United States,722212,"Cafeterias, buffets, and grill buffets",001,All firms,2002,5811,5199204,100.0,1545349,371543,129183
+0100000US,,United States,722212,"Cafeterias, buffets, and grill buffets",804,4 largest firms,2002,918,2039798,39.2,647566,158345,49762
+0100000US,,United States,722212,"Cafeterias, buffets, and grill buffets",808,8 largest firms,2002,1272,2636214,50.7,836514,203398,65086
+0100000US,,United States,722212,"Cafeterias, buffets, and grill buffets",820,20 largest firms,2002,1553,3196542,61.5,1002704,243281,79924
+0100000US,,United States,722212,"Cafeterias, buffets, and grill buffets",850,50 largest firms,2002,1690,3501123,67.3,1087267,262942,87636
+0100000US,,United States,722213,Snack and nonalcoholic beverage bars,001,All firms,2002,36036,13608615,100.0,3469564,799516,336144
+0100000US,,United States,722213,Snack and nonalcoholic beverage bars,804,4 largest firms,2002,3787,3350202,24.6,793402,187417,71823
+0100000US,,United States,722213,Snack and nonalcoholic beverage bars,808,8 largest firms,2002,4395,3854585,28.3,941820,222150,84804
+0100000US,,United States,722213,Snack and nonalcoholic beverage bars,820,20 largest firms,2002,5624,4463254,32.8,1098104,260450,100143
+0100000US,,United States,722213,Snack and nonalcoholic beverage bars,850,50 largest firms,2002,6342,5070606,37.3,1259649,301305,114211
+0100000US,,United States,7222131,Ice cream and soft serve shops,001,All firms,2002,9040,2217466,100.0,535527,106827,61792
+0100000US,,United States,7222131,Ice cream and soft serve shops,804,4 largest firms,2002,318,345981,15.6,86100,20950,7293
+0100000US,,United States,7222131,Ice cream and soft serve shops,808,8 largest firms,2002,343,371261,16.7,91229,22323,7745
+0100000US,,United States,7222131,Ice cream and soft serve shops,820,20 largest firms,2002,407,415322,18.7,102380,24744,8985
+0100000US,,United States,7222131,Ice cream and soft serve shops,850,50 largest firms,2002,485,471650,21.3,117234,27591,10148
+0100000US,,United States,7222132,Frozen yogurt shops,001,All firms,2002,739,156652,100.0,38264,7902,5478
+0100000US,,United States,7222132,Frozen yogurt shops,804,4 largest firms,2002,25,12267,7.8,4130,872,370
+0100000US,,United States,7222132,Frozen yogurt shops,808,8 largest firms,2002,48,18265,11.7,5949,1288,662
+0100000US,,United States,7222132,Frozen yogurt shops,820,20 largest firms,2002,74,30456,19.4,9026,1842,1064
+0100000US,,United States,7222132,Frozen yogurt shops,850,50 largest firms,2002,123,50586,32.3,14391,2880,1905
+0100000US,,United States,7222133,Doughnut shops,001,All firms,2002,6237,2907214,100.0,756173,179069,63339
+0100000US,,United States,7222133,Doughnut shops,804,4 largest firms,2002,256,166350,5.7,54045,14521,4536
+0100000US,,United States,7222133,Doughnut shops,808,8 largest firms,2002,322,227416,7.8,64582,16679,5336
+0100000US,,United States,7222133,Doughnut shops,820,20 largest firms,2002,412,332919,11.5,90617,22687,7372
+0100000US,,United States,7222133,Doughnut shops,850,50 largest firms,2002,537,478744,16.5,131001,32072,10493
+0100000US,,United States,7222134,Bagel shops,001,All firms,2002,3203,1347824,100.0,355028,84244,30255
+0100000US,,United States,7222134,Bagel shops,804,4 largest firms,2002,586,452690,33.6,116717,26787,9000
+0100000US,,United States,7222134,Bagel shops,808,8 largest firms,2002,648,506428,37.6,131577,30412,10108
+0100000US,,United States,7222134,Bagel shops,820,20 largest firms,2002,734,575408,42.7,152861,35516,11646
+0100000US,,United States,7222134,Bagel shops,850,50 largest firms,2002,837,659248,48.9,179706,41730,13368
+0100000US,,United States,7222135,Coffee shops,001,All firms,2002,9470,4158049,100.0,1015259,241819,102024
+0100000US,,United States,7222135,Coffee shops,804,4 largest firms,2002,3283,D,D,D,D,l
+0100000US,,United States,7222135,Coffee shops,808,8 largest firms,2002,3477,2753002,66.2,639325,153194,61096
+0100000US,,United States,7222135,Coffee shops,820,20 largest firms,2002,3651,2846743,68.5,668981,160842,63554
+0100000US,,United States,7222135,Coffee shops,850,50 largest firms,2002,3825,2934541,70.6,691161,166321,65486
+0100000US,,United States,7222136,Cookie shops,001,All firms,2002,1025,231427,100.0,57948,14177,6579
+0100000US,,United States,7222136,Cookie shops,804,4 largest firms,2002,238,66135,28.6,15112,3750,1967
+0100000US,,United States,7222136,Cookie shops,808,8 largest firms,2002,273,76528,33.1,17550,4342,2203
+0100000US,,United States,7222136,Cookie shops,820,20 largest firms,2002,322,92875,40.1,22406,5563,2743
+0100000US,,United States,7222136,Cookie shops,850,50 largest firms,2002,365,118383,51.2,28653,7145,3382
+0100000US,,United States,7222137,Other snack and nonalcoholic beverage bars,001,All firms,2002,6322,2589983,100.0,711365,165478,66677
+0100000US,,United States,7222137,Other snack and nonalcoholic beverage bars,804,4 largest firms,2002,535,623107,24.1,178911,40307,14723
+0100000US,,United States,7222137,Other snack and nonalcoholic beverage bars,808,8 largest firms,2002,910,836317,32.3,231678,52854,19820
+0100000US,,United States,7222137,Other snack and nonalcoholic beverage bars,820,20 largest firms,2002,1269,1126512,43.5,307803,72284,27115
+0100000US,,United States,7222137,Other snack and nonalcoholic beverage bars,850,50 largest firms,2002,1565,1344299,51.9,367433,86742,32876
+0100000US,,United States,7223,Special food services,001,All firms,2002,31337,26524822,100.0,7728973,1807580,540896
+0100000US,,United States,7223,Special food services,804,4 largest firms,2002,13175,13560823,51.1,3701331,883944,275275
+0100000US,,United States,7223,Special food services,808,8 largest firms,2002,13906,16050941,60.5,4414194,1059757,315566
+0100000US,,United States,7223,Special food services,820,20 largest firms,2002,15465,17762453,67.0,5034828,1212078,346506
+0100000US,,United States,7223,Special food services,850,50 largest firms,2002,16233,18692407,70.5,5324211,1283639,364415
+0100000US,,United States,72231,Food service contractors,001,All firms,2002,20693,20859150,100.0,6096445,1464652,418370
+0100000US,,United States,72231,Food service contractors,804,4 largest firms,2002,13136,13440938,64.4,3684529,879142,274477
+0100000US,,United States,72231,Food service contractors,808,8 largest firms,2002,13864,15926451,76.4,4396239,1054694,314705
+0100000US,,United States,72231,Food service contractors,820,20 largest firms,2002,15418,17600150,84.4,5014286,1205691,345221
+0100000US,,United States,72231,Food service contractors,850,50 largest firms,2002,16363,18472302,88.6,5300352,1276852,363980
+0100000US,,United States,722310,Food service contractors,001,All firms,2002,20693,20859150,100.0,6096445,1464652,418370
+0100000US,,United States,722310,Food service contractors,804,4 largest firms,2002,13136,13440938,64.4,3684529,879142,274477
+0100000US,,United States,722310,Food service contractors,808,8 largest firms,2002,13864,15926451,76.4,4396239,1054694,314705
+0100000US,,United States,722310,Food service contractors,820,20 largest firms,2002,15418,17600150,84.4,5014286,1205691,345221
+0100000US,,United States,722310,Food service contractors,850,50 largest firms,2002,16363,18472302,88.6,5300352,1276852,363980
+0100000US,,United States,72232,Caterers,001,All firms,2002,8341,4832167,100.0,1488531,311734,113011
+0100000US,,United States,72232,Caterers,804,4 largest firms,2002,13,99555,2.1,31057,6586,1487
+0100000US,,United States,72232,Caterers,808,8 largest firms,2002,18,168186,3.5,50217,10586,2458
+0100000US,,United States,72232,Caterers,820,20 largest firms,2002,40,328048,6.8,99637,21083,4990
+0100000US,,United States,72232,Caterers,850,50 largest firms,2002,88,615688,12.7,199090,41573,11310
+0100000US,,United States,722320,Caterers,001,All firms,2002,8341,4832167,100.0,1488531,311734,113011
+0100000US,,United States,722320,Caterers,804,4 largest firms,2002,13,99555,2.1,31057,6586,1487
+0100000US,,United States,722320,Caterers,808,8 largest firms,2002,18,168186,3.5,50217,10586,2458
+0100000US,,United States,722320,Caterers,820,20 largest firms,2002,40,328048,6.8,99637,21083,4990
+0100000US,,United States,722320,Caterers,850,50 largest firms,2002,88,615688,12.7,199090,41573,11310
+0100000US,,United States,72233,Mobile food services,001,All firms,2002,2303,833505,100.0,143997,31194,9515
+0100000US,,United States,72233,Mobile food services,804,4 largest firms,2002,41,205930,24.7,20489,5646,943
+0100000US,,United States,72233,Mobile food services,808,8 largest firms,2002,46,252342,30.3,33380,8035,1482
+0100000US,,United States,72233,Mobile food services,820,20 largest firms,2002,60,324206,38.9,47268,11082,2043
+0100000US,,United States,72233,Mobile food services,850,50 largest firms,2002,104,413522,49.6,63673,14370,2776
+0100000US,,United States,722330,Mobile food services,001,All firms,2002,2303,833505,100.0,143997,31194,9515
+0100000US,,United States,722330,Mobile food services,804,4 largest firms,2002,41,205930,24.7,20489,5646,943
+0100000US,,United States,722330,Mobile food services,808,8 largest firms,2002,46,252342,30.3,33380,8035,1482
+0100000US,,United States,722330,Mobile food services,820,20 largest firms,2002,60,324206,38.9,47268,11082,2043
+0100000US,,United States,722330,Mobile food services,850,50 largest firms,2002,104,413522,49.6,63673,14370,2776
+0100000US,,United States,7224,Drinking places (alcoholic beverages),001,All firms,2002,48856,14901587,100.0,3364333,810021,335837
+0100000US,,United States,7224,Drinking places (alcoholic beverages),804,4 largest firms,2002,94,326129,2.2,77369,17859,7119
+0100000US,,United States,7224,Drinking places (alcoholic beverages),808,8 largest firms,2002,147,428904,2.9,102587,23468,8661
+0100000US,,United States,7224,Drinking places (alcoholic beverages),820,20 largest firms,2002,183,620007,4.2,158264,37376,12373
+0100000US,,United States,7224,Drinking places (alcoholic beverages),850,50 largest firms,2002,250,866183,5.8,214614,51338,15761
+0100000US,,United States,72241,Drinking places (alcoholic beverages),001,All firms,2002,48856,14901587,100.0,3364333,810021,335837
+0100000US,,United States,72241,Drinking places (alcoholic beverages),804,4 largest firms,2002,94,326129,2.2,77369,17859,7119
+0100000US,,United States,72241,Drinking places (alcoholic beverages),808,8 largest firms,2002,147,428904,2.9,102587,23468,8661
+0100000US,,United States,72241,Drinking places (alcoholic beverages),820,20 largest firms,2002,183,620007,4.2,158264,37376,12373
+0100000US,,United States,72241,Drinking places (alcoholic beverages),850,50 largest firms,2002,250,866183,5.8,214614,51338,15761
+0100000US,,United States,722410,Drinking places (alcoholic beverages),001,All firms,2002,48856,14901587,100.0,3364333,810021,335837
+0100000US,,United States,722410,Drinking places (alcoholic beverages),804,4 largest firms,2002,94,326129,2.2,77369,17859,7119
+0100000US,,United States,722410,Drinking places (alcoholic beverages),808,8 largest firms,2002,147,428904,2.9,102587,23468,8661
+0100000US,,United States,722410,Drinking places (alcoholic beverages),820,20 largest firms,2002,183,620007,4.2,158264,37376,12373
+0100000US,,United States,722410,Drinking places (alcoholic beverages),850,50 largest firms,2002,250,866183,5.8,214614,51338,15761
