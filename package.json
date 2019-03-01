@@ -1,0 +1,17 @@
+{
+  "name": "the-monopolists-are-winning-interactive",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {},
+  "dependencies": {
+    "d3": "^5.9.1",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1"
+  },
+  "scripts": {
+    "serve": "webpack-dev-server",
+    "build": "webpack --mode=development"
+  }
+}
