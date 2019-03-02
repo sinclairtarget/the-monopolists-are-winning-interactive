@@ -1,4 +1,4 @@
-GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VALPCT,PAYANT,PAYQ1T,EMP
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANT,PAYQ1T,EMP
 0100000US,,United States,56,Administrative and support and waste management and remediation services,001,All firms,2002,350583,432577580,100.0,206439329,49239077,8741854
 0100000US,,United States,56,Administrative and support and waste management and remediation services,804,4 largest firms,2002,2109,25820170,6.0,8528122,2007355,185229
 0100000US,,United States,56,Administrative and support and waste management and remediation services,808,8 largest firms,2002,6477,38955515,9.0,18131770,4282464,611503

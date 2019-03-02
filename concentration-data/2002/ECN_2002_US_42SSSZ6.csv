@@ -1,4 +1,4 @@
-GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,OPTAX.id,OPTAX.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VALPCT,PAYANT,PAYQ1T,EMP
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,OPTAX.id,OPTAX.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANT,PAYQ1T,EMP
 0100000US,,United States,42,Wholesale trade,00,Wholesale Trade,001,All firms,2002,435521,4634755112,100.0,259653080,64120353,5878405
 0100000US,,United States,42,Wholesale trade,00,Wholesale Trade,804,4 largest firms,2002,322,345885753,7.5,2023562,528956,52597
 0100000US,,United States,42,Wholesale trade,00,Wholesale Trade,808,8 largest firms,2002,877,536298418,11.6,3123535,790225,78411

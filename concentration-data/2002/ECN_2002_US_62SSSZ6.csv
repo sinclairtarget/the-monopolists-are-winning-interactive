@@ -1,4 +1,4 @@
-GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,OPTAX.id,OPTAX.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VALPCT,PAYANT,PAYQ1T,EMP
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,OPTAX.id,OPTAX.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANT,PAYQ1T,EMP
 0100000US,,United States,62,Health care and social assistance,A,All establishments,001,All firms,2002,704526,1207299734,100.0,495845829,117558304,15052255
 0100000US,,United States,62,Health care and social assistance,A,All establishments,804,4 largest firms,2002,1076,47492444,3.9,15140750,3709419,423241
 0100000US,,United States,62,Health care and social assistance,A,All establishments,808,8 largest firms,2002,1486,65471636,5.4,21617129,5295558,582628

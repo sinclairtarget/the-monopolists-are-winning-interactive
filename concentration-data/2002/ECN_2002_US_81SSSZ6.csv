@@ -1,4 +1,4 @@
-GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,OPTAX.id,OPTAX.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VALPCT,PAYANT,PAYQ1T,EMP
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,OPTAX.id,OPTAX.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANT,PAYQ1T,EMP
 0100000US,,United States,81,Other services (except public administration),A,All establishments,001,All firms,2002,537576,307049461,100.0,82954939,20132941,3475310
 0100000US,,United States,81,Other services (except public administration),A,All establishments,804,4 largest firms,2002,5919,D,D,D,D,l
 0100000US,,United States,81,Other services (except public administration),A,All establishments,808,8 largest firms,2002,7074,D,D,D,D,m

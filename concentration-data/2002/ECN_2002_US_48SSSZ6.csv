@@ -1,4 +1,4 @@
-GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VALPCT,PAYANT,PAYQ1T,EMP
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANT,PAYQ1T,EMP
 0100000US,,United States,48-49(037),Transportation and warehousing(037),001,All firms,2002,199618,382152040,100.0,115988733,27721337,3650859
 0100000US,,United States,48-49,Transportation and warehousing,804,4 largest firms,2002,4023,56739713,14.8,16241844,3740011,502855
 0100000US,,United States,48-49,Transportation and warehousing,808,8 largest firms,2002,5856,69998036,18.3,20922870,4798532,600395

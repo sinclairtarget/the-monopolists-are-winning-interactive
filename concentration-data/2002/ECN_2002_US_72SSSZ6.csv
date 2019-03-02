@@ -1,4 +1,4 @@
-GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VALPCT,PAYANT,PAYQ1T,EMP
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANT,PAYQ1T,EMP
 0100000US,,United States,72,Accommodation and food services,001,All firms,2002,565590,449498718,100.0,127554483,30334373,10120951
 0100000US,,United States,72,Accommodation and food services,804,4 largest firms,2002,7829,23005624,5.1,6134254,1468749,428249
 0100000US,,United States,72,Accommodation and food services,808,8 largest firms,2002,13324,39954047,8.9,10621543,2577692,660413
