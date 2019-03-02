@@ -1,4 +1,4 @@
-GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,OPTAX.id,OPTAX.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANT,PAYQ1T,EMP
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,OPTAX.id,OPTAX.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQ1T,EMP
 0100000US,,United States,71,"Arts, entertainment, and recreation",A,All establishments,001,All firms,2002,110313,141904109,100.0,45169117,10467912,1848674
 0100000US,,United States,71,"Arts, entertainment, and recreation",A,All establishments,804,4 largest firms,2002,93,7650772,5.4,1065431,280393,45530
 0100000US,,United States,71,"Arts, entertainment, and recreation",A,All establishments,808,8 largest firms,2002,1068,10979228,7.7,1981823,487334,114026

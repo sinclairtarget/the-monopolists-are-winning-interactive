@@ -1,4 +1,4 @@
-GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,OPTAX.id,OPTAX.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANT,PAYQ1T,EMP
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,OPTAX.id,OPTAX.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQ1T,EMP
 0100000US,,United States,61,Educational services,A,All establishments,001,All firms,2002,49319,30690707,100.0,10164378,2445276,430164
 0100000US,,United States,61,Educational services,A,All establishments,804,4 largest firms,2002,477,1994616,6.5,538970,136728,16177
 0100000US,,United States,61,Educational services,A,All establishments,808,8 largest firms,2002,981,3249928,10.6,847063,212712,26307

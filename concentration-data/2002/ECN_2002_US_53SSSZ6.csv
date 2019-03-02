@@ -1,4 +1,4 @@
-GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANT,PAYQ1T,EMP
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQ1T,EMP
 0100000US,,United States,53,Real estate and rental and leasing,001,All firms,2002,322815,335587706,100.0,60222584,14454050,1948657
 0100000US,,United States,53,Real estate and rental and leasing,804,4 largest firms,2002,5938,21817110,6.5,3673897,881133,144984
 0100000US,,United States,53,Real estate and rental and leasing,808,8 largest firms,2002,9050,35030488,10.4,5074880,1230450,178992

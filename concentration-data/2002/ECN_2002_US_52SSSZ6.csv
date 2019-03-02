@@ -1,4 +1,4 @@
-GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANT,PAYQ1T,EMP
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQ1T,EMP
 0100000US,,United States,52,Finance and insurance,001,All firms,2002,440268,2803854868,100.0,377790172,112112306,6578817
 0100000US,,United States,52,Finance and insurance,804,4 largest firms,2002,7067,277543214,9.9,34045937,10932944,524199
 0100000US,,United States,52,Finance and insurance,808,8 largest firms,2002,15942,451734254,16.1,50538848,17398544,816148

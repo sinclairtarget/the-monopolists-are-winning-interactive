@@ -1,4 +1,4 @@
-GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,OPTAX.id,OPTAX.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANT,PAYQ1T,EMP
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,OPTAX.id,OPTAX.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQ1T,EMP
 0100000US,,United States,54,"Professional, scientific, and technical services",A,All establishments,001,All firms,2002,771305,886801038,100.0,376090052,91150153,7243505
 0100000US,,United States,54,"Professional, scientific, and technical services",A,All establishments,804,4 largest firms,2002,1901,34302205,3.9,10975556,2905935,167753
 0100000US,,United States,54,"Professional, scientific, and technical services",A,All establishments,808,8 largest firms,2002,3102,56639167,6.4,19040244,4839660,284867
