@@ -2,7 +2,7 @@ import * as d3 from "d3";
 import Dimensions from "./dimensions.js";
 import Scatter from "./scatter.js";
 
-const years = ["2002", "2007", "2012"];
+const years = ["1997", "2002", "2007", "2012"];
 
 const width = 900;
 const height = 600;
@@ -67,7 +67,7 @@ function subset(data, year) {
     "NAICS.id": d["NAICS.id"],
     "NAICS.label": d["NAICS.label"],
     "SECTOR.label": d["SECTOR.label"],
-    "BASE_VAL_PCT": d["VAL_PCT.2002"],
+    "BASE_VAL_PCT": d["VAL_PCT.1997"],
     "VAL_PCT": d[key]
   }));
 }

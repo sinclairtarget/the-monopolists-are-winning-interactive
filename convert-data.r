@@ -77,6 +77,7 @@ shape <- function(df) {
 }
 
 df.1997 <- read_csv('concentration-data/1997/industry-groups.csv') %>%
+           filter(!is.na(VAL_PCT)) %>%
            mutate(NAICS.id = as.character(NAICS.id))
 
 df.2002 <- read_all_concentration_data('concentration-data/2002', '*Z6.csv')

@@ -260,29 +260,6 @@
     "RCPTOT.1997": 213618778
   },
   {
-    "NAICS.id": "4251",
-    "NAICS.label": "Wholesale electronic markets and agents and brokers",
-    "SECTOR.label": "Wholesale trade",
-    "RCPTOT.2002": 130423951,
-    "VAL_PCT.2002": 27,
-    "RCPTOT.2007": 141580677,
-    "VAL_PCT.2007": 22.6,
-    "RCPTOT.2012": 158502572,
-    "VAL_PCT.2012": 24.8
-  },
-  {
-    "NAICS.id": "5111",
-    "NAICS.label": "Newspaper, periodical, book, and directory publishers",
-    "SECTOR.label": "Information",
-    "RCPTOT.2002": 18833705,
-    "VAL_PCT.2002": 13.6,
-    "RCPTOT.2007": 21328246,
-    "VAL_PCT.2007": 14.5,
-    "RCPTOT.2012": 14134360,
-    "VAL_PCT.2012": 14,
-    "RCPTOT.1997": 117336003
-  },
-  {
     "NAICS.id": "5112",
     "NAICS.label": "Software publishers",
     "SECTOR.label": "Information",
