@@ -8,16 +8,16 @@ const width = 900;
 const height = 600;
 
 const margin = {
-  top: 10,
-  right: 10,
-  bottom: 10,
-  left: 10
+  top: 12,
+  right: 12,
+  bottom: 12,
+  left: 12
 };
 
 const padding = {
   top: 30,
   right: 20,
-  bottom: 50,
+  bottom: 40,
   left: 50
 };
 
@@ -34,7 +34,8 @@ app.start = function() {
     .catch(err => console.error("Error fetching JSON data: " + err))
     .then((data) => {
       this.data = data;
-      this.scatter.update(subset(data, years[this.yearIndex]));
+      let year = years[this.yearIndex];
+      this.scatter.update(subset(data, year), year);
 
       // Register listeners
       document.addEventListener('keyup', ev => {
@@ -46,7 +47,8 @@ app.start = function() {
 app.update = function(key) {
   if (key == "j" || key == "ArrowDown") {
     this.yearIndex = (this.yearIndex + 1) % years.length;
-    this.scatter.update(subset(this.data, years[this.yearIndex]));
+    let year = years[this.yearIndex];
+    this.scatter.update(subset(this.data, year), year);
   }
   else if (key == "k" || key == "ArrowUp") {
     this.yearIndex = this.yearIndex - 1;
@@ -54,7 +56,8 @@ app.update = function(key) {
       this.yearIndex = years.length - 1;
     }
 
-    this.scatter.update(subset(this.data, years[this.yearIndex]));
+    let year = years[this.yearIndex];
+    this.scatter.update(subset(this.data, year), year);
   }
 };
 
