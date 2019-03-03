@@ -94,4 +94,4 @@ df <- inner_join(df,
       rename(VAL_PCT.2012 = VAL_PCT)
 
 json <- toJSON(df, pretty=TRUE)
-write(json, 'data.json')
+write(json, 'dist/data.json')

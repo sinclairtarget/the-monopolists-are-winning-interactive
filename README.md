@@ -9,3 +9,6 @@ $ yarn serve
 ```
 
 The above will build the application and serve it on port 8080.
+
+## Data Source
+https://www.census.gov/prod/www/economic_census.html
