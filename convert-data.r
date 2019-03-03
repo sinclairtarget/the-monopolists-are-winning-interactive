@@ -71,10 +71,13 @@ shape <- function(df) {
 
     df <- df %>%
           select(NAICS.id, NAICS.label, CONCENFI.id,
-                 SECTOR.label, VAL_PCT) %>%
+                 SECTOR.label, RCPTOT, VAL_PCT) %>%
           filter(CONCENFI.id == '804')  %>%     # Only look at top four
           select(-CONCENFI.id)
 }
+
+df.1997 <- read_csv('concentration-data/1997/industry-groups.csv') %>%
+           mutate(NAICS.id = as.character(NAICS.id))
 
 df.2002 <- read_all_concentration_data('concentration-data/2002', '*Z6.csv')
 df.2007 <- read_all_concentration_data('concentration-data/2007', '*Z6.csv')
@@ -91,7 +94,14 @@ df <- inner_join(df.2002,
 df <- inner_join(df,
                  df.2012,
                  by=c('NAICS.id', 'NAICS.label', 'SECTOR.label')) %>%
-      rename(VAL_PCT.2012 = VAL_PCT)
+      rename(VAL_PCT.2012 = VAL_PCT,
+             RCPTOT.2012 = RCPTOT)
+
+df <- inner_join(df,
+                 df.1997,
+                 by=c('NAICS.id', 'NAICS.label')) %>%
+      rename(VAL_PCT.1997 = VAL_PCT,
+             RCPTOT.1997 = RCPTOT)
 
 json <- toJSON(df, pretty=TRUE)
 write(json, 'dist/data.json')

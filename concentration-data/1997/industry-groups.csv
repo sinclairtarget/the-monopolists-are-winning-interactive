@@ -1,0 +1,110 @@
+NAICS.id,NAICS.label,VAL_PCT,RCPTOT
+2211,"Electric power generation, transmission and distribution",14.3,269095239
+2212,Natural gas distribution,34.1,136995356
+2213,"Water, sewage and other systems",29.4,5622732
+4231,Motor vehicle and motor vehicle parts and supplies merchant wholesalers,47.2,533352124
+4232,Furniture and home furnishing merchant wholesalers,11.5,75006478
+4233,Lumber and other construction materials merchant wholesalers,11.7,89175875
+4234,Professional and commercial equipment and supplies merchant wholesalers,14.4,367383550
+4235,Metal and mineral (except petroleum) merchant wholesalers,11.7,150493610
+4237,"Hardware, plumbing and heating equipment and supplies merchant wholesalers",7.8,92189762
+4238,"Machinery, equipment, and supplies merchant wholesalers",7.9,328968331
+4239,Miscellaneous durable goods merchant wholesalers,10.5,185455758
+4241,Paper and paper product merchant wholesalers,16.7,117062485
+4242,Drugs and druggists' sundries merchant wholesalers,26.3,203147771
+4243,"Apparel, piece goods, and notions merchant wholesalers",9.2,124104420
+4244,Grocery and related product merchant wholesalers,8.9,588970062
+4245,Farm product raw material merchant wholesalers,22.5,166786245
+4246,Chemical and allied products merchant wholesalers,13.3,128923496
+4247,Petroleum and petroleum products merchant wholesalers,14.9,267623942
+4248,"Beer, wine, and distilled alcoholic beverage merchant wholesalers",11.9,69703203
+4249,Miscellaneous nondurable goods merchant wholesalers,14.8,213618778
+4251,Wholesale electronic markets and agents and brokers,,
+5111,"Newspaper, periodical, book, and directory publishers",,117336003
+5112,Software publishers,28.2,61699420
+5121,Motion picture and video industries,32.5,44785652
+5122,Sound recording industries,53.1,11139881
+5151,Radio and television broadcasting,39.1,40425210
+5152,Cable and other subscription programming,42.3,45389578
+5171,Wired telecommunications carriers,47,208790552
+5172,Wireless telecommunications carriers (except satellite),35.8,37888862
+5174,Satellite telecommunications,45.6,5096182
+5179,Other telecommunications,44.9,1133004
+5182,"Data processing, hosting, and related services",42.7,30836645
+5191,Other information services,35.5,8837260
+5221,Depository credit intermediation,14,533133659
+5222,Nondepository credit intermediation,31.2,299213945
+5223,Activities related to credit intermediation,25.6,46463329
+5241,Insurance carriers,14.8,995511823
+5242,"Agencies, brokerages, and other insurance related activities",8.7,77272251
+5311,Lessors of real estate,2.1,85791328
+5312,Offices of real estate agents and brokers,6.9,38945434
+5313,Activities related to real estate,6.6,28538145
+5321,Automotive equipment rental and leasing,39,28921850
+5322,Consumer goods rental,25.9,14396209
+5323,General rental centers,30.1,3910618
+5324,Commercial and industrial machinery and equipment rental and leasing,20.4,29150107
+5331,Lessors of nonfinancial intangible assets (except copyrighted works),20.8,11263865
+5411,Legal services,1.8,127052406
+5412,"Accounting, tax preparation, bookkeeping, and payroll services",20,61117315
+5413,"Architectural, engineering, and related services",8.1,116986061
+5414,Specialized design services,2.4,14254024
+5415,Computer systems design and related services,15.5,108967614
+5416,"Management, scientific, and technical consulting services",11.2,63428740
+5417,Scientific research and development services,29.5,23078307
+5418,"Advertising, public relations, and related services",10.3,49290082
+5419,"Other professional, scientific, and technical services",12.1,15367590
+5611,Office administrative services,4.7,28054350
+5612,Facilities support services,21.4,7575712
+5613,Employment services,10.5,86133314
+5614,Business support services,14.8,36026350
+5615,Travel arrangement and reservation services,20.5,21484040
+5616,Investigation and security services,19.5,20444077
+5617,Services to buildings and dwellings,8.8,29914507
+5619,Other support services,4.9,26958395
+5621,Waste collection,45,20144673
+5622,Waste treatment and disposal,48,10250994
+5629,Remediation and other waste management services,27.3,8949938
+6114,Business schools and computer and management training,7.8,4902474
+6115,Technical and trade schools,19,3465093
+6116,Other schools and instruction,7.6,5197024
+6117,Educational support services,12.5,1368727
+6211,Offices of physicians,3.7,171629179
+6212,Offices of dentists,0.7,48482037
+6213,Offices of other health practitioners,6.6,28282299
+6214,Outpatient care centers,25.3,17306497
+6215,Medical and diagnostic laboratories,28.2,16317096
+6216,Home health care services,17.3,21474024
+6219,Other ambulatory health care services,30.8,6521189
+6221,General medical and surgical hospitals,73.5,34212503
+6222,Psychiatric and substance abuse hospitals,43.5,3368561
+6223,Specialty (except psychiatric and substance abuse) hospitals,72.4,2565315
+6239,Other residential care facilities,23.2,650811
+6241,Individual and family services,6.1,2636231
+6242,"Community food and housing, and emergency and other relief services",23,111986
+6243,Vocational rehabilitation services,29.3,1432269
+6244,Child day care services,14.9,8418626
+7111,Performing arts companies,8.5,5271542
+7112,Spectator sports,5.4,13656033
+7113,"Promoters of performing arts, sports, and similar events",8.2,5045093
+7114,"Agents and managers for artists, athletes, entertainers, and other public figures",23.5,2409918
+7115,"Independent artists, writers, and performers",5.6,6361000
+7121,"Museums, historical sites, and similar institutions",23.5,483683
+7131,Amusement parks and arcades,57.7,8418476
+7132,Gambling industries,15.8,15541569
+7139,Other amusement and recreation industries,8.3,27901150
+7211,Traveler accommodation,16.3,94965838
+7212,RV (recreational vehicle) parks and recreational camps,4.6,2734918
+7213,Rooming and boarding houses,5.1,756675
+7223,Special food services,40.9,19407810
+7224,Drinking places (alcoholic beverages),0.6,12295709
+8111,Automotive repair and maintenance,2.3,62200597
+8112,Electronic and precision equipment repair and maintenance,12.1,14557959
+8113,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,7.2,17506178
+8121,Personal care services,7.8,14241112
+8122,Death care services,24.2,12620644
+8123,Drycleaning and laundry services,13.5,17913065
+8129,Other personal services,21.3,13104623
+8133,Social advocacy organizations,15.9,7524552
+8134,Civic and social organizations,3.1,9916495
+8139,"Business, professional, labor, political, and similar organizations",3.6,36466633

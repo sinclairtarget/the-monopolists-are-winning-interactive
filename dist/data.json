@@ -3,872 +3,1414 @@
     "NAICS.id": "2211",
     "NAICS.label": "Electric power generation, transmission and distribution",
     "SECTOR.label": "Utilities",
+    "RCPTOT.2002": 52348845,
     "VAL_PCT.2002": 16.1,
+    "RCPTOT.2007": 66671244,
     "VAL_PCT.2007": 15,
-    "VAL_PCT.2012": 18.3
+    "RCPTOT.2012": 78836064,
+    "VAL_PCT.2012": 18.3,
+    "VAL_PCT.1997": 14.3,
+    "RCPTOT.1997": 269095239
   },
   {
     "NAICS.id": "2212",
     "NAICS.label": "Natural gas distribution",
     "SECTOR.label": "Utilities",
+    "RCPTOT.2002": 12231864,
     "VAL_PCT.2002": 18.4,
+    "RCPTOT.2007": 31652170,
     "VAL_PCT.2007": 24.6,
-    "VAL_PCT.2012": 20
+    "RCPTOT.2012": 17950484,
+    "VAL_PCT.2012": 20,
+    "VAL_PCT.1997": 34.1,
+    "RCPTOT.1997": 136995356
   },
   {
     "NAICS.id": "2213",
     "NAICS.label": "Water, sewage and other systems",
     "SECTOR.label": "Utilities",
+    "RCPTOT.2002": 2639804,
     "VAL_PCT.2002": 35.8,
+    "RCPTOT.2007": 3932951,
     "VAL_PCT.2007": 39.6,
-    "VAL_PCT.2012": 42.8
+    "RCPTOT.2012": 5245869,
+    "VAL_PCT.2012": 42.8,
+    "VAL_PCT.1997": 29.4,
+    "RCPTOT.1997": 5622732
   },
   {
     "NAICS.id": "4231",
     "NAICS.label": "Motor vehicle and motor vehicle parts and supplies merchant wholesalers",
     "SECTOR.label": "Wholesale trade",
+    "RCPTOT.2002": 321076661,
     "VAL_PCT.2002": 53.6,
+    "RCPTOT.2007": 301397195,
     "VAL_PCT.2007": 44.9,
-    "VAL_PCT.2012": 38.5
+    "RCPTOT.2012": 277917329,
+    "VAL_PCT.2012": 38.5,
+    "VAL_PCT.1997": 47.2,
+    "RCPTOT.1997": 533352124
   },
   {
     "NAICS.id": "4232",
     "NAICS.label": "Furniture and home furnishing merchant wholesalers",
     "SECTOR.label": "Wholesale trade",
+    "RCPTOT.2002": 8661630,
     "VAL_PCT.2002": 12.1,
+    "RCPTOT.2007": 13727556,
     "VAL_PCT.2007": 14.8,
-    "VAL_PCT.2012": 13.1
+    "RCPTOT.2012": 11404642,
+    "VAL_PCT.2012": 13.1,
+    "VAL_PCT.1997": 11.5,
+    "RCPTOT.1997": 75006478
   },
   {
     "NAICS.id": "4233",
     "NAICS.label": "Lumber and other construction materials merchant wholesalers",
     "SECTOR.label": "Wholesale trade",
+    "RCPTOT.2002": 11070414,
     "VAL_PCT.2002": 9.6,
+    "RCPTOT.2007": 15258868,
     "VAL_PCT.2007": 8.9,
-    "VAL_PCT.2012": 11.7
+    "RCPTOT.2012": 15844602,
+    "VAL_PCT.2012": 11.7,
+    "VAL_PCT.1997": 11.7,
+    "RCPTOT.1997": 89175875
   },
   {
     "NAICS.id": "4234",
     "NAICS.label": "Professional and commercial equipment and supplies merchant wholesalers",
     "SECTOR.label": "Wholesale trade",
+    "RCPTOT.2002": 74682381,
     "VAL_PCT.2002": 18.4,
+    "RCPTOT.2007": 80013749,
     "VAL_PCT.2007": 16.5,
-    "VAL_PCT.2012": 15.2
+    "RCPTOT.2012": 75555914,
+    "VAL_PCT.2012": 15.2,
+    "VAL_PCT.1997": 14.4,
+    "RCPTOT.1997": 367383550
   },
   {
     "NAICS.id": "4235",
     "NAICS.label": "Metal and mineral (except petroleum) merchant wholesalers",
     "SECTOR.label": "Wholesale trade",
+    "RCPTOT.2002": 13903286,
     "VAL_PCT.2002": 11.8,
+    "RCPTOT.2007": 29970256,
     "VAL_PCT.2007": 13.2,
-    "VAL_PCT.2012": 14.7
+    "RCPTOT.2012": 35970287,
+    "VAL_PCT.2012": 14.7,
+    "VAL_PCT.1997": 11.7,
+    "RCPTOT.1997": 150493610
   },
   {
     "NAICS.id": "4237",
     "NAICS.label": "Hardware, plumbing and heating equipment and supplies merchant wholesalers",
     "SECTOR.label": "Wholesale trade",
+    "RCPTOT.2002": 8612547,
     "VAL_PCT.2002": 10.2,
+    "RCPTOT.2007": 28107763,
     "VAL_PCT.2007": 21.3,
-    "VAL_PCT.2012": 17.5
+    "RCPTOT.2012": 24709275,
+    "VAL_PCT.2012": 17.5,
+    "VAL_PCT.1997": 7.8,
+    "RCPTOT.1997": 92189762
   },
   {
     "NAICS.id": "4238",
     "NAICS.label": "Machinery, equipment, and supplies merchant wholesalers",
     "SECTOR.label": "Wholesale trade",
+    "RCPTOT.2002": 34147573,
     "VAL_PCT.2002": 11.5,
+    "RCPTOT.2007": 41233880,
     "VAL_PCT.2007": 9.6,
-    "VAL_PCT.2012": 11.9
+    "RCPTOT.2012": 61909791,
+    "VAL_PCT.2012": 11.9,
+    "VAL_PCT.1997": 7.9,
+    "RCPTOT.1997": 328968331
   },
   {
     "NAICS.id": "4239",
     "NAICS.label": "Miscellaneous durable goods merchant wholesalers",
     "SECTOR.label": "Wholesale trade",
+    "RCPTOT.2002": 14111692,
     "VAL_PCT.2002": 9,
+    "RCPTOT.2007": 20427439,
     "VAL_PCT.2007": 8.7,
-    "VAL_PCT.2012": 10.1
+    "RCPTOT.2012": 26854254,
+    "VAL_PCT.2012": 10.1,
+    "VAL_PCT.1997": 10.5,
+    "RCPTOT.1997": 185455758
   },
   {
     "NAICS.id": "4241",
     "NAICS.label": "Paper and paper product merchant wholesalers",
     "SECTOR.label": "Wholesale trade",
+    "RCPTOT.2002": 23647851,
     "VAL_PCT.2002": 20.7,
+    "RCPTOT.2007": 28007373,
     "VAL_PCT.2007": 20.1,
-    "VAL_PCT.2012": 17.4
+    "RCPTOT.2012": 23931074,
+    "VAL_PCT.2012": 17.4,
+    "VAL_PCT.1997": 16.7,
+    "RCPTOT.1997": 117062485
   },
   {
     "NAICS.id": "4242",
     "NAICS.label": "Drugs and druggists' sundries merchant wholesalers",
     "SECTOR.label": "Wholesale trade",
+    "RCPTOT.2002": 164748385,
     "VAL_PCT.2002": 42.6,
+    "RCPTOT.2007": 246939717,
     "VAL_PCT.2007": 43.9,
-    "VAL_PCT.2012": 43.5
+    "RCPTOT.2012": 297893170,
+    "VAL_PCT.2012": 43.5,
+    "VAL_PCT.1997": 26.3,
+    "RCPTOT.1997": 203147771
   },
   {
     "NAICS.id": "4243",
     "NAICS.label": "Apparel, piece goods, and notions merchant wholesalers",
     "SECTOR.label": "Wholesale trade",
+    "RCPTOT.2002": 11289207,
     "VAL_PCT.2002": 9.5,
+    "RCPTOT.2007": 17133473,
     "VAL_PCT.2007": 11.6,
-    "VAL_PCT.2012": 13.6
+    "RCPTOT.2012": 20892969,
+    "VAL_PCT.2012": 13.6,
+    "VAL_PCT.1997": 9.2,
+    "RCPTOT.1997": 124104420
   },
   {
     "NAICS.id": "4244",
     "NAICS.label": "Grocery and related product merchant wholesalers",
     "SECTOR.label": "Wholesale trade",
+    "RCPTOT.2002": 72145762,
     "VAL_PCT.2002": 14.1,
+    "RCPTOT.2007": 87089217,
     "VAL_PCT.2007": 13.1,
-    "VAL_PCT.2012": 14.5
+    "RCPTOT.2012": 117310698,
+    "VAL_PCT.2012": 14.5,
+    "VAL_PCT.1997": 8.9,
+    "RCPTOT.1997": 588970062
   },
   {
     "NAICS.id": "4245",
     "NAICS.label": "Farm product raw material merchant wholesalers",
     "SECTOR.label": "Wholesale trade",
+    "RCPTOT.2002": 35079616,
     "VAL_PCT.2002": 33.9,
+    "RCPTOT.2007": 36308830,
     "VAL_PCT.2007": 24.9,
-    "VAL_PCT.2012": 29.3
+    "RCPTOT.2012": 74518168,
+    "VAL_PCT.2012": 29.3,
+    "VAL_PCT.1997": 22.5,
+    "RCPTOT.1997": 166786245
   },
   {
     "NAICS.id": "4246",
     "NAICS.label": "Chemical and allied products merchant wholesalers",
     "SECTOR.label": "Wholesale trade",
+    "RCPTOT.2002": 21026269,
     "VAL_PCT.2002": 18.2,
+    "RCPTOT.2007": 25242698,
     "VAL_PCT.2007": 13.9,
-    "VAL_PCT.2012": 12.5
+    "RCPTOT.2012": 26622153,
+    "VAL_PCT.2012": 12.5,
+    "VAL_PCT.1997": 13.3,
+    "RCPTOT.1997": 128923496
   },
   {
     "NAICS.id": "4247",
     "NAICS.label": "Petroleum and petroleum products merchant wholesalers",
     "SECTOR.label": "Wholesale trade",
+    "RCPTOT.2002": 87984815,
     "VAL_PCT.2002": 27.4,
+    "RCPTOT.2007": 203457474,
     "VAL_PCT.2007": 26.6,
-    "VAL_PCT.2012": 30.3
+    "RCPTOT.2012": 419256807,
+    "VAL_PCT.2012": 30.3,
+    "VAL_PCT.1997": 14.9,
+    "RCPTOT.1997": 267623942
   },
   {
     "NAICS.id": "4248",
     "NAICS.label": "Beer, wine, and distilled alcoholic beverage merchant wholesalers",
     "SECTOR.label": "Wholesale trade",
+    "RCPTOT.2002": 11237836,
     "VAL_PCT.2002": 12.8,
+    "RCPTOT.2007": 21118605,
     "VAL_PCT.2007": 18.3,
-    "VAL_PCT.2012": 18.6
+    "RCPTOT.2012": 25442920,
+    "VAL_PCT.2012": 18.6,
+    "VAL_PCT.1997": 11.9,
+    "RCPTOT.1997": 69703203
   },
   {
     "NAICS.id": "4249",
     "NAICS.label": "Miscellaneous nondurable goods merchant wholesalers",
     "SECTOR.label": "Wholesale trade",
+    "RCPTOT.2002": 39970224,
     "VAL_PCT.2002": 18,
+    "RCPTOT.2007": 52947984,
     "VAL_PCT.2007": 19.9,
-    "VAL_PCT.2012": 20.3
+    "RCPTOT.2012": 67731788,
+    "VAL_PCT.2012": 20.3,
+    "VAL_PCT.1997": 14.8,
+    "RCPTOT.1997": 213618778
   },
   {
     "NAICS.id": "4251",
     "NAICS.label": "Wholesale electronic markets and agents and brokers",
     "SECTOR.label": "Wholesale trade",
+    "RCPTOT.2002": 130423951,
     "VAL_PCT.2002": 27,
+    "RCPTOT.2007": 141580677,
     "VAL_PCT.2007": 22.6,
+    "RCPTOT.2012": 158502572,
     "VAL_PCT.2012": 24.8
   },
   {
     "NAICS.id": "5111",
     "NAICS.label": "Newspaper, periodical, book, and directory publishers",
     "SECTOR.label": "Information",
+    "RCPTOT.2002": 18833705,
     "VAL_PCT.2002": 13.6,
+    "RCPTOT.2007": 21328246,
     "VAL_PCT.2007": 14.5,
-    "VAL_PCT.2012": 14
+    "RCPTOT.2012": 14134360,
+    "VAL_PCT.2012": 14,
+    "RCPTOT.1997": 117336003
   },
   {
     "NAICS.id": "5112",
     "NAICS.label": "Software publishers",
     "SECTOR.label": "Information",
+    "RCPTOT.2002": 40889885,
     "VAL_PCT.2002": 39.5,
+    "RCPTOT.2007": 52683871,
     "VAL_PCT.2007": 38.9,
-    "VAL_PCT.2012": 41.4
+    "RCPTOT.2012": 70770039,
+    "VAL_PCT.2012": 41.4,
+    "VAL_PCT.1997": 28.2,
+    "RCPTOT.1997": 61699420
   },
   {
     "NAICS.id": "5121",
     "NAICS.label": "Motion picture and video industries",
     "SECTOR.label": "Information",
+    "RCPTOT.2002": 23561510,
     "VAL_PCT.2002": 37.4,
+    "RCPTOT.2007": 32502152,
     "VAL_PCT.2007": 40.7,
-    "VAL_PCT.2012": 34.9
+    "RCPTOT.2012": 28176207,
+    "VAL_PCT.2012": 34.9,
+    "VAL_PCT.1997": 32.5,
+    "RCPTOT.1997": 44785652
   },
   {
     "NAICS.id": "5122",
     "NAICS.label": "Sound recording industries",
     "SECTOR.label": "Information",
+    "RCPTOT.2002": 9332188,
     "VAL_PCT.2002": 60.9,
+    "RCPTOT.2007": 9626474,
     "VAL_PCT.2007": 63.4,
-    "VAL_PCT.2012": 51
+    "RCPTOT.2012": 5713290,
+    "VAL_PCT.2012": 51,
+    "VAL_PCT.1997": 53.1,
+    "RCPTOT.1997": 11139881
   },
   {
     "NAICS.id": "5151",
     "NAICS.label": "Radio and television broadcasting",
     "SECTOR.label": "Information",
+    "RCPTOT.2002": 18974912,
     "VAL_PCT.2002": 39.1,
+    "RCPTOT.2007": 18251318,
     "VAL_PCT.2007": 33.2,
-    "VAL_PCT.2012": 39.8
+    "RCPTOT.2012": 25146348,
+    "VAL_PCT.2012": 39.8,
+    "VAL_PCT.1997": 39.1,
+    "RCPTOT.1997": 40425210
   },
   {
     "NAICS.id": "5152",
     "NAICS.label": "Cable and other subscription programming",
     "SECTOR.label": "Information",
+    "RCPTOT.2002": 16222017,
     "VAL_PCT.2002": 63.9,
+    "RCPTOT.2007": 27859234,
     "VAL_PCT.2007": 62,
-    "VAL_PCT.2012": 58.9
+    "RCPTOT.2012": 37437635,
+    "VAL_PCT.2012": 58.9,
+    "VAL_PCT.1997": 42.3,
+    "RCPTOT.1997": 45389578
   },
   {
     "NAICS.id": "5171",
     "NAICS.label": "Wired telecommunications carriers",
     "SECTOR.label": "Information",
+    "RCPTOT.2002": 141854118,
     "VAL_PCT.2002": 59.7,
+    "RCPTOT.2007": 165145082,
     "VAL_PCT.2007": 56.8,
-    "VAL_PCT.2012": 51.3
+    "RCPTOT.2012": 146679827,
+    "VAL_PCT.2012": 51.3,
+    "VAL_PCT.1997": 47,
+    "RCPTOT.1997": 208790552
   },
   {
     "NAICS.id": "5172",
     "NAICS.label": "Wireless telecommunications carriers (except satellite)",
     "SECTOR.label": "Information",
+    "RCPTOT.2002": 61172578,
     "VAL_PCT.2002": 61.7,
+    "RCPTOT.2007": 136836136,
     "VAL_PCT.2007": 80.2,
-    "VAL_PCT.2012": 89.1
+    "RCPTOT.2012": 200895957,
+    "VAL_PCT.2012": 89.1,
+    "VAL_PCT.1997": 35.8,
+    "RCPTOT.1997": 37888862
   },
   {
     "NAICS.id": "5174",
     "NAICS.label": "Satellite telecommunications",
     "SECTOR.label": "Information",
+    "RCPTOT.2002": 1987296,
     "VAL_PCT.2002": 34.6,
+    "RCPTOT.2007": 1884554,
     "VAL_PCT.2007": 42.4,
-    "VAL_PCT.2012": 48.1
+    "RCPTOT.2012": 3269811,
+    "VAL_PCT.2012": 48.1,
+    "VAL_PCT.1997": 45.6,
+    "RCPTOT.1997": 5096182
   },
   {
     "NAICS.id": "5179",
     "NAICS.label": "Other telecommunications",
     "SECTOR.label": "Information",
+    "RCPTOT.2002": 495577,
     "VAL_PCT.2002": 31.4,
+    "RCPTOT.2007": 7658099,
     "VAL_PCT.2007": 30.3,
-    "VAL_PCT.2012": 32.6
+    "RCPTOT.2012": 9046512,
+    "VAL_PCT.2012": 32.6,
+    "VAL_PCT.1997": 44.9,
+    "RCPTOT.1997": 1133004
   },
   {
     "NAICS.id": "5182",
     "NAICS.label": "Data processing, hosting, and related services",
     "SECTOR.label": "Information",
+    "RCPTOT.2002": 17904000,
     "VAL_PCT.2002": 33.7,
+    "RCPTOT.2007": 17207116,
     "VAL_PCT.2007": 25.8,
-    "VAL_PCT.2012": 15.9
+    "RCPTOT.2012": 17149626,
+    "VAL_PCT.2012": 15.9,
+    "VAL_PCT.1997": 42.7,
+    "RCPTOT.1997": 30836645
   },
   {
     "NAICS.id": "5191",
     "NAICS.label": "Other information services",
     "SECTOR.label": "Information",
+    "RCPTOT.2002": 1504587,
     "VAL_PCT.2002": 30.7,
+    "RCPTOT.2007": 16047433,
     "VAL_PCT.2007": 42.9,
-    "VAL_PCT.2012": 41.9
+    "RCPTOT.2012": 39414215,
+    "VAL_PCT.2012": 41.9,
+    "VAL_PCT.1997": 35.5,
+    "RCPTOT.1997": 8837260
   },
   {
     "NAICS.id": "5221",
     "NAICS.label": "Depository credit intermediation",
     "SECTOR.label": "Finance and insurance",
+    "RCPTOT.2002": 146420847,
     "VAL_PCT.2002": 24.2,
+    "RCPTOT.2007": 201442996,
     "VAL_PCT.2007": 26.5,
-    "VAL_PCT.2012": 20.8
+    "RCPTOT.2012": 99859602,
+    "VAL_PCT.2012": 20.8,
+    "VAL_PCT.1997": 14,
+    "RCPTOT.1997": 533133659
   },
   {
     "NAICS.id": "5222",
     "NAICS.label": "Nondepository credit intermediation",
     "SECTOR.label": "Finance and insurance",
+    "RCPTOT.2002": 154950247,
     "VAL_PCT.2002": 39,
+    "RCPTOT.2007": 164042497,
     "VAL_PCT.2007": 32,
-    "VAL_PCT.2012": 52.3
+    "RCPTOT.2012": 280155189,
+    "VAL_PCT.2012": 52.3,
+    "VAL_PCT.1997": 31.2,
+    "RCPTOT.1997": 299213945
   },
   {
     "NAICS.id": "5223",
     "NAICS.label": "Activities related to credit intermediation",
     "SECTOR.label": "Finance and insurance",
+    "RCPTOT.2002": 12396407,
     "VAL_PCT.2002": 22.9,
+    "RCPTOT.2007": 14504750,
     "VAL_PCT.2007": 20.6,
-    "VAL_PCT.2012": 26.7
+    "RCPTOT.2012": 21008537,
+    "VAL_PCT.2012": 26.7,
+    "VAL_PCT.1997": 25.6,
+    "RCPTOT.1997": 46463329
   },
   {
     "NAICS.id": "5241",
     "NAICS.label": "Insurance carriers",
     "SECTOR.label": "Finance and insurance",
+    "RCPTOT.2002": 172100776,
     "VAL_PCT.2002": 13.5,
+    "RCPTOT.2007": 240563308,
     "VAL_PCT.2007": 15.8,
-    "VAL_PCT.2012": 15.9
+    "RCPTOT.2012": 263414200,
+    "VAL_PCT.2012": 15.9,
+    "VAL_PCT.1997": 14.8,
+    "RCPTOT.1997": 995511823
   },
   {
     "NAICS.id": "5242",
     "NAICS.label": "Agencies, brokerages, and other insurance related activities",
     "SECTOR.label": "Finance and insurance",
+    "RCPTOT.2002": 8998826,
     "VAL_PCT.2002": 8.4,
+    "RCPTOT.2007": 12288156,
     "VAL_PCT.2007": 8.4,
-    "VAL_PCT.2012": 42.6
+    "RCPTOT.2012": 112347746,
+    "VAL_PCT.2012": 42.6,
+    "VAL_PCT.1997": 8.7,
+    "RCPTOT.1997": 77272251
   },
   {
     "NAICS.id": "5311",
     "NAICS.label": "Lessors of real estate",
     "SECTOR.label": "Real estate and rental and leasing",
+    "RCPTOT.2002": 7793579,
     "VAL_PCT.2002": 6.7,
+    "RCPTOT.2007": 14573119,
     "VAL_PCT.2007": 8.1,
-    "VAL_PCT.2012": 5.9
+    "RCPTOT.2012": 11629887,
+    "VAL_PCT.2012": 5.9,
+    "VAL_PCT.1997": 2.1,
+    "RCPTOT.1997": 85791328
   },
   {
     "NAICS.id": "5312",
     "NAICS.label": "Offices of real estate agents and brokers",
     "SECTOR.label": "Real estate and rental and leasing",
+    "RCPTOT.2002": 6512069,
     "VAL_PCT.2002": 10.3,
+    "RCPTOT.2007": 9555741,
     "VAL_PCT.2007": 11.3,
-    "VAL_PCT.2012": 13.3
+    "RCPTOT.2012": 8678476,
+    "VAL_PCT.2012": 13.3,
+    "VAL_PCT.1997": 6.9,
+    "RCPTOT.1997": 38945434
   },
   {
     "NAICS.id": "5313",
     "NAICS.label": "Activities related to real estate",
     "SECTOR.label": "Real estate and rental and leasing",
+    "RCPTOT.2002": 1768658,
     "VAL_PCT.2002": 4,
+    "RCPTOT.2007": 5126493,
     "VAL_PCT.2007": 7.8,
-    "VAL_PCT.2012": 3.4
+    "RCPTOT.2012": 2143938,
+    "VAL_PCT.2012": 3.4,
+    "VAL_PCT.1997": 6.6,
+    "RCPTOT.1997": 28538145
   },
   {
     "NAICS.id": "5321",
     "NAICS.label": "Automotive equipment rental and leasing",
     "SECTOR.label": "Real estate and rental and leasing",
+    "RCPTOT.2002": 16937794,
     "VAL_PCT.2002": 47.3,
+    "RCPTOT.2007": 21343071,
     "VAL_PCT.2007": 47.4,
-    "VAL_PCT.2012": 58.9
+    "RCPTOT.2012": 28503917,
+    "VAL_PCT.2012": 58.9,
+    "VAL_PCT.1997": 39,
+    "RCPTOT.1997": 28921850
   },
   {
     "NAICS.id": "5322",
     "NAICS.label": "Consumer goods rental",
     "SECTOR.label": "Real estate and rental and leasing",
+    "RCPTOT.2002": 8809411,
     "VAL_PCT.2002": 42.6,
+    "RCPTOT.2007": 10332658,
     "VAL_PCT.2007": 41.7,
-    "VAL_PCT.2012": 40.1
+    "RCPTOT.2012": 8704552,
+    "VAL_PCT.2012": 40.1,
+    "VAL_PCT.1997": 25.9,
+    "RCPTOT.1997": 14396209
   },
   {
     "NAICS.id": "5323",
     "NAICS.label": "General rental centers",
     "SECTOR.label": "Real estate and rental and leasing",
+    "RCPTOT.2002": 653795,
     "VAL_PCT.2002": 19.3,
+    "RCPTOT.2007": 1562687,
     "VAL_PCT.2007": 36.8,
-    "VAL_PCT.2012": 6.9
+    "RCPTOT.2012": 159831,
+    "VAL_PCT.2012": 6.9,
+    "VAL_PCT.1997": 30.1,
+    "RCPTOT.1997": 3910618
   },
   {
     "NAICS.id": "5324",
     "NAICS.label": "Commercial and industrial machinery and equipment rental and leasing",
     "SECTOR.label": "Real estate and rental and leasing",
+    "RCPTOT.2002": 7609092,
     "VAL_PCT.2002": 21.6,
+    "RCPTOT.2007": 10896734,
     "VAL_PCT.2007": 22.8,
-    "VAL_PCT.2012": 17.4
+    "RCPTOT.2012": 9913402,
+    "VAL_PCT.2012": 17.4,
+    "VAL_PCT.1997": 20.4,
+    "RCPTOT.1997": 29150107
   },
   {
     "NAICS.id": "5331",
     "NAICS.label": "Lessors of nonfinancial intangible assets (except copyrighted works)",
     "SECTOR.label": "Real estate and rental and leasing",
+    "RCPTOT.2002": 5405921,
     "VAL_PCT.2002": 32,
+    "RCPTOT.2007": 11028925,
     "VAL_PCT.2007": 33.5,
-    "VAL_PCT.2012": 23
+    "RCPTOT.2012": 7571574,
+    "VAL_PCT.2012": 23,
+    "VAL_PCT.1997": 20.8,
+    "RCPTOT.1997": 11263865
   },
   {
     "NAICS.id": "5411",
     "NAICS.label": "Legal services",
     "SECTOR.label": "Professional, scientific, and technical services",
+    "RCPTOT.2002": 3359142,
     "VAL_PCT.2002": 1.8,
+    "RCPTOT.2007": 5910496,
     "VAL_PCT.2007": 2.5,
-    "VAL_PCT.2012": 2.6
+    "RCPTOT.2012": 6809858,
+    "VAL_PCT.2012": 2.6,
+    "VAL_PCT.1997": 1.8,
+    "RCPTOT.1997": 127052406
   },
   {
     "NAICS.id": "5412",
     "NAICS.label": "Accounting, tax preparation, bookkeeping, and payroll services",
     "SECTOR.label": "Professional, scientific, and technical services",
+    "RCPTOT.2002": 18138928,
     "VAL_PCT.2002": 21.6,
+    "RCPTOT.2007": 25658970,
     "VAL_PCT.2007": 22.5,
-    "VAL_PCT.2012": 23.6
+    "RCPTOT.2012": 30680674,
+    "VAL_PCT.2012": 23.6,
+    "VAL_PCT.1997": 20,
+    "RCPTOT.1997": 61117315
   },
   {
     "NAICS.id": "5413",
     "NAICS.label": "Architectural, engineering, and related services",
     "SECTOR.label": "Professional, scientific, and technical services",
+    "RCPTOT.2002": 11781037,
     "VAL_PCT.2002": 7.3,
+    "RCPTOT.2007": 20582825,
     "VAL_PCT.2007": 8.1,
-    "VAL_PCT.2012": 10.3
+    "RCPTOT.2012": 27487800,
+    "VAL_PCT.2012": 10.3,
+    "VAL_PCT.1997": 8.1,
+    "RCPTOT.1997": 116986061
   },
   {
     "NAICS.id": "5414",
     "NAICS.label": "Specialized design services",
     "SECTOR.label": "Professional, scientific, and technical services",
+    "RCPTOT.2002": 578434,
     "VAL_PCT.2002": 3.4,
+    "RCPTOT.2007": 359076,
     "VAL_PCT.2007": 1.7,
-    "VAL_PCT.2012": 2.5
+    "RCPTOT.2012": 455314,
+    "VAL_PCT.2012": 2.5,
+    "VAL_PCT.1997": 2.4,
+    "RCPTOT.1997": 14254024
   },
   {
     "NAICS.id": "5415",
     "NAICS.label": "Computer systems design and related services",
     "SECTOR.label": "Professional, scientific, and technical services",
+    "RCPTOT.2002": 30674242,
     "VAL_PCT.2002": 17.7,
+    "RCPTOT.2007": 47384471,
     "VAL_PCT.2007": 19.4,
-    "VAL_PCT.2012": 15.6
+    "RCPTOT.2012": 50948331,
+    "VAL_PCT.2012": 15.6,
+    "VAL_PCT.1997": 15.5,
+    "RCPTOT.1997": 108967614
   },
   {
     "NAICS.id": "5416",
     "NAICS.label": "Management, scientific, and technical consulting services",
     "SECTOR.label": "Professional, scientific, and technical services",
+    "RCPTOT.2002": 10927088,
     "VAL_PCT.2002": 10.4,
+    "RCPTOT.2007": 16529589,
     "VAL_PCT.2007": 11.8,
-    "VAL_PCT.2012": 13.9
+    "RCPTOT.2012": 28914122,
+    "VAL_PCT.2012": 13.9,
+    "VAL_PCT.1997": 11.2,
+    "RCPTOT.1997": 63428740
   },
   {
     "NAICS.id": "5417",
     "NAICS.label": "Scientific research and development services",
     "SECTOR.label": "Professional, scientific, and technical services",
+    "RCPTOT.2002": 9343614,
     "VAL_PCT.2002": 14.5,
+    "RCPTOT.2007": 17471791,
     "VAL_PCT.2007": 18.5,
-    "VAL_PCT.2012": 11.5
+    "RCPTOT.2012": 13400297,
+    "VAL_PCT.2012": 11.5,
+    "VAL_PCT.1997": 29.5,
+    "RCPTOT.1997": 23078307
   },
   {
     "NAICS.id": "5418",
     "NAICS.label": "Advertising, public relations, and related services",
     "SECTOR.label": "Professional, scientific, and technical services",
+    "RCPTOT.2002": 9236914,
     "VAL_PCT.2002": 16.3,
+    "RCPTOT.2007": 12253652,
     "VAL_PCT.2007": 14,
-    "VAL_PCT.2012": 17.4
+    "RCPTOT.2012": 15239294,
+    "VAL_PCT.2012": 17.4,
+    "VAL_PCT.1997": 10.3,
+    "RCPTOT.1997": 49290082
   },
   {
     "NAICS.id": "5419",
     "NAICS.label": "Other professional, scientific, and technical services",
     "SECTOR.label": "Professional, scientific, and technical services",
+    "RCPTOT.2002": 2727506,
     "VAL_PCT.2002": 6.5,
+    "RCPTOT.2007": 4438554,
     "VAL_PCT.2007": 7.8,
-    "VAL_PCT.2012": 8.3
+    "RCPTOT.2012": 5598784,
+    "VAL_PCT.2012": 8.3,
+    "VAL_PCT.1997": 12.1,
+    "RCPTOT.1997": 15367590
   },
   {
     "NAICS.id": "5611",
     "NAICS.label": "Office administrative services",
     "SECTOR.label": "Administrative and support and waste management and remediation services",
+    "RCPTOT.2002": 706408,
     "VAL_PCT.2002": 2.2,
+    "RCPTOT.2007": 903211,
     "VAL_PCT.2007": 2.3,
-    "VAL_PCT.2012": 2.1
+    "RCPTOT.2012": 921791,
+    "VAL_PCT.2012": 2.1,
+    "VAL_PCT.1997": 4.7,
+    "RCPTOT.1997": 28054350
   },
   {
     "NAICS.id": "5612",
     "NAICS.label": "Facilities support services",
     "SECTOR.label": "Administrative and support and waste management and remediation services",
+    "RCPTOT.2002": 4346271,
     "VAL_PCT.2002": 33.5,
+    "RCPTOT.2007": 7109064,
     "VAL_PCT.2007": 27.6,
-    "VAL_PCT.2012": 25.6
+    "RCPTOT.2012": 6524345,
+    "VAL_PCT.2012": 25.6,
+    "VAL_PCT.1997": 21.4,
+    "RCPTOT.1997": 7575712
   },
   {
     "NAICS.id": "5613",
     "NAICS.label": "Employment services",
     "SECTOR.label": "Administrative and support and waste management and remediation services",
+    "RCPTOT.2002": 15031490,
     "VAL_PCT.2002": 11.7,
+    "RCPTOT.2007": 31004853,
     "VAL_PCT.2007": 14.8,
-    "VAL_PCT.2012": 21.1
+    "RCPTOT.2012": 50321054,
+    "VAL_PCT.2012": 21.1,
+    "VAL_PCT.1997": 10.5,
+    "RCPTOT.1997": 86133314
   },
   {
     "NAICS.id": "5614",
     "NAICS.label": "Business support services",
     "SECTOR.label": "Administrative and support and waste management and remediation services",
+    "RCPTOT.2002": 4981822,
     "VAL_PCT.2002": 11.3,
+    "RCPTOT.2007": 7584223,
     "VAL_PCT.2007": 12.2,
-    "VAL_PCT.2012": 10.9
+    "RCPTOT.2012": 6526140,
+    "VAL_PCT.2012": 10.9,
+    "VAL_PCT.1997": 14.8,
+    "RCPTOT.1997": 36026350
   },
   {
     "NAICS.id": "5615",
     "NAICS.label": "Travel arrangement and reservation services",
     "SECTOR.label": "Administrative and support and waste management and remediation services",
+    "RCPTOT.2002": 5252537,
     "VAL_PCT.2002": 20.6,
+    "RCPTOT.2007": 12462172,
     "VAL_PCT.2007": 33.6,
-    "VAL_PCT.2012": 15.8
+    "RCPTOT.2012": 5429057,
+    "VAL_PCT.2012": 15.8,
+    "VAL_PCT.1997": 20.5,
+    "RCPTOT.1997": 21484040
   },
   {
     "NAICS.id": "5616",
     "NAICS.label": "Investigation and security services",
     "SECTOR.label": "Administrative and support and waste management and remediation services",
+    "RCPTOT.2002": 8663962,
     "VAL_PCT.2002": 27.6,
+    "RCPTOT.2007": 9372752,
     "VAL_PCT.2007": 22.9,
-    "VAL_PCT.2012": 20.6
+    "RCPTOT.2012": 9673022,
+    "VAL_PCT.2012": 20.6,
+    "VAL_PCT.1997": 19.5,
+    "RCPTOT.1997": 20444077
   },
   {
     "NAICS.id": "5617",
     "NAICS.label": "Services to buildings and dwellings",
     "SECTOR.label": "Administrative and support and waste management and remediation services",
+    "RCPTOT.2002": 6032243,
     "VAL_PCT.2002": 8,
+    "RCPTOT.2007": 6938231,
     "VAL_PCT.2007": 6.7,
-    "VAL_PCT.2012": 7.6
+    "RCPTOT.2012": 8169233,
+    "VAL_PCT.2012": 7.6,
+    "VAL_PCT.1997": 8.8,
+    "RCPTOT.1997": 29914507
   },
   {
     "NAICS.id": "5619",
     "NAICS.label": "Other support services",
     "SECTOR.label": "Administrative and support and waste management and remediation services",
+    "RCPTOT.2002": 2425183,
     "VAL_PCT.2002": 7.7,
+    "RCPTOT.2007": 3180278,
     "VAL_PCT.2007": 8.6,
-    "VAL_PCT.2012": 10.3
+    "RCPTOT.2012": 3881123,
+    "VAL_PCT.2012": 10.3,
+    "VAL_PCT.1997": 4.9,
+    "RCPTOT.1997": 26958395
   },
   {
     "NAICS.id": "5621",
     "NAICS.label": "Waste collection",
     "SECTOR.label": "Administrative and support and waste management and remediation services",
+    "RCPTOT.2002": 16089625,
     "VAL_PCT.2002": 57,
+    "RCPTOT.2007": 18906371,
     "VAL_PCT.2007": 46.7,
-    "VAL_PCT.2012": 42.6
+    "RCPTOT.2012": 17148980,
+    "VAL_PCT.2012": 42.6,
+    "VAL_PCT.1997": 45,
+    "RCPTOT.1997": 20144673
   },
   {
     "NAICS.id": "5622",
     "NAICS.label": "Waste treatment and disposal",
     "SECTOR.label": "Administrative and support and waste management and remediation services",
+    "RCPTOT.2002": 4506253,
     "VAL_PCT.2002": 41.6,
+    "RCPTOT.2007": 5276944,
     "VAL_PCT.2007": 37,
-    "VAL_PCT.2012": 43.3
+    "RCPTOT.2012": 6424050,
+    "VAL_PCT.2012": 43.3,
+    "VAL_PCT.1997": 48,
+    "RCPTOT.1997": 10250994
   },
   {
     "NAICS.id": "5629",
     "NAICS.label": "Remediation and other waste management services",
     "SECTOR.label": "Administrative and support and waste management and remediation services",
+    "RCPTOT.2002": 1655774,
     "VAL_PCT.2002": 13.5,
+    "RCPTOT.2007": 2512099,
     "VAL_PCT.2007": 12.3,
-    "VAL_PCT.2012": 11.4
+    "RCPTOT.2012": 2733023,
+    "VAL_PCT.2012": 11.4,
+    "VAL_PCT.1997": 27.3,
+    "RCPTOT.1997": 8949938
   },
   {
     "NAICS.id": "6114",
     "NAICS.label": "Business schools and computer and management training",
     "SECTOR.label": "Educational services",
+    "RCPTOT.2002": 675845,
     "VAL_PCT.2002": 8.8,
+    "RCPTOT.2007": 712974,
     "VAL_PCT.2007": 7.1,
-    "VAL_PCT.2012": 6.5
+    "RCPTOT.2012": 646729,
+    "VAL_PCT.2012": 6.5,
+    "VAL_PCT.1997": 7.8,
+    "RCPTOT.1997": 4902474
   },
   {
     "NAICS.id": "6115",
     "NAICS.label": "Technical and trade schools",
     "SECTOR.label": "Educational services",
+    "RCPTOT.2002": 1091345,
     "VAL_PCT.2002": 14.6,
+    "RCPTOT.2007": 1668164,
     "VAL_PCT.2007": 15.7,
-    "VAL_PCT.2012": 15
+    "RCPTOT.2012": 1966008,
+    "VAL_PCT.2012": 15,
+    "VAL_PCT.1997": 19,
+    "RCPTOT.1997": 3465093
   },
   {
     "NAICS.id": "6116",
     "NAICS.label": "Other schools and instruction",
     "SECTOR.label": "Educational services",
+    "RCPTOT.2002": 674897,
     "VAL_PCT.2002": 6.9,
+    "RCPTOT.2007": 1501383,
     "VAL_PCT.2007": 9.7,
-    "VAL_PCT.2012": 6.4
+    "RCPTOT.2012": 1206543,
+    "VAL_PCT.2012": 6.4,
+    "VAL_PCT.1997": 7.6,
+    "RCPTOT.1997": 5197024
   },
   {
     "NAICS.id": "6117",
     "NAICS.label": "Educational support services",
     "SECTOR.label": "Educational services",
+    "RCPTOT.2002": 1484271,
     "VAL_PCT.2002": 25.9,
+    "RCPTOT.2007": 1868206,
     "VAL_PCT.2007": 21.2,
-    "VAL_PCT.2012": 28.7
+    "RCPTOT.2012": 3340205,
+    "VAL_PCT.2012": 28.7,
+    "VAL_PCT.1997": 12.5,
+    "RCPTOT.1997": 1368727
   },
   {
     "NAICS.id": "6211",
     "NAICS.label": "Offices of physicians",
     "SECTOR.label": "Health care and social assistance",
+    "RCPTOT.2002": 8404331,
     "VAL_PCT.2002": 3.4,
+    "RCPTOT.2007": 14653307,
     "VAL_PCT.2007": 4.4,
-    "VAL_PCT.2012": 5.4
+    "RCPTOT.2012": 21696689,
+    "VAL_PCT.2012": 5.4,
+    "VAL_PCT.1997": 3.7,
+    "RCPTOT.1997": 171629179
   },
   {
     "NAICS.id": "6212",
     "NAICS.label": "Offices of dentists",
     "SECTOR.label": "Health care and social assistance",
+    "RCPTOT.2002": 1096739,
     "VAL_PCT.2002": 1.5,
+    "RCPTOT.2007": 1321629,
     "VAL_PCT.2007": 1.4,
-    "VAL_PCT.2012": 2
+    "RCPTOT.2012": 2088366,
+    "VAL_PCT.2012": 2,
+    "VAL_PCT.1997": 0.7,
+    "RCPTOT.1997": 48482037
   },
   {
     "NAICS.id": "6213",
     "NAICS.label": "Offices of other health practitioners",
     "SECTOR.label": "Health care and social assistance",
+    "RCPTOT.2002": 1057574,
     "VAL_PCT.2002": 2.8,
+    "RCPTOT.2007": 2185714,
     "VAL_PCT.2007": 4.3,
-    "VAL_PCT.2012": 5.9
+    "RCPTOT.2012": 3880918,
+    "VAL_PCT.2012": 5.9,
+    "VAL_PCT.1997": 6.6,
+    "RCPTOT.1997": 28282299
   },
   {
     "NAICS.id": "6214",
     "NAICS.label": "Outpatient care centers",
     "SECTOR.label": "Health care and social assistance",
+    "RCPTOT.2002": 7687077,
     "VAL_PCT.2002": 14,
+    "RCPTOT.2007": 12617540,
     "VAL_PCT.2007": 17,
-    "VAL_PCT.2012": 20.4
+    "RCPTOT.2012": 20093455,
+    "VAL_PCT.2012": 20.4,
+    "VAL_PCT.1997": 25.3,
+    "RCPTOT.1997": 17306497
   },
   {
     "NAICS.id": "6215",
     "NAICS.label": "Medical and diagnostic laboratories",
     "SECTOR.label": "Health care and social assistance",
+    "RCPTOT.2002": 6696181,
     "VAL_PCT.2002": 23.6,
+    "RCPTOT.2007": 10399058,
     "VAL_PCT.2007": 25.9,
-    "VAL_PCT.2012": 27.1
+    "RCPTOT.2012": 12518510,
+    "VAL_PCT.2012": 27.1,
+    "VAL_PCT.1997": 28.2,
+    "RCPTOT.1997": 16317096
   },
   {
     "NAICS.id": "6216",
     "NAICS.label": "Home health care services",
     "SECTOR.label": "Health care and social assistance",
+    "RCPTOT.2002": 2290288,
     "VAL_PCT.2002": 7.5,
+    "RCPTOT.2007": 3539188,
     "VAL_PCT.2007": 7.4,
-    "VAL_PCT.2012": 9.4
+    "RCPTOT.2012": 6136914,
+    "VAL_PCT.2012": 9.4,
+    "VAL_PCT.1997": 17.3,
+    "RCPTOT.1997": 21474024
   },
   {
     "NAICS.id": "6219",
     "NAICS.label": "Other ambulatory health care services",
     "SECTOR.label": "Health care and social assistance",
+    "RCPTOT.2002": 2904472,
     "VAL_PCT.2002": 16.2,
+    "RCPTOT.2007": 4403246,
     "VAL_PCT.2007": 16.8,
-    "VAL_PCT.2012": 17.5
+    "RCPTOT.2012": 5468678,
+    "VAL_PCT.2012": 17.5,
+    "VAL_PCT.1997": 30.8,
+    "RCPTOT.1997": 6521189
   },
   {
     "NAICS.id": "6221",
     "NAICS.label": "General medical and surgical hospitals",
     "SECTOR.label": "Health care and social assistance",
+    "RCPTOT.2002": 44123723,
     "VAL_PCT.2002": 9.4,
+    "RCPTOT.2007": 50977080,
     "VAL_PCT.2007": 7.8,
-    "VAL_PCT.2012": 8.8
+    "RCPTOT.2012": 71940743,
+    "VAL_PCT.2012": 8.8,
+    "VAL_PCT.1997": 73.5,
+    "RCPTOT.1997": 34212503
   },
   {
     "NAICS.id": "6222",
     "NAICS.label": "Psychiatric and substance abuse hospitals",
     "SECTOR.label": "Health care and social assistance",
+    "RCPTOT.2002": 1120371,
     "VAL_PCT.2002": 8.2,
+    "RCPTOT.2007": 2612653,
     "VAL_PCT.2007": 15.2,
-    "VAL_PCT.2012": 17.2
+    "RCPTOT.2012": 3507917,
+    "VAL_PCT.2012": 17.2,
+    "VAL_PCT.1997": 43.5,
+    "RCPTOT.1997": 3368561
   },
   {
     "NAICS.id": "6223",
     "NAICS.label": "Specialty (except psychiatric and substance abuse) hospitals",
     "SECTOR.label": "Health care and social assistance",
+    "RCPTOT.2002": 4192852,
     "VAL_PCT.2002": 25,
+    "RCPTOT.2007": 6833428,
     "VAL_PCT.2007": 24,
-    "VAL_PCT.2012": 27.2
+    "RCPTOT.2012": 10853715,
+    "VAL_PCT.2012": 27.2,
+    "VAL_PCT.1997": 72.4,
+    "RCPTOT.1997": 2565315
   },
   {
     "NAICS.id": "6239",
     "NAICS.label": "Other residential care facilities",
     "SECTOR.label": "Health care and social assistance",
+    "RCPTOT.2002": 348598,
     "VAL_PCT.2002": 4.6,
+    "RCPTOT.2007": 453567,
     "VAL_PCT.2007": 5.4,
-    "VAL_PCT.2012": 6.4
+    "RCPTOT.2012": 509526,
+    "VAL_PCT.2012": 6.4,
+    "VAL_PCT.1997": 23.2,
+    "RCPTOT.1997": 650811
   },
   {
     "NAICS.id": "6241",
     "NAICS.label": "Individual and family services",
     "SECTOR.label": "Health care and social assistance",
+    "RCPTOT.2002": 1294756,
     "VAL_PCT.2002": 2.9,
+    "RCPTOT.2007": 1958974,
     "VAL_PCT.2007": 3.1,
-    "VAL_PCT.2012": 3.4
+    "RCPTOT.2012": 2494762,
+    "VAL_PCT.2012": 3.4,
+    "VAL_PCT.1997": 6.1,
+    "RCPTOT.1997": 2636231
   },
   {
     "NAICS.id": "6242",
     "NAICS.label": "Community food and housing, and emergency and other relief services",
     "SECTOR.label": "Health care and social assistance",
+    "RCPTOT.2002": 2910278,
     "VAL_PCT.2002": 20.8,
+    "RCPTOT.2007": 3634304,
     "VAL_PCT.2007": 15.5,
-    "VAL_PCT.2012": 11.9
+    "RCPTOT.2012": 3302499,
+    "VAL_PCT.2012": 11.9,
+    "VAL_PCT.1997": 23,
+    "RCPTOT.1997": 111986
   },
   {
     "NAICS.id": "6243",
     "NAICS.label": "Vocational rehabilitation services",
     "SECTOR.label": "Health care and social assistance",
+    "RCPTOT.2002": 748430,
     "VAL_PCT.2002": 6.8,
+    "RCPTOT.2007": 642136,
     "VAL_PCT.2007": 5.6,
-    "VAL_PCT.2012": 8.3
+    "RCPTOT.2012": 1025760,
+    "VAL_PCT.2012": 8.3,
+    "VAL_PCT.1997": 29.3,
+    "RCPTOT.1997": 1432269
   },
   {
     "NAICS.id": "6244",
     "NAICS.label": "Child day care services",
     "SECTOR.label": "Health care and social assistance",
+    "RCPTOT.2002": 2100238,
     "VAL_PCT.2002": 9.6,
+    "RCPTOT.2007": 3370702,
     "VAL_PCT.2007": 11.4,
-    "VAL_PCT.2012": 8.4
+    "RCPTOT.2012": 2703666,
+    "VAL_PCT.2012": 8.4,
+    "VAL_PCT.1997": 14.9,
+    "RCPTOT.1997": 8418626
   },
   {
     "NAICS.id": "7111",
     "NAICS.label": "Performing arts companies",
     "SECTOR.label": "Arts, entertainment, and recreation",
+    "RCPTOT.2002": 944081,
     "VAL_PCT.2002": 8.7,
+    "RCPTOT.2007": 1457837,
     "VAL_PCT.2007": 10.7,
-    "VAL_PCT.2012": 14.6
+    "RCPTOT.2012": 2018478,
+    "VAL_PCT.2012": 14.6,
+    "VAL_PCT.1997": 8.5,
+    "RCPTOT.1997": 5271542
   },
   {
     "NAICS.id": "7112",
     "NAICS.label": "Spectator sports",
     "SECTOR.label": "Arts, entertainment, and recreation",
+    "RCPTOT.2002": 1857305,
     "VAL_PCT.2002": 8.3,
+    "RCPTOT.2007": 2503339,
     "VAL_PCT.2007": 8.2,
-    "VAL_PCT.2012": 6.2
+    "RCPTOT.2012": 2073949,
+    "VAL_PCT.2012": 6.2,
+    "VAL_PCT.1997": 5.4,
+    "RCPTOT.1997": 13656033
   },
   {
     "NAICS.id": "7113",
     "NAICS.label": "Promoters of performing arts, sports, and similar events",
     "SECTOR.label": "Arts, entertainment, and recreation",
+    "RCPTOT.2002": 3407395,
     "VAL_PCT.2002": 28,
+    "RCPTOT.2007": 4113978,
     "VAL_PCT.2007": 25.5,
-    "VAL_PCT.2012": 21
+    "RCPTOT.2012": 3878960,
+    "VAL_PCT.2012": 21,
+    "VAL_PCT.1997": 8.2,
+    "RCPTOT.1997": 5045093
   },
   {
     "NAICS.id": "7114",
     "NAICS.label": "Agents and managers for artists, athletes, entertainers, and other public figures",
     "SECTOR.label": "Arts, entertainment, and recreation",
+    "RCPTOT.2002": 685903,
     "VAL_PCT.2002": 19,
+    "RCPTOT.2007": 828330,
     "VAL_PCT.2007": 16.8,
-    "VAL_PCT.2012": 22.3
+    "RCPTOT.2012": 1300302,
+    "VAL_PCT.2012": 22.3,
+    "VAL_PCT.1997": 23.5,
+    "RCPTOT.1997": 2409918
   },
   {
     "NAICS.id": "7115",
     "NAICS.label": "Independent artists, writers, and performers",
     "SECTOR.label": "Arts, entertainment, and recreation",
+    "RCPTOT.2002": 395831,
     "VAL_PCT.2002": 4.2,
+    "RCPTOT.2007": 401417,
     "VAL_PCT.2007": 3.1,
-    "VAL_PCT.2012": 2
+    "RCPTOT.2012": 302015,
+    "VAL_PCT.2012": 2,
+    "VAL_PCT.1997": 5.6,
+    "RCPTOT.1997": 6361000
   },
   {
     "NAICS.id": "7121",
     "NAICS.label": "Museums, historical sites, and similar institutions",
     "SECTOR.label": "Arts, entertainment, and recreation",
+    "RCPTOT.2002": 651165,
     "VAL_PCT.2002": 7.6,
+    "RCPTOT.2007": 1116041,
     "VAL_PCT.2007": 8.4,
-    "VAL_PCT.2012": 7.9
+    "RCPTOT.2012": 1084143,
+    "VAL_PCT.2012": 7.9,
+    "VAL_PCT.1997": 23.5,
+    "RCPTOT.1997": 483683
   },
   {
     "NAICS.id": "7131",
     "NAICS.label": "Amusement parks and arcades",
     "SECTOR.label": "Arts, entertainment, and recreation",
+    "RCPTOT.2002": 5720180,
     "VAL_PCT.2002": 60.6,
+    "RCPTOT.2007": 8433857,
     "VAL_PCT.2007": 62.3,
-    "VAL_PCT.2012": 63.7
+    "RCPTOT.2012": 9105823,
+    "VAL_PCT.2012": 63.7,
+    "VAL_PCT.1997": 57.7,
+    "RCPTOT.1997": 8418476
   },
   {
     "NAICS.id": "7132",
     "NAICS.label": "Gambling industries",
     "SECTOR.label": "Arts, entertainment, and recreation",
+    "RCPTOT.2002": 2058558,
     "VAL_PCT.2002": 10.9,
+    "RCPTOT.2007": 2813290,
     "VAL_PCT.2007": 11.2,
-    "VAL_PCT.2012": 14.5
+    "RCPTOT.2012": 3525399,
+    "VAL_PCT.2012": 14.5,
+    "VAL_PCT.1997": 15.8,
+    "RCPTOT.1997": 15541569
   },
   {
     "NAICS.id": "7139",
     "NAICS.label": "Other amusement and recreation industries",
     "SECTOR.label": "Arts, entertainment, and recreation",
+    "RCPTOT.2002": 3110618,
     "VAL_PCT.2002": 6.7,
+    "RCPTOT.2007": 3409744,
     "VAL_PCT.2007": 5.7,
-    "VAL_PCT.2012": 6.8
+    "RCPTOT.2012": 4257949,
+    "VAL_PCT.2012": 6.8,
+    "VAL_PCT.1997": 8.3,
+    "RCPTOT.1997": 27901150
   },
   {
     "NAICS.id": "7211",
     "NAICS.label": "Traveler accommodation",
     "SECTOR.label": "Accommodation and food services",
+    "RCPTOT.2002": 21500395,
     "VAL_PCT.2002": 17.4,
+    "RCPTOT.2007": 34409671,
     "VAL_PCT.2007": 19.6,
-    "VAL_PCT.2012": 16.2
+    "RCPTOT.2012": 30791964,
+    "VAL_PCT.2012": 16.2,
+    "VAL_PCT.1997": 16.3,
+    "RCPTOT.1997": 94965838
   },
   {
     "NAICS.id": "7212",
     "NAICS.label": "RV (recreational vehicle) parks and recreational camps",
     "SECTOR.label": "Accommodation and food services",
+    "RCPTOT.2002": 168716,
     "VAL_PCT.2002": 4.9,
+    "RCPTOT.2007": 291668,
     "VAL_PCT.2007": 6.6,
-    "VAL_PCT.2012": 5.6
+    "RCPTOT.2012": 272081,
+    "VAL_PCT.2012": 5.6,
+    "VAL_PCT.1997": 4.6,
+    "RCPTOT.1997": 2734918
   },
   {
     "NAICS.id": "7213",
     "NAICS.label": "Rooming and boarding houses",
     "SECTOR.label": "Accommodation and food services",
+    "RCPTOT.2002": 48544,
     "VAL_PCT.2002": 6.6,
+    "RCPTOT.2007": 76993,
     "VAL_PCT.2007": 9.5,
-    "VAL_PCT.2012": 21
+    "RCPTOT.2012": 282394,
+    "VAL_PCT.2012": 21,
+    "VAL_PCT.1997": 5.1,
+    "RCPTOT.1997": 756675
   },
   {
     "NAICS.id": "7223",
     "NAICS.label": "Special food services",
     "SECTOR.label": "Accommodation and food services",
+    "RCPTOT.2002": 13560823,
     "VAL_PCT.2002": 51.1,
+    "RCPTOT.2007": 21793643,
     "VAL_PCT.2007": 54.6,
-    "VAL_PCT.2012": 54.6
+    "RCPTOT.2012": 24682145,
+    "VAL_PCT.2012": 54.6,
+    "VAL_PCT.1997": 40.9,
+    "RCPTOT.1997": 19407810
   },
   {
     "NAICS.id": "7224",
     "NAICS.label": "Drinking places (alcoholic beverages)",
     "SECTOR.label": "Accommodation and food services",
+    "RCPTOT.2002": 326129,
     "VAL_PCT.2002": 2.2,
+    "RCPTOT.2007": 382547,
     "VAL_PCT.2007": 2.1,
-    "VAL_PCT.2012": 2.5
+    "RCPTOT.2012": 484743,
+    "VAL_PCT.2012": 2.5,
+    "VAL_PCT.1997": 0.6,
+    "RCPTOT.1997": 12295709
   },
   {
     "NAICS.id": "8111",
     "NAICS.label": "Automotive repair and maintenance",
     "SECTOR.label": "Other services (except public administration)",
+    "RCPTOT.2002": 1339162,
     "VAL_PCT.2002": 1.8,
+    "RCPTOT.2007": 1474721,
     "VAL_PCT.2007": 1.7,
-    "VAL_PCT.2012": 2.4
+    "RCPTOT.2012": 2176946,
+    "VAL_PCT.2012": 2.4,
+    "VAL_PCT.1997": 2.3,
+    "RCPTOT.1997": 62200597
   },
   {
     "NAICS.id": "8112",
     "NAICS.label": "Electronic and precision equipment repair and maintenance",
     "SECTOR.label": "Other services (except public administration)",
+    "RCPTOT.2002": 2842506,
     "VAL_PCT.2002": 19,
+    "RCPTOT.2007": 4822795,
     "VAL_PCT.2007": 25,
-    "VAL_PCT.2012": 17.7
+    "RCPTOT.2012": 2777984,
+    "VAL_PCT.2012": 17.7,
+    "VAL_PCT.1997": 12.1,
+    "RCPTOT.1997": 14557959
   },
   {
     "NAICS.id": "8113",
     "NAICS.label": "Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance",
     "SECTOR.label": "Other services (except public administration)",
+    "RCPTOT.2002": 935194,
     "VAL_PCT.2002": 4.8,
+    "RCPTOT.2007": 1604378,
     "VAL_PCT.2007": 6.2,
-    "VAL_PCT.2012": 4.9
+    "RCPTOT.2012": 1536664,
+    "VAL_PCT.2012": 4.9,
+    "VAL_PCT.1997": 7.2,
+    "RCPTOT.1997": 17506178
   },
   {
     "NAICS.id": "8121",
     "NAICS.label": "Personal care services",
     "SECTOR.label": "Other services (except public administration)",
+    "RCPTOT.2002": 2136239,
     "VAL_PCT.2002": 10.6,
+    "RCPTOT.2007": 3316390,
     "VAL_PCT.2007": 12.6,
-    "VAL_PCT.2012": 10.9
+    "RCPTOT.2012": 3226974,
+    "VAL_PCT.2012": 10.9,
+    "VAL_PCT.1997": 7.8,
+    "RCPTOT.1997": 14241112
   },
   {
     "NAICS.id": "8122",
     "NAICS.label": "Death care services",
     "SECTOR.label": "Other services (except public administration)",
+    "RCPTOT.2002": 3263277,
     "VAL_PCT.2002": 22.9,
+    "RCPTOT.2007": 2880831,
     "VAL_PCT.2007": 18.8,
-    "VAL_PCT.2012": 18.4
+    "RCPTOT.2012": 2994572,
+    "VAL_PCT.2012": 18.4,
+    "VAL_PCT.1997": 24.2,
+    "RCPTOT.1997": 12620644
   },
   {
     "NAICS.id": "8123",
     "NAICS.label": "Drycleaning and laundry services",
     "SECTOR.label": "Other services (except public administration)",
+    "RCPTOT.2002": 3836773,
     "VAL_PCT.2002": 18.8,
+    "RCPTOT.2007": 5859084,
     "VAL_PCT.2007": 25.2,
-    "VAL_PCT.2012": 26
+    "RCPTOT.2012": 6082069,
+    "VAL_PCT.2012": 26,
+    "VAL_PCT.1997": 13.5,
+    "RCPTOT.1997": 17913065
   },
   {
     "NAICS.id": "8129",
     "NAICS.label": "Other personal services",
     "SECTOR.label": "Other services (except public administration)",
+    "RCPTOT.2002": 4300913,
     "VAL_PCT.2002": 24.9,
+    "RCPTOT.2007": 3160502,
     "VAL_PCT.2007": 18.3,
-    "VAL_PCT.2012": 14.4
+    "RCPTOT.2012": 2571520,
+    "VAL_PCT.2012": 14.4,
+    "VAL_PCT.1997": 21.3,
+    "RCPTOT.1997": 13104623
   },
   {
     "NAICS.id": "8133",
     "NAICS.label": "Social advocacy organizations",
     "SECTOR.label": "Other services (except public administration)",
+    "RCPTOT.2002": 2337854,
     "VAL_PCT.2002": 19.4,
+    "RCPTOT.2007": 3050000,
     "VAL_PCT.2007": 15.5,
-    "VAL_PCT.2012": 13.8
+    "RCPTOT.2012": 3386054,
+    "VAL_PCT.2012": 13.8,
+    "VAL_PCT.1997": 15.9,
+    "RCPTOT.1997": 7524552
   },
   {
     "NAICS.id": "8134",
     "NAICS.label": "Civic and social organizations",
     "SECTOR.label": "Other services (except public administration)",
+    "RCPTOT.2002": 385553,
     "VAL_PCT.2002": 2.6,
+    "RCPTOT.2007": 437034,
     "VAL_PCT.2007": 2.8,
-    "VAL_PCT.2012": 3
+    "RCPTOT.2012": 485616,
+    "VAL_PCT.2012": 3,
+    "VAL_PCT.1997": 3.1,
+    "RCPTOT.1997": 9916495
   },
   {
     "NAICS.id": "8139",
     "NAICS.label": "Business, professional, labor, political, and similar organizations",
     "SECTOR.label": "Other services (except public administration)",
+    "RCPTOT.2002": 1363317,
     "VAL_PCT.2002": 3.1,
+    "RCPTOT.2007": 2275486,
     "VAL_PCT.2007": 4,
-    "VAL_PCT.2012": 4.6
+    "RCPTOT.2012": 2981526,
+    "VAL_PCT.2012": 4.6,
+    "VAL_PCT.1997": 3.6,
+    "RCPTOT.1997": 36466633
   }
 ]
