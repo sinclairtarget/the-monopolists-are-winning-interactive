@@ -30,7 +30,7 @@ app.start = function() {
   this.scatter = new Scatter(this.dimensions);
   this.scatter.setUp();
 
-  d3.json("/data.json")
+  d3.json("data.json")
     .catch(err => console.error("Error fetching JSON data: " + err))
     .then((data) => {
       this.data = data;
