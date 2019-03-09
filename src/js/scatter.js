@@ -13,7 +13,7 @@ export default class Scatter {
     let plotWidth = this.dim.plotWidth();
     let plotHeight = this.dim.plotHeight();
 
-    this.panel = d3.select(".container")
+    this.panel = d3.select(".graph-container")
                    .insert("svg", ".instructions")
                    .attr("width", this.dim.width)
                    .attr("height", this.dim.height)

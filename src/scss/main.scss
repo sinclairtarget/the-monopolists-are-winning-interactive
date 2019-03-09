@@ -1,30 +1,114 @@
 @import 'colors';
+@import 'constants';
+@import 'graph';
 
 html, body {
     margin: 0;
     padding: 0;
 }
 
+html {
+    font-size: 62.5%;
+}
+
 body {
+    color: $on-light-text-color;
     background-color: $background-color;
     font-family: 'Karla', sans-serif;
+    font-size: 1.8rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+    line-height: 1.4;
+}
+
+h1 {
+    font-size: 3.2rem;
+}
+
+h2 {
+    font-size: 2.2rem;
+}
+
+p {
+    line-height: 1.6;
+}
+
+span.bold-start {
+    font-weight: bold;
 }
 
 header {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    padding: 1rem 0;
+    color: $on-dark-text-color;
     background-color: black;
-    color: white;
+    text-align: center;
+    text-transform: uppercase;
 }
 
-svg {
-    background-color: white;
-    box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.25);
+div.divider {
+    width: $paragraph-width - 100px;
+    height: 8px;
+    background-color: $divider-background-color;
 }
 
-svg circle {
-    fill-opacity: 0.6;
+div.cover-image {
+    padding-top: 160px;
+    background-color: $cover-image-background-color;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.6)),
+                      url("../images/standard_oil.jpg");
+    background-position: 50% 49%;
+
+    .subtitle-container {
+        position: relative;
+        width: $paragraph-width;
+        margin: auto;
+        padding: 4rem 40px;
+        text-align: center;
+        background-color: $background-color;
+    }
+
+    div.divider {
+        position: absolute;
+        left: 50%;
+        bottom: 0;
+        transform: translateX(-50%);
+    }
 }
 
-svg .grid {
-    color: #919599;
-    stroke-width: 0.4;
+main {
+    padding: $standard-spacing 0;
+
+    div.divider {
+        margin: auto;
+        margin-top: $standard-spacing;
+        margin-bottom: $standard-spacing;
+    }
+}
+
+div.text-container {
+    margin: auto;
+    max-width: $paragraph-width;
+
+    p {
+        margin: 0;
+        margin-bottom: $paragraph-spacing;
+    }
+
+    p:last-of-type {
+        margin-bottom: 0;
+    }
+}
+
+div.two-column-container {
+    display: flex;
+
+    & > div.column {
+        width: 50%;
+    }
 }

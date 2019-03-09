@@ -1,0 +1,18 @@
+@import 'colors';
+@import 'constants';
+
+svg {
+    position: sticky;
+    top: calc(50vh - #{$graph-height}px / 2);
+    margin-left: calc(100% - #{$graph-width}px);
+    background-color: $background-color;
+}
+
+svg circle {
+    fill-opacity: 0.6;
+}
+
+svg .grid {
+    color: #919599;
+    stroke-width: 0.4;
+}
