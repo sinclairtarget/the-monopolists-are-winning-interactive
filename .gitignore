@@ -1,4 +1,5 @@
 node_modules/
-dist/main.js
-dist/main.css
+dist/index.html
+dist/*.js
+dist/*.css
 concentration-data/1997/*.pdf
