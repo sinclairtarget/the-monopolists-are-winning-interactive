@@ -1,6 +1,7 @@
 import * as d3 from "d3";
 import Dimensions from "./dimensions.js";
 import Scatter from "./scatter.js";
+import "./scss/main.scss";
 
 const years = ["1997", "2002", "2007", "2012"];
 
