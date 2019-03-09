@@ -1,0 +1,12 @@
+@import 'colors';
+@import 'constants';
+
+.arrow-down {
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 8px solid $divider-background-color;
+    margin: auto;
+    margin-bottom: $scrolly-spacing;
+}
