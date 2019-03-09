@@ -1,9 +1,28 @@
 import * as d3 from "d3";
+require('waypoints');
 import Dimensions from "./dimensions.js";
 import Scatter from "./scatter.js";
+import StoryNode from "./storynode.js";
 import "../scss/main.scss";
 
-const years = ["1997", "2002", "2007", "2012"];
+function subset(data, year) {
+  let key = "VAL_PCT." + year;
+  return data.map(d => ({
+    "NAICS.id": d["NAICS.id"],
+    "NAICS.label": d["NAICS.label"],
+    "SECTOR.label": d["SECTOR.label"],
+    "BASE_VAL_PCT": d["VAL_PCT.1997"],
+    "VAL_PCT": d[key]
+  }));
+}
+
+const storyNodes = {
+  "initial": new StoryNode("initial"),
+  "draw-sectors": new StoryNode("draw-sectors"),
+  "most-concentrated-sector": new StoryNode("most-concentrated-sector"),
+  "2002-to-2007": new StoryNode("2002-to-2007"),
+  "2007-to-2012": new StoryNode("2007-to-2012")
+};
 
 const width = 900;
 const height = 600;
@@ -23,8 +42,7 @@ const padding = {
 };
 
 const app = window.app = {
-  dimensions: new Dimensions(width, height, margin, padding),
-  yearIndex: 0
+  dimensions: new Dimensions(width, height, margin, padding)
 };
 
 app.start = function() {
@@ -35,42 +53,31 @@ app.start = function() {
     .catch(err => console.error("Error fetching JSON data: " + err))
     .then((data) => {
       this.data = data;
-      let year = years[this.yearIndex];
-      this.scatter.update(subset(data, year), year);
+      this.setStoryNode(storyNodes["initial"]);
 
-      // Register listeners
-      document.addEventListener('keyup', ev => {
-        this.update(ev.key);
-      });
+      // Register waypoints
+      let waypointElements = Array.from(document.querySelectorAll(".waypoint"));
+      this.waypoints = waypointElements.map(el => new Waypoint({
+        element: el,
+        offset: '75%',
+        handler: function(dir) {
+          app.handleWaypoint(this.element.dataset.node, dir);
+        }
+      }));
     });
 };
 
-app.update = function(key) {
-  if (key == "j" || key == "ArrowDown") {
-    this.yearIndex = (this.yearIndex + 1) % years.length;
-    let year = years[this.yearIndex];
-    this.scatter.update(subset(this.data, year), year);
-  }
-  else if (key == "k" || key == "ArrowUp") {
-    this.yearIndex = this.yearIndex - 1;
-    if (this.yearIndex < 0) {
-      this.yearIndex = years.length - 1;
-    }
-
-    let year = years[this.yearIndex];
-    this.scatter.update(subset(this.data, year), year);
-  }
+app.handleWaypoint = function(nodeName, dir) {
+  app.setStoryNode(storyNodes[nodeName]);
 };
 
-function subset(data, year) {
-  let key = "VAL_PCT." + year;
-  return data.map(d => ({
-    "NAICS.id": d["NAICS.id"],
-    "NAICS.label": d["NAICS.label"],
-    "SECTOR.label": d["SECTOR.label"],
-    "BASE_VAL_PCT": d["VAL_PCT.1997"],
-    "VAL_PCT": d[key]
-  }));
-}
+app.setStoryNode = function(storyNode) {
+  if (app.storyNode) {
+    app.storyNode.exit(app.data, app.scatter);
+  }
+
+  app.storyNode = storyNode;
+  app.storyNode.enter(app.data, app.scatter);
+};
 
 app.start();

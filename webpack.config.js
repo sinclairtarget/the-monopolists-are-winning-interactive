@@ -37,6 +37,11 @@ module.exports = {
       template: 'src/index.html'
     })
   ],
+  resolve: {
+    alias: {
+      'waypoints': 'waypoints/lib/noframework.waypoints.js'
+    }
+  },
   devServer: {
     contentBase: path.join(__dirname, 'dist'),
     compress: true
