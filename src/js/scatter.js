@@ -55,6 +55,13 @@ export default class Scatter {
              .attr("class", "grid")
              .call(yGrid);
 
+    this.plot.append("line")
+             .attr("x1", 0)
+             .attr("y1", plotHeight)
+             .attr("x2", plotWidth)
+             .attr("y2", 0)
+             .attr("class", "dashed-line");
+
     this.panel.append("g")
               .attr("transform", util.transl(this.dim.padding.left,
                                              this.dim.padding.top + plotHeight))

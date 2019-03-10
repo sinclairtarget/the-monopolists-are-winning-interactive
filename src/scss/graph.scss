@@ -9,7 +9,7 @@
 
 svg {
     position: sticky;
-    top: calc(50vh - #{$graph-height} / 2);
+    top: calc(50vh - #{$graph-height} / 2 - 2vh);
     background-color: $background-color;
 }
 
@@ -18,10 +18,15 @@ svg circle {
 }
 
 svg .grid {
-    color: #919599;
+    color: $graph-gray-color;
     stroke-width: 0.4;
 }
 
 svg .axis-title {
     font-family: 'Rubik', sans-serif;
+}
+
+svg .dashed-line {
+    stroke: $graph-gray-color;
+    stroke-dasharray: 8;
 }

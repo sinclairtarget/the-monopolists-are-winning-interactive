@@ -25,7 +25,7 @@ const storyNodes = {
 };
 
 const width = 680;
-const height = 520;
+const height = 580;
 
 const margin = {
   top: 12,
