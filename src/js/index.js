@@ -2,7 +2,8 @@ import * as d3 from "d3";
 require('waypoints');
 import Dimensions from "./dimensions.js";
 import Scatter from "./scatter.js";
-import StoryNode from "./storynode.js";
+import Dataset from "./dataset.js";
+import { StoryNode, DrawSectorsNode } from "./storynode.js";
 import "../scss/main.scss";
 
 function subset(data, year) {
@@ -18,7 +19,7 @@ function subset(data, year) {
 
 const storyNodes = {
   "initial": new StoryNode("initial"),
-  "draw-sectors": new StoryNode("draw-sectors"),
+  "draw-sectors": new DrawSectorsNode("draw-sectors"),
   "most-concentrated-sector": new StoryNode("most-concentrated-sector"),
   "2002-to-2007": new StoryNode("2002-to-2007"),
   "2007-to-2012": new StoryNode("2007-to-2012")
@@ -42,7 +43,8 @@ const padding = {
 };
 
 const app = window.app = {
-  dimensions: new Dimensions(width, height, margin, padding)
+  dimensions: new Dimensions(width, height, margin, padding),
+  nodes: []   // story node stack
 };
 
 app.start = function() {
@@ -52,8 +54,8 @@ app.start = function() {
   d3.json("static/data.json")
     .catch(err => console.error("Error fetching JSON data: " + err))
     .then((data) => {
-      this.data = data;
-      this.setStoryNode(storyNodes["initial"]);
+      this.dataset = new Dataset(data);
+      this.pushStoryNode(storyNodes["initial"]);
 
       // Register waypoints
       let waypointElements = Array.from(document.querySelectorAll(".waypoint"));
@@ -68,16 +70,25 @@ app.start = function() {
 };
 
 app.handleWaypoint = function(nodeName, dir) {
-  app.setStoryNode(storyNodes[nodeName]);
+  let node = storyNodes[nodeName];
+  if (dir == "down") {
+    app.pushStoryNode(node);
+  }
+  else {
+    app.popStoryNode();
+  }
 };
 
-app.setStoryNode = function(storyNode) {
-  if (app.storyNode) {
-    app.storyNode.exit(app.data, app.scatter);
-  }
+app.pushStoryNode = function(storyNode) {
+  storyNode.push(app.dataset, app.scatter);
+  app.nodes.push(storyNode);
+};
 
-  app.storyNode = storyNode;
-  app.storyNode.enter(app.data, app.scatter);
+app.popStoryNode = function() {
+  let node = app.nodes.pop();
+  if (node) {
+    node.pop(app.dataset, app.scatter);
+  }
 };
 
 app.start();

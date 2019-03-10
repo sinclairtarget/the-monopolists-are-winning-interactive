@@ -48,7 +48,7 @@ export default class Scatter {
                   .tickFormat("");
 
     this.plot.append("g")
-              .attr("transform", util.transl(0, plotHeight))
+             .attr("transform", util.transl(0, plotHeight))
              .attr("class", "grid")
              .call(xGrid);
 
@@ -68,7 +68,7 @@ export default class Scatter {
       .annotations([{
         note: {
           label: "Became More Concentrated",
-          bgPadding: 2,
+          bgPadding: 4,
           align: "left"
         },
         x: this.xScale(3),
@@ -77,7 +77,7 @@ export default class Scatter {
       {
         note: {
           label: "Became Less Concentrated",
-          bgPadding: 2,
+          bgPadding: 4,
           align: "right"
         },
         x: this.xScale(97),
@@ -118,25 +118,5 @@ export default class Scatter {
 //    this.panel.append("circle")
 //              .attr("r", 3)
 //              .attr("cy", panelHeight);
-  }
-
-  update(data, year) {
-    let circles = this.plot.selectAll("circle")
-                           .data(data);
-
-    circles.enter()
-           .append("circle")
-           .attr("r", 4)
-           .attr("cx", d => this.xScale(d.BASE_VAL_PCT))
-           .attr("cy", d => this.yScale(d.VAL_PCT));
-
-    circles.transition()
-           .duration(500)
-           .attr("cx", d => this.xScale(d.BASE_VAL_PCT))
-           .attr("cy", d => this.yScale(d.VAL_PCT));
-
-    this.panel
-        .selectAll(".y-axis-title")
-        .text(`Industry Revenue Captured by Top Four Firms (${year})`);
   }
 }

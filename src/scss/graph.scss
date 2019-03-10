@@ -15,7 +15,10 @@ svg {
 }
 
 svg circle {
-    fill-opacity: 0.6;
+    fill: $graph-teal-color;
+    stroke: $graph-teal-color;
+    fill-opacity: 0.4;
+    stroke-opacity: 1;
 }
 
 svg .grid {
