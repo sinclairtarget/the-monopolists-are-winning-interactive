@@ -6,23 +6,12 @@ import Dataset from "./dataset.js";
 import { StoryNode, DrawSectorsNode } from "./storynode.js";
 import "../scss/main.scss";
 
-function subset(data, year) {
-  let key = "VAL_PCT." + year;
-  return data.map(d => ({
-    "NAICS.id": d["NAICS.id"],
-    "NAICS.label": d["NAICS.label"],
-    "SECTOR.label": d["SECTOR.label"],
-    "BASE_VAL_PCT": d["VAL_PCT.1997"],
-    "VAL_PCT": d[key]
-  }));
-}
-
 const storyNodes = {
   "initial": new StoryNode("initial"),
-  "draw-sectors": new DrawSectorsNode("draw-sectors"),
+  "draw-sectors": new DrawSectorsNode("draw-sectors", null, 2002),
   "most-concentrated-sector": new StoryNode("most-concentrated-sector"),
-  "2002-to-2007": new StoryNode("2002-to-2007"),
-  "2007-to-2012": new StoryNode("2007-to-2012")
+  "2002-to-2007": new DrawSectorsNode("2002-to-2007", 2002, 2007),
+  "2007-to-2012": new DrawSectorsNode("2007-to-2012", 2007, 2012)
 };
 
 const width = 680;

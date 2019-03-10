@@ -105,14 +105,14 @@ export default class Scatter {
               .attr("y", panelHeight)
               .attr("text-anchor", "middle")
               .attr("class", "axis-title")
-              .text("Revenue Captured by Top Four Firms (1997)");
+              .text("Revenue Captured by Top Four Firms (2002)");
 
     this.panel.append("text")
               .attr("x", 12)
               .attr("y", plotHeight / 2)
               .attr("text-anchor", "middle")
               .attr("class", "axis-title y-axis-title")
-              .text("Revenue Captured by Top Four Firms (1997)")
+              .text("Revenue Captured by Top Four Firms (2002)")
               .attr("transform", util.rot(-90, 12, plotHeight / 2));
 
 //    this.panel.append("circle")
