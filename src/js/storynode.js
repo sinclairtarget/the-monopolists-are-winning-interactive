@@ -40,6 +40,10 @@ export class DrawSectorsNode extends StoryNode {
                     scatter,
                     this.toYear,
                     circles.merge(newCircles));
+
+    if (this.fromYear) {
+      this.axisTransition(scatter, this.toYear);
+    }
   }
 
   pop(dataset, scatter) {
@@ -54,6 +58,8 @@ export class DrawSectorsNode extends StoryNode {
                       scatter,
                       this.fromYear,
                       circles);
+
+      this.axisTransition(scatter, this.fromYear);
     }
     else {
       scatter.plot.selectAll("circle")
@@ -73,5 +79,17 @@ export class DrawSectorsNode extends StoryNode {
            .attr("cx", d => scatter.xScale(k(d, "MEAN_VAL_PCT", 2002)))
            .attr("cy", d => scatter.yScale(k(d, "MEAN_VAL_PCT", to)))
            .attr("r", d => rScale(k(d, "RCPTOT_ALL_FIRMS", to)));
+  }
+
+  axisTransition(scatter, year) {
+    scatter.yTitle
+           .transition()
+           .duration(180)
+           .style("opacity", 0)
+           .transition()
+           .text(`Revenue Captured by Top Four Firms (${year})`)
+           .transition()
+           .duration(180)
+           .style("opacity", 1);
   }
 }
