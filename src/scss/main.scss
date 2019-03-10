@@ -108,8 +108,13 @@ div.text-container {
 
 div.two-column-container {
     display: flex;
+    justify-content: center;
+    max-width: 1600px;
+    margin: auto;
 
-    & > div.column {
-        width: 50%;
+    & > .column {
+        padding: 0 $column-padding;
+        flex-grow: 1;
+        flex-basis: 0;
     }
 }

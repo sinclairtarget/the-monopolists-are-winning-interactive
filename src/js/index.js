@@ -24,8 +24,8 @@ const storyNodes = {
   "2007-to-2012": new StoryNode("2007-to-2012")
 };
 
-const width = 900;
-const height = 600;
+const width = 680;
+const height = 520;
 
 const margin = {
   top: 12,

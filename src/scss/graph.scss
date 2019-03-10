@@ -1,10 +1,15 @@
 @import 'colors';
 @import 'constants';
 
+.graph-container {
+    margin: auto;
+    width: $graph-width;
+    height: 100%;
+}
+
 svg {
     position: sticky;
-    top: calc(50vh - #{$graph-height}px / 2);
-    margin-left: calc(100% - #{$graph-width}px);
+    top: calc(50vh - #{$graph-height} / 2);
     background-color: $background-color;
 }
 
@@ -15,4 +20,8 @@ svg circle {
 svg .grid {
     color: #919599;
     stroke-width: 0.4;
+}
+
+svg .axis-title {
+    font-family: 'Rubik', sans-serif;
 }
