@@ -1,4 +1,5 @@
 import * as d3 from "d3";
+import * as d3Annotations from "d3-svg-annotation";
 import Dimensions from "./dimensions.js";
 import * as util from "./util.js";
 
@@ -62,6 +63,31 @@ export default class Scatter {
              .attr("y2", 0)
              .attr("class", "dashed-line");
 
+    let makeAnnotations = d3Annotations.annotation()
+      .type(d3Annotations.annotationLabel)
+      .annotations([{
+        note: {
+          label: "Became More Concentrated",
+          bgPadding: 2,
+          align: "left"
+        },
+        x: this.xScale(3),
+        y: this.yScale(94)
+      },
+      {
+        note: {
+          label: "Became Less Concentrated",
+          bgPadding: 2,
+          align: "right"
+        },
+        x: this.xScale(97),
+        y: this.yScale(13)
+      }]);
+
+    this.plot.append("g")
+             .attr("class", "annotation-group")
+             .call(makeAnnotations);
+
     this.panel.append("g")
               .attr("transform", util.transl(this.dim.padding.left,
                                              this.dim.padding.top + plotHeight))
@@ -79,15 +105,15 @@ export default class Scatter {
               .attr("y", panelHeight)
               .attr("text-anchor", "middle")
               .attr("class", "axis-title")
-              .text("Industry Revenue Captured by Top Four Firms (1997)");
+              .text("Revenue Captured by Top Four Firms (1997)");
 
     this.panel.append("text")
               .attr("x", 12)
-              .attr("y", panelHeight / 2)
+              .attr("y", plotHeight / 2)
               .attr("text-anchor", "middle")
               .attr("class", "axis-title y-axis-title")
-              .text("Industry Revenue Captured by Top Four Firms (1997)")
-              .attr("transform", util.rot(-90, 12, panelHeight / 2));
+              .text("Revenue Captured by Top Four Firms (1997)")
+              .attr("transform", util.rot(-90, 12, plotHeight / 2));
 
 //    this.panel.append("circle")
 //              .attr("r", 3)
