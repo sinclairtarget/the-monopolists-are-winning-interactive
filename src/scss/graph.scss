@@ -95,7 +95,7 @@ svg .dashed-line {
     stroke-dasharray: 8;
 }
 
-svg .annotation-note {
+svg .annotation-group {
     .annotation-note-bg {
         fill: $graph-light-gray-color;
         fill-opacity: 1;
@@ -105,5 +105,11 @@ svg .annotation-note {
         text-anchor: middle;
         fill: $graph-faded-text-color;
         font-size: 1.3rem;
+    }
+}
+
+svg .tooltip-annotation-group {
+    .annotation-note-label {
+        text-anchor: start;
     }
 }

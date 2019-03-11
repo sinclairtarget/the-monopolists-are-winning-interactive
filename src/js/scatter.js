@@ -133,4 +133,40 @@ export default class Scatter {
       }
     });
   }
+
+  drawSectorTooltip(sectorId) {
+    let circle = d3.select("circle.sector-" + sectorId);
+    let data = circle.datum();
+
+    let makeAnnotations = d3Annotations.annotation()
+      .type(d3Annotations.annotationCallout)
+      .annotations([{
+        note: {
+          title: data["SECTOR.label"],
+          label: this.sectorLabel(data, 2002),
+          bgPadding: 4,
+          padding: 4
+        },
+        x: circle.attr("cx"),
+        y: circle.attr("cy"),
+        dx: 25,
+        dy: 25
+      }]);
+
+    this.plot.append("g")
+             .attr("class", "annotation-group tooltip-annotation-group")
+             .call(makeAnnotations);
+  }
+
+  hideTooltips() {
+    this.plot.selectAll(".tooltip-annotation-group").remove();
+  }
+
+  sectorLabel(data, year) {
+    let size = util.k(data, "RCPTOT_ALL_FIRMS", year) * 1000 / 1000000000;
+    size = Math.round(size * 10) / 10;
+    let concentration = Math.round(util.k(data, "MEAN_VAL_PCT", year));
+
+    return `Size: $${size} bn\nConcentration: ${concentration}%\nYear: ${year}`;
+  }
 }

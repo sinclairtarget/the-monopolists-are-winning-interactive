@@ -3,13 +3,16 @@ require('waypoints');
 import Dimensions from "./dimensions.js";
 import Scatter from "./scatter.js";
 import Dataset from "./dataset.js";
-import { StoryNode, DrawSectorsNode } from "./storynode.js";
+import { StoryNode,
+         DrawSectorsNode,
+         HighlightSectorNode } from "./storynode.js";
 import "../scss/main.scss";
 
 const storyNodes = {
   "initial": new StoryNode("initial"),
   "draw-sectors": new DrawSectorsNode("draw-sectors", null, 2002),
-  "most-concentrated-sector": new StoryNode("most-concentrated-sector"),
+  "most-concentrated-sector":
+    new HighlightSectorNode("most-concentrated-sector", 22),
   "2002-to-2007": new DrawSectorsNode("2002-to-2007", 2002, 2007),
   "2007-to-2012": new DrawSectorsNode("2007-to-2012", 2007, 2012)
 };

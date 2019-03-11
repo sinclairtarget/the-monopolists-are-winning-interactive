@@ -24,6 +24,7 @@ export class DrawSectorsNode extends StoryNode {
 
   push(dataset, scatter) {
     super.push(dataset, scatter);
+    scatter.hideTooltips();
 
     let data = dataset.sectors();
 
@@ -92,5 +93,22 @@ export class DrawSectorsNode extends StoryNode {
            .transition()
            .duration(180)
            .style("opacity", 1);
+  }
+}
+
+export class HighlightSectorNode extends StoryNode {
+  constructor(name, sectorId) {
+    super(name);
+    this.sectorId = sectorId;
+  }
+
+  push(dataset, scatter) {
+    super.push(dataset, scatter);
+    scatter.drawSectorTooltip(this.sectorId);
+  }
+
+  pop(dataset, scatter) {
+    super.pop(dataset, scatter);
+    scatter.hideTooltips();
   }
 }
