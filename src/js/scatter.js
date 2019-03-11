@@ -208,6 +208,19 @@ export default class Scatter {
     this.plot.selectAll(".tooltip-annotation-group").remove();
   }
 
+  focusSector(sectorId) {
+    this.plot.selectAll("circle")
+             .classed("fade", true);
+
+    this.plot.select("circle.sector-" + sectorId)
+             .classed("fade", false);
+  }
+
+  unfocusAllSectors() {
+    this.plot.selectAll("circle")
+             .classed("fade", false);
+  }
+
   sectorLabel(data, year) {
     let size = util.k(data, "RCPTOT_ALL_FIRMS", year) * 1000 / 1000000000;
     size = Math.round(size * 10) / 10;

@@ -79,6 +79,11 @@ svg circle {
         fill: $graph-pink-color;
         stroke: $graph-pink-color;
     }
+
+    &.fade {
+        fill: lighten($graph-gray-color, 20%);
+        stroke: lighten($graph-gray-color, 20%);
+    }
 }
 
 svg .grid {

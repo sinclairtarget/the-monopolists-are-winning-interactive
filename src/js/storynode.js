@@ -53,11 +53,13 @@ export class HighlightSectorNode extends DrawSectorsNode {
 
   enter(dataset, scatter, dir) {
     super.enter(dataset, scatter, dir);
+    scatter.focusSector(this.sectorId);
     scatter.drawSectorTooltip(this.sectorId, this.year);
   }
 
   exit(dataset, scatter, dir) {
     super.exit(dataset, scatter, dir);
     scatter.hideTooltips();
+    scatter.unfocusAllSectors();
   }
 }
