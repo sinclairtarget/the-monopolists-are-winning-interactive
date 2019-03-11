@@ -119,6 +119,9 @@ export default class Scatter {
                 .attr("class", "axis-title y-axis-title")
                 .text("Revenue Captured by Top Four Firms (2002)")
                 .attr("transform", util.rot(-90, 12, plotHeight / 2));
+
+    this.year = 2002;
+
 //    this.panel.append("circle")
 //              .attr("r", 3)
 //              .attr("cy", panelHeight);
@@ -175,15 +178,18 @@ export default class Scatter {
   }
 
   updateYAxis(year) {
-    this.yTitle
-        .transition()
-        .duration(180)
-        .style("opacity", 0)
-        .transition()
-        .text(`Revenue Captured by Top Four Firms (${year})`)
-        .transition()
-        .duration(180)
-        .style("opacity", 1);
+    if (year != this.year) {
+      this.year = year;
+      this.yTitle
+          .transition()
+          .duration(180)
+          .style("opacity", 0)
+          .transition()
+          .text(`Revenue Captured by Top Four Firms (${year})`)
+          .transition()
+          .duration(180)
+          .style("opacity", 1);
+    }
   }
 
   drawSectorTooltip(sectorId, year, duration = 500) {
@@ -241,6 +247,6 @@ export default class Scatter {
     size = Math.round(size * 10) / 10;
     let concentration = Math.round(util.k(data, "MEAN_VAL_PCT", year));
 
-    return `Size: $${size} bn\nConcentration: ${concentration}%\nYear: ${year}`;
+    return `Revenue: $${size} bn\nConcentration: ${concentration}%\nYear: ${year}`;
   }
 }

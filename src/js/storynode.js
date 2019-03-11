@@ -36,6 +36,7 @@ export class DrawSectorsNode extends StoryNode {
     }
 
     scatter.drawSectors(data, this.year);
+    scatter.updateYAxis(this.year);
   }
 
   onCircleMouseOver(scatter, circle, datum) {
