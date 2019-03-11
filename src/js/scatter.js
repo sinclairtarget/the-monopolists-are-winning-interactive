@@ -176,7 +176,7 @@ export default class Scatter {
         .style("opacity", 1);
   }
 
-  drawSectorTooltip(sectorId, year) {
+  drawSectorTooltip(sectorId, year, duration = 500) {
     let circle = d3.select("circle.sector-" + sectorId);
     let data = circle.datum();
 
@@ -200,12 +200,17 @@ export default class Scatter {
              .call(makeAnnotations)
              .style("opacity", 0)
              .transition()
-             .duration(500)
+             .duration(duration)
              .style("opacity", 1);
   }
 
-  hideTooltips() {
-    this.plot.selectAll(".tooltip-annotation-group").remove();
+  hideTooltips(duration = 250) {
+    this.plot.selectAll(".tooltip-annotation-group")
+             .transition()
+             .duration(duration)
+             .style("opacity", 0)
+             .transition()
+             .remove();
   }
 
   focusSector(sectorId) {
