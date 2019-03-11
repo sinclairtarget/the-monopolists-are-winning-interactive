@@ -4,11 +4,19 @@ export class StoryNode {
   }
 
   enter(dataset, scatter, dir) {
-    console.log(`Enter ${this.nodeName} going ${dir}.`);
+//    console.log(`Enter ${this.nodeName} going ${dir}.`);
   }
 
   exit(dataset, scatter, dir) {
-    console.log(`Exiting ${this.nodeName} going ${dir}.`);
+//    console.log(`Exiting ${this.nodeName} going ${dir}.`);
+  }
+
+  onCircleMouseOver(scatter, circle, datum) {
+    // do nothing
+  }
+
+  onCircleMouseOut(scatter, circle, datum) {
+    // do nothing
   }
 }
 
@@ -28,6 +36,18 @@ export class DrawSectorsNode extends StoryNode {
     }
 
     scatter.drawSectors(data, this.year);
+  }
+
+  onCircleMouseOver(scatter, circle, datum) {
+    let sectorId = datum["SECTOR.id"];
+    scatter.unfocusAllSectors();
+    scatter.focusSector(sectorId);
+    scatter.drawSectorTooltip(sectorId, this.year, 0);
+  }
+
+  onCircleMouseOut(scatter, circle, datum) {
+    scatter.unfocusAllSectors();
+    scatter.hideTooltips(0);
   }
 }
 
@@ -61,5 +81,13 @@ export class HighlightSectorNode extends DrawSectorsNode {
     super.exit(dataset, scatter, dir);
     scatter.hideTooltips();
     scatter.unfocusAllSectors();
+  }
+
+  onCircleMouseOver(scatter, circle, datum) {
+    // override and do nothing
+  }
+
+  onCircleMouseOut(scatter, circle, datum) {
+    // override and do nothing
   }
 }

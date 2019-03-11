@@ -134,6 +134,16 @@ export default class Scatter {
     });
   }
 
+  onCircleMouseOut(listener) {
+    this.plot.on("mouseout", () => {
+      let el = d3.event.target;
+      if (el.nodeName == "circle") {
+        let d = d3.select(el).datum();
+        listener(el, d);
+      }
+    });
+  };
+
   drawSectors(sectorData, year) {
     let rScale = d3.scaleSqrt()
                    .domain([0, d3.max(sectorData, d => d["RCPTOT_ALL_FIRMS.2012"])])

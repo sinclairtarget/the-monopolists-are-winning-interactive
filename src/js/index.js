@@ -43,17 +43,15 @@ const app = window.app = {
 app.start = function() {
   this.scatter = new Scatter(this.dimensions);
   this.scatter.setUp();
-  this.scatter.onCircleMouseOver((circle, d) => {
-    console.log(d);
-  });
 
   d3.json("static/data.json")
     .catch(err => console.error("Error fetching JSON data: " + err))
     .then((data) => {
       this.dataset = new Dataset(data);
       this.pushStoryNode(storyNodes["initial"]);
+      this.registerEventListeners();
 
-      // Register waypoints
+      // Register waypoint handlers
       let waypointElements = Array.from(document.querySelectorAll(".waypoint"));
       this.waypoints = waypointElements.map(el => new Waypoint({
         element: el,
@@ -73,6 +71,16 @@ app.handleWaypoint = function(nodeName, dir) {
   else {
     app.popStoryNode();
   }
+};
+
+app.registerEventListeners = function() {
+  this.scatter.onCircleMouseOver((circle, d) => {
+    this.currentNode().onCircleMouseOver(this.scatter, circle, d);
+  });
+
+  this.scatter.onCircleMouseOut((circle, d) => {
+    this.currentNode().onCircleMouseOut(this.scatter, circle, d);
+  });
 };
 
 app.pushStoryNode = function(storyNode) {
