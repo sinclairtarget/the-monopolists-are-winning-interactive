@@ -9,6 +9,7 @@ export default class Scatter {
   }
 
   setUp() {
+    // Create plot and grid lines
     let panelWidth = this.dim.panelWidth();
     let panelHeight = this.dim.panelHeight();
     let plotWidth = this.dim.plotWidth();
@@ -63,6 +64,7 @@ export default class Scatter {
              .attr("y2", 0)
              .attr("class", "dashed-line");
 
+    // Create annotations
     let makeAnnotations = d3Annotations.annotation()
       .type(d3Annotations.annotationLabel)
       .annotations([{
@@ -88,6 +90,7 @@ export default class Scatter {
              .attr("class", "annotation-group")
              .call(makeAnnotations);
 
+    // Create axes
     this.panel.append("g")
               .attr("transform", util.transl(this.dim.padding.left,
                                              this.dim.padding.top + plotHeight))
@@ -116,9 +119,18 @@ export default class Scatter {
                 .attr("class", "axis-title y-axis-title")
                 .text("Revenue Captured by Top Four Firms (2002)")
                 .attr("transform", util.rot(-90, 12, plotHeight / 2));
-
 //    this.panel.append("circle")
 //              .attr("r", 3)
 //              .attr("cy", panelHeight);
+  }
+
+  onCircleMouseOver(listener) {
+    this.plot.on("mouseover", () => {
+      let el = d3.event.target;
+      if (el.nodeName == "circle") {
+        let d = d3.select(el).datum();
+        listener(el, d);
+      }
+    });
   }
 }

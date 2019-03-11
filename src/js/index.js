@@ -39,6 +39,9 @@ const app = window.app = {
 app.start = function() {
   this.scatter = new Scatter(this.dimensions);
   this.scatter.setUp();
+  this.scatter.onCircleMouseOver((circle, d) => {
+    console.log(d);
+  });
 
   d3.json("static/data.json")
     .catch(err => console.error("Error fetching JSON data: " + err))
