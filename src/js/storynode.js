@@ -1,114 +1,63 @@
-import * as d3 from "d3";
-import { k } from "./util.js";
-
 export class StoryNode {
   constructor(nodeName) {
     this.nodeName = nodeName;
   }
 
-  push(dataset, scatter) {
-    console.log(`Pushing ${this.nodeName}.`);
+  enter(dataset, scatter, dir) {
+    console.log(`Enter ${this.nodeName} going ${dir}.`);
   }
 
-  pop(dataset, scatter) {
-    console.log(`Popping ${this.nodeName}.`);
+  exit(dataset, scatter, dir) {
+    console.log(`Exiting ${this.nodeName} going ${dir}.`);
   }
 }
 
 export class DrawSectorsNode extends StoryNode {
-  constructor(name, fromYear, toYear) {
+  constructor(name, year) {
     super(name);
-    this.fromYear = fromYear;
-    this.toYear = toYear;
+    this.year = year;
   }
 
-  push(dataset, scatter) {
-    super.push(dataset, scatter);
-    scatter.hideTooltips();
+  enter(dataset, scatter, dir) {
+    super.enter(dataset, scatter, dir);
 
     let data = dataset.sectors();
 
-    let circles = scatter.plot.selectAll("circle")
-                              .data(data);
-
-    let newCircles = circles.enter()
-           .append("circle")
-           .attr("class", d => "sector-" + d["SECTOR.id"])
-           .attr("r", 0)
-           .attr("cx", d => scatter.xScale(k(d, "MEAN_VAL_PCT", 2002)))
-           .attr("cy", d => scatter.yScale(k(d, "MEAN_VAL_PCT", this.toYear)));
-
-    this.transition(data,
-                    scatter,
-                    this.toYear,
-                    circles.merge(newCircles));
-
-    if (this.fromYear) {
-      this.axisTransition(scatter, this.toYear);
+    if (dir == "down") {
+      scatter.hideTooltips();
     }
-  }
 
-  pop(dataset, scatter) {
-    super.pop(dataset, scatter);
-
-    let data = dataset.sectors();
-    let circles = scatter.plot.selectAll("circle")
-                              .data(data);
-
-    if (this.fromYear) {
-      this.transition(data,
-                      scatter,
-                      this.fromYear,
-                      circles);
-
-      this.axisTransition(scatter, this.fromYear);
-    }
-    else {
-      scatter.plot.selectAll("circle")
-                  .transition()
-                  .duration(500)
-                  .attr("r", 0);
-    }
-  }
-
-  transition(data, scatter, to, circles) {
-    let rScale = d3.scaleSqrt()
-                   .domain([0, d3.max(data, d => d["RCPTOT_ALL_FIRMS.2012"])])
-                   .range([4, 24]);
-
-    circles.transition()
-           .duration(500)
-           .attr("cx", d => scatter.xScale(k(d, "MEAN_VAL_PCT", 2002)))
-           .attr("cy", d => scatter.yScale(k(d, "MEAN_VAL_PCT", to)))
-           .attr("r", d => rScale(k(d, "RCPTOT_ALL_FIRMS", to)));
-  }
-
-  axisTransition(scatter, year) {
-    scatter.yTitle
-           .transition()
-           .duration(180)
-           .style("opacity", 0)
-           .transition()
-           .text(`Revenue Captured by Top Four Firms (${year})`)
-           .transition()
-           .duration(180)
-           .style("opacity", 1);
+    scatter.drawSectors(data, this.year);
   }
 }
 
-export class HighlightSectorNode extends StoryNode {
-  constructor(name, sectorId) {
-    super(name);
+export class InitialDrawSectorsNode extends DrawSectorsNode {
+  constructor(name, year) {
+    super(name, year);
+  }
+
+  exit(dataset, scatter, dir) {
+    super.exit(dataset, scatter, dir);
+
+    if (dir == "up") {
+      scatter.hideSectors();
+    }
+  }
+}
+
+export class HighlightSectorNode extends DrawSectorsNode {
+  constructor(name, year, sectorId) {
+    super(name, year);
     this.sectorId = sectorId;
   }
 
-  push(dataset, scatter) {
-    super.push(dataset, scatter);
-    scatter.drawSectorTooltip(this.sectorId);
+  enter(dataset, scatter, dir) {
+    super.enter(dataset, scatter, dir);
+    scatter.drawSectorTooltip(this.sectorId, this.year);
   }
 
-  pop(dataset, scatter) {
-    super.pop(dataset, scatter);
+  exit(dataset, scatter, dir) {
+    super.exit(dataset, scatter, dir);
     scatter.hideTooltips();
   }
 }

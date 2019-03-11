@@ -134,7 +134,49 @@ export default class Scatter {
     });
   }
 
-  drawSectorTooltip(sectorId) {
+  drawSectors(sectorData, year) {
+    let rScale = d3.scaleSqrt()
+                   .domain([0, d3.max(sectorData, d => d["RCPTOT_ALL_FIRMS.2012"])])
+                   .range([4, 24]);
+
+    let circles = this.plot.selectAll("circle")
+                           .data(sectorData);
+
+    let newCircles = circles.enter()
+           .append("circle")
+           .attr("class", d => "sector-" + d["SECTOR.id"])
+           .attr("r", 0)
+           .attr("cx", d => this.xScale(util.k(d, "MEAN_VAL_PCT", 2002)))
+           .attr("cy", d => this.yScale(util.k(d, "MEAN_VAL_PCT", year)));
+
+    circles.merge(newCircles)
+           .transition()
+           .duration(500)
+           .attr("cx", d => this.xScale(util.k(d, "MEAN_VAL_PCT", 2002)))
+           .attr("cy", d => this.yScale(util.k(d, "MEAN_VAL_PCT", year)))
+           .attr("r", d => rScale(util.k(d, "RCPTOT_ALL_FIRMS", year)));
+  }
+
+  hideSectors() {
+      this.plot.selectAll("circle")
+               .transition()
+               .duration(500)
+               .attr("r", 0);
+  }
+
+  updateYAxis(year) {
+    this.yTitle
+        .transition()
+        .duration(180)
+        .style("opacity", 0)
+        .transition()
+        .text(`Revenue Captured by Top Four Firms (${year})`)
+        .transition()
+        .duration(180)
+        .style("opacity", 1);
+  }
+
+  drawSectorTooltip(sectorId, year) {
     let circle = d3.select("circle.sector-" + sectorId);
     let data = circle.datum();
 
@@ -143,19 +185,23 @@ export default class Scatter {
       .annotations([{
         note: {
           title: data["SECTOR.label"],
-          label: this.sectorLabel(data, 2002),
+          label: this.sectorLabel(data, year),
           bgPadding: 4,
           padding: 4
         },
-        x: circle.attr("cx"),
-        y: circle.attr("cy"),
+        x: this.xScale(util.k(data, "MEAN_VAL_PCT", 2002)),
+        y: this.yScale(util.k(data, "MEAN_VAL_PCT", year)),
         dx: 25,
         dy: 25
       }]);
 
     this.plot.append("g")
              .attr("class", "annotation-group tooltip-annotation-group")
-             .call(makeAnnotations);
+             .call(makeAnnotations)
+             .style("opacity", 0)
+             .transition()
+             .duration(500)
+             .style("opacity", 1);
   }
 
   hideTooltips() {
