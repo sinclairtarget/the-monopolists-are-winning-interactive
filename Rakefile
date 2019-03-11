@@ -20,5 +20,5 @@ directory STATIC_FOLDER
 
 desc 'Deploy to sinclairtarget.com'
 task :deploy do
-  sh 'scp dist/* sinclair@sinclairtarget.com:/srv/www/sinclairtarget.com/concentration'
+  sh 'scp -r dist/* sinclair@sinclairtarget.com:/srv/www/sinclairtarget.com/concentration'
 end
