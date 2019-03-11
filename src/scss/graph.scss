@@ -19,6 +19,66 @@ svg circle {
     stroke: $graph-teal-color;
     fill-opacity: 0.4;
     stroke-opacity: 1;
+
+    &.sector-22 {
+        fill: $graph-blue-color;
+        stroke: $graph-blue-color;
+    }
+
+    &.sector-42 {
+        fill: $graph-light-blue-color;
+        stroke: $graph-light-blue-color;
+    }
+
+    &.sector-51 {
+        fill: $graph-orange-color;
+        stroke: $graph-orange-color;
+    }
+
+    &.sector-52 {
+        fill: $graph-gold-color;
+        stroke: $graph-gold-color;
+    }
+
+    &.sector-53 {
+        fill: $graph-green-color;
+        stroke: $graph-green-color;
+    }
+
+    &.sector-54 {
+        fill: $graph-light-green-color;
+        stroke: $graph-light-green-color;
+    }
+
+    &.sector-56 {
+        fill: $graph-red-color;
+        stroke: $graph-red-color;
+    }
+
+    &.sector-61 {
+        fill: $graph-light-red-color;
+        stroke: $graph-light-red-color;
+    }
+
+    &.sector-62 {
+        fill: $graph-purple-color;
+        stroke: $graph-purple-color;
+    }
+
+    &.sector-71 {
+        fill: $graph-light-purple-color;
+        stroke: $graph-light-purple-color;
+    }
+
+    &.sector-72 {
+        fill: $graph-cyan-color;
+        stroke: $graph-cyan-color;
+    }
+
+    &.sector-81 {
+        fill: $graph-pink-color;
+        stroke: $graph-pink-color;
+    }
 }
 
 svg .grid {

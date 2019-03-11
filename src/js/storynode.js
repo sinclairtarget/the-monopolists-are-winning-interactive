@@ -32,6 +32,7 @@ export class DrawSectorsNode extends StoryNode {
 
     let newCircles = circles.enter()
            .append("circle")
+           .attr("class", d => "sector-" + d["SECTOR.id"])
            .attr("r", 0)
            .attr("cx", d => scatter.xScale(k(d, "MEAN_VAL_PCT", 2002)))
            .attr("cy", d => scatter.yScale(k(d, "MEAN_VAL_PCT", this.toYear)));
