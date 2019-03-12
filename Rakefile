@@ -20,5 +20,6 @@ directory STATIC_FOLDER
 
 desc 'Deploy to sinclairtarget.com'
 task :deploy do
-  sh 'scp -r dist/* sinclair@sinclairtarget.com:/srv/www/sinclairtarget.com/concentration'
+  sh 'yarn build'
+  sh 'rsync -avz --delete dist/ sinclair@sinclairtarget.com:/srv/www/sinclairtarget.com/concentration'
 end
