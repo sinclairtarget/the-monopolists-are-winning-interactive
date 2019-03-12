@@ -12,12 +12,14 @@ import "../scss/main.scss";
 
 const storyNodes = {
   "initial": new StoryNode("initial"),
-  "draw-sectors": new InitialDrawSectorsNode("draw-sectors", 2002),
+  "2002-sectors": new InitialDrawSectorsNode("2002-sectors", 2002),
   "most-concentrated-sector":
     new HighlightSectorNode("most-concentrated-sector", 2002, 22),
-  "2002-to-2007": new DrawSectorsNode("2002-to-2007", 2007),
-  "2007-to-2012": new DrawSectorsNode("2007-to-2012", 2012),
-  "2002-industries": new DrawIndustriesNode("2002-industries", 2002)
+  "2007-sectors": new DrawSectorsNode("2007-sectors", 2007),
+  "2012-sectors": new DrawSectorsNode("2012-sectors", 2012),
+  "2002-industries": new DrawIndustriesNode("2002-industries", 2002),
+  "2007-industries": new DrawIndustriesNode("2007-industries", 2007),
+  "2012-industries": new DrawIndustriesNode("2012-industries", 2012)
 };
 
 const width = 680;
