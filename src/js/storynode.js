@@ -113,4 +113,18 @@ export class DrawIndustriesNode extends StoryNode {
     let industriesData = dataset.industries();
     scatter.drawIndustries(sectorsData, industriesData, this.year);
   }
+
+  onCircleMouseOver(scatter, circle, datum) {
+    let sectorId = datum["SECTOR.id"];
+    let naicsId = datum["NAICS.id"];
+
+    scatter.unfocusAllSectors();
+    scatter.focusSector(sectorId);
+    scatter.drawIndustryTooltip(naicsId, this.year, 0);
+  }
+
+  onCircleMouseOut(scatter, circle, datum) {
+    scatter.unfocusAllSectors();
+    scatter.hideTooltips(0);
+  }
 }

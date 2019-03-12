@@ -227,25 +227,16 @@ export default class Scatter {
              .style("opacity", 1);
   }
 
-  hideTooltips(duration = 250) {
-    this.plot.selectAll(".tooltip-annotation-group")
-             .transition()
-             .duration(duration)
-             .style("opacity", 0)
-             .transition()
-             .remove();
-  }
-
   focusSector(sectorId) {
-    this.plot.selectAll("circle.sector")
+    this.plot.selectAll("circle")
              .classed("fade", true);
 
-    this.plot.select("circle.sector.sector-" + sectorId)
+    this.plot.selectAll("circle.sector-" + sectorId)
              .classed("fade", false);
   }
 
   unfocusAllSectors() {
-    this.plot.selectAll("circle.sector")
+    this.plot.selectAll("circle")
              .classed("fade", false);
   }
 
@@ -256,7 +247,10 @@ export default class Scatter {
 
     let newCircles = circles.enter()
            .append("circle")
-           .attr("class", d => "industry sector-" + d["SECTOR.id"])
+           .attr("class", d => {
+             return `industry sector-${d["SECTOR.id"]} ` +
+               `industry-${d["NAICS.id"]}`;
+           })
            .attr("r", 0)
            .attr("cx", d => this.xScale(util.k(d, "VAL_PCT", 2002)))
            .attr("cy", d => this.yScale(util.k(d, "VAL_PCT", year)));
@@ -276,6 +270,43 @@ export default class Scatter {
              .attr("r", 0);
   }
 
+  drawIndustryTooltip(naicsId, year, duration = 500) {
+    let circle = d3.select("circle.industry-" + naicsId);
+    let data = circle.datum();
+
+    let makeAnnotations = d3Annotations.annotation()
+      .type(d3Annotations.annotationCallout)
+      .annotations([{
+        note: {
+          title: data["NAICS.label"],
+          label: this.industryLabel(data, year),
+          bgPadding: 4,
+          padding: 4
+        },
+        x: this.xScale(util.k(data, "VAL_PCT", 2002)),
+        y: this.yScale(util.k(data, "VAL_PCT", year)),
+        dx: 25,
+        dy: 25
+      }]);
+
+    this.plot.append("g")
+             .attr("class", "annotation-group tooltip-annotation-group")
+             .call(makeAnnotations)
+             .style("opacity", 0)
+             .transition()
+             .duration(duration)
+             .style("opacity", 1);
+  }
+
+  hideTooltips(duration = 250) {
+    this.plot.selectAll(".tooltip-annotation-group")
+             .transition()
+             .duration(duration)
+             .style("opacity", 0)
+             .transition()
+             .remove();
+  }
+
   fadeReplaceText(sel, newText) {
     sel.transition()
        .duration(180)
@@ -293,6 +324,16 @@ export default class Scatter {
     let concentration = Math.round(util.k(data, "MEAN_VAL_PCT", year));
 
     return `Revenue: $${size} bn\nConcentration: ${concentration}%\nYear: ${year}`;
+  }
+
+  industryLabel(data, year) {
+    let sector = data["SECTOR.label"];
+    let size = util.k(data, "RCPTOT_ALL_FIRMS", year) * 1000 / 1000000000;
+    size = Math.round(size * 10) / 10;
+    let concentration = Math.round(util.k(data, "VAL_PCT", year));
+
+    return `Sector: ${sector}\nRevenue: $${size} bn\n` +
+      `Concentration: ${concentration}%\nYear: ${year}`;
   }
 
   makeRScale(sectorsData) {
