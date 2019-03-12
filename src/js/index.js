@@ -29,7 +29,7 @@ const margin = {
 };
 
 const padding = {
-  top: 0,
+  top: 20,
   right: 0,
   bottom: 40,
   left: 50

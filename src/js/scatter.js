@@ -122,6 +122,14 @@ export default class Scatter {
 
     this.year = 2002;
 
+    this.panelTitle =
+      this.panel.append("text")
+                .attr("x", panelWidth / 2)
+                .attr("y", 6)
+                .attr("text-anchor", "middle")
+                .attr("class", "panel-title")
+                .text("Concentration of NAICS Sectors");
+
 //    this.panel.append("circle")
 //              .attr("r", 3)
 //              .attr("cy", panelHeight);
