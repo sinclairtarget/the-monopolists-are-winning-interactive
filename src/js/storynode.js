@@ -128,3 +128,31 @@ export class DrawIndustriesNode extends StoryNode {
     scatter.hideTooltips(0);
   }
 }
+
+export class HighlightIndustryNode extends DrawIndustriesNode {
+  constructor(name, year, sectorId, naicsId) {
+    super(name, year);
+    this.sectorId = sectorId;
+    this.naicsId = naicsId;
+  }
+
+  enter(dataset, scatter, dir) {
+    super.enter(dataset, scatter, dir);
+    scatter.focusSector(this.sectorId);
+    scatter.drawIndustryTooltip(this.naicsId, this.year);
+  }
+
+  exit(dataset, scatter, dir) {
+    super.exit(dataset, scatter, dir);
+    scatter.hideTooltips();
+    scatter.unfocusAllSectors();
+  }
+
+  onCircleMouseOver(scatter, circle, datum) {
+    // override and do nothing
+  }
+
+  onCircleMouseOut(scatter, circle, datum) {
+    // override and do nothing
+  }
+}

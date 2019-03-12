@@ -7,7 +7,8 @@ import { StoryNode,
          DrawSectorsNode,
          InitialDrawSectorsNode,
          HighlightSectorNode,
-         DrawIndustriesNode } from "./storynode.js";
+         DrawIndustriesNode,
+         HighlightIndustryNode } from "./storynode.js";
 import "../scss/main.scss";
 
 const storyNodes = {
@@ -19,7 +20,9 @@ const storyNodes = {
   "2012-sectors": new DrawSectorsNode("2012-sectors", 2012),
   "2002-industries": new DrawIndustriesNode("2002-industries", 2002),
   "2007-industries": new DrawIndustriesNode("2007-industries", 2007),
-  "2012-industries": new DrawIndustriesNode("2012-industries", 2012)
+  "2012-industries": new DrawIndustriesNode("2012-industries", 2012),
+  "highlight-pensions":
+    new HighlightIndustryNode("highlight-pensions", 2012, 52, 524292)
 };
 
 const width = 680;

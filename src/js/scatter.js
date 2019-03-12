@@ -339,7 +339,7 @@ export default class Scatter {
   makeRScale(sectorsData) {
     return d3.scaleSqrt()
              .domain([0, d3.max(sectorsData, d => d["RCPTOT_ALL_FIRMS.2012"])])
-             .range([4, 24]);
+             .range([4, 36]);
 
   }
 }
