@@ -122,13 +122,14 @@ export default class Scatter {
 
     this.year = 2002;
 
+    this.title = "Concentration of NAICS Sectors";
     this.panelTitle =
       this.panel.append("text")
                 .attr("x", panelWidth / 2)
                 .attr("y", 6)
                 .attr("text-anchor", "middle")
                 .attr("class", "panel-title")
-                .text("Concentration of NAICS Sectors");
+                .text(this.title);
 
 //    this.panel.append("circle")
 //              .attr("r", 3)
@@ -188,15 +189,15 @@ export default class Scatter {
   updateYAxis(year) {
     if (year != this.year) {
       this.year = year;
-      this.yTitle
-          .transition()
-          .duration(180)
-          .style("opacity", 0)
-          .transition()
-          .text(`Revenue Captured by Top Four Firms (${year})`)
-          .transition()
-          .duration(180)
-          .style("opacity", 1);
+      let newText = `Revenue Captured by Top Four Firms (${year})`;
+      this.fadeReplaceText(this.yTitle, newText);
+    }
+  }
+
+  updatePanelTitle(title) {
+    if (title != this.title) {
+      this.title = title;
+      this.fadeReplaceText(this.panelTitle, this.title);
     }
   }
 
@@ -248,6 +249,17 @@ export default class Scatter {
   unfocusAllSectors() {
     this.plot.selectAll("circle")
              .classed("fade", false);
+  }
+
+  fadeReplaceText(sel, newText) {
+    sel.transition()
+       .duration(180)
+       .style("opacity", 0)
+       .transition()
+       .text(newText)
+       .transition()
+       .duration(180)
+       .style("opacity", 1);
   }
 
   sectorLabel(data, year) {

@@ -35,6 +35,7 @@ export class DrawSectorsNode extends StoryNode {
       scatter.hideTooltips();
     }
 
+    scatter.updatePanelTitle("Concentration of NAICS Sectors");
     scatter.drawSectors(data, this.year);
     scatter.updateYAxis(this.year);
   }
@@ -90,5 +91,18 @@ export class HighlightSectorNode extends DrawSectorsNode {
 
   onCircleMouseOut(scatter, circle, datum) {
     // override and do nothing
+  }
+}
+
+export class DrawIndustriesNode extends StoryNode {
+  constructor(name, year) {
+    super(name);
+    this.year = year;
+  }
+
+  enter(dataset, scatter, dir) {
+    super.enter(dataset, scatter, dir);
+    scatter.updatePanelTitle("Concentration of NAICS Industries");
+    scatter.hideSectors();
   }
 }

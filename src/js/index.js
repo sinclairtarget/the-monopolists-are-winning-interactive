@@ -6,7 +6,8 @@ import Dataset from "./dataset.js";
 import { StoryNode,
          DrawSectorsNode,
          InitialDrawSectorsNode,
-         HighlightSectorNode } from "./storynode.js";
+         HighlightSectorNode,
+         DrawIndustriesNode } from "./storynode.js";
 import "../scss/main.scss";
 
 const storyNodes = {
@@ -15,7 +16,8 @@ const storyNodes = {
   "most-concentrated-sector":
     new HighlightSectorNode("most-concentrated-sector", 2002, 22),
   "2002-to-2007": new DrawSectorsNode("2002-to-2007", 2007),
-  "2007-to-2012": new DrawSectorsNode("2007-to-2012", 2012)
+  "2007-to-2012": new DrawSectorsNode("2007-to-2012", 2012),
+  "2002-industries": new DrawIndustriesNode("2002-industries", 2002)
 };
 
 const width = 680;
