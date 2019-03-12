@@ -1,5 +1,5 @@
 import * as d3 from "d3";
-require('waypoints');
+import "waypoints";
 import Dimensions from "./dimensions.js";
 import Scatter from "./scatter.js";
 import Dataset from "./dataset.js";
