@@ -34,6 +34,9 @@ export class DrawSectorsNode extends StoryNode {
     if (dir == "down") {
       scatter.hideTooltips();
     }
+    else {
+      scatter.hideIndustries(); // all sector nodes before industry nodes
+    }
 
     scatter.updatePanelTitle("Concentration of NAICS Sectors");
     scatter.drawSectors(data, this.year);
@@ -103,6 +106,11 @@ export class DrawIndustriesNode extends StoryNode {
   enter(dataset, scatter, dir) {
     super.enter(dataset, scatter, dir);
     scatter.updatePanelTitle("Concentration of NAICS Industries");
+    scatter.updateYAxis(this.year);
     scatter.hideSectors();
+
+    let sectorsData = dataset.sectors();
+    let industriesData = dataset.industries();
+    scatter.drawIndustries(sectorsData, industriesData, this.year);
   }
 }

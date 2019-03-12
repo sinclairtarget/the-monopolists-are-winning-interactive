@@ -6,4 +6,8 @@ export default class Dataset {
   sectors() {
     return this.data.sectors;
   }
+
+  industries() {
+    return this.data.industries;
+  }
 }

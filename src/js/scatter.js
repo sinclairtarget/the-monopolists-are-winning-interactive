@@ -156,36 +156,6 @@ export default class Scatter {
     });
   };
 
-  drawSectors(sectorData, year) {
-    let rScale = d3.scaleSqrt()
-                   .domain([0, d3.max(sectorData, d => d["RCPTOT_ALL_FIRMS.2012"])])
-                   .range([4, 24]);
-
-    let circles = this.plot.selectAll("circle")
-                           .data(sectorData);
-
-    let newCircles = circles.enter()
-           .append("circle")
-           .attr("class", d => "sector-" + d["SECTOR.id"])
-           .attr("r", 0)
-           .attr("cx", d => this.xScale(util.k(d, "MEAN_VAL_PCT", 2002)))
-           .attr("cy", d => this.yScale(util.k(d, "MEAN_VAL_PCT", year)));
-
-    circles.merge(newCircles)
-           .transition()
-           .duration(500)
-           .attr("cx", d => this.xScale(util.k(d, "MEAN_VAL_PCT", 2002)))
-           .attr("cy", d => this.yScale(util.k(d, "MEAN_VAL_PCT", year)))
-           .attr("r", d => rScale(util.k(d, "RCPTOT_ALL_FIRMS", year)));
-  }
-
-  hideSectors() {
-      this.plot.selectAll("circle")
-               .transition()
-               .duration(500)
-               .attr("r", 0);
-  }
-
   updateYAxis(year) {
     if (year != this.year) {
       this.year = year;
@@ -201,8 +171,36 @@ export default class Scatter {
     }
   }
 
+  drawSectors(sectorsData, year) {
+    let rScale = this.makeRScale(sectorsData);
+
+    let circles = this.plot.selectAll("circle.sector")
+                           .data(sectorsData);
+
+    let newCircles = circles.enter()
+           .append("circle")
+           .attr("class", d => "sector sector-" + d["SECTOR.id"])
+           .attr("r", 0)
+           .attr("cx", d => this.xScale(util.k(d, "MEAN_VAL_PCT", 2002)))
+           .attr("cy", d => this.yScale(util.k(d, "MEAN_VAL_PCT", year)));
+
+    circles.merge(newCircles)
+           .transition()
+           .duration(500)
+           .attr("cx", d => this.xScale(util.k(d, "MEAN_VAL_PCT", 2002)))
+           .attr("cy", d => this.yScale(util.k(d, "MEAN_VAL_PCT", year)))
+           .attr("r", d => rScale(util.k(d, "RCPTOT_ALL_FIRMS", year)));
+  }
+
+  hideSectors() {
+    this.plot.selectAll("circle.sector")
+             .transition()
+             .duration(500)
+             .attr("r", 0);
+  }
+
   drawSectorTooltip(sectorId, year, duration = 500) {
-    let circle = d3.select("circle.sector-" + sectorId);
+    let circle = d3.select("circle.sector.sector-" + sectorId);
     let data = circle.datum();
 
     let makeAnnotations = d3Annotations.annotation()
@@ -239,16 +237,43 @@ export default class Scatter {
   }
 
   focusSector(sectorId) {
-    this.plot.selectAll("circle")
+    this.plot.selectAll("circle.sector")
              .classed("fade", true);
 
-    this.plot.select("circle.sector-" + sectorId)
+    this.plot.select("circle.sector.sector-" + sectorId)
              .classed("fade", false);
   }
 
   unfocusAllSectors() {
-    this.plot.selectAll("circle")
+    this.plot.selectAll("circle.sector")
              .classed("fade", false);
+  }
+
+  drawIndustries(sectorsData, industriesData, year) {
+    let rScale = this.makeRScale(sectorsData);
+    let circles = this.plot.selectAll("circle.industry")
+                           .data(industriesData);
+
+    let newCircles = circles.enter()
+           .append("circle")
+           .attr("class", d => "industry sector-" + d["SECTOR.id"])
+           .attr("r", 0)
+           .attr("cx", d => this.xScale(util.k(d, "VAL_PCT", 2002)))
+           .attr("cy", d => this.yScale(util.k(d, "VAL_PCT", year)));
+
+    circles.merge(newCircles)
+           .transition()
+           .duration(500)
+           .attr("cx", d => this.xScale(util.k(d, "VAL_PCT", 2002)))
+           .attr("cy", d => this.yScale(util.k(d, "VAL_PCT", year)))
+           .attr("r", d => rScale(util.k(d, "RCPTOT_ALL_FIRMS", year)));
+  }
+
+  hideIndustries() {
+    this.plot.selectAll("circle.industry")
+             .transition()
+             .duration(500)
+             .attr("r", 0);
   }
 
   fadeReplaceText(sel, newText) {
@@ -268,5 +293,12 @@ export default class Scatter {
     let concentration = Math.round(util.k(data, "MEAN_VAL_PCT", year));
 
     return `Revenue: $${size} bn\nConcentration: ${concentration}%\nYear: ${year}`;
+  }
+
+  makeRScale(sectorsData) {
+    return d3.scaleSqrt()
+             .domain([0, d3.max(sectorsData, d => d["RCPTOT_ALL_FIRMS.2012"])])
+             .range([4, 24]);
+
   }
 }
