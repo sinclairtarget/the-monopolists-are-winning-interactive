@@ -79,6 +79,7 @@ export class HighlightSectorNode extends DrawSectorsNode {
   enter(dataset, scatter, dir) {
     super.enter(dataset, scatter, dir);
     scatter.focusSector(this.sectorId);
+    scatter.hideTooltips(0);
     scatter.drawSectorTooltip(this.sectorId, this.year);
   }
 
@@ -139,6 +140,7 @@ export class HighlightIndustryNode extends DrawIndustriesNode {
   enter(dataset, scatter, dir) {
     super.enter(dataset, scatter, dir);
     scatter.focusSector(this.sectorId);
+    scatter.hideTooltips(0);
     scatter.drawIndustryTooltip(this.naicsId, this.year);
   }
 
