@@ -47,7 +47,7 @@ header {
     z-index: 1;
     padding: 1rem 0;
     color: $on-dark-text-color;
-    background-color: black;
+    background-color: $header-background-color;
     text-align: center;
     text-transform: uppercase;
 }
@@ -83,7 +83,8 @@ div.cover-image {
 }
 
 main {
-    padding: $standard-spacing 0;
+    padding-top: $standard-spacing;
+    padding-bottom: 2 * $standard-spacing;
 
     div.divider {
         margin: auto;
@@ -117,4 +118,11 @@ div.two-column-container {
         flex-grow: 1;
         flex-basis: 0;
     }
+}
+
+footer {
+    color: $on-dark-text-color;
+    background-color: $footer-background-color;
+    text-align: center;
+    padding: 8rem;
 }
