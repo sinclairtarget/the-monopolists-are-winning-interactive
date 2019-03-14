@@ -187,6 +187,7 @@ export default class Scatter {
     circles.merge(newCircles)
            .transition()
            .duration(500)
+           .delay((d, i) => i * 20)
            .attr("cx", d => this.xScale(util.k(d, "MEAN_VAL_PCT", 2002)))
            .attr("cy", d => this.yScale(util.k(d, "MEAN_VAL_PCT", year)))
            .attr("r", d => rScale(util.k(d, "RCPTOT_ALL_FIRMS", year)));
@@ -258,6 +259,7 @@ export default class Scatter {
     circles.merge(newCircles)
            .transition()
            .duration(500)
+           .delay((d, i) => i / 2)
            .attr("cx", d => this.xScale(util.k(d, "VAL_PCT", 2002)))
            .attr("cy", d => this.yScale(util.k(d, "VAL_PCT", year)))
            .attr("r", d => rScale(util.k(d, "RCPTOT_ALL_FIRMS", year)));
