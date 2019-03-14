@@ -49,12 +49,12 @@ const app = window.app = {
 
 app.start = function() {
   this.scatter = new Scatter(this.dimensions);
-  this.scatter.setUp();
 
   d3.json("static/data.json")
     .catch(err => console.error("Error fetching JSON data: " + err))
     .then((data) => {
       this.dataset = new Dataset(data);
+      this.scatter.setUp(this.dataset);
       this.pushStoryNode(storyNodes["initial"]);
       this.registerEventListeners();
 

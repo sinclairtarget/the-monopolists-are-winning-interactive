@@ -84,6 +84,11 @@ svg circle {
         fill: lighten($graph-gray-color, 20%);
         stroke: lighten($graph-gray-color, 20%);
     }
+
+    &.legend {
+        fill: lighten($graph-gray-color, 30%);
+        stroke: lighten($graph-gray-color, 20%);
+    }
 }
 
 svg .grid {
@@ -93,11 +98,25 @@ svg .grid {
 
 svg .panel-title {
     font-family: 'Rubik', sans-serif;
-    font-size: 2rem;
+    font-size: 20px;
 }
 
 svg .axis-title {
     font-family: 'Rubik', sans-serif;
+}
+
+svg .legend-text {
+    font-size: 12px;
+    fill: $graph-faded-text-color;
+}
+
+svg .legend-bg {
+    fill: $graph-light-gray-color;
+    fill-opacity: 1;
+}
+
+svg .legend-line {
+    stroke: $graph-gray-color;
 }
 
 svg .dashed-line {
@@ -114,7 +133,7 @@ svg .annotation-group {
     .annotation-note-label {
         text-anchor: middle;
         fill: $graph-faded-text-color;
-        font-size: 1.3rem;
+        font-size: 13px;
     }
 }
 

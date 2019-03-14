@@ -8,7 +8,7 @@ export default class Scatter {
     this.dim = dimensions;
   }
 
-  setUp() {
+  setUp(dataset) {
     // Create plot and grid lines
     let panelWidth = this.dim.panelWidth();
     let panelHeight = this.dim.panelHeight();
@@ -131,6 +131,9 @@ export default class Scatter {
                 .attr("class", "panel-title")
                 .text(this.title);
 
+    // create circle area legend
+    this.drawSizeLegend(dataset, 89.9, 22, 4, 36);
+
 //    this.panel.append("circle")
 //              .attr("r", 3)
 //              .attr("cy", panelHeight);
@@ -171,9 +174,62 @@ export default class Scatter {
     }
   }
 
-  drawSectors(sectorsData, year) {
-    let rScale = this.makeRScale(sectorsData);
+  drawSizeLegend(dataset, x, y, minR, maxR) {
+    let sectorsData = dataset.sectors();
+    let industriesData = dataset.industries();
+    let min = d3.min(industriesData, d => d["RCPTOT_ALL_FIRMS.2002"]);
+    let max = d3.max(sectorsData, d => d["RCPTOT_ALL_FIRMS.2012"]);
+    this.rScale = d3.scaleSqrt()
+                    .domain([min, max])
+                    .range([minR, maxR]);
 
+    this.plot.append("rect")
+             .attr("x", this.xScale(x - 8.65))
+             .attr("y", this.yScale(y + 21))
+             .attr("width", this.xScale(17))
+             .attr("height", this.yScale(74))
+             .attr("class", "legend-bg");
+
+    for (let i = 0; i < 4; i++) {
+      let r = maxR - (i * maxR / 4);
+      this.plot.append("circle")
+               .attr("class", "legend")
+               .attr("cx", this.xScale(x))
+               .attr("cy", this.yScale(y) - r + (3 - i) * 2)
+               .attr("r", maxR - (i * maxR / 4));
+    }
+
+    this.plot.append("text")
+             .attr("x", this.xScale(x + 4.8))
+             .attr("y", this.yScale(y - 3.8))
+             .attr("text-anchor", "middle")
+             .attr("class", "legend-text")
+             .text(util.dollars(min));
+
+    this.plot.append("text")
+             .attr("x", this.xScale(x))
+             .attr("y", this.yScale(y + 14.2))
+             .attr("text-anchor", "middle")
+             .attr("class", "legend-text")
+             .text(util.dollars(max));
+
+    this.plot.append("text")
+             .attr("x", this.xScale(x))
+             .attr("y", this.yScale(y + 17.8))
+             .attr("text-anchor", "middle")
+             .attr("font-weight", "bold")
+             .attr("class", "legend-text")
+             .text("Total Revenue");
+
+    this.plot.append("line")
+             .attr("x1", this.xScale(x))
+             .attr("y1", this.yScale(y) - 8)
+             .attr("x2", this.xScale(x) + 27)
+             .attr("y2", this.yScale(y) + 7)
+             .attr("class", "legend-line");
+  }
+
+  drawSectors(sectorsData, year) {
     let circles = this.plot.selectAll("circle.sector")
                            .data(sectorsData);
 
@@ -190,7 +246,7 @@ export default class Scatter {
            .delay((d, i) => i * 20)
            .attr("cx", d => this.xScale(util.k(d, "MEAN_VAL_PCT", 2002)))
            .attr("cy", d => this.yScale(util.k(d, "MEAN_VAL_PCT", year)))
-           .attr("r", d => rScale(util.k(d, "RCPTOT_ALL_FIRMS", year)));
+           .attr("r", d => this.rScale(util.k(d, "RCPTOT_ALL_FIRMS", year)));
   }
 
   hideSectors() {
@@ -242,7 +298,6 @@ export default class Scatter {
   }
 
   drawIndustries(sectorsData, industriesData, year) {
-    let rScale = this.makeRScale(sectorsData);
     let circles = this.plot.selectAll("circle.industry")
                            .data(industriesData);
 
@@ -262,7 +317,7 @@ export default class Scatter {
            .delay((d, i) => i / 2)
            .attr("cx", d => this.xScale(util.k(d, "VAL_PCT", 2002)))
            .attr("cy", d => this.yScale(util.k(d, "VAL_PCT", year)))
-           .attr("r", d => rScale(util.k(d, "RCPTOT_ALL_FIRMS", year)));
+           .attr("r", d => this.rScale(util.k(d, "RCPTOT_ALL_FIRMS", year)));
   }
 
   hideIndustries() {
@@ -321,27 +376,25 @@ export default class Scatter {
   }
 
   sectorLabel(data, year) {
-    let size = util.k(data, "RCPTOT_ALL_FIRMS", year) * 1000 / 1000000000;
-    size = Math.round(size * 10) / 10;
+    let size = util.dollars(util.k(data, "RCPTOT_ALL_FIRMS", year));
     let concentration = Math.round(util.k(data, "MEAN_VAL_PCT", year));
 
-    return `Revenue: $${size} bn\nConcentration: ${concentration}%\nYear: ${year}`;
+    return `Revenue: ${size}\nConcentration: ${concentration}%\nYear: ${year}`;
   }
 
   industryLabel(data, year) {
     let sector = data["SECTOR.label"];
-    let size = util.k(data, "RCPTOT_ALL_FIRMS", year) * 1000 / 1000000000;
-    size = Math.round(size * 10) / 10;
+    let size = util.dollars(util.k(data, "RCPTOT_ALL_FIRMS", year));
     let concentration = Math.round(util.k(data, "VAL_PCT", year));
 
-    return `Sector: ${sector}\nRevenue: $${size} bn\n` +
+    return `Sector: ${sector}\nRevenue: ${size}\n` +
       `Concentration: ${concentration}%\nYear: ${year}`;
   }
 
-  makeRScale(sectorsData) {
+  makeRScale(sectorsData, min, max) {
     return d3.scaleSqrt()
              .domain([0, d3.max(sectorsData, d => d["RCPTOT_ALL_FIRMS.2012"])])
-             .range([4, 36]);
+             .range([min, max]);
 
   }
 }
