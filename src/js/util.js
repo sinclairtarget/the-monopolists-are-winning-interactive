@@ -36,3 +36,14 @@ export function shortName(sectorId) {
 
   return sectors[sectorId];
 }
+
+export function alphabetize(sectors) {
+  return sectors.sort((a, b) => {
+    let nameA = a["SECTOR.label"];
+    let nameB = b["SECTOR.label"];
+
+    if (nameA < nameB) return -1;
+    if (nameA > nameB) return 1;
+    return 0;
+  });
+}

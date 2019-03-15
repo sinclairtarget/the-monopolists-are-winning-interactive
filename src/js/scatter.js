@@ -71,18 +71,18 @@ export default class Scatter {
         note: {
           label: "Became More Concentrated",
           bgPadding: 4,
-          align: "left"
+          align: "middle"
         },
-        x: this.xScale(3),
+        x: this.xScale(10),
         y: this.yScale(94)
       },
       {
         note: {
           label: "Became Less Concentrated",
           bgPadding: 4,
-          align: "right"
+          align: "middle"
         },
-        x: this.xScale(97),
+        x: this.xScale(90),
         y: this.yScale(13)
       }]);
 
@@ -242,7 +242,7 @@ export default class Scatter {
   }
 
   drawColorLegend(dataset, x, y, width, height) {
-    let sectorsData = dataset.sectors();
+    let sectorsData = util.alphabetize(dataset.sectors());
     let numRows = 4;
     let numCols = 3;
     let colPadding = 10;
@@ -260,7 +260,7 @@ export default class Scatter {
       for (let col = 0; col < numCols; col++) {
         let x = col * (boxWidth + colPadding);
         let y = row * (boxHeight + rowPadding);
-        let sector = sectorsData[col + (row * numCols)];
+        let sector = sectorsData[row + (col * numRows)];
         let sectorId = sector["SECTOR.id"];
         let name = util.shortName(sectorId);
 
