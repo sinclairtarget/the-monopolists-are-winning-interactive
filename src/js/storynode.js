@@ -18,6 +18,14 @@ export class StoryNode {
   onCircleMouseOut(scatter, circle, datum) {
     // do nothing
   }
+
+  onLegendBoxMouseOver(scatter, rect, datum) {
+    // do nothing
+  }
+
+  onLegendBoxMouseOut(scatter, rect, datum) {
+    // do nothing
+  }
 }
 
 export class DrawSectorsNode extends StoryNode {
@@ -53,6 +61,17 @@ export class DrawSectorsNode extends StoryNode {
   onCircleMouseOut(scatter, circle, datum) {
     scatter.unfocusAllSectors();
     scatter.hideTooltips(0);
+  }
+
+  onLegendBoxMouseOver(scatter, rect, datum) {
+    let sectorId = datum["SECTOR.id"];
+    scatter.unfocusAllSectors();
+    scatter.focusSector(sectorId);
+    scatter.hideTooltips(0);
+  }
+
+  onLegendBoxMouseOut(scatter, rect, datum) {
+    scatter.unfocusAllSectors();
   }
 }
 
@@ -96,6 +115,14 @@ export class HighlightSectorNode extends DrawSectorsNode {
   onCircleMouseOut(scatter, circle, datum) {
     // override and do nothing
   }
+
+  onLegendBoxMouseOver(scatter, rect, datum) {
+    // override and do nothing
+  }
+
+  onLegendBoxMouseOut(scatter, rect, datum) {
+    // override and do nothing
+  }
 }
 
 export class DrawIndustriesNode extends StoryNode {
@@ -128,6 +155,17 @@ export class DrawIndustriesNode extends StoryNode {
     scatter.unfocusAllSectors();
     scatter.hideTooltips(0);
   }
+
+  onLegendBoxMouseOver(scatter, rect, datum) {
+    let sectorId = datum["SECTOR.id"];
+    scatter.unfocusAllSectors();
+    scatter.focusSector(sectorId);
+    scatter.hideTooltips(0);
+  }
+
+  onLegendBoxMouseOut(scatter, rect, datum) {
+    scatter.unfocusAllSectors();
+  }
 }
 
 export class HighlightIndustryNode extends DrawIndustriesNode {
@@ -155,6 +193,14 @@ export class HighlightIndustryNode extends DrawIndustriesNode {
   }
 
   onCircleMouseOut(scatter, circle, datum) {
+    // override and do nothing
+  }
+
+  onLegendBoxMouseOver(scatter, rect, datum) {
+    // override and do nothing
+  }
+
+  onLegendBoxMouseOut(scatter, rect, datum) {
     // override and do nothing
   }
 }

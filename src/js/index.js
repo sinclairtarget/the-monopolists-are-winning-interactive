@@ -88,6 +88,14 @@ app.registerEventListeners = function() {
   this.scatter.onCircleMouseOut((circle, d) => {
     this.currentNode().onCircleMouseOut(this.scatter, circle, d);
   });
+
+  this.scatter.onLegendBoxMouseOver((rect, d) => {
+    this.currentNode().onLegendBoxMouseOver(this.scatter, rect, d);
+  });
+
+  this.scatter.onLegendBoxMouseOut((rect, d) => {
+    this.currentNode().onLegendBoxMouseOut(this.scatter, rect, d);
+  });
 };
 
 app.pushStoryNode = function(storyNode) {

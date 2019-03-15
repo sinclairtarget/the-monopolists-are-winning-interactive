@@ -91,6 +91,10 @@ svg circle {
     }
 }
 
+svg line, svg path {
+    pointer-events: none;
+}
+
 svg .grid {
     color: $graph-gray-color;
     stroke-width: 0.4;
@@ -110,23 +114,44 @@ svg .legend-text {
     fill: $graph-faded-text-color;
 }
 
-svg .legend-bg {
-    fill: $graph-light-gray-color;
-    fill-opacity: 1;
-}
+svg .size-legend {
+    pointer-events: none;
 
-svg .legend-line {
-    stroke: $graph-gray-color;
+    .legend-bg {
+        fill: $graph-light-gray-color;
+        fill-opacity: 1;
+    }
+
+    .legend-line {
+        stroke: $graph-gray-color;
+    }
 }
 
 svg .color-legend {
     .legend-box {
-        fill: transparent;
-        stroke: $graph-gray-color;
+        .legend-text {
+            fill: darken($graph-gray-color, 10%);
+        }
+
+        rect {
+            fill: transparent;
+            stroke: $graph-gray-color;
+        }
+
+        circle, text {
+            pointer-events: none;
+        }
     }
 
-    .legend-text {
+    .legend-box.fade {
+        .legend-text {
+            fill: lighten($graph-gray-color, 10%);
+        }
 
+        circle {
+            fill: lighten($graph-gray-color, 20%);
+            stroke: lighten($graph-gray-color, 20%);
+        }
     }
 }
 

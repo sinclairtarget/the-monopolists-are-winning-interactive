@@ -164,6 +164,26 @@ export default class Scatter {
     });
   };
 
+  onLegendBoxMouseOver(listener) {
+    this.legend.on("mouseover", () => {
+      let el = d3.event.target;
+      if (el.nodeName == "rect") {
+        let d = d3.select(el).datum();
+        listener(el, d);
+      }
+    });
+  }
+
+  onLegendBoxMouseOut(listener) {
+    this.legend.on("mouseout", () => {
+      let el = d3.event.target;
+      if (el.nodeName == "rect") {
+        let d = d3.select(el).datum();
+        listener(el, d);
+      }
+    });
+  }
+
   updateYAxis(year) {
     if (year != this.year) {
       this.year = year;
@@ -251,10 +271,10 @@ export default class Scatter {
     let boxWidth = (width - (numCols - 1) * colPadding)  / numCols;
     let boxHeight = (height - (numRows - 1) * rowPadding) / numRows;
 
-    let legend = this.panel
-                     .append("g")
-                     .attr("transform", util.transl(x, y))
-                     .attr("class", "color-legend");
+    this.legend = this.panel
+                      .append("g")
+                      .attr("transform", util.transl(x, y))
+                      .attr("class", "color-legend");
 
     for (let row = 0; row < numRows; row++) {
       for (let col = 0; col < numCols; col++) {
@@ -264,26 +284,28 @@ export default class Scatter {
         let sectorId = sector["SECTOR.id"];
         let name = util.shortName(sectorId);
 
-        legend.append("rect")
-              .attr("x", x)
-              .attr("y", y)
-              .attr("width", boxWidth)
-              .attr("height", boxHeight)
-              .attr("rx", 5)
-              .attr("ry", 5)
-              .attr("class", "legend-box");
+        let box = this.legend.append("g")
+                             .attr("transform", util.transl(x, y))
+                             .attr("class", "legend-box sector-" + sectorId)
+                             .datum(sector);
 
-        legend.append("circle")
-              .attr("cx", x + boxWidth * 0.05)
-              .attr("cy", y + boxHeight / 2)
-              .attr("r", boxHeight / 4)
-              .attr("class", "sector-" + sectorId);
+        box.append("rect")
+           .attr("width", boxWidth)
+           .attr("height", boxHeight)
+           .attr("rx", 5)
+           .attr("ry", 5);
 
-        legend.append("text")
-              .attr("x", x + boxWidth * 0.12)
-              .attr("y", y + boxHeight / 2 + 5)
-              .attr("class", "legend-text")
-              .text(name);
+        box.append("circle")
+           .attr("cx", boxWidth * 0.05)
+           .attr("cy", boxHeight / 2)
+           .attr("r", boxHeight / 4)
+           .attr("class", "sector-" + sectorId);
+
+        box.append("text")
+           .attr("x", boxWidth * 0.12)
+           .attr("y", boxHeight / 2 + 5)
+           .attr("class", "legend-text")
+           .text(name);
       }
     }
   }
@@ -349,11 +371,20 @@ export default class Scatter {
 
     this.plot.selectAll("circle.sector-" + sectorId)
              .classed("fade", false);
+
+    this.legend.selectAll("g.legend-box")
+               .classed("fade", true);
+
+    this.legend.selectAll("g.legend-box.sector-" + sectorId)
+               .classed("fade", false);
   }
 
   unfocusAllSectors() {
     this.plot.selectAll("circle")
              .classed("fade", false);
+
+    this.legend.selectAll("g.legend-box")
+               .classed("fade", false);
   }
 
   drawIndustries(sectorsData, industriesData, year) {
