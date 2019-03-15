@@ -428,6 +428,17 @@ export default class Scatter {
     let data = circle.datum();
     let name = util.customWrap(data["NAICS.label"], 20);
 
+    // d3 annotation overrides the wrapping for some reason on this one
+    if (naicsId == 524292) {
+      name = "Third party\nadministration\nof insurance and\npension\nfunds";
+    }
+
+    let dx = 25;
+    let dy = 25;
+    if (util.k(data, "VAL_PCT", 2002) > 50) {
+      dx = -25; // Draw tooltip to left for dots on right side of plot
+    }
+
     let makeAnnotations = d3Annotations.annotation()
       .type(d3Annotations.annotationCallout)
       .annotations([{
@@ -440,8 +451,8 @@ export default class Scatter {
         },
         x: this.xScale(util.k(data, "VAL_PCT", 2002)),
         y: this.yScale(util.k(data, "VAL_PCT", year)),
-        dx: 25,
-        dy: 25
+        dx: dx,
+        dy: dy
       }]);
 
     this.plot.append("g")
