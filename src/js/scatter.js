@@ -379,7 +379,12 @@ export default class Scatter {
                .classed("fade", false);
   }
 
-  unfocusAllSectors() {
+  focusIndustryWhere(predicate) {
+    this.plot.selectAll("circle.industry")
+             .classed("fade", d => !predicate(d));
+  }
+
+  unfocusAll() {
     this.plot.selectAll("circle")
              .classed("fade", false);
 

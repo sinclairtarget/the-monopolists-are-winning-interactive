@@ -1,3 +1,5 @@
+import * as util from "./util.js";
+
 export class StoryNode {
   constructor(nodeName) {
     this.nodeName = nodeName;
@@ -53,25 +55,25 @@ export class DrawSectorsNode extends StoryNode {
 
   onCircleMouseOver(scatter, circle, datum) {
     let sectorId = datum["SECTOR.id"];
-    scatter.unfocusAllSectors();
+    scatter.unfocusAll();
     scatter.focusSector(sectorId);
     scatter.drawSectorTooltip(sectorId, this.year, 0);
   }
 
   onCircleMouseOut(scatter, circle, datum) {
-    scatter.unfocusAllSectors();
+    scatter.unfocusAll();
     scatter.hideTooltips(0);
   }
 
   onLegendBoxMouseOver(scatter, rect, datum) {
     let sectorId = datum["SECTOR.id"];
-    scatter.unfocusAllSectors();
+    scatter.unfocusAll();
     scatter.focusSector(sectorId);
     scatter.hideTooltips(0);
   }
 
   onLegendBoxMouseOut(scatter, rect, datum) {
-    scatter.unfocusAllSectors();
+    scatter.unfocusAll();
   }
 }
 
@@ -105,7 +107,7 @@ export class HighlightSectorNode extends DrawSectorsNode {
   exit(dataset, scatter, dir) {
     super.exit(dataset, scatter, dir);
     scatter.hideTooltips();
-    scatter.unfocusAllSectors();
+    scatter.unfocusAll();
   }
 
   onCircleMouseOver(scatter, circle, datum) {
@@ -146,25 +148,25 @@ export class DrawIndustriesNode extends StoryNode {
     let sectorId = datum["SECTOR.id"];
     let naicsId = datum["NAICS.id"];
 
-    scatter.unfocusAllSectors();
+    scatter.unfocusAll();
     scatter.focusSector(sectorId);
     scatter.drawIndustryTooltip(naicsId, this.year, 0);
   }
 
   onCircleMouseOut(scatter, circle, datum) {
-    scatter.unfocusAllSectors();
+    scatter.unfocusAll();
     scatter.hideTooltips(0);
   }
 
   onLegendBoxMouseOver(scatter, rect, datum) {
     let sectorId = datum["SECTOR.id"];
-    scatter.unfocusAllSectors();
+    scatter.unfocusAll();
     scatter.focusSector(sectorId);
     scatter.hideTooltips(0);
   }
 
   onLegendBoxMouseOut(scatter, rect, datum) {
-    scatter.unfocusAllSectors();
+    scatter.unfocusAll();
   }
 }
 
@@ -185,7 +187,44 @@ export class HighlightIndustryNode extends DrawIndustriesNode {
   exit(dataset, scatter, dir) {
     super.exit(dataset, scatter, dir);
     scatter.hideTooltips();
-    scatter.unfocusAllSectors();
+    scatter.unfocusAll();
+  }
+
+  onCircleMouseOver(scatter, circle, datum) {
+    // override and do nothing
+  }
+
+  onCircleMouseOut(scatter, circle, datum) {
+    // override and do nothing
+  }
+
+  onLegendBoxMouseOver(scatter, rect, datum) {
+    // override and do nothing
+  }
+
+  onLegendBoxMouseOut(scatter, rect, datum) {
+    // override and do nothing
+  }
+}
+
+export class HighlightConcentratedNode extends DrawIndustriesNode {
+  constructor(name, year) {
+    super(name, year);
+  }
+
+  enter(dataset, scatter, dir) {
+    super.enter(dataset, scatter, dir);
+    scatter.focusIndustryWhere(d => {
+      let base = util.k(d, "VAL_PCT", 2002);
+      let now = util.k(d, "VAL_PCT", this.year);
+      return now > base;
+    });
+  }
+
+  exit(dataset, scatter, dir) {
+    super.exit(dataset, scatter, dir);
+    scatter.hideTooltips();
+    scatter.unfocusAll();
   }
 
   onCircleMouseOver(scatter, circle, datum) {
