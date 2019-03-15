@@ -16,3 +16,23 @@ export function dollars(val) {
     let bn = val * 1000 / 1000000000;
     return `$${Math.round(bn * 10) / 10} bn`;
 }
+
+// returns the short name of the sector
+export function shortName(sectorId) {
+  let sectors = {
+    22: "Utilities",
+    42: "Wholesale Trade",
+    51: "Information",
+    52: "Finance and Insurance",
+    53: "Real Estate",
+    54: "Professional and Scientific",
+    56: "Administrative Support",
+    61: "Educational Services",
+    62: "Health Care",
+    71: "Arts and Entertainment",
+    72: "Accommodation and Food",
+    81: "Other Services"
+  };
+
+  return sectors[sectorId];
+}

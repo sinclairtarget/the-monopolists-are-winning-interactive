@@ -105,8 +105,9 @@ export default class Scatter {
 
     this.xTitle =
       this.panel.append("text")
-                .attr("x", panelWidth / 2)
-                .attr("y", panelHeight)
+                .attr("x", this.dim.padding.left + plotWidth / 2)
+                .attr("y", plotHeight + this.dim.padding.top +
+                           this.dim.margin.top + 30)
                 .attr("text-anchor", "middle")
                 .attr("class", "axis-title")
                 .text("Revenue Captured by Top Four Firms (2002)");
@@ -133,6 +134,10 @@ export default class Scatter {
 
     // create circle area legend
     this.drawSizeLegend(dataset, this.xScale(81.6), plotHeight - 210, 4, 36);
+
+    // create clickable legend below plot
+    this.drawColorLegend(dataset, this.dim.padding.left, panelHeight - 112,
+                         panelWidth - this.dim.padding.left, 112);
 
 //    this.panel.append("circle")
 //              .attr("r", 3)
@@ -234,6 +239,53 @@ export default class Scatter {
           .attr("x2", width - 26)
           .attr("y2", height - 17)
           .attr("class", "legend-line");
+  }
+
+  drawColorLegend(dataset, x, y, width, height) {
+    let sectorsData = dataset.sectors();
+    let numRows = 4;
+    let numCols = 3;
+    let colPadding = 10;
+    let rowPadding = 6;
+
+    let boxWidth = (width - (numCols - 1) * colPadding)  / numCols;
+    let boxHeight = (height - (numRows - 1) * rowPadding) / numRows;
+
+    let legend = this.panel
+                     .append("g")
+                     .attr("transform", util.transl(x, y))
+                     .attr("class", "color-legend");
+
+    for (let row = 0; row < numRows; row++) {
+      for (let col = 0; col < numCols; col++) {
+        let x = col * (boxWidth + colPadding);
+        let y = row * (boxHeight + rowPadding);
+        let sector = sectorsData[col + (row * numCols)];
+        let sectorId = sector["SECTOR.id"];
+        let name = util.shortName(sectorId);
+
+        legend.append("rect")
+              .attr("x", x)
+              .attr("y", y)
+              .attr("width", boxWidth)
+              .attr("height", boxHeight)
+              .attr("rx", 5)
+              .attr("ry", 5)
+              .attr("class", "legend-box");
+
+        legend.append("circle")
+              .attr("cx", x + boxWidth * 0.05)
+              .attr("cy", y + boxHeight / 2)
+              .attr("r", boxHeight / 4)
+              .attr("class", "sector-" + sectorId);
+
+        legend.append("text")
+              .attr("x", x + boxWidth * 0.12)
+              .attr("y", y + boxHeight / 2 + 5)
+              .attr("class", "legend-text")
+              .text(name);
+      }
+    }
   }
 
   drawSectors(sectorsData, year) {

@@ -119,6 +119,17 @@ svg .legend-line {
     stroke: $graph-gray-color;
 }
 
+svg .color-legend {
+    .legend-box {
+        fill: transparent;
+        stroke: $graph-gray-color;
+    }
+
+    .legend-text {
+
+    }
+}
+
 svg .dashed-line {
     stroke: $graph-gray-color;
     stroke-dasharray: 8;
