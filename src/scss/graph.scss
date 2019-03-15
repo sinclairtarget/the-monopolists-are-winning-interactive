@@ -174,6 +174,10 @@ svg .annotation-group {
 }
 
 svg .tooltip-annotation-group {
+    .annotation-note-bg {
+        stroke: darken($graph-light-gray-color, 10%);
+    }
+
     .annotation-note-label {
         text-anchor: start;
     }

@@ -47,3 +47,34 @@ export function alphabetize(sectors) {
     return 0;
   });
 }
+
+export function customWrap(str, maxLen) {
+  str = str.trim();
+
+  let charsThisLine = 0;
+  for (let i = 0; i < str.length; i++) {
+    let shouldBreak = false;
+
+    if (str[i] == ' ') {
+      for (let j = i + 1; j < str.length; j++) {
+        if (str[j] == ' ')
+          break;
+
+        if (charsThisLine + (j - i) > maxLen) {
+          shouldBreak = true;
+          break;
+        }
+      }
+    }
+
+    if (shouldBreak) {
+      str = str.slice(0, i) + "\n" + str.slice(i + 1);
+      charsThisLine = 0;
+    }
+    else {
+      charsThisLine++;
+    }
+  }
+
+  return str;
+}

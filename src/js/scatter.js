@@ -24,12 +24,6 @@ export default class Scatter {
                                                   this.dim.margin.top))
                    .attr("class", "panel");
 
-    this.plot = d3.select(".panel")
-                  .append("g")
-                  .attr("transform", util.transl(this.dim.padding.left,
-                                                 this.dim.padding.top))
-                  .attr("class", "plot");
-
     this.xScale = d3.scaleLinear()
                     .domain([0, 100])
                     .range([0, plotWidth]);
@@ -47,48 +41,6 @@ export default class Scatter {
     let yGrid = d3.axisLeft(this.yScale)
                   .tickSize(-plotWidth, 0, 0)
                   .tickFormat("");
-
-    this.plot.append("g")
-             .attr("transform", util.transl(0, plotHeight))
-             .attr("class", "grid")
-             .call(xGrid);
-
-    this.plot.append("g")
-             .attr("class", "grid")
-             .call(yGrid);
-
-    this.plot.append("line")
-             .attr("x1", 0)
-             .attr("y1", plotHeight)
-             .attr("x2", plotWidth)
-             .attr("y2", 0)
-             .attr("class", "dashed-line");
-
-    // Create annotations
-    let makeAnnotations = d3Annotations.annotation()
-      .type(d3Annotations.annotationLabel)
-      .annotations([{
-        note: {
-          label: "Became More Concentrated",
-          bgPadding: 4,
-          align: "middle"
-        },
-        x: this.xScale(10),
-        y: this.yScale(94)
-      },
-      {
-        note: {
-          label: "Became Less Concentrated",
-          bgPadding: 4,
-          align: "middle"
-        },
-        x: this.xScale(90),
-        y: this.yScale(13)
-      }]);
-
-    this.plot.append("g")
-             .attr("class", "annotation-group")
-             .call(makeAnnotations);
 
     // Create axes
     this.panel.append("g")
@@ -132,12 +84,61 @@ export default class Scatter {
                 .attr("class", "panel-title")
                 .text(this.title);
 
-    // create circle area legend
-    this.drawSizeLegend(dataset, this.xScale(81.6), plotHeight - 210, 4, 36);
-
     // create clickable legend below plot
     this.drawColorLegend(dataset, this.dim.padding.left, panelHeight - 112,
                          panelWidth - this.dim.padding.left, 112);
+
+    // Create plot
+    this.plot = d3.select(".panel")
+                  .append("g")
+                  .attr("transform", util.transl(this.dim.padding.left,
+                                                 this.dim.padding.top))
+                  .attr("class", "plot");
+
+    this.plot.append("g")
+             .attr("transform", util.transl(0, plotHeight))
+             .attr("class", "grid")
+             .call(xGrid);
+
+    this.plot.append("g")
+             .attr("class", "grid")
+             .call(yGrid);
+
+    this.plot.append("line")
+             .attr("x1", 0)
+             .attr("y1", plotHeight)
+             .attr("x2", plotWidth)
+             .attr("y2", 0)
+             .attr("class", "dashed-line");
+
+    // Create annotations
+    let makeAnnotations = d3Annotations.annotation()
+      .type(d3Annotations.annotationLabel)
+      .annotations([{
+        note: {
+          label: "Became More Concentrated",
+          bgPadding: 4,
+          align: "middle"
+        },
+        x: this.xScale(10),
+        y: this.yScale(94)
+      },
+      {
+        note: {
+          label: "Became Less Concentrated",
+          bgPadding: 4,
+          align: "middle"
+        },
+        x: this.xScale(90),
+        y: this.yScale(13)
+      }]);
+
+    this.plot.append("g")
+             .attr("class", "annotation-group")
+             .call(makeAnnotations);
+
+    // create circle area legend
+    this.drawSizeLegend(dataset, this.xScale(81.6), plotHeight - 210, 4, 36);
 
 //    this.panel.append("circle")
 //              .attr("r", 3)
@@ -425,15 +426,17 @@ export default class Scatter {
   drawIndustryTooltip(naicsId, year, duration = 500) {
     let circle = d3.select("circle.industry-" + naicsId);
     let data = circle.datum();
+    let name = util.customWrap(data["NAICS.label"], 20);
 
     let makeAnnotations = d3Annotations.annotation()
       .type(d3Annotations.annotationCallout)
       .annotations([{
         note: {
-          title: data["NAICS.label"],
+          title: name,
           label: this.industryLabel(data, year),
           bgPadding: 4,
-          padding: 4
+          padding: 4,
+          wrapSplitter: /\n/
         },
         x: this.xScale(util.k(data, "VAL_PCT", 2002)),
         y: this.yScale(util.k(data, "VAL_PCT", year)),
@@ -478,7 +481,7 @@ export default class Scatter {
   }
 
   industryLabel(data, year) {
-    let sector = data["SECTOR.label"];
+    let sector = util.shortName(data["SECTOR.id"]);
     let size = util.dollars(util.k(data, "RCPTOT_ALL_FIRMS", year));
     let concentration = Math.round(util.k(data, "VAL_PCT", year));
 
