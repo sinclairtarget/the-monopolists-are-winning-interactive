@@ -132,7 +132,7 @@ export default class Scatter {
                 .text(this.title);
 
     // create circle area legend
-    this.drawSizeLegend(dataset, 89.9, 22, 4, 36);
+    this.drawSizeLegend(dataset, this.xScale(81.6), plotHeight - 210, 4, 36);
 
 //    this.panel.append("circle")
 //              .attr("r", 3)
@@ -183,50 +183,57 @@ export default class Scatter {
                     .domain([min, max])
                     .range([minR, maxR]);
 
-    this.plot.append("rect")
-             .attr("x", this.xScale(x - 8.65))
-             .attr("y", this.yScale(y + 21))
-             .attr("width", this.xScale(17))
-             .attr("height", this.yScale(74))
-             .attr("class", "legend-bg");
+    let legend = this.plot
+                     .append("g")
+                     .attr("transform", util.transl(x, y))
+                     .attr("class", "size-legend");
+
+    let width = 100;
+    let height = 130;
+    legend.append("rect")
+          .attr("x", 0)
+          .attr("y", 0)
+          .attr("width", width)
+          .attr("height", height)
+          .attr("class", "legend-bg");
 
     for (let i = 0; i < 4; i++) {
       let r = maxR - (i * maxR / 4);
-      this.plot.append("circle")
-               .attr("class", "legend")
-               .attr("cx", this.xScale(x))
-               .attr("cy", this.yScale(y) - r + (3 - i) * 2)
-               .attr("r", maxR - (i * maxR / 4));
+      legend.append("circle")
+            .attr("class", "legend")
+            .attr("cx", width / 2)
+            .attr("cy", height - 25 - r + (3 - i) * 2)
+            .attr("r", maxR - (i * maxR / 4));
     }
 
-    this.plot.append("text")
-             .attr("x", this.xScale(x + 4.8))
-             .attr("y", this.yScale(y - 3.8))
-             .attr("text-anchor", "middle")
-             .attr("class", "legend-text")
-             .text(util.dollars(min));
+    legend.append("text")
+          .attr("x", width - 23)
+          .attr("y", height - 5)
+          .attr("text-anchor", "middle")
+          .attr("class", "legend-text")
+          .text(util.dollars(min));
 
-    this.plot.append("text")
-             .attr("x", this.xScale(x))
-             .attr("y", this.yScale(y + 14.2))
-             .attr("text-anchor", "middle")
-             .attr("class", "legend-text")
-             .text(util.dollars(max));
+    legend.append("text")
+          .attr("x", width / 2)
+          .attr("y", 35)
+          .attr("text-anchor", "middle")
+          .attr("class", "legend-text")
+          .text(util.dollars(max));
 
-    this.plot.append("text")
-             .attr("x", this.xScale(x))
-             .attr("y", this.yScale(y + 17.8))
-             .attr("text-anchor", "middle")
-             .attr("font-weight", "bold")
-             .attr("class", "legend-text")
-             .text("Total Revenue");
+    legend.append("text")
+          .attr("x", width / 2)
+          .attr("y", 16)
+          .attr("text-anchor", "middle")
+          .attr("font-weight", "bold")
+          .attr("class", "legend-text")
+          .text("Total Revenue");
 
-    this.plot.append("line")
-             .attr("x1", this.xScale(x))
-             .attr("y1", this.yScale(y) - 8)
-             .attr("x2", this.xScale(x) + 27)
-             .attr("y2", this.yScale(y) + 7)
-             .attr("class", "legend-line");
+    legend.append("line")
+          .attr("x1", width / 2)
+          .attr("y1", height - 33)
+          .attr("x2", width - 26)
+          .attr("y2", height - 17)
+          .attr("class", "legend-line");
   }
 
   drawSectors(sectorsData, year) {
