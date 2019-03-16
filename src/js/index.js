@@ -18,6 +18,8 @@ const storyNodes = {
   "2002-sectors": new InitialDrawSectorsNode("2002-sectors", 2002),
   "most-concentrated-sector":
     new HighlightSectorNode("most-concentrated-sector", 2002, 22),
+  "concentrated-sector-info":
+    new HighlightSectorNode("concentrated-sector-info", 2002, 51),
   "2007-sectors": new DrawSectorsNode("2007-sectors", 2007),
   "2012-sectors": new DrawSectorsNode("2012-sectors", 2012),
   "2002-industries": new DrawIndustriesNode("2002-industries", 2002),
