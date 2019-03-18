@@ -105,6 +105,10 @@ div.text-container {
     p:last-of-type {
         margin-bottom: 0;
     }
+
+    &.accompanying {
+        margin-bottom: $graph-height / 2 - 50;
+    }
 }
 
 div.two-column-container {
@@ -125,4 +129,8 @@ footer {
     background-color: $footer-background-color;
     text-align: center;
     padding: 8rem;
+
+    a {
+        color: $on-dark-text-color;
+    }
 }
