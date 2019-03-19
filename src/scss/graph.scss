@@ -5,6 +5,7 @@
     position: sticky;
     top: 8rem;
     margin-bottom: $standard-spacing;
+    z-index: -1;
 }
 
 svg {
@@ -12,6 +13,7 @@ svg {
     font-family: 'Roboto Condensed', sans-serif;
     display: block;
     margin: auto;
+    max-height: $graph-height;
 }
 
 @media (min-width: 1200px) {

@@ -91,27 +91,36 @@ main {
 
     div.divider {
         margin: auto;
-        margin-top: $standard-spacing;
         margin-bottom: $standard-spacing;
     }
 }
 
 div.text-container {
     margin: auto;
-    max-width: $paragraph-width + 24px;
-    padding: 0 12px;
+    max-width: $paragraph-width;
 
     p {
+        padding: 0 12px;
         margin: 0;
         margin-bottom: $paragraph-spacing;
     }
+}
 
-    p:last-of-type {
-        margin-bottom: 0;
+div.story-group {
+    padding: 2rem 0;
+    background-color: $background-color;
+    box-shadow: 0px 0px 6px 0px #9e9e9e;
+
+    &:not(:last-of-type) {
+        margin-bottom: $scrolly-spacing;
     }
 }
 
 @media (min-width: 1200px) {
+    div.story-group {
+        box-shadow: none;
+    }
+
     div.two-column-container {
         display: flex;
         justify-content: center;

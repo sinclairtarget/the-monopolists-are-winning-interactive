@@ -68,7 +68,7 @@ app.start = function() {
       let waypointElements = Array.from(document.querySelectorAll(".waypoint"));
       this.waypoints = waypointElements.map(el => new Waypoint({
         element: el,
-        offset: '75%',
+        offset: '85%',
         handler: function(dir) {
           app.handleWaypoint(this.element.dataset.node, dir);
         }

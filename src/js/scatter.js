@@ -17,8 +17,7 @@ export default class Scatter {
 
     this.panel = d3.select(".graph-container")
                    .insert("svg", ".instructions")
-                   .attr("width", this.dim.width)
-                   .attr("height", this.dim.height)
+                   .attr("viewBox", `0 0 ${this.dim.width} ${this.dim.height}`)
                    .append("g")
                    .attr("transform", util.transl(this.dim.margin.left,
                                                   this.dim.margin.top))
