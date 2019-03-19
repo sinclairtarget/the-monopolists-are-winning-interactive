@@ -53,7 +53,8 @@ header {
 }
 
 div.divider {
-    width: $paragraph-width - 100px;
+    width: calc(100% - 100px);
+    max-width: $paragraph-width - 100px;
     height: 8px;
     background-color: $divider-background-color;
 }
@@ -61,13 +62,15 @@ div.divider {
 div.cover-image {
     padding-top: 160px;
     background-color: $cover-image-background-color;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.6)),
+    background-image: linear-gradient(to bottom,
+                                      rgba(0, 0, 0, 0.1),
+                                      rgba(0, 0, 0, 0.6)),
                       url("../images/standard_oil.jpg");
-    background-position: 50% 49%;
+    background-position: center, 50% -230px;
 
     .subtitle-container {
         position: relative;
-        width: $paragraph-width;
+        max-width: $paragraph-width;
         margin: auto;
         padding: 4rem 40px;
         text-align: center;
@@ -84,7 +87,7 @@ div.cover-image {
 
 main {
     padding-top: $standard-spacing;
-    padding-bottom: 2 * $standard-spacing;
+    padding-bottom: $standard-spacing;
 
     div.divider {
         margin: auto;
@@ -95,7 +98,8 @@ main {
 
 div.text-container {
     margin: auto;
-    max-width: $paragraph-width;
+    max-width: $paragraph-width + 24px;
+    padding: 0 12px;
 
     p {
         margin: 0;
@@ -105,22 +109,24 @@ div.text-container {
     p:last-of-type {
         margin-bottom: 0;
     }
-
-    &.accompanying {
-        margin-bottom: $graph-height / 2 - 50;
-    }
 }
 
-div.two-column-container {
-    display: flex;
-    justify-content: center;
-    max-width: 1600px;
-    margin: auto;
+@media (min-width: 1200px) {
+    div.two-column-container {
+        display: flex;
+        justify-content: center;
+        max-width: 1600px;
+        margin: auto;
 
-    & > .column {
-        padding: 0 $column-padding;
-        flex-grow: 1;
-        flex-basis: 0;
+        & > .column {
+            padding: 0 $column-padding;
+            flex-grow: 1;
+            flex-basis: 0;
+        }
+    }
+
+    div.text-container.accompanying {
+        margin-bottom: $graph-height / 2;
     }
 }
 

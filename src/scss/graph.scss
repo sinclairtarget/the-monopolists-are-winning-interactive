@@ -2,16 +2,29 @@
 @import 'constants';
 
 .graph-container {
-    margin: auto;
-    width: $graph-width;
-    height: 100%;
+    position: sticky;
+    top: 8rem;
+    margin-bottom: $standard-spacing;
 }
 
 svg {
-    position: sticky;
-    top: calc(50vh - #{$graph-height} / 2 - 2vh);
     background-color: $background-color;
     font-family: 'Roboto Condensed', sans-serif;
+    display: block;
+    margin: auto;
+}
+
+@media (min-width: 1200px) {
+    .graph-container {
+        position: initial;
+        top: initial;
+        margin-bottom: 0;
+    }
+
+    svg {
+        position: sticky;
+        top: calc(50vh - #{$graph-height} / 2);
+    }
 }
 
 svg circle {
