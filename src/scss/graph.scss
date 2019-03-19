@@ -2,6 +2,7 @@
 @import 'constants';
 
 .graph-container {
+    position: -webkit-sticky;
     position: sticky;
     top: 8rem;
     margin-bottom: $standard-spacing;
@@ -24,6 +25,7 @@ svg {
     }
 
     svg {
+        position: -webkit-sticky;
         position: sticky;
         top: calc(50vh - #{$graph-height} / 2);
     }
