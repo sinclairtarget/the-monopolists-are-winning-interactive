@@ -14,7 +14,13 @@ svg {
     font-family: 'Roboto Condensed', sans-serif;
     display: block;
     margin: auto;
-    max-height: $graph-height;
+    max-height: 80vh;
+}
+
+@media (min-height: $graph-height / 0.8) {
+    svg {
+        max-height: $graph-height;
+    }
 }
 
 @media (min-width: 1200px) {
@@ -28,7 +34,7 @@ svg {
     svg {
         position: -webkit-sticky;
         position: sticky;
-        top: calc(50vh - #{$graph-height} / 2);
+        top: 10vh;
     }
 }
 
